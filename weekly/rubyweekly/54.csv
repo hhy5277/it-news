@@ -1,0 +1,33 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+will_paginate v3.0 Released: Rails 3 Support; Sinatra and More,http://mislav.uniqpath.com/2011/08/will_paginate-3.0/
+RubyGems 1.8.7 Released,http://blog.segment7.net/2011/08/04/rubygems-1-8-7
+1 Year of New Relic for 65% Off at AppSumo (for Thursday Only),http://www.appsumo.com/new-relic-promo/?src=rubyinside
+Rails 3.0.10 RC1 Released,http://weblog.rubyonrails.org/2011/8/5/ann-rails-3-0-10-rc1-has-been-released
+Kyiv (Ukraine) Ruby Conference; 5-6 November 2011,http://rubyc.eu/
+Redcarpet 2: Elegant Markdown for a More Civilized Age,http://blog.vmarti.net/2011/08/03/elegant-markdown.html
+Using Ripper to See How Ruby Is Parsing Your Code,http://www.rubyinside.com/using-ripper-to-see-how-ruby-is-parsing-your-code-5270.html
+Taking A Byte Out of Ruby,http://blog.rubychest.net/2011/08/taking-byte-out-of-ruby.html
+Destructuring with Ruby,http://tony.pitluga.com/2011/08/08/destructuring-with-ruby.html
+3 Areas Where MacRuby Shines vs. Objective-C,http://redwoodapp.posterous.com/3-areas-where-macruby-shines-vs-objective-c
+Consuming SOAP Webservices in Ruby,http://refactoringever.com/post/8630421985/consuming-soap-webservices-in-ruby
+Capybara-WebKit: Bringing WebKit to your Integration Tests,http://blog.thefrontiergroup.com.au/2011/08/guest-series-peter-cooper-capybara-webkit-bringing-webkit-to-your-integration-tests/
+Finding Multiple Assignment Bugs in Ruby using Laser,http://carboni.ca/blog/p/Laser-Finding-Multiple-Assignment-Bugs-in-Ruby
+2011 Rubyist's Guide to a Mac OS X Dev Environment,http://robots.thoughtbot.com/post/8700977975/2011-rubyists-guide-to-a-mac-os-x-development
+Ruby Techniques Revealed: Autoload,http://www.rubyinside.com/ruby-techniques-revealed-autoload-1652.html
+Using Java from Ruby with JRuby IRB,http://www.engineyard.com/blog/2011/using-java-from-ruby-with-jruby-irb/
+Understanding the Ruby Object Model,http://skilldrick.co.uk/2011/08/understanding-the-ruby-object-model/
+Loading Plugins with RubyGems,http://avdi.org/devblog/2011/08/10/loading-plugins-with-rubygems/
+Aaron Patterson on Rails 3.1 and Ruby Performance,http://www.infoq.com/interviews/patterson-ruby-performance
+The ChangeLog Interviews Wayne Seguin; The RVM Guy,http://thechangelog.com/post/8487120723/episode-0-6-6-rvm-and-bdsm-with-wayne-seguin
+Nickel: Date; Time and Message Extraction from Natural Text,https://github.com/lzell/nickel
+Amazon Product: Grab Amazon Product Info in Ruby,http://code.papercavalier.com/amazon_product/
+Buffet: A Distributed Testing Framework for Ruby,https://github.com/causes/buffet
+RubyCraft: Minecraft World Editing from Ruby,https://github.com/danielribeiro/RubyCraft
+sequel_rails3: Replace ActiveRecord with Sequel in Rails 3,https://github.com/gucki/sequel_rails3
+Senior JRuby and Rails Engineer [Oakland; California],http://jobs.rubyinside.com/a/jbb/job-details/533688
+Rails Developer at World's 2nd Biggest Rails Site [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/535431
+Senior Rails Developer at Scribd [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/535432
+Bioinformatics Startup Seeks Rails Engineers in The Mission; San Francisco,http://wellnessfx.com/jobs
+Ruby Reloaded 2: My Course for Rubyists Looking to Level Up,http://rubyreloaded.com/
+

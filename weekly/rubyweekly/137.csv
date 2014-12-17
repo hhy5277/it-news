@@ -1,0 +1,39 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 3.2.13; 3.1.12 and 2.3.18 Released: New Security Issues,http://weblog.rubyonrails.org/2013/3/18/SEC-ANN-Rails-3-2-13-3-1-12-and-2-3-18-have-been-released/
+Beware Rails 3.2.13: Performance Regressions and Major Bugs?,http://blog.bugsnag.com/2013/03/20/rails-3-2-13-performance-regressions-major-bugs/
+GitHub experienced a major issue,https://github.com/blog/1440-today-s-email-incident
+how scopes work,https://github.com/rails/rails/issues/9813
+performance issues,https://github.com/rails/rails/issues/9803
+The Ruby on Rails Tutorial for Rails 4.0 (Beta) Available,http://news.railstutorial.org/ruby-on-rails-tutorial-rails-4-beta/
+RubyGems.org Gets a Snazzy New Blog Design,http://blog.rubygems.org/2013/03/18/new-blog-design.html
+How Fast Are Your Tests? Try Tddium's Parallel CI For One Month Free,https://www.tddium.com/
+Sign up,http://www.solanolabs.com
+http://support.tddium.com,http://support.tddium.com
+,https://www.tddium.com/
+Understanding Method Lookup in Ruby 2.0,http://tech.pro/tutorial/1149/understanding-method-lookup-in-ruby-20
+Ruby delegate.rb Secrets,http://www.saturnflyer.com/blog/jim/2013/03/21/ruby-delegate-rb-secrets/
+Happily Upgrading Ruby On Rails At Production Scale,http://webuild.envato.com/blog/upgrading-ruby-on-rails-at-production-scale/
+A Practical Guide to Using Signed Ruby Gems,http://blog.meldium.com/home/2013/3/3/signed-rubygems-part
+a look at a new Bundler feature,http://blog.meldium.com/home/2013/3/3/signed-rubygems-part
+using signed gems on Heroku,http://blog.meldium.com/home/2013/3/6/signed-gems-on-heroku
+signing your own gems.,http://blog.meldium.com/home/2013/3/6/signing-gems-how-to
+Customize Your IRB,http://rakeroutes.com/blog/customize-your-irb/
+Giles Bowkett's 'Unf**k A Monorail For Great Justice',http://gilesbowkett.blogspot.co.uk/2013/03/new-ebook-unfuck-monorail-for-great.html
+The Inadequate Guide to Rails Security,https://www.honeybadger.io/blog/guides/2013/03/09/ruby-security-tutorial-and-rails-security-guide
+Testing Subdomains in Rails with xip.io,http://www.chrisaitchison.com/2013/03/17/testing-subdomains-in-rails/
+Ruby Rogues: Patterns of Enterprise Architecture with Martin Fowler,http://rubyrogues.com/097-rr-book-club-patterns-of-enterprise-architecture-with-martin-fowler/
+PeepCode Now Has an iOS App,https://search.itunes.apple.com/WebObjects/MZContentLink.woa/wa/link?mt=8&path=apps%2fpeepcode
+minitest 4.7.0 Released,http://www.ruby-forum.com/topic/4412128
+refactored into a more easily extended DSL module.,https://github.com/seattlerb/minitest/commit/06b9ce3884919b1bd29306d4cce7e8c55f8b3ff4
+an update,https://github.com/metaskills/minitest-spec-rails/issues/17
+Huginn: Build Agents That Perform Automated Tasks for You Online,https://github.com/cantino/huginn/
+SitePrism: A Page Object Model DSL for Capybara,https://github.com/natritmeyer/site_prism
+ActionCost: Counts SQL Queries Per Controller Action in ActiveRecord,https://github.com/plerohellec/action_cost
+Scorched: An 'Evolutionary Enhancement of Sinatra',http://scorchedrb.com/
+Ruby Developer for Financial Tech Startup (SF Bay Area),http://rubyweekly.com/misc/madrone.html
+Software Engineering /Academic Applications Developer at Dartmouth College [Hanover; New Hampshire],http://jobs.rubyinside.com/a/jbb/job-details/803306
+Software Engineer at Nextpoint [Madison; Wisconsin],http://jobs.rubyinside.com/a/jbb/job-details/805424
+SliceCraft: PSD to Modular Haml; Sass; Compass and CoffeeScript for Rails Apps,http://www.slicecraft.com/
+Check out our track record too.,http://www.slicecraft.com/our-track-record.html
+

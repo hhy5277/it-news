@@ -1,0 +1,12 @@
+title,link
+A Postgres 9.3 Overview [PDF],http://momjian.us/main/writings/pgsql/features.pdf
+Heroku Postgres - Fully managed Postgres on EC2,https://postgres.heroku.com/&utm_campaign=emailbanner
+,https://postgres.heroku.com/&utm_campaign=emailbanner
+The Cost of Reliability,http://evol-monkey.blogspot.com/2013/10/the-cost-of-reliability.html
+identifying corruption,http://www.bitrotincarnate.com/blog/2013/08/27/tuple-flensing-treating-postgres-corruption-part-i/
+Radius Queries in Postgres,http://datachomp.com/archives/radius-queries-in-postgres/
+Hstore Development for 9.4 Release,http://obartunov.livejournal.com/174887.html
+PostgreSQL Views Screencast,http://www.metacasts.tv/casts/postgresql-views
+Database Administrator at Uber (San Francisco; CA),https://www.uber.com/jobs/oXCGXfwW
+Craig Kerstiens,http://craigkerstiens.com/
+

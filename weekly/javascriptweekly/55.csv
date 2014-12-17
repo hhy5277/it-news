@@ -1,0 +1,27 @@
+title,link
+JavaScript Libraries Now Used by 50% of Top 1m Web Sites,http://w3techs.com/technologies/history_overview/javascript_library/all
+Internet Explorer 10 Platform Preview 4 Gets JavaScript Typed Arrays,http://arstechnica.com/microsoft/news/2011/11/internet-explorer-10-platform-preview-4-windows-7-users-need-not-apply.ars
+UtahJS JavaScript Conference 2011: Call for Papers 2011,http://utahjs.com/papers/
+UK jQuery Conference 2012: Training Workshops Announced,http://blog.jquery.com/2011/11/29/jquery-conference-2012-uk-training-workshops-announced/
+Dojo 1.7 Released,http://dojotoolkit.org/blog/dojo-1-7-released
+Efficient JavaScript,http://dev.opera.com/articles/view/efficient-javascript/
+Making CoffeeScript's Whitespace More Significant,https://github.com/raganwald/homoiconic/blob/master/2011/11/sans-titre.md#readme
+The Node.js Aesthetic,http://substack.net/posts/b96642
+Principles of Writing Consistent; Idiomatic JavaScript,https://github.com/rwldrn/idiomatic.js
+Building Interactive Web Apps with SproutCore,http://minified.net/blog/2011/11/building-interactive-web-apps-with-sproutcore/
+JS Libs Deconstructed,http://www.keyframesandcode.com/resources/javascript/deconstructed/
+Mock Testing CouchDB in Node.js with Nock and TAP,http://writings.nunojob.com/2011/12/Mock-Testing-CouchDB-Using-NodeJS-With-Nock-And-TAP.html
+Route9.js: A VP8/WebM Video Decoder,http://badassjs.com/post/13551173773/route9-js-a-vp8-webm-decoder-in-javascript
+Punycode.js: A Robust Punycode Convertor in JS,https://github.com/bestiejs/punycode.js
+Node.js Modules You Should Know About: Dnode,http://www.catonmat.net/blog/nodejs-modules-dnode/
+KeyboardJS: Simple Key and Key Combo Bindings,http://robertwhurst.github.com/KeyboardJS/
+Humane JS: A Framework Independent On-Page Notification System,http://wavded.github.com/humane-js/
+Traffic Cop: Prevents jQuery's $.ajax() Making Simultaneous Requests,http://freshbrewedcode.com/jimcowart/2011/11/25/traffic-cop/
+Breakpoints.js,http://xoxco.com/projects/code/breakpoints/
+Nondeterministic Turing Machine Simulator in 23 Lines of JavaScript,http://swizec.com/blog/nondeterministic-turing-machine-simulator-in-23-lines-of-javascript/swizec/3047
+debug: Tiny Node.js Debugging Utility,https://github.com/visionmedia/debug
+dom.js: A WebIDL-Compliant HTML5 DOM in JavaScript,https://github.com/andreasgal/dom.js
+JSF--k: Encode Arbitrary JavaScript with Only 6 Characters,http://utf-8.jp/public/jsfuck.html
+Variable Scope In JavaScript (A Pro Screencast),http://www.watchmecode.net/javascript-scope
+Vim on Cloud9 IDE,http://cloud9ide.posterous.com/vim-mode-for-advanced-editing-in-cloud9-ide
+

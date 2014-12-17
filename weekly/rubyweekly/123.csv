@@ -1,0 +1,32 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+RubyMotion by Clay Allsopp from The Pragmatic Bookshelf,http://pragprog.com/book/carubym/rubymotion
+,http://pragprog.com/book/carubym/rubymotion
+TorqueBox 2.2.0 Released: The JRuby + JBoss Ruby App Server,http://torquebox.org/news/2012/12/06/torquebox-2-2-0-released/
+Ruby on Ales 2013 is Just 84 Days Away,http://ruby.onales.com/
+Twitter Gem User? Big Changes are Afoot You Need To Know About,https://groups.google.com/d/msg/ruby-twitter-gem/ZsNbABIrxO8/y0ZPvsZw_iMJ
+Custom instrumentation for all your Ruby needs,http://promo.metrics.librato.com/ruby/&utm_content=ruby&utm_campaign=rw_dec
+,http://promo.metrics.librato.com/ruby/&utm_content=ruby&utm_campaign=rw_dec
+A Ruby Design Process,http://brixen.io/2012/12/11/a-ruby-design-process
+Notes from the Ruby Implementers' Meeting of December 10th,http://bugs.ruby-lang.org/projects/ruby/wiki/DevelopersMeeting20121210
+6 Ways to Get More Bang for Your Heroku Buck While Making Your Rails Site Super Snappy,http://www.stormconsultancy.co.uk/blog/development/6-ways-to-get-more-bang-for-your-heroku-buck-while-making-your-rails-site-super-snappy/
+Bootstrap Your Next Project With The HolyGrailHarness,http://technology.customink.com/blog/2012/12/06/bootstrap-your-next-project-with-holygrailharness/
+Testing Rails Engines with RSpec; Capybara; and FactoryGirl,http://viget.com/extend/rails-engine-testing-with-rspec-capybara-and-factorygirl
+Rails to Now Render Default Index Page,https://github.com/rails/rails/pull/8468
+Fun With to_proc and Compositions,http://jhchabran.com/blog/2012/12/09/fun-with-to-proc-and-compositions/
+Ruby on Rails 3.2: Step by Step (Online Book),http://xyzpub.com/en/ruby-on-rails/3.2/
+Faster Rails Partial Rendering and Caching: 78% Improvement on Test Application,http://ninjasandrobots.com/rails-faster-partial-rendering-and-caching
+Importing CSV and Excel - RailsCasts,http://railscasts.com/episodes/396-importing-csv-and-excel
+,http://railscasts.com/episodes/396-importing-csv-and-excel
+Ruby's Symbols Explained,http://www.youtube.com/watch?v=mBXGBbEbXZY
+A Simple Tour of the Ruby MRI Source Code with Pat Shaughnessy,http://www.rubyinside.com/ruby-mri-code-walk-tour-6020.html
+RubyJS: A JavaScript Standard Library Based on the Core Ruby Classes,http://rubyjs.org/
+Now MIT licensed.,http://rubyjs.org/blog/2012/12/rubyjs-now-MIT-licensed/
+Better Errors: A Better Error Page for Rails and Other Rack Apps,https://github.com/charliesome/better_errors
+Mustard: Simple 'must' Expectations for Tests and Specs in Ruby,https://github.com/ryanb/mustard
+JRuby Mahout: Apache Mahout (Machine Learning Library) in Ruby with JRuby,https://github.com/vasinov/jruby_mahout
+Senior Rails Developer at Lightspeed Systems [Austin; Texas],http://jobs.rubyinside.com/a/jbb/job-details/772705
+Software Engineer at Conde Nast [New York City],http://jobs.rubyinside.com/a/jbb/job-details/773477
+Ruby Developer at HouseTrip [London; UK],http://jobs.rubyinside.com/a/jbb/job-details/774342
+Rollback of 'where.like' and 'where.not_like' in Edge Rails,https://github.com/rails/rails/commit/8d02afeaee8993bd0fde69687fdd9bf30921e805
+

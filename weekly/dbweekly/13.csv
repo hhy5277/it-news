@@ -1,0 +1,27 @@
+title,link
+Archives,http://dbweekly.com/issues
+,http://rackspace.com/
+Location-Based Search of Wikipedia Using MongoDB,http://gear11.com/2014/05/location-based-search-of-wikipedia-using-mongodb/
+Database Design with UML and SQL; 3rd Edition,http://www.tomjewett.com/dbdesign/dbdesign.php
+Migrating From Redis To MongoDB – A Real-World Example,http://www.rackspace.com/blog/migrating-from-redis-to-mongodb-a-real-world-example/?cm_mmc=daas-_-mongodb-_-contentnam-_-dbweekly-redistomongodb
+Read more about the decision to migrate here.,http://www.rackspace.com/blog/migrating-from-redis-to-mongodb-a-real-world-example/?cm_mmc=daas-_-mongodb-_-contentnam-_-dbweekly-redistomongodb
+,http://www.rackspace.com/blog/migrating-from-redis-to-mongodb-a-real-world-example/?cm_mmc=daas-_-mongodb-_-contentnam-_-dbweekly-redistomongodb
+What are the Options for Storing Hierarchical Data in a Relational Database?,http://stackoverflow.com/questions/4048151/what-are-the-options-for-storing-hierarchical-data-in-a-relational-database
+Postgres Datatypes – The Ones You're Not Using,http://www.craigkerstiens.com/2014/05/07/Postgres-datatypes-the-ones-youre-not-using
+Ways to Select Random Data with SQL [PDF],http://media.pragprog.com/titles/bksqla/random.pdf
+To NoSQL or not to NoSQL?,http://www.information-age.com/industry/software/123457961/nosql-or-not-nosql
+Rankings with InnoDB Full-Text Search,http://mysqlserverteam.com/rankings-with-innodb-full-text-search/
+Postgres Partitioning Explained,https://github.com/fiksu/partitioned/blob/master/PARTITIONING_EXPLAINED.txt
+4 Lightweight Ways to Tell if a (SQL Server) Database is Being Used,http://www.brentozar.com/archive/2014/05/4-lightweight-ways-tell-database-used/
+Building an Analytics Engine using MongoDB; Go; and Iron.io,http://blog.iron.io/2014/05/building-analytics-engine-using-mongodb.html
+video of a talk,http://vimeo.com/92375131
+Running MongoDB Queries Concurrently With Go,http://blog.mongodb.org/post/80579086742/running-mongodb-queries-concurrently-with-go
+Searching for Strings in SQL Server Databases,https://www.simple-talk.com/sql/t-sql-programming/searching-for-strings-in-sql-server-databases-/
+Slashes and Backslashes in MySQL Queries,http://opensourcedba.wordpress.com/2014/05/05/mysql-slashes-and-backslashes/
+The Good and Ugly of Working with RavenDB: A Panel Discussion (video),https://www.youtube.com/watch?v=BOO8jbBUC4w&
+Announcing New MongoDB Instances on Microsoft Azure,http://blog.mongolab.com/2014/04/announcing-new-mongodb-instances-on-microsoft-azure/
+BackMyDB: A MySQL; MongoDB; Redis; and PostgreSQL Database Backup Service,https://backmydb.com/
+Mongo/Cassandra DBA (San Antonio or Austin; TX),https://uscareers-rackspace.icims.com/jobs/9726/mongo---cassandra-dba/job?cm_mmc=daas-_-mongodb-_-contentnam-_-dbweekly-mongocassandrajob&mobile=false&width=480&height=250&bga=true&needsRedirect=false
+Read more about the role and apply here.,https://uscareers-rackspace.icims.com/jobs/9726/mongo---cassandra-dba/job?cm_mmc=daas-_-mongodb-_-contentnam-_-dbweekly-mongocassandrajob&mobile=false&width=480&height=250&bga=true&needsRedirect=false
+Rackspace,http://rackspace.com/
+

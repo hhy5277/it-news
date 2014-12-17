@@ -1,0 +1,35 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+TDD Is Dead. Long Live Testing.,http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+part 1,http://www.justin.tv/confreaks/b/522089408
+part 2,http://www.justin.tv/confreaks/b/522101045
+The Prag Progs Are Having A Sale on All Ruby and Rails E-Books,http://pragprog.com/categories/ruby_and_rails
+Barcelona Ruby Conference is Back for 2014 (Sep 11-13),http://www.baruco.org/blog/we-are-back-in-2014
+Learn to Code in 12 Weeks - Development Bootcamps starting soon in Boston & NYC.,http://www.thisismetis.com/&utm_campaign=042414
+,http://www.thisismetis.com/&utm_campaign=042414
+How To Build A Ruby Gem With Bundler; Test-Driven Development; Travis CI And Coveralls,http://www.smashingmagazine.com/2014/04/08/how-to-build-a-ruby-gem-with-bundler-test-driven-development-travis-ci-and-coveralls-oh-my-2/
+Extracting Service Objects From Workers,http://blog.carbonfive.com/2014/04/22/extracting-service-objects-workers/
+Setup Ruby On Rails on Ubuntu 14.04 Trusty Tahr,https://gorails.com/setup/ubuntu/14.04
+Writing Your First Background Worker,https://appcasts.io/blog/writing-your-first-background-worker
+Rails Reloader: A Lesser Known Railtie Hook,http://brandonhilkert.com/blog/rails-reloader-a-lesser-known-railtie-hook/
+Don't Just Dump Code Into Your Models,http://blog.sensible.io/2014/04/19/don-t-just-dump-code-into-your-models.html
+Taking Advantage of Bower in Your Rails 4 App,http://dotwell.io/taking-advantage-of-bower-in-your-rails-4-app/
+Drying Your (Rails) Views with DSLs,http://quickleft.com/blog/drying-your-views-with-dsl-s
+Jekyll-Style Blogging On Rails,http://www.homemarks.com/blog/2014-04-19-jekyll-style-blogging-on-rails
+16 Refactoring Techniques,http://www.integralist.co.uk/posts/refactoring-techniques/
+An Interview with David Heinemeier Hansson (DHH) at RailsConf Chicago 2014,https://www.youtube.com/watch?v=Wp_tTfoCXYg
+5 Machine Learning Techniques You Can Use in Ruby Apps,https://www.youtube.com/watch?v=crziu7dk6Vw
+Test Driven Neural Networks with Ruby,https://www.youtube.com/watch?v=mWZ1SPgx80g
+Lead Ruby Engineer at Zendesk (San Francisco),https://gist.github.com/morten/2e080cc819df4dd656ce
+Engineering at Instacart (San Francisco),https://www.instacart.com/jobs#engineering/rubyrails-engineer
+Senior Software Engineers at HouseTrip (London; UK or Remote),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+Rack::Attack: Protect Your App with This One Gem,https://speakerdeck.com/ktheory/rack-attack-protect-your-app-with-this-one-weird-gem
+actual code,https://github.com/kickstarter/rack-attack
+Hologram: Style Documentation Build System,http://trulia.github.io/hologram/
+Ruboto (the JRuby on Android platform) 1.0.3 Released,http://ruboto.org/news/2014/04/17/Ruboto-1.0.3-release-doc.html
+rails-fed-chef: Chef Kitchen for Setting Up Servers for Use with A Rails Stack,https://github.com/federis/rails-fed-chef
+Imgurr: CLI Tool for Imgur in Ruby,http://chris911.github.io/imgurr/
+turboboost: Enhanced AJAX Handling for Rails Apps,https://github.com/waymondo/turboboost
+Searchlight: Build Searches From Options Via Ruby Methods That You Write,https://github.com/nathanl/searchlight
+Is Heroku too expensive for your Ruby apps?,https://shellycloud.com/pricing_comparison?utm_source=Ruby+Weekly&utm_medium=email&utm_campaign=rubyweekly8
+

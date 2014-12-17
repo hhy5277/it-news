@@ -1,0 +1,29 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Practicing Ruby Journal Goes Open Access; 68 Articles Now Available,https://practicingruby.com/
+Facets: Scans Your Gemfile for Security Issues,https://hakiri.io/facets
+RubySec Summary of CVE-2013-6393 aka 'you're probably vulnerable',https://groups.google.com/d/msg/rubysec-announce/3sx25iR7yHQ/gZOBulw_TeYJ
+Just like Heroku but on your own servers,https://www.cloud66.com/&utm_campaign=c1
+,https://www.cloud66.com/&utm_campaign=c1
+Structuring Sinatra Applications,http://blog.sourcing.io/structuring-sinatra
+7 Lines Every Gem's Rakefile Should Have,http://erniemiller.org/2014/02/05/7-lines-every-gems-rakefile-should-have/
+A List of Deprecated Stuff in Ruby 2.1,http://batsov.com/articles/2014/02/05/a-list-of-deprecated-stuff-in-ruby/
+PostgreSQL Awesomeness for Rails Developers,http://www.amberbit.com/blog/2014/2/4/postgresql-awesomeness-for-rails-developers/
+How to Write Good Error Messages,http://bugroll.com/how-to-write-good-error-messages.html
+Token Based Authentication in Rails,http://blog.envylabs.com/post/75521798481/token-based-authentication-in-rails
+The Value of Rails 'Worst Practices',http://dmcca.be/2014/02/02/the-value-of-rails-worst-practices.html
+Using Enumerations to Make a Faster Activity Feed in Rails,http://blog.givegab.com/post/75043413459/using-enumerations-to-make-a-faster-activity-feed-in
+Maintaining A Large Test Suite: A DRY Approach to RSpec,http://devblog.orgsync.com/maintaining-a-large-test-suite-a-dry-approach-to-rspec/
+How To Test a Rails ApplicationController,http://helabs.com.br/blog/2014/01/31/how-do-i-test-an-application_controller-on-a-rails-app/
+Senior Ruby Developer at Machinio.com,http://www.machinio.com/careers/
+Mentor - Ruby on Rails,http://www.thinkful.com/careers/ror-mentor
+Senior Ruby Developer at Econify [Washington; DC],http://econify.com/careers
+Recommundle: Recommendations for Your Bundle,http://recommundle.com/
+Rubinius 2.2.4 Released,https://github.com/rubinius/rubinius/releases/tag/v2.2.4
+Instance: A Slick Object Instance API,https://github.com/rubyworks/instance
+Forceps: Import Models From Remote Databases,http://jorgemanrubia.net/2014/02/04/forceps-import-models-from-remote-databases/
+gst: A Gemset Manager Inspired by gs,https://github.com/tonchis/gst
+Honeybadger.io: Exception; uptime; and performance monitoring - all in one app,https://www.honeybadger.io/blog/2013/10/23/uptime-monitoring-and-performance-metrics-for-rails-are-live
+Try us free,https://www.honeybadger.io/pages/plans
+features,https://www.honeybadger.io/blog/2013/10/23/uptime-monitoring-and-performance-metrics-for-rails-are-live
+

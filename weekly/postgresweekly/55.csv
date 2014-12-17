@@ -1,0 +1,12 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Craig Kerstiens,https://twitter.com/craigkerstiens
+UPSERTisms in Postgres,http://johtopg.blogspot.se/2014/04/upsertisms-in-postgres.html
+Differences between Warm; Hot Standby and Streaming Replication,http://bajis-postgres.blogspot.com/2014/04/difference-between-warm-hot-standby-and.html
+Coming in 9.4: Getting Medians/Quantiles/Percentiles from a Single Query,http://people.planetpostgresql.org/dfetter/index.php?/archives/75-9.4-Quantiles!.html
+Why is this postgres query doing a bitmap heap scan after the index scan?,http://ask.use-the-index-luke.com/questions/148/why-is-this-postgres-query-doing-a-bitmap-heap-scan-after-the-index-scan?page=1
+Broadcasting PostgreSQL NOTIFY messages to Websocket Clients,http://blog.databasepatterns.com/2014/04/postgresql-nofify-websocket-spring-mvc.html
+PostgreSQL Tour De Force (for .NET Developers),https://www.youtube.com/watch?v=SQYKhaQrwska
+NoSQL No More,http://technosophos.com/2014/04/11/nosql-no-more.html
+Craig Kerstiens,http://craigkerstiens.com/
+

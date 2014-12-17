@@ -1,0 +1,32 @@
+title,link
+Rails 4.2.0 Beta 1 Released with Lots of New Features to Try Out,http://weblog.rubyonrails.org/2014/8/20/Rails-4-2-beta1/
+Introducing An Incremental GC Algorithm to MRI 2.2,https://bugs.ruby-lang.org/issues/10137
+A Change of Maintainer and Status for Rack,https://groups.google.com/d/msg/rack-devel/P8oOycVBaH0/1bm4eERJWPQJ
+An easier way to deploy & host your Rails app – for free.,https://ninefold.com/
+,https://ninefold.com/
+Ruby 1.9.2-p330 Released: A Final Critical Security Release,https://www.ruby-lang.org/en/news/2014/08/19/ruby-1.9.2-p330-released/
+I Spent 3 Days With Sandi Metz – Here’s What I Learned,http://red-badger.com/blog/2014/08/20/i-spent-3-days-with-sandi-metz-heres-what-i-learned/
+Senior Rails Developer at Nexia Home Intelligence (Broomfield; CO),http://careers.ingersollrand.com/jobs/ruby-on-rails-software-developer-broomfield-colorado-job-4637946
+Don't apply to one company. Apply to 1;000+ at once.,http://hired.com/?utm_source=newsletters&utm_medium=rubyweekly&utm_campaign=n-aug1_14-rubyw
+QA Automation Engineer at VerticalResponse (San Francisco; CA),http://ruby.jobamatic.com/a/jbb/job-details/998606
+1st Release Candidates of Rails 4.1.6 and 4.0.10 Released,http://weblog.rubyonrails.org/2014/8/19/Rails-4-1-6-rc1-and-4-0-10-rc1-has-been-released/
+Rails 4.0.9 and 4.1.5 Released,http://weblog.rubyonrails.org/2014/8/18/Rails_4_0_9_and_4_1_5_have_been_released/
+CVE-2014-3514,https://groups.google.com/d/msg/rubyonrails-security/M4chq5Sb540/CC1Fh0Y_NWwJ
+Burlington Ruby Conference Panel on 'The Future of Ruby',http://vimeo.com/103590400
+A Gentle Introduction to Music Theory (in Ruby),https://www.skillsmatter.com/skillscasts/5511-a-gentle-introduction-to-music-theory-in-ruby
+Use Active Record's '.pluck' If You Only Need a Subset of Model Attributes,http://viget.com/extend/pluck-subset-rails-activerecord-model-attributes
+Building A Robust JSON API Client with Ruby,http://www.binpress.com/tutorial/ruby-tutorial-building-a-robust-json-api-client/140
+Writing A Ruby Gem with C Extension,http://chris911.github.io/blog/2014/08/10/writing-a-ruby-gem-with-c-extension/
+Write a Vim Plugin with (RSpec-backed) TDD,http://robots.thoughtbot.com/write-a-vim-plugin-with-tdd
+Customize Minitest Assertions and Expectations,http://chriskottom.com/blog/2014/08/customize-minitest-assertions-and-expectations/
+Hidden Features of Ruby You May Not Know About,http://blog.arkency.com/2014/07/hidden-features-of-ruby-you-may-dont-know-about/
+Useful Factory Girl Methods,http://cookieshq.co.uk/posts/useful-factory-girl-methods/
+Concurrency Patterns in RubyMotion,http://blog.arkency.com/2014/08/concurrent-patterns-in-rubymotion/
+The Ruby Rogues Discuss Version Managers,http://rubyrogues.com/169-rr-version-managers-with-michal-papis-mislav-maronic-and-postmodern-mod-iii/
+Better Doc Browsing for Ruby Developers: Omniref Plugins for Chrome and Firefox,http://www.omniref.com/blog/blog/2014/08/15/browser-plugins-for-chrome-and-firefox/
+An API Wrapper for OpenCPU,https://github.com/roqua/opencpu
+Vedeu: A Terminal/Console Based 'GUI' Framework,https://github.com/gavinlaking/vedeu
+Yeah: Practical Ruby Video Game Framework,https://github.com/yeahrb/yeah/#readme
+flatten_record: An ActiveRecord Plugin That Denormalizes Your Existing ActiveRecord Models,https://github.com/alvinsj/flatten_record
+Monitor unlimited Rails apps and hosts with AppSignal,https://appsignal.com/rubyweekly
+

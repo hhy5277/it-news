@@ -1,0 +1,31 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+MRI Ruby 1.8.7 to Receive No More Fixes From the End of June 2013,http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-dev/47201
+Jeff Atwood on 'Why Ruby?',http://www.codinghorror.com/blog/2013/03/why-ruby.html
+JRuby 1.7.3 Released: Primarily to Address Two Security Issues,http://jruby.org/2013/02/21/jruby-1-7-3.html
+Are you confident your backups are running?,https://deadmanssnitch.com/
+,https://deadmanssnitch.com/
+Rails' Insecure Defaults: 13 Security Gotchas You Should Know About,http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/
+A Closure Is Not Always A Closure In Ruby,http://www.skorks.com/2013/03/a-closure-is-not-always-a-closure-in-ruby/
+Brian Shirai On Rubinius 2.0; The GIL; and Thread-safe Ruby Code,http://www.jstorimer.com/2013/03/26/brian-shirai-threads.html
+The Repository Pattern,http://blog.8thlight.com/mike-ebert/2013/03/23/the-repository-pattern.html
+Using `git bisect` to Troubleshoot Ruby Gems,http://mojolingo.com/blog/2013/using-git-bisect-to-troubleshoot-ruby-gems/
+How to Add Watermarks to Your Photos with the DragonFly Gem and ImageMagick,http://www.tablexi.com/blog/2013/03/how-to-add-watermarks-to-your-photos/developers/
+Autoupdating Full Text Search in Ruby,http://1fifty9.com/post/42878706283/auto-updating-full-text-search-with-postgres
+ruby -p -i -e,http://dougireton.com/blog/2013/03/24/ruby-p-i-e/
+Pitfalls of Ruby Mixins,http://definingterms.com/2013/03/23/pitfalls-of-ruby-mixins/
+Profiling JIT-ted Ruby code with OProfile,http://rubini.us/2013/03/20/profiling-jitted-ruby-code-with-oprofile/
+Dashing: A Sinatra-based Dashboard Framework,http://shopify.github.com/dashing/
+here.,http://dashingdemo.herokuapp.com/sample
+Padrino 0.11.0 Released,http://www.padrinorb.com/blog/padrino-0-11-0-released-padrino-lives
+Kickscraper: An API Library for Kickstarter.com,https://github.com/markolson/kickscraper#readme
+Sinatra 1.4.2 Released: A Bug Fix Release,https://groups.google.com/forum/#!msg/sinatrarb/VFD3Fm-OeLM/3Eh_cqvHaskJ
+terminal-codelearn: A Multi-user 'bash' Terminal Web App,https://github.com/pocha/terminal-codelearn
+MiniGit: A Simple Ruby Interface to The Git Command,http://3ofcoins.net/2013/03/27/minigit-a-simple-ruby-interface-to-the-git-command/
+Ruby on Rails Engineer at The Beans Group (London; UK),http://goo.gl/wqNug
+Dev Ops / AWS Engineer at KnowledgeTree (Raleigh; NC),http://knowledgetree.theresumator.com/apply/gfVZrr/Dev-Ops-AWS-Engineer.htmlhttp://knowledgetree.theresumator.com/apply/gfVZrr/Dev-Ops-AWS-Engineer.html?source=rubyweekly
+Ruby Developer for Financial Tech Startup (SF Bay Area),http://rubyweekly.com/misc/madrone.html
+12 other Ruby and Rails jobs from our job board,http://jobs.rubyinside.com/a/jbb/find-jobs
+BundleScout: E-mail Notifications of Library Updates,https://bundlescout.com/&utm_campaign=mar2013
+import,http://bundlescout.tumblr.com/post/44181598148/introducing-requirement-import
+

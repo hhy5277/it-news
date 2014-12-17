@@ -1,0 +1,13 @@
+title,link
+Archives,http://postgresweekly.com/issues
+A Look at Postgres' Window Functions,http://robots.thoughtbot.com/postgres-window-functions
+A Large Database Does Not Mean Large shared_buffers,http://www.keithf4.com/a-large-database-does-not-mean-large-shared_buffers/
+pg_sysdatetime: A Cross-Platform PostgreSQL Extension,http://blog.2ndquadrant.com/pg_sysdatetime_windows_xplatform_postgresql_extension/
+Comprehensive Administration with Bruce Momjian,http://www.enterprisedb.com/store/products/dba-training/01t50000002jwhqAAA?utm_source=CP&utm_medium=NL&utm_campaign=3ComboBM
+,http://www.enterprisedb.com/store/products/dba-training/01t50000002jwhqAAA?utm_source=CP&utm_medium=NL&utm_campaign=3ComboBM
+Postgresql HStore; JSON Data-Type and Arrays with Peewee ORM,http://charlesleifer.com/blog/postgresql-hstore-json-data-type-and-arrays-with-peewee-orm/
+Beyond Random() — Normal Distributions in SQL,https://periscope.io/blog/beyond-random-normal-distributions-in-sql.html
+PostgresSQL JSON Add Delete Functions,http://chawlasumit.wordpress.com/2014/09/14/postgressql-json-add-delete-operation-functions/
+Accelerating Local Search with PostgreSQL (KNN-Search),http://www.slideshare.net/jkatz05/knn-39127023
+Craig Kerstiens,http://craigkerstiens.com/
+

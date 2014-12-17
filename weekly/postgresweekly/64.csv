@@ -1,0 +1,12 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Craig Kerstiens,https://twitter.com/craigkerstiens
+You (probably) don't need NoSQL (with Postgres),http://www.slideshare.net/EnterpriseDB/postgresadvancesno-sqlmay2014
+PostgreSQL Performance on Docker,http://www.davidmkerr.com/2014/06/postgresql-performance-on-docker.html
+Postgres 9.5 feature highlight: WHERE clause pushdown in subqueries with window functions,http://michael.otacoo.com/postgresql-2/postgres-9-5-feature-highlight-where-pushdown-with-window-function/
+Postgis; PostgreSQL's spatial partner Part 3,http://shisaa.jp/postset/postgis-postgresqls-spatial-partner-part-3.html
+[CVE-2014-3482 and -3483] Two ActiveRecord SQL Injection Vulnerabilities Affecting PostgreSQL,https://groups.google.com/forum/#!topic/rubyonrails-security/wDxePLJGZdI
+New versions of Rails,http://weblog.rubyonrails.org/2014/7/2/Rails_4_0_8_and_4_1_4_have_been_released/
+Store an array in PostgreSQL hstore in Rails4,http://blog.brzezinka.eu/rails4/store-an-array-in-postgresql-hstore-in-rails4
+Craig Kerstiens,http://craigkerstiens.com/
+

@@ -1,0 +1,15 @@
+title,link
+Craig Kerstiens,https://twitter.com/craigkerstiens
+How to Build A Simple REST API Using Only Nginx and PostgreSQL,http://rny.io/nginx/postgresql/2013/07/26/simple-api-with-nginx-and-postgresql.html
+Heroku Postgres - Fully managed Postgres on EC2,https://postgres.heroku.com/&utm_campaign=emailbanner
+,https://postgres.heroku.com/&utm_campaign=emailbanner
+Merging JSONs in PostgreSQL,http://blog.endpoint.com/2013/07/merging-jsons-in-postgresql.html
+JavaScript support in Postgres,https://postgres.heroku.com/blog/past/2013/6/5/javascript_in_your_postgres/
+Simple CSV Dumps from your Postgres Database,http://www.openscg.com/2013/07/simple-csv-dumps-from-your-postgres-database/
+wal-e: A S3 based WAL-shipping disaster recovery and standby toolkit,https://github.com/wal-e/wal-e
+upcoming release,http://permalink.gmane.org/gmane.comp.db.postgresql.wal-e/51
+Waiting for 9.4 – Add SQL Standard WITH ORDINALITY support for UNNEST,http://www.depesz.com/2013/07/30/waiting-for-9-4-add-sql-standard-with-ordinality-support-for-unnest-and-any-other-srf/
+Documenting your PostgreSQL database,http://www.craigkerstiens.com/2013/07/29/documenting-your-postgres-database/
+How to Create Postgres Indexes Concurrently in ActiveRecord Migrations,http://robots.thoughtbot.com/post/56828751507/how-to-create-postgres-indexes-concurrently-in
+Craig Kerstiens,http://craigkerstiens.com/
+

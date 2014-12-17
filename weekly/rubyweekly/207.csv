@@ -1,0 +1,36 @@
+title,link
+Read this e-mail on the Web,http://rubyweekly.com/issues/207
+Rails' Degenerate Front-End Support,http://www.naildrivin5.com/blog/2014/08/07/rails-degenerate-front-end-support.html?utm_source=rubyweekly&utm_medium=email
+The Ruby Web Benchmark Report,http://www.madebymarket.com/blog/dev/ruby-web-benchmark-report.html?utm_source=rubyweekly&utm_medium=email
+Build your own Heroku,https://www.cloud66.com/?utm_source=rubyweekly&utm_medium=email
+,https://www.cloud66.com/?utm_source=rubyweekly&utm_medium=email
+A Deep Dive into the Ruby Object Model (video),https://www.youtube.com/watch?v=by5fFOBhtPQ
+What's The Most Popular Ruby (Standard) Library?,http://omniref.com/blog/blog/2014/07/23/whats-the-most-used-ruby-library/?utm_source=rubyweekly&utm_medium=email
+Add OAuth to a Rails App Using Sorcery,http://www.gotealeaf.com/blog/adding-oauth-login-via-github-to-an-existing-app-using-the-sorcery-gem/?utm_source=rubyweekly&utm_medium=email
+A New Edition of the Ruby Cookbook,http://shop.oreilly.com/product/0636920032236.do?utm_source=rubyweekly&utm_medium=email
+Senior Ruby Developer at Econify [Washington; DC & Northern VA],http://www.econify.com/careers?utm_source=rubyweekly&utm_medium=email
+Ruby (-on Rails) Developer At Keplar Agency (Amsterdam; NL),http://keplaragency.com/jobs/ruby_developer?utm_source=rubyweekly&utm_medium=email
+JetBrains is running an interesting Ruby contest,http://www.jetbrains.com/ruby/contest/challenge.jsp?utm_source=rubyweekly&utm_medium=email
+Book: Growing Rails Applications in Practice,http://pragprog.com/book/d-kegrap/growing-rails-applications-in-practice?utm_source=rubyweekly&utm_medium=email
+How to Wire Up Ruby on Rails and AngularJS as a Single-Page Application,http://www.angularonrails.com/ruby-on-rails-angularjs-single-page-application/?utm_source=rubyweekly&utm_medium=email
+Using Ruby's Ranges with Custom Classes,http://blog.arkency.com/2014/08/using-ruby-range-with-custom-classes/?utm_source=rubyweekly&utm_medium=email
+How to Add Voting to Rails App with acts_as_votable,https://masteruby.github.io/weekly-rails/2014/08/05/how-to-add-voting-to-rails-app.html?utm_source=rubyweekly&utm_medium=email
+Using Postgres' Hstore datatype in Rails,https://alybadawy.com/post/using-postgres-hstore-datatype-with-ruby-on-rails?utm_source=rubyweekly&utm_medium=email
+Implementing a Fast Autocomplete Search System with Rails and Redis,http://josephndungu.com/tutorials/fast-autocomplete-search-terms-rails?utm_source=rubyweekly&utm_medium=email
+Starting with Graph Databases using Neo4j and Rails,http://helabs.com.br/blog/2014/07/25/starting-with-graph-databases-using-neo4j-and-rails/?utm_source=rubyweekly&utm_medium=email
+Couchbase Lite on the Raspberry Pi with JRuby tutorial,http://sideshowcoder.com/post/88962028824/couchbase-lite-on-the-raspberry-pi-using-jruby?utm_source=rubyweekly&utm_medium=email
+Quick Tips for Doing IO with Ruby,http://mauricio.github.io/2014/08/03/quick-tips-for-doing-io-with-ruby.html?utm_source=rubyweekly&utm_medium=email
+Reconstructing Ruby: An Introduction,http://www.halogenandtoast.com/reconstructing-ruby-an-introduction/?utm_source=rubyweekly&utm_medium=email
+Part 1,http://www.halogenandtoast.com/reconstructing-ruby-our-first-lexer/
+8 Great Ruby Interview Questions and Answers,http://www.toptal.com/ruby/interview-questions#.?utm_source=rubyweekly&utm_medium=email
+Securing The Sinatra Micro-Framework,http://blog.fil.vasilak.is/blog/2014/02/08/securing-sinatra-micro-framework/?utm_source=rubyweekly&utm_medium=email
+stripe-cli: A Ruby-based Command Line Interface to Stripe,https://github.com/stripe-contrib/stripe-cli?utm_source=rubyweekly&utm_medium=email
+Introducing ScheduledJob: An Open Source Scheduler That Builds On Top of DelayedJob,http://eng.rightscale.com/2014/07/17/introducing-scheduled-job.html?utm_source=rubyweekly&utm_medium=email
+rails-nginx-unicorn: A Rails(+ Nginx; Unicorn) Dockerfile,https://github.com/seapy/dockerfiles/tree/master/rails-nginx-unicorn?utm_source=rubyweekly&utm_medium=email
+demonstration screencast.,https://www.youtube.com/watch?v=QgmzBuPuM6I&feature=youtu.be
+Coverband: Rack Middleware to Help Measure Production Code Coverage,https://github.com/danmayer/coverband?utm_source=rubyweekly&utm_medium=email
+FastAPI: Easy Standardized API Endpoints in Rails using Fast Database Queries,https://github.com/thestorefront/FastAPI?utm_source=rubyweekly&utm_medium=email
+Roda: A Small Ruby Web Framework based on Routing Trees,http://roda.jeremyevans.net/why.html?utm_source=rubyweekly&utm_medium=email
+Fix bugs in production before your boss even notices.,https://www.honeybadger.io/?utm_source=rubyweekly&utm_medium=email
+Try exception; uptime and performance monitoring for free.,https://www.honeybadger.io/pages/plans
+

@@ -1,0 +1,37 @@
+title,link
+Issue Archive,http://javascriptweekly.com/issues
+Peter Cooper,http://twitter.com/peterc/
+Data-Binding Revolutions with Object.observe(),http://www.html5rocks.com/en/tutorials/es7/observe/
+24 Talk Videos from EmpireJS,http://2014.empirejs.org/#/videos
+sorting algorithms,https://www.youtube.com/watch?v=uRyqlhjXYQI
+robots,https://www.youtube.com/watch?v=0-6_iA1zZDk
+image analysis on art,https://www.youtube.com/watch?v=_JrJdD2Ssnk
+Web Components.,https://www.youtube.com/watch?v=yLyyXHhSl8w
+Flo: A New Live Coding Tool for Chrome by Facebook,http://facebook.github.io/fb-flo/
+Announcing JS Error Reporting and AJAX Timing in New Relic,http://blog.newrelic.com/2014/03/13/javascript-error-reporting-ajax-timing-new-relic/?utm_source=COOP&utm_medium=email&utm_content=BlogNRBrowserAnnounce&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-HTML5Weekly-BlogNRBrowserAnnounce
+,http://blog.newrelic.com/2014/03/13/javascript-error-reporting-ajax-timing-new-relic/?utm_source=COOP&utm_medium=email&utm_content=BlogNRBrowserAnnounce&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-HTML5Weekly-BlogNRBrowserAnnounce
+The Curious Case of JavaScript NaN,http://ariya.ofilabs.com/2014/05/the-curious-case-of-javascript-nan.html
+Script-injected "async scripts" Considered Harmful,https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/
+A Guide to JavaScript Memory Profiling with Google Chrome,https://developer.chrome.com/devtools/docs/javascript-memory-profiling
+Frame-by-Frame Animation with HTML and JavaScript,http://flippinawesome.org/2014/05/20/frame-by-frame-animation-with-html-and-javascript/
+Using Media Queries in JavaScript with AbsurdJS,http://tech.pro/tutorial/1919/using-media-queries-in-javascript-absurdjs-edition
+Convention Based Routing In JavaScript Apps,http://flippinawesome.org/2014/05/19/convention-based-routing-in-javascript-apps/
+Web Animations - element.animate() Is Now in Chrome 36,http://updates.html5rocks.com/2014/05/Web-Animations---element-animate-is-now-in-Chrome-36
+Flux in Practice: A Guide to Building UIs with React,https://medium.com/@garychambers108/ec08daa9041a
+Communicating Large Objects with Web Workers in JavaScript,http://developerblog.redhat.com/2014/05/20/communicating-large-objects-with-web-workers-in-javascript/
+Creating Asynchronous Alerts; Prompts; And Confirms In AngularJS,http://www.bennadel.com/blog/2632-creating-asynchronous-alerts-prompts-and-confirms-in-angularjs.htm%0A
+Fixture Adapters - Ember.js With No Server,http://www.sitepoint.com/fixture-adapters-ember-js-server/
+Lesser Known Debugging Techniques,https://www.youtube.com/watch?v=rcjUR4icvoQ
+JavaScript Jabber Discusses AngularJS with Igor Minar,http://javascriptjabber.com/108-jsj-angularjs-with-igor-minar/
+Easing into ECMAScript 6 and Beyond,https://www.youtube.com/watch?v=kXY9hIPKuLQ
+Developer Evangelist,http://www.jobscore.com/jobs2/orchestrate/developer-advocate/amdoBGGxmr441oeJe9fLhG
+Frontend Developer at Kyto (Berlin; Germany),https://kyto.softgarden-cloud.com/job/103855/Frontend-Developer-%28m-f%29?jobDbPVId=457364
+JavaScript Developer,https://workingatbooking.com/vacancies/front-end-developer/
+Google Open Sources 'JsAction'; A JavaScript Event Delegation Library,https://github.com/google/jsaction
+forms-angular: Form Generation Framework On Top of MEAN and Bootstrap,http://www.forms-angular.org/
+Mithril: Another Client-side MVC Framework,http://lhorie.github.io/mithril/
+EchoJS: An Ahead of Time Compiler and Runtime for ECMAScript,https://github.com/toshok/echo-js
+Fluxxor: Tools to Build JS Data Layers with the Flux Architecture,http://fluxxor.com/
+24% of devs don’t use database source control – make sure you aren’t one of them,http://www.red-gate.com/products/sql-development/sql-source-control/?utm_source=javascriptweekly&utm_medium=displayemail&utm_content=24_percent&utm_campaign=sqlsourcecontrol&utm_term=email-22417
+Try SQL Source Control free.,http://www.red-gate.com/products/sql-development/sql-source-control/?utm_source=javascriptweekly&utm_medium=displayemail&utm_content=24_percent&utm_campaign=sqlsourcecontrol&utm_term=email-22417
+

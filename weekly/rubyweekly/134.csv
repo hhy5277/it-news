@@ -1,0 +1,40 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Ruby 2.0.0-p0 Released on Ruby's 20th Anniversary,http://www.ruby-lang.org/en/news/2013/02/24/ruby-2-0-0-p0-is-released/
+via Bitnami's Ruby Stack,http://blog.bitnami.org/2013/02/the-easiest-way-to-test-ruby-20.html
+RubyInstaller,http://rubyinstaller.org/downloads
+Rails 4.0 Beta 1 Released,http://weblog.rubyonrails.org/2013/2/25/Rails-4-0-beta1/
+Ruby 1.9.3-p392 Released,http://www.ruby-lang.org/en/news/2013/02/22/ruby-1-9-3-p392-is-released/
+JRuby 1.7.3 Released: Primarily Addresses 2 Security Issues,http://jruby.org/2013/02/21/jruby-1-7-3
+Bitnami's JRuby stack,http://blog.bitnami.org/2013/02/jruby-173-released-on-bitnami-fixes.html
+New Relic is Built on Autonomous Teams,http://blog.newrelic.com/2013/02/26/autonomous-teams-what-they-are-and-why-you-should-care/?utm_source=COOP&utm_medium=email&utm_content=autonomyteams&utm_campaign=rubyweekly&mpc=EM-COOP-RPM-en-100-rubyweekly-autonomy-2-28-13
+,http://blog.newrelic.com/2013/02/26/autonomous-teams-what-they-are-and-why-you-should-care/?utm_source=COOP&utm_medium=email&utm_content=autonomyteams&utm_campaign=rubyweekly&mpc=EM-COOP-RPM-en-100-rubyweekly-autonomy-2-28-13
+The Pragmatic Bookshelf Releases Programming Ruby 4th Edition for 2.0,http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0
+,http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0
+MetaCasts: A Look at Ruby 2.0.0 (in a 12 Minute Video),http://www.metacasts.tv/casts/ruby-2-0-0-rc2
+What's New in Ruby 2.0,https://speakerdeck.com/shyouhei/whats-new-in-ruby-2-dot-0
+Ruby 2.0 by Example,http://benhoskin.gs/2013/02/24/ruby-2-0-by-example
+'Installing Rails' Guide Updated for Rails 4.0 and Ruby 2.0,http://railsapps.github.com/installing-rails.html
+The Official Maintenance Policy for Ruby on Rails,http://weblog.rubyonrails.org/2013/2/24/maintenance-policy-for-ruby-on-rails/
+The Pragmatic Bookshelf Updates 'Agile Web Development with Rails' for Rails 4.0,http://pragprog.com/book/rails4/agile-web-development-with-rails
+Python for Ruby Programmers,https://speakerdeck.com/mleone/python-for-ruby-programmers
+Setting ActiveRecord's Connection Pool Size on Heroku with Puma and Sidekiq,http://watsi.github.com/2013/02/16/activerecord-connection-pool-on-heroku-with-puma-and-sidekiq.html
+Introducing Mutations: Putting SOA on Rails for Security and Maintainability,https://developer.uservoice.com/blog/2013/02/27/introducing-mutations-putting-soa-on-rails-for-security-and-maintainability/
+Ruby Core Classes Aren't Thread Safe,http://www.jstorimer.com/newsletter/ruby-core-classes-arent-thread-safe.html
+Rails 3.2.13 RC1 Released: Rails 3.2 Gets Ruby 2.0 Support,http://weblog.rubyonrails.org/2013/2/27/Rails-3-2-13-rc1-has-been-released/
+RubyGems 2.0.0 and Bundler 1.3.0 Released,http://blog.rubygems.org/2013/02/24/2.0.0-released.html
+RSpec 2.13 Released,http://myronmars.to/n/dev-blog/2013/02/rspec-2-13-is-released
+Phusion Passenger 4.0 Release Candidate 2,http://blog.phusion.nl/2013/02/27/phusion-passenger-4-0-release-candidate-2/
+Tilt 1.3.4 Released: The Generic API to Multiple Ruby Template Engines,https://github.com/rtomayko/tilt/
+num_threads: Simply Run A Block of Ruby Code in Multiple Threads,https://github.com/jstorimer/num_threads
+Rouge: A Pure Ruby Code Highlighter with Pygments-Compatible HTML,https://github.com/jayferd/rouge
+singleton_process: Ensures That A Given Process Is Only Running Once,https://github.com/rjackson/singleton_process
+sublime-text-2-ruby-tests: Sublime Text 2 Plugin for Running Ruby Tests,https://github.com/maltize/sublime-text-2-ruby-tests
+Web Application Developer for Big Nerd Ranch,http://bignerdranch.theresumator.com/apply/PPxl0c/Web-Application-Developer.html?source=RubyWeekly
+Full-stack Web App Engineer for fast-growing SaaS company,https://gist.github.com/lylo/aa7d782ca200a954e462
+,https://gist.github.com/lylo/aa7d782ca200a954e462
+Ruby Developer at HouseTrip Ltd [London; United Kingdom],http://jobs.rubyinside.com/a/jbb/job-details/783359
+LAMP Developer at Geomagic; Inc. [Morrisville; North Carolina],http://jobs.rubyinside.com/a/jbb/job-details/783599
+Artoo: A Micro-Framework for Robotics,http://artoo.io/
+Here's a video of Artoo in action.,http://www.youtube.com/watch?v=GqHqRSTIqQI
+

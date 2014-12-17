@@ -1,0 +1,34 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+In Browser Path Matching with JavaScript Makes It Into Rails 4.0,https://github.com/rails/rails/pull/9001
+,https://github.com/rails/rails/pull/9001
+Jump Start Sinatra: Up To Speed With Sinatra in a Weekend,http://www.sitepoint.com/books/sinatra1/
+GORUCO 2013: Call for Proposals (New York City; June 8),http://goruco.wufoo.com/forms/goruco-2013-call-for-proposals/
+Open Source Rails: A Catalog of Open Source Rails Applications,http://www.opensourcerails.com/
+Do you hate editing i18n yaml files?,http://www.localeapp.com/
+,http://www.localeapp.com/
+Tricks for Working With Text and Files in Ruby,https://practicingruby.com/articles/shared/zmkztdzucsgv
+An Introduction to Mutation Testing with Mutant,http://solnic.eu/2013/01/23/mutation-testing-with-mutant.html
+Phusion Passenger 4 Technology Preview: Out-Of-Band Work,http://blog.phusion.nl/2013/01/22/phusion-passenger-4-technology-preview-out-of-band-work/
+The new Rack (1.5.0) Socket Hijacking API,http://blog.phusion.nl/2013/01/23/the-new-rack-socket-hijacking-api/
+Singletons; Threads; and Flexibility,http://www.bleonard.com/blog/2013/01/18/singletons/
+Ruby MRI Source Code Idioms #1: Accessing Data Via Macros,http://patshaughnessy.net/2013/1/23/ruby-mri-source-code-idioms-1-accessing-data-via-macros
+Using GIFs in your GitHub Pull Requests (for Good; not Evil),http://schneems.com/post/41104255619/use-gifs-in-your-pull-request-for-good-not-evil
+Keeping Domain Models Cohesive with Collaborators,http://blog.carbonfive.com/2013/01/21/keeping-domain-models-cohesive-with-collaborators/
+Rolling With Sinatra,http://rubysource.com/rolling-with-sinatra/
+Deploying a Rails app on Nginx/Puma with Capistrano,http://tommy.chheng.com/2013/01/23/deploying-a-rails-app-on-nginxpuma-with-capistrano/
+Building Rich Domain Models in Rails: Separating Persistence,http://victorsavkin.com/post/41016739721/building-rich-domain-models-in-rails-separating
+Slodown: The Ultimate User Input Rendering Pipeline,https://github.com/hmans/slodown
+Rack 1.5.0 Released,https://groups.google.com/forum/#!msg/rack-devel/MDKy9M6ApmA/XE6YrJk3XTQJ?
+minitest-spec-rails: Make Rails 3 or 4 use MiniTest::Spec,https://github.com/metaskills/minitest-spec-rails#readme
+KidsRuby Robot Edition: New Release With Sphero Robot; Ubuntu; and Raspberry Pi Support,http://kidsruby.com/download
+Stretcher: Fast; Elegant; ElasticSearch Client Library,https://github.com/PoseBiz/stretcher
+SecureHeaders: Applies Several Security HTTP Headers to Your Rails App,https://github.com/twitter/secureheaders
+rspec-given: Given/When/Then Keywords for RSpec Specifications,https://github.com/jimweirich/rspec-given
+AngularJS Scaffold: Rails Scaffolding using AngularJS + Twitter Bootstrap,http://blog.ricodigo.com/blog/2013/01/21/new-release-of-angularjs-scaffold/
+Lead Backend Engineer (Rails) at PlayQ (Philadelphia; PA or Remote OK),http://jobs.rubyinside.com/a/jbb/job-details/782098
+Ruby Developer at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oqRWWfwT&s=Ruby_weekly
+Full Stack Web Application Developer at Zoodles (Mountain View; CA),http://www.zoodles.com/home/careers?#web_app_dev
+Postgres Weekly: A New Weekly Newsletter; Coming Soon,http://postgresweekly.com/
+,http://postgresweekly.com/
+

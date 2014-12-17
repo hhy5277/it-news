@@ -1,0 +1,34 @@
+title,link
+Ruby 2.1.3 Released,https://www.ruby-lang.org/en/news/2014/09/19/ruby-2-1-3-is-released/
+garbage collection tweak,https://bugs.ruby-lang.org/issues/9607
+Sonic Pi: A Live Coding; Ruby-based Sound Synthesizer,http://sonic-pi.net/
+20;000 Leagues Under ActiveRecord,http://patshaughnessy.net/2014/9/17/20000-leagues-under-activerecord
+Semaphore CI is now free for open source,https://semaphoreapp.com/
+GitLab,https://semaphoreapp.com/gitlabhq/gitlabhq
+,https://semaphoreapp.com/
+How I Deploy A Rails App using Docker,https://intercityup.com/blog/deploy-rails-app-including-database-configuration-env-vars-assets-using-docker/
+Writing Fast Ruby,https://speakerdeck.com/sferik/writing-fast-ruby
+Don’t Daemonize your Daemons,http://www.mikeperham.com/2014/09/22/dont-daemonize-your-daemons/
+The Raw Experience of Setting Up RubyMotion for Android,https://motioninmotion.tv/screencasts/45
+Software Developer at Atomic Object (Ann Arbor; MI),http://atomicobject.com/pages/Jobs
+Security Startup Looking for a Senior Rails Developer,http://threatsim.com/careers/
+Apply Once & Get 5-15 Ruby Job Offers in SF; NYC; LA; & SEA,https://hired.com/?utm_source=newsletters&utm_medium=rubyweekly&utm_campaign=sept2_14-rubyw
+Ruby 2.0.0-p576 Released,https://www.ruby-lang.org/en/news/2014/09/19/ruby-2-0-0-p576-is-released/
+Ruby Wizardry: An Introduction to Programming for Kids,http://www.nostarch.com/rubywizardry
+RubyTapas Celebrates Two years of Screencasts (with a free episode),http://devblog.avdi.org/2014/09/24/two-years-of-rubytapas/
+Interesting Rails 4.2 Changes,https://www.reinteractive.net/posts/211-interesting-rails-4-2-changes
+Swift for Rubyists: A Ruby Developer's Perspective on Apple's Swift,http://realm.io/news/swift-for-rubyists/
+Various Ways to Create Structs,http://thomasleecopeland.com/2014/09/22/various-ways-to-create-structs.html
+Working with Complex SQL Statements in Rails and ActiveRecord,http://www.rigelgroupllc.com/blog/2014/09/14/working-with-complex-sql-statements/
+Using Vagrant and Chef For Reproducible; Isolated Rails Development Environments,http://gofullstack.com/articles/using-vagrant-and-chef-for-reproducible-rails-development-environments.html
+ActiveRecord Eager Loading with Query Objects and Decorators,http://robots.thoughtbot.com/active-record-eager-loading-with-query-objects-and-decorators
+Using Services to Keep Your Rails Controllers Clean and DRY,https://blog.engineyard.com/2014/keeping-your-rails-controllers-dry-with-services
+Should My Company Choose RubyMotion or Swift?,http://blog.thefrontiergroup.com.au/2014/09/should-my-company-choose-rubymotion-or-swift/
+6 Ways to Build Authentication in Rails,http://www.gotealeaf.com/blog/authentication-methods-in-rails
+TTY: A Toolbox for Developing CLI Clients in Ruby,http://peter-murach.github.io/tty/
+Capybara Screenshot 1.0.0: Capture A Screen Shot for Every Test Failure Automatically,https://github.com/mattheworiordan/capybara-screenshot
+RuJIT: A Trace Based Just in Time Compiler for CRuby,https://github.com/imasahiro/rujit
+rb_tuntap: Ruby Library to Interact with TUN/TAP Devices on Linux,https://github.com/amoghe/rb_tuntap
+How Downtime Impacts the Bottom Line 2014,http://www.rackspace.com/blog/how-downtime-impacts-the-bottom-line-2014-infographic/?cm_mmc=managed-_-cloud-_-contentnam-_-ruby-downtime
+This infographic,http://www.rackspace.com/blog/how-downtime-impacts-the-bottom-line-2014-infographic/?cm_mmc=managed-_-cloud-_-contentnam-_-ruby-downtime
+

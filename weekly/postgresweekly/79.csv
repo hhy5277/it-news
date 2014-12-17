@@ -1,0 +1,18 @@
+title,link
+Archives,http://postgresweekly.com/issues
+ToroDB: A JSON-based Document Database Built on Top of Postgres,https://github.com/torodb/torodb?files=1
+Adventures in Searching with Postgres: Part 1,http://blog.carbonfive.com/2014/10/28/adventures-in-searching-with-postgres-part-1/
+Tuning for Performance in Production – The DBA Role,http://www.enterprisedb.com/store/products/dba-training/01t50000001uafZAAQ&ls=CP6PerfT
+Learn how to optimize performance,http://www.enterprisedb.com/store/products/dba-training/01t50000001uafZAAQ&ls=CP6PerfB
+database check up.,http://www.enterprisedb.com/ahc&ls=CP6Perf
+,http://www.enterprisedb.com/store/products/dba-training/01t50000001uafZAAQ&ls=CP6PerfT
+Make A Logical Receiver Behave As A Synchronous Standby,http://michael.otacoo.com/postgresql-2/logical-receiver-synchronous-standby/
+Sharing Code and Experiences,http://www.slideshare.net/fabriziomello/sharing-code-and-experiences
+Why The Older-Than-Dirt Postgres Database Is Hot With Hipsters And Oldsters Alike,http://readwrite.com/2014/10/23/postgres-cool-and-getting-cooler
+mainstream media,http://www.theregister.co.uk/2014/05/16/postgresql_nosql_conversion/
+Optimizing Your psql,https://www.periscope.io/blog/optimizing-your-psql.html
+number,http://www.craigkerstiens.com/2013/02/13/How-I-Work-With-Postgres/
+recent,http://robots.thoughtbot.com/improving-the-command-line-postgres-experience
+Renewed Life for STI with the PostgreSQL JSON Type,https://netguru.co/blog/renewed-life-for-sti-with-postgresql-json-type
+Craig Kerstiens,http://craigkerstiens.com/
+

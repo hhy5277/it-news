@@ -1,0 +1,27 @@
+title,link
+Read this e-mail on the Web,http://rubyweekly.com/issues/205
+Ruby.inspect: Koichi Sasada's Useful RedDotRuby Keynote,https://www.youtube.com/watch?v=eNTIOotQ0Ug&list=UUWnPjmqvljcafA0z2U1fwKQ
+2014 Rails Rumble Announced; Takes Place Oct 18-19,http://blog.railsrumble.com/2014/07/23/heroku-create-2014-rails-rumble/
+Never worry about your application server again,https://www.phusionpassenger.com/ruby_weekly
+,https://www.phusionpassenger.com/ruby_weekly
+Ruby 2 Keyword Arguments,http://robots.thoughtbot.com/ruby-2-keyword-arguments
+6 minute video guide to keyword arguments,https://www.youtube.com/watch?v=u8Q6Of_mScI
+Know Ruby: clone and dup,http://aaronlasseigne.com/2014/07/16/know-ruby-clone-and-dup/
+SpeedupRails; Speedup Your Code (video),https://www.youtube.com/watch?v=d2QdITRRMHg
+Shipping Ruby Apps with Docker (video),https://www.youtube.com/watch?v=mVN7aTqr550&list=UUWnPjmqvljcafA0z2U1fwKQ
+RubyCritic: A Ruby Code Quality Reporter,https://github.com/whitesmith/rubycritic
+Software Developer at VTS (New York; NY),https://www.viewthespace.com/jobs
+Senior Rails Developer at Stonecrop Technologies (Petaluma; CA),http://jobs.rubyinside.com/a/jbb/job-details/996059
+Running Ruby 2.1 on the Kindle Paperwhite,https://medium.com/ruby-everyday/ruby-everywhere-ruby-on-kindle-paperwhite-5139a661ed76
+3 Ways to Create Classes in Ruby,http://techblog.thescore.com/2014/07/19/3-ways-to-create-classes-in-ruby/
+Tracking Sidekiq Workers' Exceptions with Errbit/Airbrake,http://dev.mensfeld.pl/2014/07/tracking-sidekiq-workers-exceptions-with-errbitairbrake/
+Vim for Rubyists: 10 Useful Vim Plugins for Ruby Developers,https://masteruby.github.io/productivity-booster/2014/05/02/vim-plugins-for-ruby.html#.U9EyLCtdXbk
+Ruby5 podcast,http://ruby5.envylabs.com/
+Code Coverage Tools for Padrino,http://wikimatze.de/code-coverage-tools-for-padrino/
+MemFs: Provides A Fake File System for Testing,https://github.com/simonc/memfs
+Rubycards: A Playing Cards Library for Ruby,https://github.com/jdan/rubycards
+ActiveSupport::Notifications and Live Status Pages,https://www.youtube.com/watch?v=m6ohHPK7ApQ&list=UUWnPjmqvljcafA0z2U1fwKQ
+RSpec 3 and why I `expect(you).to care`,https://www.youtube.com/watch?v=5D4UbNui3rE&list=UUWnPjmqvljcafA0z2U1fwKQ
+Ruby-Core for Tenderfeet,https://www.youtube.com/watch?v=wHW7yMTDlYA&list=UUWnPjmqvljcafA0z2U1fwKQ
+Want to ship your Rails app with confidence? PullReview finds its defects and vulnerabilities,https://www.pullreview.com/
+

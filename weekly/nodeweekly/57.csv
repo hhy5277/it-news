@@ -1,0 +1,27 @@
+title,link
+The npm Registry Roadmap,http://blog.npmjs.org/post/100099402720/registry-roadmap
+the CLI,http://blog.npmjs.org/post/91303926460/npm-cli-roadmap-a-periodic-update
+the site,http://blog.npmjs.org/post/94662089625/the-future-of-the-npm-website-lets-map-this-road
+Why is Node Being Forked?,http://dtrejo.com/why-is-node-being-forked.html
+due to ongoing discussions with Joyent.,https://github.com/node-forward/discussions/issues/7
+Codeship is Continuous Delivery for free.,https://www.codeship.io/?utm_source=NodeWeekly&utm_medium=newsletter&utm_campaign=CooperPress
+,https://www.codeship.io/?utm_source=NodeWeekly&utm_medium=newsletter&utm_campaign=CooperPress
+Tutorial: Build Your Own Google TV Using Raspberry Pi; NodeJS and Socket.io,https://www.codementor.io/nodejs-tutorial/build-google-tv-raspberrypi-nodejs-socket-io?utm_term=google-tv-nodejs-raspberrypi&
+Getting Started with the LoopBack API Gateway Sample Application,http://strongloop.com/strongblog/node-js-loopback-api-gateway-sample-applications/
+How to Get Started On The MEAN (MongoDB; Express; Angular; Node) Stack,https://hackhands.com/how-to-get-started-on-the-mean-stack/
+Full Stack Generalist - node.js (Santa Monica; CA),http://videoamp.theresumator.com/apply/eJg9cb/Full-Stack-Generalist-Nodejs.html
+NodeFrameworks.com Got GitHub Stats,http://webapplog.com/nodeframeworks-com-got-github-stats/
+A Discussion about Node's Release Momentum,https://github.com/node-forward/discussions/issues/3
+Reimplementing a NodeJS Service in Haskell,https://gist.github.com/paf31/9c4d402d400d61a49656
+NGINX As A SPDY Reverse Proxy Passthrough for Node.js,http://blog.victorquinn.com/nginx-as-a-spdy-reverse-proxy-passthrough
+Building a Better Node Community,https://medium.com/node-js-javascript/building-a-better-node-community-3f8f45b45cb5
+node-hn-api: A Node.js Wrapper for the new Hacker News API,https://github.com/chasefleming/node-hn-api
+An Example EventBus Service in NodeJS,https://github.com/aeden/eventbus-example-service-nodejs/
+GifIt: Convert Videos Into Animated GIFs with Node; libav and ImageMagick,https://github.com/crabasa/gifit
+node-android: A Node.js Rewrite for Android,https://github.com/InstantWebP2P/node-android
+ghooks: Simple Git Hooks from package.json,https://github.com/gtramontina/ghooks
+Ethersheet: Real-time Collaborative Spreadsheets using Node.js,https://ethersheet.org
+public-ip: Get your Public IP Address; Quickly,https://github.com/sindresorhus/public-ip
+Finally! A User Management API for Node.js,https://stormpath.com/product/nodejs/&utm_campaign=node%20express
+Joyent; Inc.,http://www.joyent.com/
+

@@ -1,0 +1,36 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Ruby 2.1.2 Released,https://www.ruby-lang.org/en/news/2014/05/09/ruby-2-1-2-is-released/
+a regression of Hash#reject,https://www.ruby-lang.org/en/news/2014/03/10/regression-of-hash-reject-in-ruby-2-1-1/
+Is TDD Dead? A Recording of the Live Debate (video),https://www.youtube.com/watch?v=z9quxZsLcfo
+TDD is Dead,http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+takes place this Friday (May 16).,https://plus.google.com/u/1/events/couv627cogaue9dahj08feoa6b8
+RuLu 2014: A 2 Day Ruby Conference in Lyon; France (June 19-20),http://rulu.eu/
+RubyConf Portugal: October 13-14 in Braga; Portugal,http://rubyconf.pt/
+submit your own proposal,https://groupbuddies.typeform.com/to/rViVZB
+AppSignal: The best Rails error and performance monitoring; from $19/month,https://appsignal.com/?referrer=rubyweekly
+Starting at $19,https://appsignal.com/plans?referrer=rubyweekly
+,https://appsignal.com/?referrer=rubyweekly
+A Look at the New Rails 4.1 'travel_to' Test Helper,http://brandonhilkert.com/blog/rails-4-1-travel-to-test-helper/
+Shared Examples with Minitest,https://canaryup.com/blog/shared-examples-with-minitest
+Remote Pair Programming Tips Using RubyMine and Screenhero,http://www.railsonmaui.com/blog/2014/05/06/remote-pair-programming-tips-using-screenhero/
+Why Ruby Blocks Exist; Part III,http://programming.oreilly.com/2014/05/why-ruby-blocks-exist-part-iii.html
+Fragmentation in the Ruby Community,http://hawkins.io/2014/05/fragmentation_in_the_ruby_community/
+Starting on an Existing Rails Project,http://www.22ideastreet.com/blog/2014/04/30/starting-on-an-existing-rails-project/
+Writing Gems for Ruby and RubyMotion,http://blog.motioninmotion.tv/gems-for-ruby-or-rubymotion
+Callbacks and Ruby,http://janjiss.github.io/blog/2014/05/14/callbacks-and-ruby/
+How Does MessageVerifier Work?,http://monkeyandcrow.com/blog/reading_rails_how_does_message_verifier_work/
+How Do ActiveRecord's Batched Queries Work?,http://monkeyandcrow.com/blog/reading_rails_how_do_batched_queries_work/
+Web Applications with Ruby (not Rails),https://www.youtube.com/watch?v=TqiuMn1acV8
+Concerns; Decorators; Presenters; Service Objects; Helpers.. Help Me Decide,https://www.youtube.com/watch?v=bHpVdOzrvkE
+The DHH Problem,http://codon.com/the-dhh-problem
+Senior Ruby Developer at Econify [Washington; DC & Northern VA],http://www.econify.com/careers
+Offered: Fame and Fortune for Your Thoughts,http://www.sitepoint.com/write-for-us/
+Freelance with Companies like Airbnb; IDEO & JPMorgan,http://www.toptal.com/developer/?utm_source=Ruby_Weekly&utm_medium=cpm%24%24%24newsletter&utm_campaign=Jobs&utm_content=rw_a&network=d
+Ruby 2.0.0-p481 Released,https://www.ruby-lang.org/en/news/2014/05/09/ruby-2-0-0-p481-is-released/
+Backports of Gems to Ruby 1.8.7 or Rails 2.3,http://rubybackports.com/
+SimpleCalendar 1.1: Calendar Rendering on Rails,https://gorails.com/blog/simplecalendar-1-1-released
+QuickBooks Integration with Ruby with the quickbooks-ruby-base Gem,http://minimul.com/improve-your-quickbooks-ruby-integration-experience-with-the-quickbooks-ruby-base-gem.html
+Guacamole: An ODM for ArangoDB for Rails,https://www.arangodb.org/2014/05/09/guacamole-released-odm-arangodb-rails
+Get real-time data from your real end-users,http://blog.newrelic.com/2014/03/13/javascript-error-reporting-ajax-timing-new-relic/?utm_source=COOP&utm_medium=email&utm_content=BlogNRBrowserAnnounce&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-JavascriptWeekly-BlogNRBrowserAnnounce
+

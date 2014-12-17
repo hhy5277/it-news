@@ -1,0 +1,35 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Pat Shaughnessy's 'Ruby Under a Microscope' Now Available,http://patshaughnessy.net/ruby-under-a-microscope
+,http://patshaughnessy.net/ruby-under-a-microscope
+Phusion Passenger 4.0 Now Supports JRuby and Rubinius,http://blog.phusion.nl/2012/10/30/phusion-passenger-4-0-supports-jruby-rubinius/#.UJBUoUMnB4V
+Refactoring from Good to Great,http://confreaks.com/videos/1233-aloharuby2012-refactoring-from-good-to-great
+Ruby's EventMachine Part 3: Thin,http://www.bigfastblog.com/rubys-eventmachine-part-3-thin
+Making Queries More Composable with ActiveRecord and Arel,http://spin.atomicobject.com/2012/10/30/activerecord-black-magic/
+A High Level Overview of Acceptance Testing,http://alindeman.github.com/acceptance_testing/
+Using Vagrant and Chef to Build a Local Ubuntu 'Deployment' Server,http://brandonparsons.me/2012/vagrant-and-chef-for-ubuntu-deployment-server/
+Upgrading to Rails 4 - A Parameters Security Tour,http://iconoclastlabs.com/cms/blog/posts/upgrading-to-rails-4-parameters-security-tour
+Profiling JRuby with NetBeans,http://polycrystal.org/2012/10/26/profiling_jruby_with_netbeans.html
+Collecting Metrics from Ruby Processes with Zabbix Trappers,http://spin.atomicobject.com/2012/10/30/collecting-metrics-from-ruby-processes-using-zabbix-trappers/
+Wrangling Large Rails Codebases,http://confreaks.com/videos/1263-rockymtnruby2012-wrangling-large-rails-codebases
+Modular & Reusable Front-End Code With HTML5; Sass and CoffeeScript,http://confreaks.com/videos/1256-rockymtnruby2012-modular-reusable-front-end-code-with-html5-sass-and-coffeescript
+To Mock or Not to Mock,http://confreaks.com/videos/1255-rockymtnruby2012-to-mock-or-not-to-mock
+Yay! Mocks!,http://www.youtube.com/watch?v=t430e6M5YAo
+Git and GitHub Secrets,http://confreaks.com/videos/1229-aloharuby2012-git-and-github-secrets
+Life Beyond HTTP,http://confreaks.com/videos/1328-baruco2012-life-beyond-http
+Let's Talk Concurrency,http://www.youtube.com/watch?v=ojU4O2CMeSc
+Rails Testing Anti-Patterns,http://vimeo.com/52241288
+Ruby's Socket API From the Outside In,http://jstorimer.com/2012/10/24/ruby-socket-api-outside-in.html
+Rake 10.0 Released: Yes; Version 10,https://github.com/jimweirich/rake/blob/next-major-release/doc/release_notes/rake-10.0.0.rdoc
+A Rails Membership Subscription or SaaS Site with Stripe,http://railsapps.github.com/rails-stripe-membership-saas/
+Rails 3.2.9 Release Candidate 1 Released,http://weblog.rubyonrails.org/2012/10/29/ann-rails-3-2-9-rc1-has-been-released/
+amatch: Approximate String Matching for Ruby,http://gistflow.com/posts/483-choosing-text-similarity-algorithm
+IProcess 3.1.0: Ruby Tools for Subprocesses and IPC,https://github.com/robgleeson/iprocess
+minitest Adds Support for Running Tests in Parallel,https://github.com/seattlerb/minitest/commit/bdbf38df3475dcc8ddd6d11ebede48cdd5f55008
+blekko-search: Search and manage slashtags for blekko.com,https://github.com/barelyknown/blekko-search
+Ruby Developer at Viewbook.com at Viewbook.com [Rotterdam; Netherlands],http://jobs.rubyinside.com/a/jbb/job-details/753607
+Rails Software Engineer at Sleepy Giant (Newport Beach; LA; Chicago),http://sleepygiant.theresumator.com/apply/IkJ1p8/Software-Engineer.html?source=RubyWeekly
+Senior Ruby on Rails Developer - Energy Management at Raritan; Inc. [Raleigh; North Carolina],http://jobs.rubyinside.com/a/jbb/job-details/754279
+Für alle; die nicht nur ein Rädchen im Getriebe sein möchten - wir suchen agile Softwareentwickler.,http://devblog.meinauto.de/2012/10/18/gesucht-agile-softwareentwickler/
+Official (Private) RubyMotion Training Available,http://www.rubymotion.com/support/training/
+

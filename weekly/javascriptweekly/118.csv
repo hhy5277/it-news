@@ -1,0 +1,45 @@
+title,link
+asm.js: A Highly Optimizable; Low-Level Subset of JavaScript,http://asmjs.org/
+Emscripten,http://emscripten.org/
+asm.js FAQ,http://asmjs.org/faq.html
+Big Web App? Compile It!,http://lanyrd.com/2013/mlocjs/sccwrb/
+asm.js: closing the gap between JavaScript and native,http://www.2ality.com/2013/02/asm-js.html
+asm.js: A Low Level; Highly Optimizable Subset of JavaScript for Compilers,http://badassjs.com/post/43420901994/asm-js-a-low-level-highly-optimizable-subset-of
+jQuery Mobile 1.3.0 Released,http://jquerymobile.com/blog/2013/02/20/jquery-mobile-1-3-0-released/
+Qt GUI Toolkit Ported to JavaScript via Emscripten,http://badassjs.com/post/43158184752/qt-gui-toolkit-ported-to-javascript-via-emscripten
+Frontend Masters: New JavaScript Course by Douglas Crockford,http://frontendmasters.com/courses/javascript-the-good-parts/douglas-crockfords-function-challenges/
+,http://frontendmasters.com/courses/javascript-the-good-parts/douglas-crockfords-function-challenges/
+JavaScript Functions Explained,http://markdaggett.com/blog/2013/02/15/functions-explained/
+Building an AngularJS Collaboration Board with Socket.io,http://www.netmagazine.com/tutorials/angularjs-collaboration-board-socketio
+Two Ways to Set A Conditional Breakpoint in JavaScript,http://freshbrewedcode.com/jonathancreamer/2013/02/19/two-ways-to-set-a-conditional-breakpoint-in-javascript/
+Say “Hello” to Lo-Dash,http://kitcambridge.be/blog/say-hello-to-lo-dash/
+Underscore.js,http://underscorejs.org/
+Using Web Workers to Speed Up Your JavaScript Applications,http://blog.teamtreehouse.com/using-web-workers-to-speed-up-your-javascript-applications
+Developing An End-to-End Windows Store App Using JavaScript: Hilo,http://msdn.microsoft.com/en-us/library/windows/apps/jj674095.aspx
+Rolling Out Your Own Uptime Monitor with Node.JS,http://qawemlilo.rflab.co.za/?p=458
+Ember 1.0 RC1,http://emberjs.com/blog/2013/02/15/ember-1-0-rc/
+Grunt 0.4.0,http://gruntjs.com/blog/2013-02-18-grunt-0.4.0-released#?
+Yeoman 1.0 Beta,https://plus.google.com/u/0/101063139999404044459/posts/WYbqkuhYhQ2
+AngularJS 1.0.5 and 1.1.3,http://blog.angularjs.org/2013/02/angularjs-105-flatulent-propulsion-and.html
+Meteor 0.5.7,https://www.meteor.com/blog/2013/02/21/meteor-057-major-scaling-update-new-ddp-version-ejson
+Typeahead.js: Fast and Full-Featured Autocomplete Library,https://github.com/twitter/typeahead.js/
+blog post,http://engineering.twitter.com/2013/02/twitter-typeaheadjs-you-autocomplete-me.html
+page with examples,http://twitter.github.com/typeahead.js/examples/
+Durandal: Single-Page App Framework,http://durandaljs.com/
+Simple Frontend Boilerplate,https://github.com/codylindley/simple-frontend-boilerplate
+Emblem.js: Concise; Indented Alternative Handlebars Syntax,http://emblemjs.com/
+MIDI.js: Sequencing in JavaScript,http://mudcu.be/midi-js/
+version.js: Configure The Versions of Libraries You Load Via A Query Parameter,https://github.com/jstayton/version.js
+Console++: Enhance Your Console with Colors and Logging Levels,https://github.com/detro/consoleplusplus
+dropzone.js: Provides Drag and Drop File Uploads with Image Previews,http://www.dropzonejs.com/
+Pipermail: Node.js Utilities for Reading Pipermail Archives,https://github.com/esdiscuss/pipermail
+es-discuss mailing list,https://mail.mozilla.org/listinfo/es-discuss
+memdiff: A BDD-style Memory Leak Hunting Tool for Node,https://github.com/azer/memdiff
+Array.js: Better Arrays for Browsers and Node.js,https://github.com/MatthewMueller/array
+emacs.js: A Ready-to-use Emacs Setup for JavaScript Developers,https://github.com/azer/emacs.js
+Conway’s Game of Life in Processing.js,http://davidshimel.com/conways-game-of-life-in-processing-js/
+JavaScript Engineer at the Guardian (London),http://gs10.globalsuccessor.com/fe/tpl_GuardianNews01.asp?newms=jj&id=94392&aid=13972
+Contract Client-Side Developer at Photobox (London),http://bit.ly/ZaVQU9
+Front-End JavaScript Engineer (jQuery/Backbone/Underscore) at Flite,http://www.flite.com/careers/open-positions/
+Kyle Simpson's Kickstarter for a jsPerf Book,http://www.kickstarter.com/projects/getify/the-jsperf-guide-book
+

@@ -1,0 +1,33 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+The Ruby Association's 2012 Call for Grant Proposals Ends on Monday,http://www.ruby.or.jp/en/news/20120717.html
+Goliath 1.0.0 Released,https://github.com/postrank-labs/goliath/
+Rails 3.2.8 Released: Contains 3 Important Security Fixes,http://weblog.rubyonrails.org/2012/8/9/ann-rails-3-2-8-has-been-released/
+The Pragmatic Bookshelf's 'Cucumber Recipes' Book Now in Beta,http://pragprog.com/book/dhwcr/cucumber-recipes
+MagicRuby - A Ruby conference *inside* Walt Disney World (now with speakers!),http://magic-ruby.com/
+,http://magic-ruby.com/
+Interview with Ruby's Garbage Collection Innovator; Narihiro Nakamura,http://rubysource.com/narihiro-nakamura-rubys-gc-innovator/
+Debunking the Node.js Gish Gallop,http://www.unlimitednovelty.com/2012/08/debunking-nodejs-gish-gallop.html
+Face Detection on iOS with RubyMotion,http://iconoclastlabs.com/cms/blog/posts/ios-face-detection-in-rubymotion
+The Gang Of Four Is Wrong and You Don't Understand Delegation,http://www.saturnflyer.com/blog/jim/2012/07/06/the-gang-of-four-is-wrong-and-you-dont-understand-delegation
+Bitwise Operations in Ruby and An Example Application for Testing With RSpec,http://vitobotta.com/applying-bitwise-operations-to-rspec-testing/
+Bullet: A Rails Plugin to Kill N+1 Queries and Unused Eager Loading,http://railscasts.com/episodes/372-bullet
+Ruby Rogues: Functional vs Object Oriented Programming,http://rubyrogues.com/065-rr-functional-vs-object-oriented-programming-with-michael-feathers/
+MurmurHash3-ruby: An Efficient Non-Cryptopgraphic Hash Function,https://github.com/funny-falcon/murmurhash3-ruby
+TextMate 2.0 Released as Open Source (GPLv3),https://github.com/textmate/textmate
+rails-dtrace: Add DTrace Probes to Rails,https://github.com/sax/rails-dtrace
+SO2DB: Utilities for Importing StackExchange Data into Databases,https://github.com/tessellator/so2db
+Big Spoon: ActiveRecord-style Before and After Callbacks for any Object,https://github.com/Plinq/big_spoon
+Formotion: Painless; Productive Views for RubyMotion,http://clayallsopp.github.com/formotion/
+ffi-extractor: Ruby FFI Bindings to the 'libextractor' Metadata Extractor,https://github.com/postmodern/ffi-extractor#readme
+Releasy: Ruby App Packager (Can Build for OS X and Windows),https://github.com/spooner/releasy
+SanitizeEmail: Globally Override Your Mail Delivery Settings,https://github.com/pboling/sanitize_email
+Pry-Rescue: Start A Pry Session Whenever Something Goes Wrong,https://github.com/ConradIrwin/pry-capture
+rails-dev-box: A VM for Rails Core Development,https://github.com/rails/rails-dev-box
+ForwardMachine: Dynamic Port Forwarding Tool Built On EventMachine,http://blog.shellycloud.com/2012/08/forwardmachine-dynamic-port-forwarding.html
+Rails / Node.JS Engineer at Chute (San Francisco; CA),http://chute.theresumator.com/apply/cjvLn5/RailsNodeJS-Engineer.html
+Rails Programmer (Anywhere!),http://litmus.com/careers
+Platform Software Engineer at Sony Music [New York City],http://jobs.rubyinside.com/a/jbb/job-details/721468
+Rails Developer at a growing start-up at Triggit [San Francisco],http://jobs.rubyinside.com/a/jbb/job-details/723723
+Haskell-like List Comprehensions in Ruby?,https://gist.github.com/3356675
+

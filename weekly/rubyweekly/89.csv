@@ -1,0 +1,32 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Announcing 'MacRuby In Action',http://intridea.com/blog/2012/4/12/macruby-in-action-release
+,http://intridea.com/blog/2012/4/12/macruby-in-action-release
+Phusion Passenger 3.0.12 Released,http://blog.phusion.nl/2012/04/13/phusion-passenger-3-0-12-released/
+GitHub Rolls Out An Easier Way to Create Repositories,https://github.com/blog/1105-an-easier-way-to-create-repositories
+RailsThemes.com: Quick; Easy & Beautiful Rails Themes,https://railsthemes.com/
+,https://railsthemes.com/
+Introducing DCell: Actor-based Distributed Objects for Ruby,http://www.unlimitednovelty.com/2012/04/introducing-dcell-actor-based.html
+A Sneak Preview of Phusion Passenger 3.2,http://blog.phusion.nl/2012/04/13/a-sneak-preview-of-phusion-passenger-3-2/
+Lessons Learned Upgrading Harvest to Ruby 1.9.3 (from REE),http://techtime.getharvest.com/blog/harvest-is-now-on-ruby-1-dot-9-3
+Some Topics From 'The dRuby Book' Explained,http://blog.new-bamboo.co.uk/2012/04/11/the-druby-book-distributed-and-parallel-computing-with-ruby-is-finally-out
+How to Serve Your Rails Assets Over Amazon S3 with asset_sync,http://blog.firmhouse.com/complete-guide-to-serving-your-rails-assets-over-s3-with-asset_sync
+User Authentication with Rails and Backbone.js,http://42floors.com/blog/posts/user-authentication-with-rails-and-backbone-js
+Migrating to PostgreSQL by RailsCasts,http://railscasts.com/episodes/342-migrating-to-postgresql
+Designing Hypermedia APIs by Steve Klabnik,https://vimeo.com/40084288
+DSLs in Ruby,http://vimeo.com/40451457
+Ruby Rogues Talk to Jeff Casimir about Ruby Training,http://rubyrogues.com/050-rr-hungry-academy-with-jeff-casimir/
+Authority: An ORM Agnostic Authorization System for Rails,https://github.com/nathanl/authority
+Pry 0.9.9 Released,https://groups.google.com/forum/#!topic/pry-rb/L-kXX-T0OGY
+Her: An ORM for REST APIs,https://github.com/remiprev/her
+cache_method: An Easy Way to Cache Method Results,https://github.com/seamusabshere/cache_method
+redis_failover: A Ruby-based Solution for Redis Master/Slave Failover,https://github.com/ryanlecompte/redis_failover
+Rack::Worker: The Worker Pattern as Rack Middleware,https://github.com/csquared/rack-worker
+Senior Web Engineer for Rapidly-Growing Education Business (Steve and Kate's Camp),http://ruby.jobamatic.com/a/jbb/job-details/681975
+,http://ruby.jobamatic.com/a/jbb/job-details/681975
+Senior Rails Engineer at Signature Labs [San Francisco],http://jobs.rubyinside.com/a/jbb/job-details/670905
+Rails One Click: Another Simple Rails Installer for OS X,http://railsoneclick.com/
+,http://railsoneclick.com/
+JavaScript Weekly: Like Ruby Weekly But.. for JavaScript!,http://javascriptweekly.com/
+@JavaScriptDaily: A Twitter Alternative to JavaScript Weekly,https://twitter.com/#!/javascriptdaily
+

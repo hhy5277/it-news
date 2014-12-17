@@ -1,0 +1,31 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+JRuby Core Team Members Moving to Red Hat,http://www.rubyinside.com/jruby-redhat-5856.html
+,http://www.rubyinside.com/jruby-redhat-5856.html
+First Alpha of ruby_parser 3.0 Released,http://blog.zenspider.com/releases/2012/05/ruby_parser-version-3-0-0-a1-has-been-released.html
+MRI Accepts Google Patch for Google NativeClient (NaCl) Support,http://svn.ruby-lang.org/cgi-bin/viewvc.cgi?revision=35672&view=revision
+Vermont's First Ruby Conference; July 28 - 29; 2012,http://burlingtonruby.com/
+,http://burlingtonruby.com/
+Frozen Rails 2012 Call For Proposals Open (Finland; September 20-21),http://2012.frozenrails.eu/
+Three Quick Rails Console Tips from 37signals,http://37signals.com/svn/posts/3176-three-quick-rails-console-tips
+Anaphora in Ruby; 2012 Edition,https://github.com/raganwald/homoiconic/blob/master/2012/05/anaphora.md#anaphora-in-ruby-2012-edition
+Integrating Rails and jQuery Mobile,http://www.adobe.com/devnet/html5/articles/jquery-mobile-and-rails.html
+Objectify: A Better Way to Build Rails Applications,http://jamesgolick.com/2012/5/22/objectify-a-better-way-to-build-rails-applications.html
+You Don't Have to Use Bundler to Create New RubyGems,http://postmodern.github.com/2012/05/20/you-dont-have-to-use-bundler-to-create-new-rubygems.html
+Using RubyMotion with Parse.com,http://collectiveidea.com/blog/archives/2012/05/21/using-rubymotion-with-parsecom/
+Injection Vulnerabilities in Ruby Apps Through Bad Regexes,http://homakov.blogspot.co.uk/2012/05/saferweb-injects-in-various-ruby.html
+Tossing Out IRB for Pry,http://www.philaquilina.com/2012/05/17/tossing-out-irb-for-pry/
+How to Deliver Your Static Images Through a CDN with Rails,http://cloudinary.com/blog/how_to_deliver_your_static_images_through_a_cdn_in_ruby_on_rails
+CoffeeScript Love: Testing CoffeeScript in Rails,http://www.coffeescriptlove.com/2012/03/testing-coffeescript-in-rails.html
+Ampex: A(nother) Practical Use Of Ruby's & Operator,http://cirw.in/blog/ampex
+Introducing Live for RubyMotion,http://irrationalfab.github.com/blog/2012/05/22/introducing-live-for-rubymotion/
+,http://irrationalfab.github.com/blog/2012/05/22/introducing-live-for-rubymotion/
+RubyMotion Autolayout: A DSL for Creating iOS Views in RubyMotion,https://github.com/jfahrenkrug/rubymotion_autolayout
+ActiveRecord Reputation System (from Twitter),https://github.com/twitter/activerecord-reputation-system
+sheet_mapper: Map Google Spreadsheet Rows to Ruby Objects,https://github.com/nesquena/sheet_mapper
+ostruct2: OpenStruct Improved,https://github.com/rubyworks/ostruct2
+go-mruby: Interface to Embed 'mruby' into Google Go,https://github.com/mattn/go-mruby
+Visual Ruby: Create Great GUIs using Ruby and Glade,http://visualruby.net/
+Senior Software Engineer at Zendesk [San Francisco],http://jobs.rubyinside.com/a/jbb/job-details/689457
+Rails Engineer at Spatial Networks [Clearwater; Florida],http://jobs.rubyinside.com/a/jbb/job-details/692301
+

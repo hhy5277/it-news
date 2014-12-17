@@ -1,0 +1,32 @@
+title,link
+Notable Changes in RSpec 3,http://myronmars.to/n/dev-blog/2014/05/notable-changes-in-rspec-3
+Using Named Scopes Across Models with ActiveRecord#Merge,https://gorails.com/blog/activerecord-merge
+Using 'git push' to Deploy Ruby Apps to Your Own Server,http://blog.bytemark.co.uk/2014/05/12/git-push-ruby-applications-dokku-server-bigv
+Dokku,https://github.com/progrium/dokku
+Create first-class Ruby training; earn first-rate royalties,http://blog.pluralsight.com/open-source-authors?utm_source=ruby&utm_medium=banner&utm_campaign=authoros
+find out how you can create online courses and start earning royalties today.,http://blog.pluralsight.com/open-source-authors?utm_source=ruby&utm_medium=banner&utm_campaign=authoros
+,http://blog.pluralsight.com/open-source-authors?utm_source=ruby&utm_medium=banner&utm_campaign=authoros
+How Does Rails' MessageEncryptor Work?,http://monkeyandcrow.com/blog/reading_rails_how_does_message_encryptor_work/
+When Is An ActiveRecord Model Too Fat?,http://www.justinweiss.com/blog/2014/05/19/when-is-an-activerecord-model-too-fat/
+3 Simple but Powerful Takeaways from Sandi Metz,http://multifaceted.io/2014/3-simple-but-powerful-takeaways-from-sandi-metz/
+RubyonAles talk,https://speakerdeck.com/skmetz/all-the-little-things-rubyonales
+How to Test RubyMotion with any Ruby Test Framework,http://blog.motioninmotion.tv/how-to-test-rubymotion-with-any-ruby-test-framework
+Using Twitter's Streaming API from Rails,http://www.matheuslima.com/twitters-streaming-api-with-ruby-on-rails/
+TweetStream,https://github.com/tweetstream/tweetstream
+MetaRuby - An Ounce of Meta,http://monkeyandcrow.com/blog/metaruby_an_ounce_of_metaprogramming/
+A Tutorial for Using Vagrant for Rails Development,https://gorails.com/guides/using-vagrant-for-rails-development
+A 3 Minute Introduction to Rails 4.1 Variants,http://codemy.net/posts/rails-4-1-variants
+Ruby on Rails Developer (New York; London or Hong Kong),http://www.alphasights.com/careers/positions/product-development
+Senior Software Developer (Potential Future CTO),http://rouxbe.com/jobs
+Intermediate/Senior RoR Developer at Abletech (Wellington; New Zealand),http://www.abletech.co.nz/career-in-wellington
+Ruby 1.9.3-p547 Released,https://www.ruby-lang.org/en/news/2014/05/16/ruby-1-9-3-p547-released/
+an issue,https://bugs.ruby-lang.org/issues/9592
+Generating Fixed Width Documents in Ruby: Introducing Fixy,http://engineering.zenpayroll.com/generating-fixed-width-documents-in-ruby-introducing-fixy/
+Fixy,https://github.com/Chetane/fixy
+RSpec 2.99 and 3.0 RC1 Released,http://myronmars.to/n/dev-blog/2014/05/rspec-2-99-and-3-0-rc-1-have-been-released
+SmartListing: Data Listing Gem for Rails with Built-in Sorting; Filtering and In-place Editing,http://showcase.sology.eu/smart_listing
+baby_erubis: Yet Another eRuby (ERB) Implementation; based on Erubis,https://github.com/kwatch/baby_erubis/tree/ruby
+Napybara: A Lightweight DSL for Defining 'Nested' Capybara Helpers,https://github.com/gsmendoza/napybara
+Browserlog: Watch Rails Logs Live in the Browser,http://andredieb.com/rails-logs-on-your-browser-aka-browserlog.html
+Get real-time data from your real end-users,http://blog.newrelic.com/2014/03/13/javascript-error-reporting-ajax-timing-new-relic/?utm_source=COOP&utm_medium=email&utm_content=BlogNRBrowserAnnounce&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-JavascriptWeekly-BlogNRBrowserAnnounce
+

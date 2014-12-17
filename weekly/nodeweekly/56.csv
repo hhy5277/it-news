@@ -1,0 +1,27 @@
+title,link
+Twitatron: Building a Production Web App With Node,http://scottksmith.com/blog/2014/10/05/twitatron-building-a-production-web-app-with-node/
+docs.npmjs: The New npm Documentation Site,https://docs.npmjs.com/
+code style,https://docs.npmjs.com/misc/npm-coding-style
+disputes are resolved,https://docs.npmjs.com/misc/npm-disputes
+Find software errors before your users do,https://raygun.io/error-tracking-software?utm_source=email--october&utm_medium=newsletter&utm_campaign=node-newsletter
+,https://raygun.io/error-tracking-software?utm_source=email--october&utm_medium=newsletter&utm_campaign=node-newsletter
+Nightmare: A High Level Wrapper for Phantomjs,http://www.nightmarejs.org/
+Getting Started with Koa; Part 1: Generators,http://blog.risingstack.com/introduction-to-koa-generators/
+Full Stack Generalist - node.js (Santa Monica; CA),http://videoamp.theresumator.com/apply/eJg9cb/Full-Stack-Generalist-Nodejs.html
+Mastering Web Application Development with Express [book],https://www.packtpub.com/web-development/mastering-web-application-development-express-raw
+Developing a Location-Based Pokémon Game with Node.js,https://www.youtube.com/watch?v=VeJh6NlDVwU
+Asynchronous Web-Worker Model Using RabbitMQ in Node,https://devcenter.heroku.com/articles/asynchronous-web-worker-model-using-rabbitmq-in-node
+Continuous Delivery in Minutes with Node.js; Grunt; Mocha and Git,http://stevenedouard.com/continuous-delivery-azure-websites-atlassian/
+You Have To Explicitly End Streams After Pipes Break In Node.js,http://www.bennadel.com/blog/2692-you-have-to-explicitly-end-streams-after-pipes-break-in-node-js.htm
+Eskimo: Rapidly Create Node.js Powered MVPs,http://eskimo.io/
+object-encrypter: Encrypt/Decrypt JavaScript Objects As Base64 Strings with Optional TTL Support,https://github.com/voronianski/node-object-encrypter
+node-pg-native: Node.js PostgreSQL Sync library,https://github.com/brianc/node-pg-native
+word-overlap: Check The Number of Words Overlapping Between 2 Phrases or Sentences,https://www.npmjs.org/package/word-overlap
+Sequelize: A Node.js ORM for Postgres; MySQL; SQLite,http://sequelizejs.com/
+cssurl: A Node.js Utility for Safely Rewriting URLs in CSS Code,https://github.com/nzakas/cssurl
+empty-trash: Empty The System Trash From The Command-Line (or Node),https://github.com/sindresorhus/empty-trash
+node-webkitgtk: Pilot webkitgtk From Node.js with A Simple API,https://github.com/kapouer/node-webkitgtk
+is-up: Check Whether A Site Is Up or Down using the isitup.org API,https://github.com/sindresorhus/is-up
+Send transactional email in a NodeJS app using the Mailgun API,http://blog.mailgun.com/how-to-send-transactional-emails-in-a-nodejs-app-using-the-mailgun-api/&utm_content=oct9&utm_campaign=nodejsblog
+Joyent; Inc.,http://www.joyent.com/
+

@@ -1,0 +1,30 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Vagrant 1.0: Virtualized Development for the Masses,http://vagrantup.com/?v1
+Bundler 1.1 is Out!,http://gembundler.com/v1.1/index.html
+Rails 3.2.2 Released,http://weblog.rubyonrails.org/2012/3/1/ann-rails-3-2-2-has-been-released
+GitHub Public Key Security Vulnerability and Mitigation,https://github.com/blog/1068-public-key-security-vulnerability-and-mitigation
+Yehuda Katz's Proposal for Improving Mass Assignment (in Rails),https://gist.github.com/1974187
+The NOR Machine: Building a CPU With Only One Instruction,http://pragprog.com/magazines/2012-03/the-nor-machine
+Flexible Searching with Solr and Sunspot,http://rubysource.com/flexible-searching-with-solr-and-sunspot/
+A Common .ruby-version File For Ruby Projects,https://gist.github.com/1912050
+Wizard-ify Your Rails Controllers with Wicked,http://schneems.com/post/18437886598/wizard-ify-your-rails-controllers-with-wicked
+Load Balancing and Reverse Proxying with Nginx (for Rails Apps),http://spin.atomicobject.com/2012/02/28/load-balancing-and-reverse-proxying-with-nginx/
+Life In A Shade of Ruby,http://www.jonathan-jackson.net/life-in-a-shade-of-ruby
+Don't Let Your Heroku Apps Fail Silently,https://logentries.com/blog/2012/02/dont-let-your-heroku-apps-fail-silently/
+Why Critics of Rails Have It All Wrong (and Ruby's Bright Multicore Future),http://www.unlimitednovelty.com/2012/03/why-critics-of-rails-have-it-all-wrong.html
+What is docrails?,http://weblog.rubyonrails.org/2012/3/7/what-is-docrails
+The Hardest; Most Rewarding Job I've Ever Had,http://mitchellhashimoto.com/post/18870472135/hardest-and-most-rewarding-job
+VCR 2.0.0 Released: Recording Your Tests' HTTP Interactions,http://myronmars.to/n/dev-blog/2012/03/vcr-2-0-0-released
+'wow how come I commit in master? O_o',https://github.com/rails/rails/commit/b83965785db1eec019edf1fc272b1aa393e6dc57
+Zonebie: Timezone Randomization for Robust Time Tests,https://github.com/highgroove/zonebie
+Metriks: A Simple; Lightweight Ruby Metrics Experiment,http://bitmonkey.net/post/18854033582/introducing-metriks
+md2man: Markdown to Man Page,https://github.com/sunaku/md2man#readme
+Rails Best Practices: Code Metric Tool to Check Rails Code Quality,https://github.com/railsbp/rails_best_practices
+Rocket Pants: Tools for Building Well Designed Web APIs,https://github.com/filtersquad/rocket_pants
+MethodProfiler: Get Performance Info about Methods on Your Objects,https://github.com/change/method_profiler
+Rails Developer at On The Beach [Manchester; UK],http://www.onthebeach.co.uk/jobs/rails-developer
+Ruby and Web Developer at Hubbub [Highbury; London; UK],http://apply.hubbub.co.uk/
+Ruby Developers for an Awesome Social Media Co. (Wildfire Interactive) [Bay Area; California],http://jobs.rubyinside.com/a/jbb/job-details/658386
+Marc-Andre Cournoyer's Online Programming Language Masterclass (Again!),http://proglangmasterclass.com/?ref=5905208113
+

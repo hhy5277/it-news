@@ -1,0 +1,32 @@
+title,link
+O'Reilly Fluent,http://fluentconf.com/fluent2012
+New ECMAScript 6 Spec Draft Available,http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts
+ES.Next / ES6 Needs You!,http://javascriptweblog.wordpress.com/2012/05/07/putting-the-developer-back-in-es-next/
+Node.js HTTP Server Security Vulnerability: Upgrade to 0.6.17,http://blog.nodejs.org/2012/05/07/http-server-security-vulnerability-please-upgrade-to-0-6-17/
+How To Build A Real-Time Commenting System,http://coding.smashingmagazine.com/2012/05/09/building-real-time-commenting-system/
+Roll Your Own Drag-and-Drop Handling (With Help From jQuery UI),http://www.solitr.com/blog/2012/05/roll-your-own-drag-and-drop-handling-with-jquery-ui/
+BrowserID: Logging In with BrowserID; Passport and Node.js,http://blog.koostudios.com/?p=506
+Proxies and Frozen Objects in ES6,http://soft.vub.ac.be/~tvcutsem/invokedynamic/frozen-proxies
+Multi-Server Continuous Deployment with 'Fleet',http://blog.nodejs.org/2012/05/02/multi-server-continuous-deployment-with-fleet/
+Learning Three.js: A tQuery plugin for Rendering and Using DOOM Characters,http://learningthreejs.com/blog/2012/05/04/tquery-md2character-a-plugin-for-doom-characters/
+PL/v8 + CoffeeScript: CoffeeScript as a PostgreSQL Function Language?,http://umitanuki.hatenablog.com/entry/2012/05/11/025816
+Problems With a 'Pure Javascript' Implementation of H.264,http://labs.official.fm/articles/2012/05/09/broadway-and-h264/
+Allen Wirfs-Brock on JavaScript Today and Tomorrow,http://www.infoq.com/presentations/JavaScript-Today-and-Tomorrow
+Addy Osmani's JavaScript Jabber: Design Patterns in Javascript,http://javascriptjabber.com/012-jsj-design-patterns-in-javascript-with-addy-osmani/
+How JS Works and the Firefox Debugger API,https://www.youtube.com/watch?v=WKIkOcuVG7w
+O'Reilly Radar: The Surprising Rise of JavaScript,http://radar.oreilly.com/2012/05/051012-radar-script-javascript.html
+Stats.js Updated; Now Themeable with CSS,https://github.com/mrdoob/stats.js/
+,https://github.com/mrdoob/stats.js/
+YUIDoc 0.3.0 Released: A Documentation Generation App,http://www.yuiblog.com/blog/2012/05/09/yuidoc-0-3-0-is-official/
+jQuery Knob: Simple and Effective Dial Controls (using Canvas),http://anthonyterrien.com/knob/
+NodObjC: A Node.js to Objective C Bridge,http://tootallnate.github.com/NodObjC/
+Dynamo.js: Dynamic 'Rotating' Text Elements in Your Content,http://jordanscales.com/dynamo/
+EpicEditor: Embeddable JavaScript Markdown Editor,http://oscargodson.github.com/EpicEditor/
+BitSyntax-JS: Binary Data Pattern Matching for Node.js,https://github.com/squaremo/bitsyntax-js
+node-webcl: Khronos WebCL Implementation for Node.js,https://github.com/Motorola-Mobility/node-webcl
+sm.js: Communicate with SpiderMonkey from Node.js,https://github.com/dherman/sm.js
+node-webgl: A Port of WebGL to the Desktop (via Node.js),https://github.com/mikeseven/node-webgl
+Vert.x: JVM-based Polyglot Async App Development (Alternative To Node.js?),http://vertx.io/
+Wolfenstein 3D in the Browser,http://wolfenstein.bethsoft.com/game/wolf3d.html
+,http://wolfenstein.bethsoft.com/game/wolf3d.html
+

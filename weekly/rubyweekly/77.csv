@@ -1,0 +1,34 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Vote for your 'Ruby Hero' in the Ruby Hero Awards,http://rubyheroes.com/
+,http://rubyheroes.com/
+Heroku Receives InfoWorld's Technology of the Year Award,http://www.marketwatch.com/story/heroku-receives-infoworlds-technology-of-the-year-award-2012-01-18
+Hashes and Encapsulation,http://jonathanleighton.com/articles/2012/encapsulating-hashes/
+Explaining Ruby's Include and Extend,http://ficate.com/explaining-include-and-extend
+Why Sinatra's Halt is Awesome,http://myronmars.to/n/dev-blog/2012/01/why-sinatras-halt-is-awesome
+Replace Your Test Helpers with a Reusable API,http://blog.segment7.net/2012/01/10/replace-your-test-helpers-with-reusable-api
+assert_nothing_tested..,http://blog.zenspider.com/2012/01/assert-nothing-tested.html
+A Workaround for Ruby Support on Netbeans 7.1,http://blog.enebo.com/2012/01/workaround-for-ruby-support-on-netbeans.html
+Faster TDD Feedback With tmux; tslime.vim; and turbux.vim,http://joshuadavey.com/post/15619414829/faster-tdd-feedback-with-tmux-tslime-vim-and
+Rails or Sinatra: The Best of Both Worlds?,http://rubysource.com/rails-or-sinatra-the-best-of-both-worlds/
+How to do Fuzzy Matching in Ruby with fuzzy_match,http://numbers.brighterplanet.com/2012/01/18/fuzzy-match-in-ruby/
+The Ruby Rogues on Versioning and Releases,http://rubyrogues.com/037-rr-versioning-and-releases/
+Private Pub (RailsCasts),http://railscasts.com/episodes/316-private-pub
+ROFLBALT: A Terminal-based ASCII Side Scroller Game,https://github.com/pda/roflbalt
+,https://github.com/pda/roflbalt
+TwoStroke: A JavaScript Implementation Written in Ruby,https://github.com/charliesome/twostroke
+Guard::RSpectacle: An RSpec Plugin for Guard,https://github.com/netzpirat/guard-rspectacle
+Juvia: An Open Source Commenting System from Phusion,https://github.com/phusion/juvia
+Jekyll-Bootstrap: A Quick Way to Start Off Your Own Jekyll-Powered Site,http://jekyllbootstrap.com/
+Socialization: Liking and Following for your Rails 3 Apps,https://github.com/cmer/socialization
+OEmbedr: Lightweight; Flexible OEmbed Consumer Library,https://github.com/agoragames/oembedr
+Hobson: A Resque-based Distributed Test Runner,https://github.com/deadlyicon/hobson
+Cracking WPA networks with MacRuby,http://knoopx.net/2011/12/14/cracking-wpa-networks-with-macruby
+Vesper: A New Sinatra-based Webapp Framework,http://vesperapps.com/
+Ruby Framework Engineer Job at Zendesk [San Francisco],http://jobs.rubyinside.com/a/jbb/job-details/629274
+,http://jobs.rubyinside.com/a/jbb/job-details/629274
+Ruby on Rails Developer at Unpakt [New York City],http://jobs.rubyinside.com/a/jbb/job-details/626674
+Want your job featured in Ruby Weekly? Learn more here.,http://www.rubyinside.com/post-a-job
+Owning Rails: Marc Andre Cournoyer's Online Rails Masterclass,http://owningrails.com/?ref=5905208113
+The Programming Language Masterclass: Another Marc-Andre Class,http://proglangmasterclass.com/?ref=5905208113
+

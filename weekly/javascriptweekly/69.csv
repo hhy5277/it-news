@@ -1,0 +1,31 @@
+title,link
+my editorial policies,http://javascriptweekly.com/policy.html
+Early O'Reilly Fluent Registration and Program Goes Live,http://fluentconf.com/fluent2012
+jQuery Gets Its Own Foundation,http://blog.jquery.com/2012/03/06/announcing-the-jquery-foundation/
+NotConf: A (Free) JSConf Pre-Conference,http://notconf.com/
+Sencha Touch 2.0 Released,http://www.sencha.com/blog/announcing-sencha-touch-2
+PhoneGap 1.5 Released (The HTML + JS to Native Mobile Apps Tool),http://phonegap.com/2012/03/06/phonegap-1-5-released/
+Node 0.6.12 (stable branch) Released,http://blog.nodejs.org/2012/03/02/version-0-6-12-stable/
+Allen Wirfs-Brock: 'JavaScript will be the canonical language for the next 20+ years',http://webdev360.com/mozilla-s-allen-wirfs-brock-javascript-will-be-the-canonical-language-for-the-next-20-years-41315.html
+How to Build Fast HTML5 Mobile Apps using Backbone; Zepto; and Trigger.io,http://trigger.io/cross-platform-application-development-blog/2012/03/02/how-to-build-fast-html5-mobile-apps-using-backbone-js-zepto-js-and-trigger-io/
+jQuery Tip #5: Using jQuery's end() Function,http://weblogs.asp.net/dwahlin/archive/2012/02/26/jquery-tip-5-using-jquery-s-end-function-to-work-with-sets.aspx
+50+ JavaScript / HTML5 Frameworks and Related Tools,http://www.remotesynthesis.com/post.cfm/50-javascript-html5-frameworks-and-related-tools
+Scraping Web Pages with jQuery; Node.js and Jsdom,http://liamkaufman.com/blog/2012/03/08/scraping-web-pages-with-jquery-nodejs-and-jsdom/
+Understanding Ember.Object,http://www.cerebris.com/blog/2012/03/06/understanding-ember-object/
+ECMAScript 5: A Revolution in Object Properties,http://www.mitya.co.uk/blog/2012/Feb/ECMAScript-revolution-object-properties-201
+JavaScript Jabber on JavaScript Objects,http://javascriptjabber.com/005-jsj-javascript-objects/
+Operating Node.js in Production,http://www.infoq.com/interviews/operating-nodejs-production-bryan-cantrill
+Kalendae: A Framework Agnostic JavaScript Date Selector,https://github.com/ChiperSoft/Kalendae
+,https://github.com/ChiperSoft/Kalendae
+Blur.js: jQuery Plugin for Blurry Page Elements,http://www.blurjs.com/
+SQL.js: SQLite Compiled to JavaScript via Emscripten,http://badassjs.com/post/18857332551/sql-js-sqlite-compiled-to-javascript-via-emscripten
+Threads A GoGo: Threads for Node.js?,https://github.com/xk/node-threads-a-gogo
+ShellJS: Portable Unix Shell Command Implementations for Node.js,https://github.com/arturadib/shelljs
+basket.js: Script Loader That Caches Scripts in localStorage,http://addyosmani.github.com/basket.js/
+Graphene: A D3.js and Backbone.js Visual Dashboard Toolkit,http://jondot.github.com/graphene/
+APIConnect: A JS Client Library for Server Side APIs,http://andrewplummer.github.com/APIConnect/
+Bacon: Functional Reactive Programming Lib for JavaScript,https://github.com/raimohanska/bacon.js
+BankersBox: Redis-like Wrapper in JavaScript for localStorage,http://www.twilio.com/engineering/2012/03/05/open-sourcing-bankersbox
+queryIndexedDB: A Small Query Framework for IndexedDB,https://github.com/philikon/queryIndexedDB
+Throne of JS; a Client Side JS Framework Conf (July 20-22 in Toronto),http://throneofjs.com/
+

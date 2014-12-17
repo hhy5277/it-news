@@ -1,0 +1,34 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+MRI Ruby 1.8; 1.9; 2.0 and 2.1 Affected by Heap Overflow in Floating Point Parsing,https://www.ruby-lang.org/en/news/2013/11/22/heap-overflow-in-floating-point-parsing-cve-2013-4164/
+Ruby 1.9.3-p484,https://www.ruby-lang.org/en/news/2013/11/22/ruby-1-9-3-p484-is-released/
+Ruby 2.0.0-p353,https://www.ruby-lang.org/en/news/2013/11/22/ruby-2-0-0-p353-is-released/
+Ruby 2.1.0 Preview 2 Released; Ruby Gets A New Exception#cause Method,https://www.ruby-lang.org/en/news/2013/11/22/ruby-2-1-0-preview2-is-released/
+Exception#cause,https://bugs.ruby-lang.org/issues/8257
+New Relic’s Giving Away an Xbox One or PS4 Every Day until December 15,http://newrelic.com/lp/holiday-offer?utm_source=COOP&utm_medium=text_ad&utm_content=newsletter&utm_campaign=holidayoffer&mpc=TA-COOP-generic-en-100-holidayoffer-november
+Deploy and enter to win here.,http://newrelic.com/lp/holiday-offer?utm_source=COOP&utm_medium=text_ad&utm_content=newsletter&utm_campaign=holidayoffer&mpc=TA-COOP-generic-en-100-holidayoffer-november
+,http://newrelic.com/lp/holiday-offer?utm_source=COOP&utm_medium=text_ad&utm_content=newsletter&utm_campaign=holidayoffer&mpc=TA-COOP-generic-en-100-holidayoffer-november
+Demystifying the Ruby 2.0 Garbage Collector,http://samsaffron.com/archive/2013/11/22/demystifying-the-ruby-gc
+Speed Up Your Rails App using WebP Images,http://leopard.in.ua/2013/11/23/rails-and-webp/
+'Learn Ruby on Rails' Is Free Till Saturday,http://learn-rails.com/free-book-download.html
+Kickstarter campaign,http://www.kickstarter.com/projects/909377477/learn-ruby-on-rails
+download an advance version of the book for free.,http://learn-rails.com/free-book-download.html
+a post about how crowdfunding has worked out,https://medium.com/on-publishing/628bb69f0fa4
+Anti-Pattern: Iteratively Building a Collection,http://robots.thoughtbot.com/iteration-as-an-anti-pattern/
+Visualizing Garbage Collection in Ruby and Python,http://patshaughnessy.net/2013/10/24/visualizing-garbage-collection-in-ruby-and-python/
+Travis Foundation Launches Open Source Grants with Paymill and RVM,http://about.travis-ci.org/blog/2013-11-22-travis-foundation-launches-open-source-grants/
+How Does Bundler Do Its Magic?,http://kerdany.wordpress.com/2013/11/23/how-does-bundler-do-its-magic/
+How to Optimize Unicorn Workers in a Ruby on Rails App,https://www.digitalocean.com/community/articles/how-to-optimize-unicorn-workers-in-a-ruby-on-rails-app
+Screen Scraping With A Saw: A Nokogiri Tutorial With Examples,http://ruby.elevatedintel.com/blog/screen-scraping-with-a-saw-a-nokogiri-tutorial-with-examples/
+Advanced Memoization in Ruby,http://gavinmiller.io/2013/advanced-memoization-in-ruby/
+Powering Actions with Elasticsearch Percolate,http://blog.feedbin.me/2013/11/10/powering-actions-with-elasticsearch-percolate/
+Pro Tips for Writing Better RSpec Tests,http://blog.joshsoftware.com/2013/11/23/pro-tips-for-writing-better-rspec-tests/
+Diving Into the New Amazon Web Services SDK for Ruby,http://www.youtube.com/watch?v=7oyx7dRBwGs
+The Ruby Rogues look at Threading with Emily Stolfo,http://rubyrogues.com/133-rr-threading-with-emily-stolfo/
+Software Developer at Collaborative Drug Discovery (Burlingame; CA),https://www.collaborativedrug.com/pages/employment
+Ruby Developer at Econify [Manhattan; NY],http://econify.com/careers
+Senior Software Engineers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+Ruboto 0.16.0: The JRuby on Android Platform,http://ruboto.org/2013/11/23/Ruboto-0.16.0-release-doc.html
+RubyMine 6.0 Released: A Major Release for the Ruby and Rails IDE,http://www.jetbrains.com/ruby/whatsnew/
+sbire: Command Line Tool That Recognizes Your Voice Commands,https://github.com/GCorbel/sbire
+

@@ -1,0 +1,14 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Auditing Data Modifications In Postgres,http://www.garysieling.com/blog/auditing-data-changes-postgres
+JSON in PostgreSQL,http://scanningpages.files.wordpress.com/2014/09/pg_json.pdf
+PostgreSQL Offsets and Pagination Performance,http://blog.clearbit.co/postgres-offsets
+Mastering the Postgres Rollout - Follow the Yellow Brick Road?,http://blogs.enterprisedb.com/2014/05/26/mastering-the-postgres-rollout-2/?utm_source=CP&utm_medium=NL&utm_campaign=4PostgresRollout
+,http://blogs.enterprisedb.com/2014/05/26/mastering-the-postgres-rollout-2/?utm_source=CP&utm_medium=NL&utm_campaign=4PostgresRollout
+Finding Duplicate Indexes,http://www.databasesoup.com/2014/09/finding-duplicate-indexes.html
+Settings for A Fast pg_restore,http://www.databasesoup.com/2014/09/settings-for-fast-pgrestore.html
+Vagrant with Docker: How to set up Postgres; Elasticsearch and Redis on OS X,http://maori.geek.nz/post/vagrant_with_docker_how_to_set_up_postgres_elasticsearch_and_redis_on_mac_os_x
+Writing Better PostGIS Queries (Spatial and Geographic Objects for PostgreSQL),https://vimeo.com/106846193
+dockerfdw: Docker FDW,https://github.com/paultag/dockerfdw
+Craig Kerstiens,http://craigkerstiens.com/
+

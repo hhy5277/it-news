@@ -1,0 +1,35 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Turbolinks: Rails 4 to Get Ajax-based Page Loading by Default,https://github.com/rails/turbolinks
+Rails Rumble Registration Opens Monday; October 1st,http://blog.railsrumble.com/
+SciRuby Receives Ruby Association Grant; Fellowships Available,http://sciruby.com/blog/2012/09/24/sciruby-receives-ruby-association-grant--fellowships-available/
+Rescuing Resque: Let's Do This,http://blog.steveklabnik.com/posts/2012-09-22-resque--let-s-do-this
+Learning pjax: Tutorial and Screencast,http://theadmin.org/articles/learning-pjax/
+Unholy Rails: External Scripts; jQuery Plugins; and Page-Specific JavaScript,http://railsapps.github.com/rails-javascript-include-external.html
+Getting Started With Rails 3.2 and MiniTest,http://rubyflewtoo.blogspot.co.uk/2012/09/getting-started-with-ruby-on-rails-32.html
+Upgrading to Ruby 1.9.3: Maximizing Performance,http://pulse.sportngin.com/news_article/show/156863
+Filepicker and Aviary: Image Uploading On Steroids,http://blog.arkency.com/2012/09/filepicker-and-aviary-image-uploading-on-steroids/
+Make Your Rails Development Faster with ruby-perf and Zeus,http://progfu.com/post/32050264470/make-your-rails-development-faster-with-ruby-perf-and
+Rails Guides: Ruby on Rails 4.0 Release Notes (Early Draft),http://edgeguides.rubyonrails.org/4_0_release_notes.html
+A Mind Map of New Ideas and Features Coming in Rails 4,http://blog.wyeworks.com/2012/9/20/rails-4-in-a-mindnode/
+Ruby's Magic Underscore,http://po-ru.com/diary/rubys-magic-underscore/
+Ruby's EventMachine – Part 2 : Asynchronous != Faster,http://www.bigfastblog.com/ruby-eventmachine-part-2-asynchronous-not-equal-faster
+Be Assertive with Sane Exception Handling,http://pbrisbin.com/posts/be_assertive
+Monitoring your Unicorns and Resque with Bluepill and Upstart,http://www.garrensmith.com/2012/09/24/Staying-up-with-Unicorn-Upstart-Bluepill.html
+Implementing Tags in a Rails App with acts-as-taggable-on,http://railscasts.com/episodes/382-tagging
+,http://railscasts.com/episodes/382-tagging
+RubyTapas Episode 1: Binary Literals,http://devblog.avdi.org/2012/09/24/rubytapas-episode-1-binary-literals/
+Writing a Rails Engine,http://confreaks.com/videos/1109-gogaruco2012-writing-a-rails-engine
+Schemaless SQL: The Best of Both Worlds,http://www.confreaks.com/videos/971-mwrc2012-schemaless-sql-the-best-of-both-worlds
+Jesse Storimer on Ruby's IO Buffering And You!,http://jstorimer.com/2012/09/25/ruby-io-buffers.html
+RubyMotion Gets iOS 6 and iPhone 5 Support; Plus a Debugger,http://blog.rubymotion.com/post/31917526853/rubymotion-gets-ios-6-iphone-5-debugger
+Oh My Gems!,http://blog.zenspider.com/blog/2012/09/ohmygems.html
+Sequel 3.40.0 Released: Much Improved MS Access Support and More,https://groups.google.com/forum/#!topic/sequel-talk/cArZglYRQK4/discussion
+rails-auth-github: Simple Rails Engine to Authorize Users Against GitHub,https://github.com/grk/rails-auth-github
+nopassword: A No-Password-Needed Authentication Engine for Rails,https://github.com/alsmola/nopassword
+Rails Developer at Decisiv; Inc. [Anywhere; Remote Working!],http://jobs.rubyinside.com/a/jbb/job-details/735016
+Rails Software Engineer at EchoStar Advanced Technologies [New York City],http://jobs.rubyinside.com/a/jbb/job-details/734630
+Rails Contractor at Aetos Capital [Menlo Park; California],http://jobs.rubyinside.com/a/jbb/job-details/735179
+Back-end Software Engineer at Geckoboard (London; UK),http://www.geckoboard.com/jobs/#backend
+Honeybadger: A New Error Management Service for Rails,https://www.honeybadger.io/
+

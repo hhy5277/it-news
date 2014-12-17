@@ -1,0 +1,63 @@
+title,link
+Chuck Moore's Creations,http://blogs.msdn.com/b/ashleyf/archive/2013/09/21/chuck-moores-creations.aspx?utm_source=statuscode&utm_medium=email
+'The Writer' Automaton,https://www.youtube.com/watch?v=FUa7oBsSDk8#t=64
+Haskell is Useless,http://www.youtube.com/watch?v=iSmkqocn0oQ
+Interview: Bjarne Stroustrup Discusses C++,http://electronicdesign.com/dev-tools/interview-bjarne-stroustrup-discusses-c?utm_source=statuscode&utm_medium=email
+TechEmpower Framework Benchmarks,http://www.techempower.com/benchmarks/?utm_source=statuscode&utm_medium=email
+The Man Who Would Teach Machines to Think,http://www.theatlantic.com/magazine/archive/2013/11/the-man-who-would-teach-machines-to-think/309529/?utm_source=statuscode&utm_medium=email
+Why Use Node.js? A Case-by-Case Introduction,http://www.toptal.com/nodejs/why-the-hell-would-i-use-node-js?utm_source=statuscode&utm_medium=email
+Animated GIFs the Hard Way,http://www.sublimetext.com/~jps/animated_gifs_the_hard_way.html?utm_source=statuscode&utm_medium=email
+PostgreSQL 9.4 now faster than MongoDB for storing JSON documents,http://obartunov.livejournal.com/175235.html?utm_source=statuscode&utm_medium=email
+Parsing; Compiling; and Static Metaprogramming [video],https://www.youtube.com/watch?v=UqTlToUYK1E
+Bloom Filters by Example,http://billmill.org/bloomfilter-tutorial/?utm_source=statuscode&utm_medium=email
+Watch 15 Awesome MS-DOS Viruses in Action,http://www.wired.com/design/2013/10/15-awesome-looking-viruses-from-the-ms-dos-era/?utm_source=statuscode&utm_medium=email
+A (Relatively Easy to Understand) Primer On Elliptic Curve Cryptography,http://arstechnica.com/security/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/?utm_source=statuscode&utm_medium=email
+Why Isn’t Programming Futuristic,http://www.ianbicking.org/blog/2013/10/why-isnt-programming-futuristic.html?utm_source=statuscode&utm_medium=email
+Introducing Riak 2.0: Data Types; Strong Consistency; Full-Text Search; and Much More,http://basho.com/introducing-riak-2-0/?utm_source=statuscode&utm_medium=email
+Valgrind 3.9.0,http://valgrind.org/docs/manual/dist.news.html?utm_source=statuscode&utm_medium=email
+Clang is now C++14 complete; preparing for C++17,http://llvm.org/viewvc/llvm-project?view=revision&revision=194194
+GopherCon 2014: A Conference for Go Developers (Apr 24-26 - Denver; CO),http://www.gophercon.com/?utm_source=statuscode&utm_medium=email
+GNU Make 4.0 released,http://lists.gnu.org/archive/html/make-w32/2013-10/msg00021.html?utm_source=statuscode&utm_medium=email
+Visual Studio 2013 Released to Web,http://blogs.msdn.com/b/visualstudio/archive/2013/10/17/visual-studio-2013-released-to-web.aspx?utm_source=statuscode&utm_medium=email
+Hadoop 2.0 Makes Big Data Even More Accessible,http://readwrite.com/2013/10/16/hadoop-2-yarn-mapreduce-2-big-data-more-accessible#awesm=~okx9zRtiiNQh0v?utm_source=statuscode&utm_medium=email
+Whitedb: Lightweight NoSQL Database Library Written in C,http://whitedb.org/?utm_source=statuscode&utm_medium=email
+dokku: Docker powered mini-Heroku in less than 100 lines of Bash,https://github.com/progrium/dokku?utm_source=statuscode&utm_medium=email
+High Performance Browser Networking,http://chimera.labs.oreilly.com/books/1230000000545?utm_source=statuscode&utm_medium=email
+The Pragmatic Bookshelf Releases '3D Game Programming for Kids',http://pragprog.com/book/csjava/3d-game-programming-for-kids?utm_source=statuscode&utm_medium=email
+Oli Studholme's Web Developer Unicode Tips,http://the-pastry-box-project.net/oli-studholme/2013-october-8/?utm_source=statuscode&utm_medium=email
+article,http://www.joelonsoftware.com/articles/Unicode.html
+Google's Shell Style Guide,http://google-styleguide.googlecode.com/svn/trunk/shell.xml?utm_source=statuscode&utm_medium=email
+Clojure From The Ground Up,http://aphyr.com/posts/301-clojure-from-the-ground-up-welcome?utm_source=statuscode&utm_medium=email
+Git Cheatsheet,http://www.ndpsoftware.com/git-cheatsheet.html?utm_source=statuscode&utm_medium=email
+Natural Language Processing for the Working Programmer,http://nlpwp.org/book/?utm_source=statuscode&utm_medium=email
+GZIP is Not Enough: A Look At Compression and File Sizes on the Web,http://www.youtube.com/watch?v=whGwm0Lky2s
+actualvim: Sublime Text 3 input mode powered by Vim itself,https://github.com/lunixbochs/actualvim?utm_source=statuscode&utm_medium=email
+Modern C++ Programming with Test-Driven Development,http://pragprog.com/book/lotdd/modern-c-programming-with-test-driven-development?utm_source=statuscode&utm_medium=email
+The Ruby Rogues Discuss Remote Pair Programming with Sam Livingston-Gray,http://rubyrogues.com/126-rr-remote-pair-programming-with-sam-livingston-gray/?utm_source=statuscode&utm_medium=email
+A Tiny Roguelike Game in 1KB of C,http://roguelikeeducation.org/2.html?utm_source=statuscode&utm_medium=email
+Nimrod: The Return of Pascal,http://steved-imaginaryreal.blogspot.co.uk/2013/09/nimrod-return-of-pascal.html?utm_source=statuscode&utm_medium=email
+Reverse Debugging with gdb,http://sourceware.org/gdb/wiki/ReverseDebug?utm_source=statuscode&utm_medium=email
+The Quality of Embedded Software; or the Mess Has Happened,http://www.viva64.com/en/a/0083/?utm_source=statuscode&utm_medium=email
+Frege: Non-strict; pure functional programming language in the spirit of Haskell,https://github.com/Frege/frege?utm_source=statuscode&utm_medium=email
+node-jvm: A Java Virtual Machine Implemented in Node.js,https://github.com/YaroslavGaponov/node-jvm#!?utm_source=statuscode&utm_medium=email
+Hylas-Lisp: A JIT-compiled Lisp dialect targetting the LLVM,https://github.com/eudoxia0/Hylas-Lisp?utm_source=statuscode&utm_medium=email
+Crossing Over from C# to Ruby,http://blog.safaribooksonline.com/2013/10/25/crossing-over-from-c-to-ruby/?cid=210310-blog-csharp-social
+High Performance Networking On The JVM [slidedeck],http://normanmaurer.me/presentations/2013-jax-networking-on-jvm/#/1?utm_source=statuscode&utm_medium=email
+Writing a FUSE filesystem in Python,http://www.stavros.io/posts/python-fuse-filesystem/?utm_source=statuscode&utm_medium=email
+Git 2.0 changes push default to 'simple',http://blog.nicoschuele.com/?p=217
+PureScript: Small Strongly; Statically Typed Compile-to-JS Language,https://github.com/paf31/purescript?utm_source=statuscode&utm_medium=email
+CCAN: Comprehensive C Archive Network,http://ccodearchive.net/?utm_source=statuscode&utm_medium=email
+Write Yourself a Scheme in 48 hours,http://jonathan.tang.name/files/scheme_in_48/tutorial/overview.html?utm_source=statuscode&utm_medium=email
+jsSMS: Sega Master System & GameGear Emulator,https://github.com/gmarty/jsSMS?utm_source=statuscode&utm_medium=email
+Reject.JS talk about this,https://www.youtube.com/watch?v=Ey2TGjLTYuw
+Facebook Adopts D Language,http://www.drdobbs.com/mobile/facebook-adopts-d-language/240162694?utm_source=statuscode&utm_medium=email
+Puzzle Script - An Open-Source HTML5 Puzzle Game Engine,http://www.puzzlescript.net/?utm_source=statuscode&utm_medium=email
+ClojureScript: Lisp's Revenge by David Nolan,https://vimeo.com/76226013?utm_source=statuscode&utm_medium=email
+Why Does The C Preprocessor Interpret The Word "linux" As The Constant 1?,http://stackoverflow.com/q/19210935/3951?utm_source=statuscode&utm_medium=email
+Intel's Future Instruction Set: AVX512,http://agner.org/optimize/blog/read.php?i=288
+If Java Is Dying; It Sure Looks Awfully Healthy,http://www.drdobbs.com/jvm/if-java-is-dying-it-sure-looks-awfully-h/240162390/?utm_source=statuscode&utm_medium=email
+The Psychology of Engineers: A Talk on Introversion/Extroversion and Flow [video],http://bits.shutterstock.com/2013/10/10/tech-talk-the-psychology-of-engineers/?utm_source=statuscode&utm_medium=email
+Web Engineer at Maker Studios (Los Angeles),http://www.makerstudios.com/careers/fulltime/web-engineer-all-levels/?utm_source=statuscode&utm_medium=email
+All-round or backend web-developer [Utrecht; The Netherlands],http://blog.blendle.nl/post/65430202736/blendle-needs-an-all-round-and-or-backend-developer?utm_source=statuscode&utm_medium=email
+Senior Software Engineers at HouseTrip [London; UK],http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+

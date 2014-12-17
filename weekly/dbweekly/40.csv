@@ -1,0 +1,34 @@
+title,link
+,http://rackspace.com/
+Using a Graph Database to Ensure a Routable Road Network,https://vimeo.com/110711119
+twemproxy: A Fast; Light-Weight Proxy for memcached and Redis,https://github.com/twitter/twemproxy
+Redis Performance Metrics - Latency is King,http://engineering.objectrocket.com/2014/11/04/thoughts-redis-performance/?cm_mmc=data-_-redis-_-contentawareness-_-dbweekly-blog
+,http://engineering.objectrocket.com/2014/11/04/thoughts-redis-performance/?cm_mmc=data-_-redis-_-contentawareness-_-dbweekly-blog
+MongoDB vs SQL,http://www.mongodb.com/blog/post/mongodb-vs-sql-day-1-2
+Medians in SQL,https://www.periscope.io/blog/medians-in-sql.html
+DeepSort: Scalable Sorting with High Efficiency [PDF],http://sortbenchmark.org/DeepSort2014.pdf
+Introduction to IndexedDB: The In-Browser Database,http://www.codemag.com/Article/1411041
+New OSS Tool Links Postgres and MySQL,http://blogs.enterprisedb.com/2014/11/13/new-os-tool-links-postgres-and-mysql/
+MongoDB Administrator (Austin; TX),https://uscareers-rackspace.icims.com/jobs/9847/mongodb-administrator/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-Mongojob
+Apply here.,https://uscareers-rackspace.icims.com/jobs/9847/mongodb-administrator/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-Mongojob
+Datawarehouse Infrastructure Engineer (San Antonio; TX),https://uscareers-rackspace.icims.com/jobs/12313/datawarehouse-infrastructure-engineer/job
+Learn More.,https://uscareers-rackspace.icims.com/jobs/12313/datawarehouse-infrastructure-engineer/job
+PostgreSQL 9.4 RC1 Released,http://www.postgresql.org/message-id/CA+OCxoxTG58KksSum8OOrGR8rGTh2ACFgwy0=ibfBSWZ2qvw5w@mail.gmail.com
+MongoDB 2.8.0 RC1 Released,https://groups.google.com/d/msg/mongodb-dev/Qpuojq0zWuA/bsNJFY3YEwsJ
+Neo4j 2.1.6 Released,http://neo4j.com/release-notes/neo4j-2-1-6/
+Drupal 8 Can Install Entirely with a NoSQL Database Only,https://groups.drupal.org/node/450528
+'Datathons' Emerge as Training; Recruitment Tool,http://www.datanami.com/2014/11/24/datathons-emerge-training-recruitment-tool/
+Spark Just Passed Hadoop in Popularity on the Web - Here's Why,http://www.datanami.com/2014/11/21/spark-just-passed-hadoop-popularity-web-heres/
+Monary: Really Fast Analysis with MongoDB and NumPy,https://www.youtube.com/watch?v=oteFpXIKBYg
+Database First Normal Form Explained in Simple English,http://www.essentialsql.com/get-ready-to-learn-sql-8-database-first-normal-form-explained-in-simple-english/
+Professional DBAs: What Is The Worst Aspect of The Job?,http://www.reddit.com/r/Database/comments/2nhz9x/professional_dbas_what_is_the_worst_aspect_of_the/
+A Use Case for a Graph Database: Making Recommendations,https://www.interworks.com/blogs/nlaurenti/2014/11/18/use-case-graph-database
+DateTieredCompactionStrategy: Compaction for Time Series Data in Cassandra,http://www.datastax.com/dev/blog/datetieredcompactionstrategy
+Stock Price Prediction With Big Data and Machine Learning,http://eugenezhulenev.com/blog/2014/11/14/stock-price-prediction-with-big-data-and-machine-learning/
+Representing Trees in PostgreSQL,http://woss.name/articles/representing-trees-in-postgresql/
+A Docker Image for Graph Analytics on Neo4j with Apache Spark GraphX,http://www.kennybastani.com/2014/11/graph-analytics-docker-spark-neo4j.html
+Substitute PostgreSQL for Your NoSQL Needs,http://news.dice.com/2014/11/24/substitute-postgresql-nosql-needs/
+Everything about MySQL Users and Logins You Didn’t Know and Were Afraid to Ask,http://mysqlserverteam.com/everything-about-mysql-logins/
+How (And Why) Make Read-only Versions of Your SQL and MySQL Databases,http://gomorpheus.com/blog/2014-11-07-how-and-why-make-read-only-versions-of-your-sql-and-mysql-databases
+Xodus: Java Transactional Schemaless Embedded Database,http://jetbrains.github.io/xodus/
+

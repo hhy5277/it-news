@@ -1,0 +1,29 @@
+title,link
+Ruby 2.2.0 Preview 1 Released,https://www.ruby-lang.org/en/news/2014/09/18/ruby-2.2.0-preview1-released/
+Volt: A Reactive Web Framework with Ruby for both Server and Client,http://voltframework.com/
+Security Watch: Monitoring Ruby Projects for Vulnerabilities,https://hakiri.io/security-watch
+Never worry about your application server again,https://www.phusionpassenger.com/ruby_weekly
+,https://www.phusionpassenger.com/ruby_weekly
+Upmin Admin: A Newly Open Sourced Admin Framework for Rails,https://www.upmin.com/admin-rails
+Boolean Externalities,http://devblog.avdi.org/2014/09/17/boolean-externalities/
+Comparing Zeus With Spring on Rails 4.1 and RSpec 3,https://hackhands.com/fast-tests-comparing-zeus-spring-rails-4-1-rspec-3/
+From Rails 3.2 to 4.2,http://technology.customink.com/blog/2014/09/16/from-rails-3.2-to-4.2/
+PaaS Software Engineer (London; UK),http://hire.jobvite.com/j/?aj=ot5bZfws&s=Ruby_Weekly
+Software Developer at RT Creative Group (Dallas; TX),http://rtcreativegroup.com/jobs
+Don't apply to one company. Apply to 1;000+ at once.,https://hired.com/?utm_source=newsletters&utm_medium=rubyweekly&utm_campaign=sept1_14-rubyw
+Rails 4.1.6 and 4.0.10 Released,http://weblog.rubyonrails.org/2014/9/12/Rails-4-1-6-and-4-0-10-has-been-released/
+Building a Vagrant Box from Start to Finish,https://blog.engineyard.com/2014/building-a-vagrant-box
+Chef Basics for Rails Developers,http://www.gotealeaf.com/blog/chef-basics-for-rails-developers
+How I Build A Docker Image for My Rails App,https://intercityup.com/blog/how-i-build-a-docker-image-for-my-rails-app/
+Daemonizing Ruby Processes,http://codeincomplete.com/posts/2014/9/15/ruby_daemons/
+A Lightweight Way to Handle Different Validation Situations,http://www.justinweiss.com/blog/2014/09/15/a-lightweight-way-to-handle-different-validation-situations/
+ActiveRecord #count vs #length vs #size,http://dev.mensfeld.pl/2014/09/activerecord-count-vs-length-vs-size-and-what-will-happen-if-you-use-it-the-way-you-shouldnt/
+Speed up Rails; Speed up Your Code; Notes on a Presentation,https://ninefold.com/blog/2014/09/18/speed-up-rails-speed-up-your-code-a-preso-by-aaron-patterson/
+Airborne: RSpec-Driven API Testing Framework,https://github.com/brooklynDev/airborne
+Heroku Vector: Simple; Linear Auto Scaling for Heroku Dynos,https://github.com/wpeterson/heroku-vector
+Helioth: A Feature Flipping Ruby Gem,http://www.mythoughts.io/articles/introducing-helioth-feature-flipping-ruby-gem/
+GobiesVM: A Ruby VM Written in Go Aims to Exploit Parallelism Via Software Transactional Memory,https://github.com/brucehsu/gobiesvm
+space-invaders.rb: The Classic Arcade Game written in Ruby with Gosu,https://github.com/DamirSvrtan/space-invaders.rb
+RingSig: Implements One-Time Ring Signatures (a type of Digital Signature),https://github.com/jamoes/ring_sig
+Monitor unlimited Rails apps and hosts with AppSignal,https://appsignal.com/rubyweekly
+

@@ -1,0 +1,23 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 2.3.11 and 3.0.4 Released,http://weblog.rubyonrails.org/2011/2/8/new-releases-2-3-11-and-3-0-4
+JRuby 1.6.0.RC2 Released,http://www.engineyard.com/blog/2011/jruby-1-6-0-rc2-released/
+RSpec 2.5.0 Released,http://blog.davidchelimsky.net/2011/02/06/rspec-250-is-released/
+15 Hours to Rails 3 Confidence?,http://zfer.us/EKm97
+Passing Blocks in Ruby Without &block,http://mudge.github.com/2011/01/26/passing-blocks-in-ruby-without-block.html
+New Ruby 1.9 Features; Tips and Tricks,http://www.igvita.com/2011/02/03/new-ruby-19-features-tips-tricks/
+Improving Your Tests with Capybara Custom Selectors,http://blog.plataformatec.com.br/2011/02/improving-your-tests-with-capybara-custom-selectors/
+Ruby Performance in the Rails Development Environment,http://erik.debill.org/2011/02/03/ruby-performance-in-the-rails-development-environment
+Modules: How Do They Work?,http://carboni.ca/blog/p/Modules-How-Do-They-Work
+Delivering E-mail with Amazon SES in a Rails 3 App,http://robots.thoughtbot.com/post/3105121049/delivering-email-with-amazon-ses-in-a-rails-3-app
+Testing Philosophies [Video Presentation],http://sdruby.org/podcast/83
+Ruby's define_method; method_missing; and instance_eval,http://www.trottercashion.com/2011/02/08/rubys-define_method-method_missing-and-instance_eval.html
+sorcery - A New Rails 3 Authentication Solution,https://github.com/NoamB/sorcery
+rails-sh: A Shell for Rails 3 Development,https://github.com/jugyo/rails-sh
+Wrest: A Caching; REST/HTTP Client Library,https://github.com/kaiwren/wrest
+HTTPS by Default,http://blog.documentcloud.org/blog/2011/02/https-by-default/
+Rails Developer [Cleveland; OH],http://jobs.rubyinside.com/a/jbb/job-details/430136
+Senior Ruby and Sinatra Developer [SF and Santa Monica; CA],http://jobs.rubyinside.com/a/jbb/job-details/437410
+Sr. Ruby Developer [San Diego; CA],http://jobs.rubyinside.com/a/jbb/job-details/439720
+Documentation is Freaking Awesome,http://warpspire.com/talks/documentation/
+

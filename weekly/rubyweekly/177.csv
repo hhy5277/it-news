@@ -1,0 +1,27 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Ruby 2.1 Ubuntu Packages Available,http://brightbox.com/blog/2014/01/09/ruby-2-1-ubuntu-packages/
+Hammerspace: Persistent; Concurrent; Off-heap Storage,http://nerds.airbnb.com/hammerspace-persistent-concurrent-off-heap-storage/
+PStore,http://ruby-doc.org/stdlib-2.0.0/libdoc/pstore/rdoc/PStore.html
+5 Days Remain on the RVM 2.0 Fundraiser,https://www.bountysource.com/fundraisers/489-rvm-2-0
+Stop Including Enumerable; Return an Enumerator Instead,http://blog.arkency.com/2014/01/ruby-to-enum-for-enumerator/
+Nobody Cares About Signed Gems,http://www.rubygems-openpgp-ca.org/blog/nobody-cares-about-signed-gems.html
+Using Faux ActiveRecord Models in Rails 3,http://quickleft.com/blog/using-faux-activerecord-models-in-rails-3
+Is Rubinius 2.2.3 Production Ready?,http://marianposaceanu.com/articles/is-rubinius-2-2-3-production-ready
+Reading Rails: Understanding How ActiveSupport::Concern Works,http://monkeyandcrow.com/blog/reading_rails_concern/
+Presenters to Widgets with ActiveModel::Conversion,http://blog.carbonfive.com/2014/01/07/presenters-to-widgets-with-activemodelconversion/
+Using Docker To Run Ruby RSpec CI in Jenkins,http://www.activestate.com/blog/2014/01/using-docker-run-ruby-rspec-ci-jenkins
+How to Upgrade Devise 2 to 3.2,http://bloginius.com/blog/2013/12/26/how-upgrade-devise-2-dot-x-to-3-dot-2-x/
+Hey There Rubyist; Careful What You Memoize,http://cmme.org/tdumitrescu/blog/2014/01/careful-what-you-memoize/
+Test Driving a JSON API in Rails,http://www.commandercoriander.net/blog/2014/01/04/test-driving-a-json-api-in-rails
+The Ruby 'Struct' Class,http://stephaniehoh.github.io/blog/2013/12/28/the-ruby-struct-class/
+A Big Look at MiniTest,http://www.confreaks.com/videos/2713-arrrrcamp2013-a-big-look-at-minitest
+Ruby Tapas #66: Caching an API,http://www.rubytapas.com/episodes/66-Caching-an-API?filter=free
+Senior Ruby Developer at New Bamboo (London),http://new-bamboo.co.uk/jobs/developer
+Software Developer at Collaborative Drug Discovery (Burlingame; CA),https://www.collaborativedrug.com/pages/employment
+Ruby Web Developer for Home Automation [Broomfield; CO],http://careers.ingersollrand.com/jobs/software-developer-golden-colorado-job-4109162
+Sneakers: Performance Background Processing for Ruby,http://jondot.github.io/sneakers/
+Jubilee: A Rack Server On Top of Vert.x,https://github.com/isaiah/jubilee
+resque_stuck_queue: For If Resque Queues Get Stuck,https://github.com/shaiguitar/resque_stuck_queue
+Hack Reactor: $100k Average Salaries. 98% Hiring Rate,http://www.hackreactor.com/?utm_source=Ruby&utm_medium=weekly&utm_campaign=Rubyweekly1
+

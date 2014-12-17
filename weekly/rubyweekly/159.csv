@@ -1,0 +1,41 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+JavaScript Weekly,http://javascriptweekly.com/
+HTML5 Weekly,http://html5weekly.com/
+Phusion Passenger 4.0.14 Released: Gets Homebrew Support,http://blog.phusion.nl/2013/08/19/phusion-passenger-4-0-14-released/
+Ruby 2 Jeopardy with James Edward Gray II,http://www.confreaks.com/videos/2585-lonestarruby2013-ruby-2-jeopardy
+A Super-Fast JVM-based Ruby Implementation? [PDF],http://lafo.ssw.uni-linz.ac.at/papers/2013_JVMLanguageSummit_OneVMToRuleThemAll.pdf
+similar things can be done for JRuby.,https://twitter.com/headius/status/362641082737115138
+The Password is Dying... But Not Fast Enough,http://developer.rackspace.com/blog/crank-up-app-security-with-multi-factor-authentication.html?cm_mmc=SMB12Display-_-Ruby-_-AppDev-_-password
+Find out why,http://developer.rackspace.com/blog/crank-up-app-security-with-multi-factor-authentication.html?cm_mmc=SMB12Display-_-Ruby-_-AppDev-_-password
+,http://developer.rackspace.com/blog/crank-up-app-security-with-multi-factor-authentication.html?cm_mmc=SMB12Display-_-Ruby-_-AppDev-_-password
+PostGIS and Rails: A Simple Approach,http://ngauthier.com/2013/08/postgis-and-rails-a-simple-approach.html
+Mastering Modern Payments: Using Stripe with Rails,https://www.petekeen.net/mastering-modern-payments
+a sample chapter.,https://d2s7foagexgnc2.cloudfront.net/files/d9ed6537b33af1b9b867/mastering-modern-payments-sample-chapter.pdf
+Bundler Local Paths,http://ryanbigg.com/2013/08/bundler-local-paths/
+Strong Parameters by Example,http://blog.sensible.io/2013/08/17/strong-parameters-by-example.html
+A Look at OrientDB: The Graph-Document NoSQL Database,http://www.sitepoint.com/a-look-at-orientdb-the-graph-document-nosql/
+Rails API Testing Best Practices (with RSpec),http://matthewlehner.net/rails-api-testing-guidelines/
+I Like Pry But...,http://gaslight.co/blog/i-like-pry-but-dot-dot-dot
+Implementing Multi-Table Full Text Search with Postgres in Rails,http://robots.thoughtbot.com/post/58438017998/implementing-multi-table-full-text-search-with-postgres
+Faster Test Suite Boot Times with Rails,http://blog.codeship.io/2013/08/21/faster-test-suite-boot-times-with-ruby-on-rails.html
+A Rails API Pattern For Complex Collections,http://blog.dcxn.com/2013/08/15/a-rails-api-pattern-for-complex-collections/
+Design Patterns: The Observer Pattern,http://reefpoints.dockyard.com/2013/08/20/design-patterns-observer-pattern.html
+Gotchas in the Ruby Sequel Gem,http://fredwu.me/post/58910814911/gotchas-in-the-ruby-sequel-gem
+Log4r for Rails: Part I of 'Scalable and Robust Logging for Web Apps',http://blog.mmlac.com/log4r-for-rails/
+Friendly Flying Robots with Ruby,http://steelcityruby.confbots.com/video/72709097
+Dissecting Ruby with Ruby,http://www.confreaks.com/videos/2586-lonestarruby2013-dissecting-ruby-with-ruby
+ruby_identicon: A Gem for Creating GitHub-style 'Identicons',https://github.com/chrisbranson/ruby_identicon
+,https://github.com/chrisbranson/ruby_identicon
+Engagement: Measuring Social Engagement with Ruby,https://github.com/gaslight/engagement
+Interactor: A Common Interface for Performing Complex Interactions in A Single Request,https://github.com/collectiveidea/interactor
+interactor-rails,https://github.com/collectiveidea/interactor-rails
+dbview_cti: Class Table Inheritance (CTI) for Rails,https://github.com/mvdamme/dbview_cti
+node_module: Run (Some) Ruby Methods as JavaScript under Node.js,https://github.com/leemachin/node_module
+Senior Software Engineer at OpenTable (San Francisco; CA),http://engineering.opentable.com
+Ruby Developers at REA Group (Melbourne Australia),http://rea.to/ruby-developer#?
+Ruby Developers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oqRWWfwT&s=Ruby_weekly
+StatusPage.io Is The Best Way Create A Status Page For Your Website Or App,https://www.statuspage.io/?utm_source=Ruby+Weekly&utm_medium=newsletter&utm_campaign=ruby_weekly_8_22
+StatusPage.io,https://www.statuspage.io/?utm_source=Ruby+Weekly&utm_medium=newsletter&utm_campaign=ruby_weekly_8_22
+A Fast Track Weekend to Learn Ruby on Rails; Online or in San Francisco,http://learn-rails.com/learn-ruby-on-rails.html?ref=pc
+

@@ -1,0 +1,38 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Scout,https://scoutapp.com/r/rn
+Scout,https://scoutapp.com/r/rn
+Updates on the ruby-lang.org Overhaul,http://tech.hugr.fr/blog/2011/09/03/updates-on-the-ruby-lang-org-overhaul/
+Rails' Creator; DHH; Looking to Drive in Le Mans 2013,http://translate.google.com/translate?sl=da&tl=en&u=http%3A%2F%2Fwww.version2.dk%2Fartikel%2Fdansk-ruby-rails-opfinder-vil-koere-le-mans-30662
+Ruby on Rails 3.0: A Free Student Manual,https://github.com/bryanbibat/rails-3_0-tutorial
+Phusion Passenger 3.0.9 Released,http://blog.phusion.nl/2011/09/04/phusion-passenger-3-0-9-released/
+A MiniTest::Spec Tutorial: Elegant Spec-Style Testing That Comes With Ruby,http://www.rubyinside.com/a-minitestspec-tutorial-elegant-spec-style-testing-that-comes-with-ruby-5354.html
+The Chatlog of The Conversation That Caused Ruby to Be Called 'Ruby',http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/88819
+Getting to Know ActiveSupport::Callbacks,http://thomasmango.com/2011/09/02/getting-to-know-active-support-callbacks/
+How 37signals Sets Up A New Machine for Ruby Development,http://37signals.com/svn/posts/2998-setting-up-a-new-machine-for-ruby-development
+Deploying A Rails 3.1 App: Some Gotchas,http://merbist.com/2011/08/30/deploying-a-rails-3-1-app-gotchas/
+Making ri Useful,http://unethicalblogger.com/2011/09/01/making-ri-useful.html
+Testing Singletons Effectively in Ruby,http://www.plainlystated.com/2011/08/testing-singletons-in-ruby/
+Making a Mockery of TDD,http://avdi.org/devblog/2011/09/06/making-a-mockery-of-tdd/
+The Secret to Rails OO Design: More Ruby Classes,http://blog.steveklabnik.com/2011/09/06/the-secret-to-rails-oo-design.html
+How to Run a Sinatra App using JRuby,http://rubylearning.com/blog/2011/09/03/how-do-i-run-a-sinatra-app-using-jruby/
+A Ruby Optimization Example: Executing A Block in a Different Context,http://merbist.com/2011/09/05/ruby-optimization-example-and-explaination/
+Textmate to Vim: Reproducing 100+ TM Commands in Vim,http://www.jackkinsella.ie/2011/09/05/textmate-to-vim.html
+RailsCasts: Upgrading to Rails 3.1,http://railscasts.com/episodes/282-upgrading-to-rails-3-1
+Obie Fernandez Interviews Wayne Seguin (Mr. RVM),http://www.infoq.com/interviews/seguin-rvm
+ComaLisp: A Lispy Abuse of Ruby,http://metacircus.com/hacking/2011/09/07/lispy-abuse-of-ruby-syntax.html
+ruby-debug-pry: Add Pry to Good Old ruby-debug,https://github.com/AndrewO/ruby-debug-pry
+Maxixe: Simple Statistical Segmenter For Any Written Language,http://rogerbraun.net/maxixe-a-simple-statistical-segmenter-for-any
+Alondra: Real-time Push Server Framework for Rails 3.1 Apps,https://github.com/afcapel/alondra
+Super-Easy Default Attributes on ActiveRecord Associations in Rails,http://tekin.co.uk/2011/08/default-attributes-on-active-record-associations/
+Combustion: Better Rails Engine Testing,http://freelancing-gods.com/posts/combustion_better_rails_engine_testing
+sinatra-assetpack: Transparent Asset Packaging for Sinatra,https://github.com/rstacruz/sinatra-assetpack
+handlebars_assets: Use handlebars.js Templates With Rails 3.1's Asset Pipeline,https://github.com/leshill/handlebars_assets
+minitest-rails: MiniTest Integration for Rails 3.1,https://github.com/blowmage/minitest-rails
+Sr Ruby Developer for the Internet Marketing Ninjas [Saratoga; New York],http://jobs.rubyinside.com/a/jbb/job-details/542857
+Front-End Software Engineer for HealthCentral.com [Arlington; Virginia],http://jobs.rubyinside.com/a/jbb/job-details/543091
+Ruby and Rails Engineers (Edinburgh; Scotland),http://www.freeagentcentral.com/company/jobs
+See 20 other great Ruby jobs at the Ruby Inside job board,http://jobs.rubyinside.com/
+RubyPair: An App To Find People to Pair Program With (Locally and Remotely),http://rubypair.com/
+Scout (this week's sponsor): A Pioneer in Hosted Server Monitoring,https://scoutapp.com/r/rn
+

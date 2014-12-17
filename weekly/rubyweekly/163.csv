@@ -1,0 +1,41 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+The Well-Grounded Rubyist; Second Edition: The Early Access Edition,http://www.manning.com/black3/
+,http://www.manning.com/black3/
+Feature #8579: Frozen String Syntax (for Ruby 2.1),https://bugs.ruby-lang.org/issues/8579
+RubyConf 2013 Program Announced,http://rubyconf.org/program
+cause some controversy on Twitter.,https://twitter.com/rubyconf/status/380391363553935360
+Merge test coverage into your master CI workflow,https://semaphoreapp.com/
+,https://semaphoreapp.com/
+Ruby 2.1 Garbage Collection to Address Criticism on Large Scale Deployments,http://www.infoq.com/news/2013/09/ruby-2-1-gc-revamp
+Essential Tools for Starting a Rails App in 2013,http://www.petekeen.net/essential-tools-for-starting-a-rails-app-in-2013
+A Case Against Cucumber,http://blog.8thlight.com/kevin-liddle/2013/09/18/a-case-against-cucumber.html
+The Cost of 'If',http://erniemiller.org/2013/09/16/the-cost-of-if/
+The Predicate Module Pattern,http://raganwald.com/2013/09/12/the-predicate-module-pattern.html
+Config and Generators in Gems,http://rarlindseysmash.com/posts/config-and-generators-in-gems
+ActiveRecord Enhanced Query Objects,http://hasghari.github.io/2013/09/15/active-record-enhanced-query-objects.html
+Protip: Faster Ruby Tests with DatabaseCleaner and DatabaseRewinder,http://fredwu.me/post/61571741083/protip-faster-ruby-tests-with-databasecleaner-and
+The Ruby Rogues Discuss ROM (Ruby Object Mapper) with Piotr Solnica,http://rubyrogues.com/123-rr-rom-with-piotr-solnica/
+Ruby Object Mapper.,http://rom-rb.org/
+A Two Part Personal Interview with David Heinemeier Hansson (DHH),http://productpeople.tv/2013/09/11/ep43-dhh-part1/
+part two,http://productpeople.tv/2013/09/18/ep44-how-dhh-became-a-partner-at-37signals-part-2/
+Goworker: A Go-based Resque-compatible Background Worker,http://www.goworker.org/
+Rubytrivia: An Open Source iPhone App for Learning Ruby Trivia,http://iconoclastlabs.github.io/rubytrivia/
+ruby-trivia,https://github.com/gregstallings/ruby-trivia
+available for free on the iTunes App Store.,https://itunes.apple.com/us/app/ruby-trivia/id703147133?ls=1&mt=8
+BitNami Ruby Stack: Now Streamlined with PostgreSQL and Node.js Options,http://blog.bitnami.com/2013/09/rubstack-now-minimal-and-with.html
+RedScript: A Ruby Flavored JavaScript Experiment,https://github.com/AdamBrodzinski/RedScript
+Sidetiq: Recurring Jobs for Sidekiq,https://github.com/tobiassvn/sidetiq
+http: A Simple Ruby DSL for Making HTTP Requests,https://github.com/tarcieri/http
+Rails 4 Support for RailsThemes Themes,http://blog.railsthemes.com/2013/09/09/rails-4-support-for-railsthemes-themes/
+Software Developer at OrgSync (Dallas; TX),http://www.orgsync.com/job_openings/ruby-developer
+Senior Ruby Developer at Econify (Washington DC),http://econify.com/contact
+Senior Software Engineers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+Server Monitoring that grows with you. Write your own plugins in Ruby.,https://scoutapp.com/?src=rw2
+open source plugins,https://scoutapp.com/plugin_urls?src=rw2
+Chef recipe and a Puppet Module,https://scoutapp.com/tour/devops?src=rw2
+Docker,http://blog.scoutapp.com/articles/2013/08/28/docker-git-for-deployment?src=rw2
+Linux Containers Plugin,https://scoutapp.com/plugin_urls/10591-lxc-monitoring?src=rw2
+,https://scoutapp.com/?src=rw2
+Rogue Rails: An Agile Rails 4 Workshop and Conference (Oct 23-26; Oregon),http://www.roguerails.com/
+

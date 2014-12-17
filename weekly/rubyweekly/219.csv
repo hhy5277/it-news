@@ -1,0 +1,34 @@
+title,link
+Ruby 2.1.4; 2.0.0-p594; and 1.9.3-p550 Released,https://www.ruby-lang.org/en/news/2014/10/27/ruby-2-1-4-released/
+2.0.0-p594,https://www.ruby-lang.org/en/news/2014/10/27/ruby-2-0-0-p594-is-released/
+1.9.3-p550,https://www.ruby-lang.org/en/news/2014/10/27/ruby-1-9-3-p550-is-released/
+Rails vs. Sinatra by Example,http://www.airpair.com/ruby-on-rails/posts/rails-vs-sinatra
+CVE-2014-8080: Denial of Service XML Expansion,https://www.ruby-lang.org/en/news/2014/10/27/rexml-dos-cve-2014-8080/
+Semaphore launched CI for Bitbucket projects,https://semaphoreapp.com/
+,https://semaphoreapp.com/
+Tagging from Scratch in Rails,http://www.sitepoint.com/tagging-scratch-rails/
+Feature Flags on Rails,https://www.reinteractive.net/posts/221-feature-flags-on-rails
+Changed Default Settings of ext/openssl,https://www.ruby-lang.org/en/news/2014/10/27/changing-default-settings-of-ext-openssl/
+Ruby on Rails Developer - Philadelphia; PA - eCommerce,http://weblinc.workable.com/jobs/17597
+Front-end developer at Econify (New York; NY),http://www.econify.com/careers
+RailsBricks 3 Released,http://railsbricks.net/news/railsbricks-3-is-live
+all new site and intro video,http://www.railsbricks.net/
+Rack-Next: For Discussion and Planning of The Next Ruby Web Interface,https://github.com/Wardrop/Rack-Next
+the_metal,https://github.com/tenderlove/the_metal
+Volt + Fire = Bringing Ruby to Modern Webapps,http://astonj.com/tech/ruby-is-about-to-get-red-hot-again/
+Under the Hood of Ruby's Generational Garbage Collector,https://www.youtube.com/watch?v=hcaYjiAIres&list=UUWnPjmqvljcafA0z2U1fwKQ
+When to Use Protected Methods in Ruby,http://nithinbekal.com/posts/ruby-protected-methods/
+Debugging Ruby C Extensions in XCode,http://www.emilsoman.com/blog/2014/08/06/debugging-ruby-c-extensions-in-xcode/
+Adding Stripe Payments to a Rails App Using Webhooks,http://www.airpair.com/ruby-on-rails/posts/adding-stripe-to-rails-with-webhooks
+Updating to Rails 4.2,http://railsapps.github.io/updating-rails.html
+Testing Execution of A before_filter with an RSpec Custom Matcher,http://arubystory.blogspot.gr/2014/10/testing-execution-of-beforefilter-with.html
+Create Complex HTML Tags in Rails,http://pothibo.com/2014/10/create-complex-html-tags-in-rails
+In Defense of 'alias',http://erniemiller.org/2014/10/23/in-defense-of-alias/
+Multiple file upload with jQuery; Rails 4 and Paperclip,http://5minutenpause.com/blog/2013/09/04/multiple-file-upload-with-jquery-rails-4-and-paperclip/
+A Look at Ruby's Object.new in C,https://www.omniref.com/ruby/2.2.0.preview1/symbols/Object#annotation=4033996&line=1866
+Thin (Protein Powder) 1.6.3 Released,https://github.com/macournoyer/thin/
+Dorothy2: A Malware/Botnet Analysis Framework Written in Ruby,https://github.com/m4rco-/dorothy2
+Asciidoctor: An Open Source Implementation of AsciiDoc in Ruby,http://asciidoctor.org/
+pocketsphinx-ruby: Ruby Speech Recognition with Pocketsphinx,https://github.com/watsonbox/pocketsphinx-ruby
+RefactorCop: Uses RuboCop to Scan Open Source Ruby Projects for Code Quality Improvements,http://www.refactorcop.com/
+

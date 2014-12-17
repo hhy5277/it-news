@@ -1,0 +1,35 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Scout,https://scoutapp.com/r/rn
+Sinatra 1.3.0 and 1.2.7 Released,http://www.sinatrarb.com/2011/09/30/sinatra-1.3.0
+Padrino 0.10.3 Released: Now with Sinatra 1.3 Support,http://www.padrinorb.com/blog/padrino-0-10-3-sinatra-1-3-documentation-minitest-improved-logger-and-more
+Ruby-doc.org Officially Updated,http://www.jamesbritt.com/2011/10/3/ruby-doc-org-officially-updated
+Ryan Bates Releases 'RailsCasts Pro',http://railscasts.com/pro
+UK Rails Host Brightbox Unveils 'Brightbox Cloud',http://brightbox.com/blog/2011/10/03/brightbox-cloud-general-availability/
+50-Dollar Bug Bounties for ruby_parser Fixes on 1.9,http://blog.zenspider.com/2011/09/wanted-50-fix-ruby-parser-fixe.html
+Scout: Sys-Adminless Hosted Server Monitoring; Built on Ruby,https://scoutapp.com/r/rn
+,https://scoutapp.com/r/rn
+Unobtrusive Ruby in Practice,http://practicingruby.com/articles/shared/ozkzbsdmagcm
+The Training Wheels Came Off (in Cucumber),http://aslakhellesoy.com/post/11055981222/the-training-wheels-came-off
+MiniTest::Spec Setup with Capybara for Testing in Rails 3.1,http://code-ningja.posterous.com/73460416
+Try Ruby Rewrite and Redesign,http://blog.envylabs.com/2011/09/try-ruby-rewrite-and-redesign/
+The Global Interpreter Lock and Ruby concurrency,http://merbist.com/2011/10/03/about-concurrency-and-the-gil/
+MicroGems: Putting a Gem in a Gist,http://jeffkreeftmeijer.com/2011/microgems-five-minute-rubygems/
+An Introduction to Ruby Doctest,http://rubylearning.com/blog/2011/10/05/do-you-know-ruby-doctest/
+How Ruby is Beating Python in the Battle for the Soul of System Administration,http://devopsanywhere.blogspot.com/2011/09/how-ruby-is-beating-python-in-battle.html
+Code Your Own Multi-User Private Git Server in 5 Minutes,https://moocode.com/posts/6-code-your-own-multi-user-private-git-server-in-5-minutes
+Installing Ruby Enterprise Edition on OS X Lion,http://blog.phusion.nl/2011/10/01/installing-ruby-enterprise-edition-on-os-x-lion/
+Matz's RubyConf 2011 Keynote: Ruby Everywhere,http://confreaks.net/videos/654-rubyconf2011-keynote-ruby-everywhere
+RailsCasts: Draper,http://railscasts.com/episodes/286-draper
+fog 1.0 Released: Control Cloud Infrastructure from Ruby,http://www.engineyard.com/blog/2011/fog-1-0-is-here/
+Rubillow: Ruby Library to Access the Zillow API,https://github.com/synewaves/rubillow
+A Rails FormBuilder DSL for Generating Twitter Bootstrap Forms,https://github.com/stouset/twitter_bootstrap_form_for
+Using the X-Cascade Header in Rails,http://teambandb.typepad.com/soultech/2011/10/x-cascade-header-in-rails.html
+Developer and Creative Technologist [London; UK],http://jobs.rubyinside.com/a/jbb/job-details/560312
+Back-End Developer [Bay Area; SF],http://jobs.rubyinside.com/a/jbb/job-details/560129
+Rails Developer at District Management Council [Boston; Massachusetts],http://jobs.rubyinside.com/a/jbb/job-details/560696
+Agile Developer at Case Commons [New York City],http://jobs.rubyinside.com/a/jbb/job-details/558380
+Redmine Tips: A Guide to Mastering Redmine,http://www.redminetips.com/
+,http://www.redminetips.com/
+The Ruby 1.9 Walkthrough Screencast: Ruby 1.9 in 3 Hours with Peter Cooper,http://www.rubyinside.com/19walkthrough/
+

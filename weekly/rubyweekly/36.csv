@@ -1,0 +1,27 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 3.0.6 Released by Aaron Patterson,http://weblog.rubyonrails.org/2011/4/6/rails-3-0-6-has-been-released
+Phusion Passenger 3.0.6 - Another bug fix release,http://blog.phusion.nl/2011/04/03/phusion-passenger-3-0-6-released/
+RubyGems 1.7.2 - And again..,http://blog.segment7.net/2011/04/05/rubygems-1-7-2
+FreeAgent Needs Ruby Engineers [Edinburgh and Cambridge; UK],http://www.freeagentcentral.com/company/jobs
+RSpec Is For The Literate,http://avdi.org/devblog/2011/04/07/rspec-is-for-the-literate/
+A Code Safari: Configuring Capybara with Xavier Shay,http://rubysource.com/code-safari-configuring-capybara/
+Making Rubinius .rbc Files Disappear,http://rubini.us/2011/03/11/making-rubinius-rbc-files-disappear/
+Useful Heroku-Friendly Rewrites with rack-rewrite,http://icelab.com.au/articles/useful-heroku-friendly-rewrites-with-rack-rewrite/
+Understanding Class Instance Variables in Ruby,http://blog.codegram.com/2011/4/understanding-class-instance-variables-in-ruby
+Setting up private streaming with Amazon CloudFront and Rails,http://r2d6.com/posts/1301220789-setting-up-private-streaming-with-cloudfront-and-ruby-on-rails
+Ruby Code Performance Tweaks with Kurt Stephens,http://vimeo.com/11493352
+How to Configure ActiveRecord in Sinatra,http://screencasts.org/episodes/configuring-activerecord-in-sinatra
+Messaging with Faye,http://railscasts.com/episodes/260-messaging-with-faye
+5 Ways to Create Hashes in Ruby (and 1 you should never use..),http://www.heartmindcode.com/blog/2011/04/creating-ruby-hashes/
+Geocoder: A Complete Geocoding Solution,https://github.com/alexreisner/geocoder
+Koala: A Comprehensive Facebook API Library,https://github.com/arsduo/koala
+midi-winmm: Realtime MIDI input and output with Ruby for Windows/Cygwin,https://github.com/arirusso/midi-winmm
+rvmprompt.vim: RVM info on your Vim prompt,http://lucapette.com/vim/rvmprompt.vim/
+Guard::Spork: Automatically Manage and Reload Spork DRb Servers,https://github.com/guard/guard-spork
+Ruby (Rails/Sinatra) Developer [Santa Monica; California],http://jobs.rubyinside.com/a/jbb/job-details/472227
+Application Developer [Boston; Massachusetts],http://jobs.rubyinside.com/a/jbb/job-details/470753
+18 New Ruby and Rails Jobs for April 2011,http://www.rubyinside.com/18-new-ruby-and-rails-jobs-for-april-2011-4646.html
+Ruby Hero Awards Nominations are.. OPEN!,http://rubyheroes.com/
+NoSQL Weekly: Like Ruby Weekly but for NoSQL Tech,http://nosqlweekly.com/
+

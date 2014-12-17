@@ -1,0 +1,31 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Phusion Passenger Enterprise Released,https://www.phusionpassenger.com/enterprise
+,https://www.phusionpassenger.com/enterprise
+Rails 3.2.7 Released,http://weblog.rubyonrails.org/2012/7/26/ann-rails-3-2-7-has-been-released/
+Rails 3.2.8 Release Candidate 1 Released: Final Due on Friday,http://weblog.rubyonrails.org/2012/8/1/ann-rails-3-2-8-rc1-has-been-released/
+Advanced Online Classes by Marc-Andre Cournoyer; creator of Thin,http://classes.codedinc.com/&utm_campaign=july
+,http://classes.codedinc.com/&utm_campaign=july
+O'Reilly's 'Learning Rails 3' Now in Print,http://shop.oreilly.com/product/0636920021322.do?imm_mid=08fe71&cmp=em-code-pr-learning-rails-3
+,http://shop.oreilly.com/product/0636920021322.do?imm_mid=08fe71&cmp=em-code-pr-learning-rails-3
+Is It Live? Rails 4.0 To Get 'Live Streaming' Support,http://tenderlovemaking.com/2012/07/30/is-it-live.html
+Florian Hanke Benchmarks Unicorn; Thin and Ricer,http://florianhanke.com/blog/2012/07/16/and-faster-still.html
+Getting Your Heart Rate Using R and Ruby,http://blog.airbrake.io/guest-post/exploring-everything/
+Ruby Constructs: Classes; Modules and Mixins,http://matt.aimonetti.net/posts/2012/07/30/ruby-class-module-mixins/
+The Differences Between Object#dup and Object#clone,http://coderwall.com/p/1zflyg
+Your First Ruby Native Extension: C,http://blog.jcoglan.com/2012/07/29/your-first-ruby-native-extension-c/
+'What is Rack?': A Primer,http://codefol.io/posts/14--What-is-Rack-A-Primer
+Objects; Classes and Modules,http://patshaughnessy.net/2012/7/26/objects-classes-and-modules
+Active Record Deep Dive (in 11 Short Videos),http://schneems.com/post/28125445535/active-record-deep-dive
+Synack: Send Messages to OS X Mountain Lion's Notification Center,https://github.com/Bantik/synack
+Ricer: Fast Rack-Compliant Ruby Web Server Written in C,https://github.com/charliesome/ricer
+TwitterCLDR: Improving Internationalization Support in Ruby,http://engineering.twitter.com/2012/08/twittercldr-improving.html
+Clean Tests: Sugar for Making Test::Unit Tests Clearer,http://davetron5000.github.com/clean_test/
+Brakeman 1.7.0 Released: The Rails Security Scanner,http://brakemanscanner.org/blog/2012/07/31/brakeman-1-dot-7-0-released/
+RLTK: Ruby Language Toolkit,https://github.com/chriswailes/RLTK
+Clockwork SMS API: Send Text Messages from Ruby (UK-oriented; 5p a message),https://github.com/mediaburst/clockwork-ruby
+Software Engineer for a Revolutionary Ruby Product at Crisply [Woodbridge; CT or Remote],http://jobs.rubyinside.com/a/jbb/job-details/708301
+Ruby on Rails Developer at OneLogin [San Francisco],http://jobs.rubyinside.com/a/jbb/job-details/715321
+Ruby Developer at Wildfire Interactive [Redwood City; California],http://jobs.rubyinside.com/a/jbb/job-details/716582
+Writing FizzBuzz Without Modulus Division,https://gist.github.com/3230984
+

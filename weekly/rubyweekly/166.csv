@@ -1,0 +1,32 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rubinius 2.0 Released,http://rubini.us/2013/10/04/rubinius-2-0-released/
+Registration for Rails Rumble 2013 Now Open,http://blog.railsrumble.com/2013/10/07/registration-has-opened/
+A Kickstarter for Learn Ruby on Rails by Daniel Kehoe,http://www.kickstarter.com/projects/909377477/learn-ruby-on-rails
+Ruby on Ales 2014 CFP Open (March 2014 in Bend; Oregon),http://ruby.onales.com/
+A Look at Capistrano 3,https://medium.com/p/ba896a142ac
+version 3.0.0,http://rubygems.org/gems/capistrano/versions/3.0.0
+Benchmarking Ruby 2.1 and Rubinius 2.0,http://miguelcamba.com/blog/2013/10/05/benchmarking-the-ruby-2-dot-1-and-rubinius-2-dot-0/
+Using Ruby's String#gsub With a Hash,http://batsov.com/articles/2013/10/03/using-rubys-gsub-with-a-hash/
+Ruby’s Top 'self' Object,http://www.sitepoint.com/rubys-top-self-object/
+Using Katas To Improve,http://blog.8thlight.com/chong-kim/2013/09/26/using-katas-to-improve.html
+Ruby Refactoring Cheatsheet,http://ghendry.net/refactor.html
+Handling Money in Rails: Part I,http://www.ecommerceonrails.com/2013/10/09/using-money-in-rails.html
+Getting CPUID Info From Ruby,http://cstrahan.com/2013/07/14/pure-ruby-cpuid-via-ffi.html
+A Walkthrough of Building and Deploying a Ruby 'Microsite' with Sinatra on a Linux VPS,http://codylittlewood.com/build-and-deploy-ruby-microsite-with-sinatra/
+Natural Language Processing with Ruby: n-grams,http://www.sitepoint.com/natural-language-processing-ruby-n-grams/
+ActiveRecord.where.not(:sane => true),http://erniemiller.org/2013/10/07/activerecord-where-not-sane-true/
+Aaron Patterson's RubyConf India 2013 Keynote,http://www.youtube.com/watch?v=KMu_fzOncc4
+Join the FreeAgent Engineering team [Edinburgh/Remote],http://www.freeagent.com/company/jobs/software-engineer
+,http://www.freeagent.com/company/jobs/software-engineer
+Ruby on Rails + Javascript Engineer at ZenPayroll (San Francisco; CA),https://zenpayroll.com/careers
+jobs@zenpayroll.com,mailto:jobs@zenpayroll.com
+Senior Software Engineers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+JRuby 1.7.5 Released,http://jruby.org/2013/10/07/jruby-1-7-5.html
+Rails 3.2.15 Release Candidate 2 Released,http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/411138
+vim-unstack: Vim Plugin for Parsing Stack Traces and Opening The Files,https://github.com/mattboehm/vim-unstack
+Prerender: Making AngularJS; Backbone or Ember Apps Search Engine Friendly,http://prerender.io/
+RAML: A RESTful API Modeling Language,http://raml.org/
+gem_velocities: See Graphs of Rubygem Download Counts over Time,https://github.com/shaiguitar/gem_velocities#readme
+Built for Ruby. Fast and scalable. Painless deployment. Great support.,https://shellycloud.com/?utm_source=Ruby+Weekly&utm_medium=email&utm_campaign=rubyweekly3
+

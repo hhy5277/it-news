@@ -1,0 +1,33 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Sinatra: Up and Running (New Book from O'Reilly),http://shop.oreilly.com/product/0636920019664.do
+,http://shop.oreilly.com/product/0636920019664.do
+awesome_print 1.0 Released,https://github.com/michaeldv/awesome_print
+Scout: Sys-Adminless Hosted Server Monitoring; Built on Ruby,https://scoutapp.com/r/rn
+,https://scoutapp.com/r/rn
+Cut and Polish: A Guide to Crafting Gems,http://freelancing-gods.com/posts/cut_and_polish_a_guide_to_crafting_gems
+Method Chaining and Lazy Evaluation in Ruby,http://jeffkreeftmeijer.com/2011/method-chaining-and-lazy-evaluation-in-ruby/
+Implementing Autocomplete with Redis in Rails 3.1,http://patshaughnessy.net/2011/11/23/finding-your-soulmate-autocomplete-with-redis-in-rails-3-1
+Ruby Blocks as Dynamic Callbacks,http://www.mattsears.com/articles/2011/11/27/ruby-blocks-as-dynamic-callbacks?
+Writing Simple Ruby Client/Servers using Protobufs,http://engineering.gomiso.com/2011/11/28/writing-simple-ruby-clientservers-using-protobufs/
+Rails 3.2 Gets 'pluck' Method; Returns Array of Table Column Values,https://github.com/rails/rails/commit/a382d60f6abc94b6a965525872f858e48abc00de
+Acceptance Testing with Responsive Layouts,http://www.blaulabs.de/2011/11/acceptance-testing-with-responsive-layouts/
+The State of Ruby ORMs,http://solnic.eu/2011/11/29/the-state-of-ruby-orm.html
+Xavier Shay's DataMapper Retrospective,http://rhnh.net/2011/11/29/datamapper-retrospective
+In-Place Editing - RailsCasts,http://railscasts.com/episodes/302-in-place-editing
+,http://railscasts.com/episodes/302-in-place-editing
+Pat Shaughnessy on Bundler 1.1,http://bostonrb.org/presentations/bundler-11
+Heroku and Rails 3.1,http://bostonrb.org/presentations/heroku-and-rails-31
+The Ruby Rogues on Software Craftsmanship,http://rubyrogues.com/030-rr-software-craftsmanship/
+Building a Rails Plugin with Tested Assets (Screencast),http://blog.approache.com/2011/11/rails-plugin-with-tested-assets.html
+Jbuilder: DHH's JSON Production Library,https://github.com/rails/jbuilder
+Wash Out: A Simple Rails 3 SOAP Server Library,https://github.com/roundlake/wash_out
+Methadone - Build Better Ruby-based CLIs with Logging and Cucumber Support,http://thechangelog.com/post/13453979118/methadone-build-better-ruby-based-clis-with-logging
+Command Line Reporter: Nicer Formatting for Ruby Script Output,https://github.com/wbailey/command_line_reporter
+Moxy: A Programamble Mock HTTP Proxy,http://jondot.github.com/moxy/
+faye-websocket: A Standards-Compliant WebSocket Library,http://blog.jcoglan.com/2011/11/28/announcing-faye-websocket-a-standards-compliant-websocket-library/
+Rails Developer at New Relic [Portland; Oregon],http://jobs.rubyinside.com/a/jbb/job-details/603056
+Senior Rails Engineer at RevenueMed [Norcross; Georgia],http://jobs.rubyinside.com/a/jbb/job-details/601259
+Want your job featured? Learn more here.,http://www.rubyinside.com/post-a-job
+Ruby Command-Line One-Liners (Working; This Time),http://benoithamelin.tumblr.com/ruby1line?
+

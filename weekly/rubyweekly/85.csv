@@ -1,0 +1,32 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Objects on Rails: How to Apply Classic OO Ideas to Rails Apps,http://objectsonrails.com/
+,http://objectsonrails.com/
+RailsConf 2012 Lands in Austin; Texas on April 23-25,http://railsconf2012.com/
+The Ruby on Rails Tutorial; Now With Twitter's Bootstrap,http://news.railstutorial.org/ruby-on-rails-tutorial-now-with-twitters-boot
+ActiveResource Removed From Edge Rails (and Rails 4.0),https://github.com/rails/rails/pull/572
+Ruby 2.0's Enumerable::Lazy,http://blog.railsware.com/2012/03/13/ruby-2-0-enumerablelazy/
+API Versions in Rails Routes: A Mind Blowing Answer?,http://stackoverflow.com/a/9627796/3951
+Sinatra + Heroku = Super Fast Deployment,http://rubysource.com/sinatra-heroku-super-fast-deployment/
+How to Write MiniTest::Spec Expectations,https://gist.github.com/2032303
+Getting the Most out of Bundler Groups,http://iain.nl/getting-the-most-out-of-bundler-groups
+Use Different User Agents Per Cucumber Scenario,http://isotope11.com/blog/use-different-user-agents-per-cucumber-scenario
+How to Add Kalendae to your Rails App,http://rakeroutes.com/blog/add-kalendae-to-your-rails-app-with-kalendae-assets/
+,http://rakeroutes.com/blog/add-kalendae-to-your-rails-app-with-kalendae-assets/
+Gracefully Exiting from Console Programs in Ruby,http://futuresimple.github.com/posts/2012-02-24-graceful-exiting-from-console-programs-in-ruby/
+Why doesn't Nokogiri have a .gemspec file in its repository?,http://blog.flavorjon.es/2012/03/y-u-no-gemspec.html
+Refinery CMS Basics with RailsCasts,http://railscasts.com/episodes/332-refinery-cms-basics
+Love Your Lib Directory,http://bostonrb.org/presentations/love-your-lib-directory
+Ruby Rogues on Bundler with Andre Arko,http://rubyrogues.com/045-rr-bundler-with-andre-arko/
+Rubydeps: Create Dependency Graphs from Test Suites,https://github.com/dcadenas/rubydeps
+,https://github.com/dcadenas/rubydeps
+Ry: The Simplest Ruby Version Manager,https://github.com/jayferd/ry
+Rake-Pipeline: Rake-Powered Asset Packaging,https://github.com/livingsocial/rake-pipeline
+Capital: 'Top Off' Your ActiveRecord Columns,https://github.com/laserlemon/capital
+Ruby-Doc.com: Ruby and Rails API Docs Hosted on S3,http://ruby-docs.com/
+Web Engineer at Sports Technologies; LLC [Canton; Connecticut],http://jobs.rubyinside.com/a/jbb/job-details/659986
+There's more to life than CRUD: Solve hard problems with Ruby at MegaPhone Labs [New York City],http://jobs.rubyinside.com/a/jbb/job-details/661391
+Rails Developer at Infusionsoft [Phoenix; Arizona],http://jobs.rubyinside.com/a/jbb/job-details/661856
+'Working With Unix Processes' by Jesse Storimer,http://zfer.us/5iJ5Z
+,http://zfer.us/5iJ5Z
+

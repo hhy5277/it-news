@@ -1,0 +1,33 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Scout,https://scoutapp.com/r/rn
+Ruby 1.9.3-p0 Released,http://www.ruby-lang.org/en/news/2011/10/31/ruby-1-9-3-p0-is-released/
+MagLev 1.0.0 Released,https://github.com/MagLev/maglev
+Ruby 1.9.1 is Dying (Support Ends Jan 31; 2012),http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/40523
+Scout: Sys-Adminless Hosted Server Monitoring; Built on Ruby,https://scoutapp.com/r/rn
+,https://scoutapp.com/r/rn
+Ruby 1.9.3: What's New and What's Different,http://www.rubyinside.com/ruby-1-9-3-introduction-and-changes-5428.html
+A Guide to HTML5 Boilerplate for Rails Developers,http://railsapps.github.com/rails-html5-boilerplate.html
+Programming With Nothing: Computation with Nothing but Procs,http://speakerdeck.com/u/tomstuart/p/programming-with-nothing
+Thinking Functionally in Ruby (a slidedeck),http://speakerdeck.com/u/tomstuart/p/thinking-functionally-in-ruby
+How Do I Create And Publish My First Ruby Gem?,http://rubylearning.com/blog/how-do-i-create-and-publish-my-first-ruby-gem/
+Advanced Server Definitions in Capistrano,http://blog.railsware.com/2011/11/02/advanced-server-definitions-in-capistrano/
+Coding Conway's Game of Life in Ruby the Test Driven Way with RSpec,http://www.rubyinside.com/screencast-coding-conways-game-of-life-in-ruby-the-tdd-way-with-rspec-5564.html
+Playing with PJAX (from RailsCasts),http://railscasts.com/episodes/294-playing-with-pjax
+14 Talks from the ArrrrCamp 2011 Conference,http://arrrrcamp.be/videos/2011/
+,http://arrrrcamp.be/videos/2011/
+The Ruby 1.9 Walkthrough: Go Deep on Ruby 1.9,http://www.rubyinside.com/19walkthrough/
+,http://www.rubyinside.com/19walkthrough/
+Pik Screencast: A Ruby Version Manager for Windows,http://rubysource.com/pik-screencast/
+OmniAuth 1.0: Authentication APIs Reach A New Level,http://intridea.com/2011/11/2/omniauth-1-0
+hash_syntax: Converts Ruby Files to and From Ruby 1.9 Hash Syntax,http://carboni.ca/projects/hash_syntax
+ratelimit: A Redis-backed Rate Limiter for Rubyists,https://github.com/ejfinneran/ratelimit
+An Introduction to Logging; A New Flexible Logging Library for Ruby,http://www.jonathan-jackson.net/an-introduction-to-logging
+Appraisal: Test Your Libraries Against Dependencies Far and Wide,http://robots.thoughtbot.com/post/12068553267/appraisal-find-out-what-your-gems-are-worth
+capybara-screenshot: Automatic Screenshot when a Cucumber Capybara Scenario Fails,https://github.com/mattheworiordan/capybara-screenshot
+Gaga: A Git-Backed Key/Value Store in Ruby,http://www.mattsears.com/articles/2011/10/20/gaga-key-value-store?
+Senior Rails Engineers [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/592988
+Ruby Software Engineer at Square [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/585644
+Senior Rails Engineer at Scribd (World's #2 Rails Site) [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/585747
+Spree Conference 2012 (Feb 15-16; New York City),http://spreeconf.com/
+

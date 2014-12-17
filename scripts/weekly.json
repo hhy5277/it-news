@@ -1,0 +1,42 @@
+[
+    {
+        "name": "bitcoinweekly",
+        "url": "http://bitcoinweekly.com/"
+    },
+    {
+        "name": "dbweekly",
+        "url": "http://dbweekly.com/"
+    },
+    {
+        "name": "html5weekly",
+        "url": "http://html5weekly.com/"
+    },
+    {
+        "name": "javascriptweekly",
+        "url": "http://javascriptweekly.com/"
+    },
+    {
+        "name": "mobilewebweekly",
+        "url": "http://mobilewebweekly.co/"
+    },
+    {
+        "name": "nodeweekly",
+        "url": "http://nodeweekly.com/"
+    },
+    {
+        "name": "postgresweekly",
+        "url": "http://postgresweekly.com/"
+    },
+    {
+        "name": "rubyweekly",
+        "url": "http://rubyweekly.com/"
+    },
+    {
+        "name": "statscode",
+        "url": "http://statuscode.org/"
+    },
+    {
+        "name": "dartweekly",
+        "url": "http://dartweekly.com/"
+    }
+]

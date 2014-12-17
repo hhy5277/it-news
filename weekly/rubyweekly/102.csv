@@ -1,0 +1,33 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Ruby Reloaded,http://rubyreloaded.com/
+Now In Print: 'Deploying Rails' by Tom Copeland and Tony Burns,http://pragprog.com/book/cbdepra/deploying-rails
+,http://pragprog.com/book/cbdepra/deploying-rails
+RubyMine 4.5 Released: JetBrains' Commercial Ruby IDE,http://blog.jetbrains.com/ruby/2012/07/rubymine-4-5-is-here-to-make-wishes-come-true/
+Code Climate: Actionable quality metrics in minutes. No software to install.,https://codeclimate.com/?utm_source=rw
+,https://codeclimate.com/?utm_source=rw
+Rails; Objects; Tests; and Other Useful Things,http://www.noelrappin.com/railsrx/2012/7/16/rails-objects-tests-and-other-useful-things.html
+Why I Don't Like factory_girl,http://blog.steveklabnik.com/posts/2012-07-14-why-i-don-t-like-factory_girl
+Advanced Caching in Rails: Revised (for 2012),http://www.broadcastingadam.com/2012/07/advanced_caching_revised/
+Zendesk's Road to Ruby 1.9,http://www.zendesk.com/blog/upgrade-the-road-to-1-9
+Getting Extra Permissions from Facebook when using Devise and Omniauth,http://www.dotnetguy.co.uk/post/2012/07/18/devise-omniauth-facebook-getting-extra-permissions/
+Installing ruby-debug19 for Ruby 1.9.3 on Windows,http://itreallymatters.net/post/27049949914/installing-debugger-for-ruby-1-9-3-under-windows
+Installing Ruby 1.9.3 on OS X Without Xcode or GCC,http://jacobswanner.com/2012/07/13/ruby-1-9-3-without-gcc.html
+Processing Images with CarrierWave,http://rubysource.com/processing-images-with-carrierwave/
+Ruby Debug Cheat Sheet [PNG image],http://i.imgur.com/vPo8A.png
+Refactoring with Hexagonal Rails,http://theagileplanner.com/blog/building-agile-planner/refactoring-with-hexagonal-rails
+PeepCode's Rails 3 Play by Play with Yehuda Katz,https://peepcode.com/products/play-by-play-wycats-i-ruby-on-rails
+,https://peepcode.com/products/play-by-play-wycats-i-ruby-on-rails
+Five Things You Didn't Know Your Documentation Tool Could Do,http://bostonrb.org/presentations/five-things-you-didnt-know-your-documentation-tool-could-do
+The Well Grounded Nuby,http://bostonrb.org/presentations/the-well-grounded-nuby
+Sidekiq (RailsCasts),http://railscasts.com/episodes/366-sidekiq
+Your Face in 10 Minutes... with MacRuby!,http://blog.harisamin.com/post/27332369799/goruco-2012-talk
+Clear Eyes: Automatic Retina Image Handling for Rails 3.1+,https://github.com/superacidjax/clear_eyes
+Axlsx: Office Open XML Spreadsheet Generation Library,https://github.com/randym/axlsx
+Hovercraft: Generate a RESTful API from a Directory of ActiveRecord Models,https://github.com/vanstee/hovercraft
+Rails Apps Composer: Create and Maintain Starter Apps and App Templates,https://github.com/RailsApps/rails_apps_composer
+Happy (Ruby) Web Developer (London; UK),http://www.alphasights.com/apply/ruby-developer-london
+Senior Ruby on Rails Developer (Cologne; Germany),http://about.simfy.com/jobs/job-offers/senior-ruby-on-rails-developer-mf/
+Senior Ruby Developer (Cambridge; MA),http://litmus.com/careers
+MiniProfiler: A New Profiler for Ruby,http://samsaffron.com/archive/2012/07/12/miniprofiler-ruby-edition
+

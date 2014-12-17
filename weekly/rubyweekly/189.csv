@@ -1,0 +1,28 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Take the 2014 Ruby on Rails Hosting Survey,http://rails-hosting.com/
+2012’s results,http://rails-hosting.com/Results/html-2012/SurveySummary.html
+Ruby Garbage Collection: Still Not Ready for Production(?),http://www.omniref.com/blog/blog/2014/03/27/ruby-garbage-collection-still-not-ready-for-production/
+this Hacker News thread.,https://news.ycombinator.com/item?id=7488233
+Heap Overflow in YAML URI Escape Parsing (CVE-2014-2525),https://www.ruby-lang.org/en/news/2014/03/29/heap-overflow-in-yaml-uri-escape-parsing-cve-2014-2525/
+Want to ship your Rails app with confidence? PullReview finds its defects and vulnerabilities,https://www.pullreview.com/
+,https://www.pullreview.com/
+Why Ruby Class Methods Resist Refactoring,http://blog.codeclimate.com/blog/2012/11/14/why-ruby-class-methods-resist-refactoring/
+YouTube on Rails,http://www.sitepoint.com/youtube-rails/
+iOS On Rails (Beta): A Book by Thoughtbot,https://learn.thoughtbot.com/products/25-ios-on-rails-beta
+What's New in Edge Rails: Active Record Enums,http://robots.thoughtbot.com/whats-new-in-edge-rails-active-record-enum
+Rails 4's Strong Parameters; and Deprecation of the attr_accessible Macro,http://www.easyactiverecord.com/blog/2014/04/01/rails4-strong-parameters-and-the-attr-accessible-macro/
+Wrapping C Libraries with Ruby using SWIG,http://engineering.zenpayroll.com/simple-ruby-c-extensions-with-swig/
+The Ruby Rogues Discuss 'Ruby in Government' with Sarah Allen,http://rubyrogues.com/149-rr-ruby-in-government-with-sarah-allen/
+Senior Ruby Developer at Lonely Planet (Nashville; TN),http://www.lonelyplanet.com/jobs/#op-24074-senior-rails-engineer
+Experienced Software Engineer (Ruby) – Henley-on-Thames UK,http://goo.gl/eXVIk4
+Senior Software Engineer at Fandor,http://fandor.theresumator.com/apply/sWQ6zP/Senior-Software-Developer.html
+Senior Software Engineers at HouseTrip (London; UK or Remote),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+Sidekiq 3.0 Released,http://www.mikeperham.com/2014/03/28/sidekiq-3-0/
+Sidekiq,https://github.com/mperham/sidekiq
+tco: A Simple Framework for Colouring Terminal Output,http://linuxwell.com/2014/03/30/tco/
+code,https://github.com/pazdera/tco
+Gimuby: Genetic Algorithms and Island Model for Ruby,http://frantzmiccoli.github.io/Gimuby/
+Preview Emails for Any User with Rails 4.1,http://dev.mikamai.com/post/81487222497/preview-emails-for-any-user-with-rails-4-1
+Your Rails app might be slow. We can show you where.,https://rack-metrics.com/
+

@@ -1,0 +1,18 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Clever Algorithms: Free E-book of Nature-Inspired AI Recipes for Ruby,http://www.cleveralgorithms.com/
+'Mail' Library Has Arbitrary Command Execution Vulnerability,http://groups.google.com/group/mail-ruby/browse_thread/thread/e93bbd05706478dd
+From Test::Unit and Shoulda to MiniTest::Spec and MiniShoulda,http://www.metaskills.net/2011/01/25/from-test-unit-shoulda-to-minitest-spec-minishoulda/
+The Ruby Compendium - A 24 Page Ruby Ecosystem Guide,http://www.h3rald.com/articles/introducing-ruby-compendium/
+Authentication in Rails from Scratch - A Screencast,http://railscasts.com/episodes/250-authentication-from-scratch
+10 Ruby on Rails Best Practices,http://blogs.sitepoint.com/2011/01/26/10-ruby-on-rails-best-practices/
+Maze Generation: The Hunt-and-Kill Algorithm,http://weblog.jamisbuck.org/2011/1/24/maze-generation-hunt-and-kill-algorithm
+Class Coercion in Ruby,http://mutuallyhuman.com/blog/2011/01/25/class-coercion-in-ruby
+notify-me: A Sinatra App for 'Launching Soon' Sites,https://github.com/webandy/notify-me
+Chunky PNG: Pure Ruby PNG Library (Almost at Version 1),https://github.com/wvanbergen/chunky_png
+railsready: Ruby and Rails Installed on Ubuntu in One Line,http://thechangelog.com/post/2857400260/railsready-setup-script-to-get-ruby-and-rails-running
+Truncating HTML content safely,https://github.com/nono/HTML-Truncator
+Ruby Developer [Palo Alto; CA],http://jobs.rubyinside.com/a/jbb/job-details/429666
+Rails Developer [Lewisville; TX],http://jobs.rubyinside.com/a/jbb/job-details/429705
+Turning IRB on its head with Pry,http://banisterfiend.wordpress.com/2011/01/27/turning-irb-on-its-head-with-pry/
+

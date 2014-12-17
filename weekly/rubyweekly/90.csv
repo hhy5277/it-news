@@ -1,0 +1,32 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Ruby 1.9.3-p194 Released,http://www.ruby-lang.org/en/news/2012/04/20/ruby-1-9-3-p194-is-released/
+MRuby: A Lightweight Ruby Implementation by Matz,https://github.com/mruby/mruby
+MobiRuby: A Forthcoming Ruby Toolkit for Building iOS Apps,http://mobiruby.org/
+Learn Rails 3.2 with Michael Hartl's (Just Updated!) Rails Tutorial,http://zfer.us/EKm97
+Extending Ruby with Ruby,http://speakerdeck.com/u/michaelfairley/p/extending-ruby-with-ruby
+Read Ruby 1.9: The Online Ruby Book,http://ruby.runpaint.org/
+On mruby and MobiRuby,http://matt.aimonetti.net/posts/2012/04/20/mruby-and-mobiruby/
+10 Things You Didn't Know Rails Could Do,http://speakerdeck.com/u/jeg2/p/10-things-you-didnt-know-rails-could-do
+The Asset Pipeline for Dummies,http://coderberry.me/blog/2012/04/24/asset-pipeline-for-dummies/
+Getting Started With mruby,http://matt.aimonetti.net/posts/2012/04/25/getting-started-with-mruby/
+Make the Web Fast(er): One Rails App at a Time,http://www.igvita.com/slides/2012/railsconf-making-the-web-faster/#1
+MySQL Query Comments in Rails with Marginalia,http://37signals.com/svn/posts/3130-mini-tech-note-mysql-query-comments-in-rails
+Building an iOS Photo-sharing and Geolocation Mobile Client and API,https://devcenter.heroku.com/articles/ios-photo-sharing-geo-location-service
+Rails Tutorial for Devise with CanCan and Twitter Bootstrap,http://railsapps.github.com/tutorial-rails-bootstrap-devise-cancan.html
+Hitchhiker's Guide to Metaprogramming: Class/Module Hooks,http://rubysource.com/hitchhikers-guide-to-metaprogramming-classmodule-hooks/
+Matz Talks About mruby and Its Possibilities,http://www.youtube.com/watch?v=n7XRYWclYDY
+The Ruby5 RailsConf 2012 Podcast,http://ruby5.envylabs.com/episodes/270-episode-266-april-24th-2012
+RailsCasts on Queue Classic,http://railscasts.com/episodes/344-queue-classic
+Rails Sustainable Productivity with Xavier Shay,http://confreaks.com/videos/815-larubyconf2012-rails-sustainable-productivity
+rails-api: Rails for API Applications,http://blog.wyeworks.com/2012/4/20/rails-for-api-applications-rails-api-released
+T: A Command-Line Power Tool for Twitter (written in Ruby),http://sferik.github.com/t/
+Allowy: Another Simple Authorization DSL for Ruby (and Rails),https://github.com/dnagir/allowy
+How DHH Has Tidied The Rails routes.rb File on BaseCamp Next,https://gist.github.com/2492118
+mongoid-minitest: Minitest Matchers for Mongoid,https://github.com/frodsan/mongoid-minitest
+Developer Advocate/Spokesperson/Evangelist at New Relic [San Francisco],http://jobs.rubyinside.com/a/jbb/job-details/674522
+,http://jobs.rubyinside.com/a/jbb/job-details/674522
+Ruby Developer + DevOps Engineer at GoCardless [London; UK],https://gocardless.com/jobs
+Ruby and Rails Developer at GaggleUp [Toronto; Canada],https://gaggleup.com/jobs
+Instant: A Live; Immediate Ruby Editing and Visualization Tool,https://github.com/siuying/instant
+

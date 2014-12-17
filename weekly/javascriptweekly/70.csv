@@ -1,0 +1,30 @@
+title,link
+jQuery 1.7.2 RC1 Released,http://blog.jquery.com/2012/03/09/jquery-1-7-2-rc1-released/
+Node 0.6.13 (stable) and 0.7.6 (unstable) Released,http://blog.nodejs.org/
+Stricter Equality in JavaScript.next,http://www.2ality.com/2012/03/stricter-equality.html
+JavaScript Getters and Setters: Varying Approaches,http://www.mitya.co.uk/blog/2012/Mar/JavaScript-getters-and-setters-varying-approaches-204
+How To Write Low Garbage; Real Time JavaScript,http://www.scirra.com/blog/76/how-to-write-low-garbage-real-time-javascript
+It's Time to Start Using JavaScript Strict Mode,http://www.nczonline.net/blog/2012/03/13/its-time-to-start-using-javascript-strict-mode/
+7 Resources Every JavaScript Developer Should Know,http://accidentaltechnologist.com/javascript/7-resources-every-javascript-developer-should-know/
+Fibers and Threads in Node.js - What For?,http://bjouhier.wordpress.com/2012/03/11/fibers-and-threads-in-node-js-what-for/
+Implementing Garbage Collection with Aspect-Oriented Programming,https://github.com/raganwald/homoiconic/blob/master/2012/03/garbage_collection_in_coffeescript.md
+Using Event Capturing to Improve Basecamp Page Load Times,http://37signals.com/svn/posts/3137-using-event-capturing-to-improve-basecamp-page-load-times
+On machina.js: Implementing Finite State Machines in JavaScript,http://freshbrewedcode.com/jimcowart/2012/03/12/machina-js-finite-state-machines-in-javascript/
+Backbone-Relational Tutorial: Nested Models With Backbone.js,http://antoviaque.org/docs/tutorials/backbone-relational-tutorial/
+JavaScript Performance MythBusters,https://docs.google.com/present/view?id=0Ac0YlG9vMA2LZHE1MnpycF8yMGZ6ZnZxa2hy
+1KB JavaScript Speech Synthesizer,http://www.p01.org/releases/JS1K_Speech_Synthesizer/JS1K_Speech_Synthesizer.htm
+Smooth.js: Turn Arrays into Smooth Functions,https://github.com/osuushi/Smooth.js
+XRegExp: Extended JavaScript Regular Expressions,https://github.com/slevithan/XRegExp
+jQuery Scroll Path: Plugin for Defining Custom Scroll Paths,http://joelb.me/scrollpath/
+Reified: Binary Data Mapping for JS,https://github.com/Benvie/reified
+jQuery.dotdotdot: Cross-browser Ellipses for Multiple Line Content,http://dotdotdot.frebsite.nl/
+Expound: Declarative Construction of JavaScript Objects,https://github.com/davehamptonusa/expound
+Wob: An Experiment in Concurrency,https://github.com/atdt/wob.js
+Natural: Natural Language Programming for Node.js,https://github.com/NaturalNode/natural
+Whiskey: A Test Framework Open Sourced by Rackspace,http://www.rackspace.com/blog/rackspace-open-sources-whiskey-a-test-framework/
+JavaScript RGB Password: Color Patterns Based on User Password Entry,https://github.com/skattyadz/JavaScript-RGB-Password
+doubleSuggest: jQuery Plugin for Auto Suggestions As You Type,http://hernantz.github.com/doubleSuggest/
+Springbase Relational Database 'Driver' for Node.js,http://www.springbase.com/node-driver/
+Beautiful Front End Code with Backbone and Coffescript (Cincinnati; OH),http://www.eventbrite.com/event/3059245285/backbonecincy/5905208113
+Scriptular: An Online JavaScript Regular Expression Editor/Tester,http://scriptular.com/
+

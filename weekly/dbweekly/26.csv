@@ -1,0 +1,28 @@
+title,link
+,http://rackspace.com/
+An Introduction To PouchDB,https://blog.engineyard.com/2014/an-introduction-to-pouchdb
+Bloomd: C Network Daemon for Bloom Filters,https://github.com/armon/bloomd
+ObjectRocket Adds Fully-Managed Redis Service,http://www.rackspace.com/blog/objectrocket-adds-fully-managed-redis-service/?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-ORredis
+Sign up for a free trial.,http://www.rackspace.com/blog/objectrocket-adds-fully-managed-redis-service/?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-ORredis
+,http://www.rackspace.com/blog/objectrocket-adds-fully-managed-redis-service/?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-ORredis
+Microsoft Unveils Azure DocumentDB; A NoSQL Database As A Service,http://gigaom.com/2014/08/21/microsoft-unveils-documentdb-a-nosql-database-built-for-azure/
+Dockerizing MongoDB,https://docs.docker.com/examples/mongodb/
+Multi-Datacenter Cassandra on 32 Raspberry Pis,http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster
+12 Tips for Going into Production with MongoDB,http://www.mongodb.com/blog/post/12-tips-going-production-mongodb
+Oracle Database Administrator (San Antonio; TX),https://uscareers-rackspace.icims.com/jobs/11325/oracle-dba-iii-2/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-oraclejob
+Click to learn more.,https://uscareers-rackspace.icims.com/jobs/11325/oracle-dba-iii-2/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-oraclejob
+Microsoft NoSQL Database and Full-Text Search Service Previews Available On Azure,http://www.zdnet.com/microsoft-nosql-database-and-full-text-search-service-previews-available-on-azure-7000032836/
+Now Available; By Popular Demand: Production Support for MongoDB Community Edition,http://www.mongodb.com/blog/post/now-available-popular-demand-production-support-mongodb-community-edition
+How Facebook Scales Big Data Systems,http://www.infoq.com/presentations/scale-facebook-big-data
+Useful Queries for the MongoDB Profiler,http://www.kennygorman.com/mongodb-profiler-helpful-queries/
+My Wish List for Postgres 9.5,http://www.craigkerstiens.com/2014/08/15/my-postgres-wishlist-for-9.5/
+Refreshing Imported MySQL Data with MySQL for Excel,https://blogs.oracle.com/MySqlOnWindows/entry/refreshing_imported_mysql_data_with
+A Primer on Geospatial Data and MongoDB,http://blog.mongolab.com/2014/08/a-primer-on-geospatial-data-and-mongodb/
+Introducing POWA - A New PostgreSQL Workload Analyzer,http://www.postgresql.org/message-id/1408454316.1952.38.camel@laptop-virginie
+EnterpriseDB Aims for Easier NoSQL Dev with Free Postgres AWS Tools,http://www.zdnet.com/enterprisedb-aims-for-easier-nosql-dev-with-free-postgres-aws-tools-7000032743/
+Metrilyx: Visualization and Analytics Interface for OpenTSDB (the Time Series Database),https://github.com/Ticketmaster/metrilyx-2.0
+LowDB: A Flat JSON File Database for Node.js,https://github.com/typicode/lowdb
+breadis: Transparent Sharding/Failover-Handling Proxy for Redis and Redis Sentinel,https://github.com/mediocregopher/breadis
+LocallyDB: Embedded JS NoSQL Database for Node.js and node-webkit,http://wamalaka.com/locallydb/
+Stellar: Fast Database Snapshots for Development; Like a 'Git for Databases',https://github.com/fastmonkeys/stellar
+

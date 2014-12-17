@@ -1,0 +1,40 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Matz on Ruby 2.0,https://blog.heroku.com/archives/2013/3/6/matz_highlights_ruby_2_0_at_waza
+,https://blog.heroku.com/archives/2013/3/6/matz_highlights_ruby_2_0_at_waza
+Dynamic Method Definitions,http://tenderlovemaking.com/2013/03/03/dynamic_method_definitions.html
+Steel City Ruby Conference 2013 CFP Now Open,http://steelcityruby.org/cfp.html
+a CFP open too,http://burlingtonruby.com/speak.html
+does RubyConf India.,https://docs.google.com/spreadsheet/viewform?fromEmail=true&formkey=dDFuUVdkY2pkd0I4TTZhRmdSaEdVcFE6MQ
+RubyGems 2.0.1 Released: A Bug-Fix Release,http://blog.rubygems.org/2013/03/05/2.0.1-released.html
+How great teams deliver better apps with continuous integration,https://semaphoreapp.com/&utm_content=headerlink&utm_campaign=ruby_weekly_5
+,https://semaphoreapp.com/&utm_content=headerlink&utm_campaign=ruby_weekly_5
+Inspecting Rails 4 using Ruby 2.0 and TracePoint,http://matt.aimonetti.net/posts/2013/03/05/inspecting-rails-4-request-dispatch-using-ruby-2-dot-0/
+Visualizing Memory Leaks in Ruby 1.9,http://cirw.in/blog/find-references
+Parsing TOML in Ruby with Parslet,http://zerowidth.com/2013/02/24/parsing-toml-in-ruby-with-parslet.html
+Introducing Ress: A System for Building Mobile Optimized Rails Apps,https://github.com/matthewrobertson/ress
+Ruby 2.0 Walkthrough: The Best Bits,https://speakerdeck.com/peterc/ruby-2-dot-0-walkthrough-the-best-bits
+A Practical Guide to Using Signed Ruby Gems - Part 1: Bundler,http://blog.meldium.com/home/2013/3/3/signed-rubygems-part
+Rails + Ember.js,http://www.devmynd.com/blog/2013-3-rails-ember-js
+Effective Rails; Part 2: Hiding ActiveRecord,http://www.devmynd.com/blog/2013-3-effective-rails-part-2-hiding-activerecord
+Sinatra in SIX Lines: How to Do Crazy Stuff with Ruby,http://vimeo.com/61087285
+Phusion Passenger 4.0 Release Candidate 4,http://blog.phusion.nl/2013/03/05/phusion-passenger-4-0-release-candidate-4/
+time-lord: A Human DSL for Time Expressions,http://krainboltgreene.github.com/time-lord/
+identity_cache: Opt-in Read-through ActiveRecord Caching; From Shopify,https://github.com/Shopify/identity_cache
+neg 1.1.0: A Small PEG Parser Library,http://jmettraux.github.com/2013-02-28-neg.html
+Gridhook: A Rails Engine to Provide An Endpoint for SendGrid Webhooks,https://github.com/injekt/gridhook
+Gem Attack: Show Post-Initialization Notifications on Your Released Gems,http://a.ttack.tk/
+Web Application Developer for Big Nerd Ranch,http://bignerdranch.theresumator.com/apply/PPxl0c/Web-Application-Developer.html?source=RubyWeekly
+JS / Ruby Developer at ReplayPoker (Full-Time; Remote),http://replaypoker.theresumator.com/apply/Supv29/JS-Rails-Developer-Remote.html
+Senior Ruby/Rails Developer at HotelTonight [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/790480
+Software Engineer at Goodreads [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/794026
+Talented Foodie Rails Developer Wanted at America's Test Kitchen [Brookline; Massachusetts],http://jobs.rubyinside.com/a/jbb/job-details/794101
+Applications Developer at Central Intelligence Agency [District of Columbia],http://jobs.rubyinside.com/a/jbb/job-details/797271
+Senior Ruby on Rails Developer at SponsorPay [Berlin; Germany],http://jobs.rubyinside.com/a/jbb/job-details/802287
+Software Engineering /Academic Applications Developer at Dartmouth College [Hanover; New Hampshire],http://jobs.rubyinside.com/a/jbb/job-details/803306
+Software Engineer at Nextpoint [Madison; Wisconsin],http://jobs.rubyinside.com/a/jbb/job-details/805424
+Senior Back End Software Engineer at The Washington Post - Service Alley [District of Columbia],http://jobs.rubyinside.com/a/jbb/job-details/806334
+Ruby Developer at HouseTrip [London; United Kingdom],http://jobs.rubyinside.com/a/jbb/job-details/807997
+Applications Developer at Merchants Bonding Company [Des Moines; Iowa],http://jobs.rubyinside.com/a/jbb/job-details/808342
+RTanque: A Robot Programming Game for Rubyists,https://github.com/awilliams/RTanque
+

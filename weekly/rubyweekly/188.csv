@@ -1,0 +1,36 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 4.1.0: Release Candidate 2,http://weblog.rubyonrails.org/2014/3/25/Rails-4-1-rc2/
+4.1 release notes,http://edgeguides.rubyonrails.org/4_1_release_notes.html
+What’s new in Rails 4.1,http://coherence.io/blog/2013/12/17/whats-new-in-rails-4-1.html
+Taking Webcam Photos with Ruby,http://tenderlovemaking.com/2014/03/26/webcam-photos-with-ruby.html
+Brandon Hilkert Releases His 'Build a Ruby Gem' Book,http://brandonhilkert.com/books/build-a-ruby-gem/
+Get Involved with Rails Girls Summer of Code 2014,https://github.com/rails-girls-summer-of-code/projects/blob/master/README.md
+Get real-time data from your real end-users,http://blog.newrelic.com/2014/03/13/javascript-error-reporting-ajax-timing-new-relic/?utm_source=COOP&utm_medium=email&utm_content=BlogNRBrowserAnnounce&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-JavascriptWeekly-BlogNRBrowserAnnounce
+,http://blog.newrelic.com/2014/03/13/javascript-error-reporting-ajax-timing-new-relic/?utm_source=COOP&utm_medium=email&utm_content=BlogNRBrowserAnnounce&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-JavascriptWeekly-BlogNRBrowserAnnounce
+Refactoring A 47-line Ruby Script Back to 1 using Command Line Options,http://arjanvandergaag.nl/blog/using-ruby-command-line-options.html
+How to Tune A Guitar with Ruby and FFT,http://makaroni4.com/ruby/hacking/2014/03/26/how-to-tune-guitar-with-ruby/
+Deploying a Rails Application to OpenShift PaaS,http://blog.sudobits.com/2014/03/22/deploying-ruby-on-rails-application-to-openshift-paas/
+Creating Default Rails Active Record Model Attribute Values,http://www.easyactiverecord.com/blog/2014/03/25/creating-default-rails-active-record-model-attribute-values/
+PDF Generation from Ruby and Rails,http://www.sitepoint.com/pdf-generation-rails/
+Running Thin in A Thread to Serve Static Files,http://www.rojotek.com/blog/2014/03/27/running-thin-in-a-thread-to-serve-static-files-or-how-to-seed-carrierwave-images/
+Authentication with Ember-Rails,http://kbarrett.com/blog/2014/03/24/authentication-with-ember-rails.html
+Understanding The Object Model,http://www.sitepoint.com/understanding-object-model/
+Work In Progress: An Empirical Study of Static Typing in Ruby [PDF],http://www.cs.umd.edu/~jfoster/papers/plateau09-ruby.pdf
+Improving Sidekiq Performance with JRuby,http://blog.mogotest.com/2014/03/20/improving-sidekiq-performance-with-jruby/
+Ruby's Pathname API,http://www.sitepoint.com/rubys-pathname-api/
+Building a LeapMotion DrumSet in Ruby,http://blog.carbonfive.com/2014/03/20/building-a-leapmotion-drumset-in-ruby/
+Senior Ruby Developer at Lonely Planet (Nashville; TN),http://www.lonelyplanet.com/jobs/#op-24074-senior-rails-engineer
+Senior Software Engineer at Handybook (New York; NY),http://www.handybook.com/jobs?#op-19177-ruby-on-rails-developer
+Software Developer at View The Space (New York; NY),https://www.viewthespace.com/jobs
+Senior Software Engineers at HouseTrip (London; UK or Remote),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+Offshore: Rails Remote Factories,http://www.bleonard.com/blog/2014/03/16/offshore/
+code,https://github.com/taskrabbit/offshore
+Rake 10.2.0 and 10.2.1 Released,http://docs.seattlerb.org/rake/History_rdoc.html#label-10.1.2+%2F+2014-03-24
+word-to-markdown: A Word to Markdown Converter in A Gem,https://github.com/benbalter/word-to-markdown
+Synvert: A Tool to Convert Ruby Code to Better Syntax,https://github.com/xinminlabs/synvert
+12 Small Web Frameworks for Ruby Developers,http://codecondo.com/12-small-ruby-frameworks/
+Ahoy: Simple; Powerful Visit Tracking for Rails,http://ankane.github.io/ahoy/
+Shelly Cloud - Fast and easy to use Ruby hosting,https://shellycloud.com/?utm_source=Ruby+Weekly&utm_medium=email&utm_campaign=rubyweekly7
+Check out what our customers say about us.,http://twitter.com/ShellyCloud/favorites
+

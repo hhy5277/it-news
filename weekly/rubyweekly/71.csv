@@ -1,0 +1,31 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+All RubyConf 2011 Videos Now Online,http://confreaks.net/events/rubyconf2011
+GitHub Acquires Ordered List,https://github.com/blog/993-ordered-list-is-a-githubber
+,https://github.com/blog/993-ordered-list-is-a-githubber
+Ruby News and Releases in 2011: A Retrospective,http://www.rubyinside.com/ruby-news-and-releases-in-2011-a-retrospective-5665.html
+Profiling Rails Startup with DTrace,http://tenderlovemaking.com/2011/12/05/profiling-rails-startup-with-dtrace/
+Learning From The Masters: Some of my Favorite Rails Commits,http://patshaughnessy.net/2011/12/6/learning-from-the-masters-some-of-my-favorite-rails-commits
+Faking The Filesystem During Unit Tests,http://highgroove.com/articles/2011/12/06/fake-it.html
+Using Spaced Repetition to Learn Technical Knowledge,http://www.jackkinsella.ie/2011/12/05/janki-method.html
+GeoRails: A Series on Building Geospatial Apps using RGeo,http://www.daniel-azuma.com/blog/archives/category/tech/georails
+An Introduction to RSpec,http://thinkvitamin.com/code/ruby-on-rails/an-introduction-to-rspec/
+OmniAuth Identity (RailsCasts),http://railscasts.com/episodes/304-omniauth-identity
+,http://railscasts.com/episodes/304-omniauth-identity
+The 15 Minute E-Commerce Site (using ror_ecommerce),http://vimeo.com/33048110
+Laser: Static Analysis for Ruby; in Ruby,http://confreaks.net/videos/711
+Sandboxing Ruby: The Good; the Bad; and the Fugly,http://confreaks.net/videos/713-rubyconf2011-sandboxing-ruby-the-good-the-bad-and-the-fugly
+Simple; Easy to Understand UDP DNS Server in 106 Lines of Ruby,https://gist.github.com/1425383
+Porth: Plain Old Ruby Template Handler,https://github.com/tatey/porth
+Whittle: A Small LALR(1) Parser in Pure Ruby,https://github.com/d11wtq/whittle
+Paper Trail: Track Changes to your Rails Models' Data,https://github.com/airblade/paper_trail
+Turnip: Run Cucumber Features Directly on RSpec,https://github.com/jnicklas/turnip
+Gitdocs: Another Open Source Dropbox Clone using Ruby and Git,https://github.com/bazaarlabs/gitdocs
+Mongoid_fulltext: Full-Text N-Gram Search for Your MongoDB Models,http://code.dblock.org/mongoidfulltext-full-text-n-gram-search-for-your-mongodb-models
+W3CLove: A Site-wide HTML Markup Validator (written in Ruby),https://github.com/jaimeiniesta/w3clove
+Senior Engineer at FreeAgent [Edinburgh; United Kingdom],http://jobs.rubyinside.com/a/jbb/job-details/609455
+Ruby Developer at PlayUp [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/604004
+Rails Developer at Facilities Technology Group [Austin; Texas],http://jobs.rubyinside.com/a/jbb/job-details/607339
+tddium: A Hosted CI and Test Running Service for Ruby Webapps,https://www.tddium.com/
+Surrey Rubyists: A Surrey (UK) Ruby User Group,http://surreyrubyists.tumblr.com/post/13606720439/surrey-rubyists-is-rebooting
+

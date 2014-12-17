@@ -1,0 +1,32 @@
+title,link
+,http://rackspace.com/
+Making Docker Play Nice with Databases with Flocker,https://opensource.com/business/14/8/clusterhq-brings-databases-docker-flocker
+Titan: A Scalable; Distributed Graph Database,http://thinkaurelius.github.io/titan/
+MongoDB's Coming Attractions,http://www.rackspace.com/blog/mongodbs-coming-attractions/
+Rip Curl Wearable Technology & The Infrastructure To Run It,http://www.rackspace.com/blog/rip-curl-rides-the-wearable-technology-managed-cloud-waves-for-detailed-surf-data/?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-ripcurl
+Read how they run MongoDB and Managed Cloud,http://www.rackspace.com/blog/rip-curl-rides-the-wearable-technology-managed-cloud-waves-for-detailed-surf-data/?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-ripcurl
+,http://www.rackspace.com/blog/rip-curl-rides-the-wearable-technology-managed-cloud-waves-for-detailed-surf-data/?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-ripcurl
+PipelineDB Beta: A Stream Processing Database,http://www.pipelinedb.com/beta
+PouchDB 3.0.0: The CouchDB-inspired Database That Runs in the Browser,http://pouchdb.com/2014/08/12/pouchdb-3.0.0.html
+CouchDB and MongoDB: Let Our Query APIs Combine,https://cloudant.com/blog/couchdb-and-mongodb-let-our-query-apis-combine/
+Docker PostgreSQL Workflow,http://davidamick.wordpress.com/2014/07/19/docker-postgresql-workflow/
+The Top Reasons People Call Bob Ward,http://channel9.msdn.com/Shows/Data-Exposed/The-Top-Reasons-People-Call-Bob-Ward
+Customer Data Engineer (Austin; TX),https://uscareers-rackspace.icims.com/jobs/10641/customer-data-engineer/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-custdataengjob
+Apply here.,https://uscareers-rackspace.icims.com/jobs/10641/customer-data-engineer/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-custdataengjob
+The New Heroku Postgres Database Experience,https://blog.heroku.com/archives/2014/8/12/the_new_database_experience_with_heroku_postgres
+Dremel Builder Gets $7M for SQL-Based Supertool,http://www.datanami.com/2014/08/05/dremel-builder-gets-7m-sql-based-supertool/
+AMPLab's Tachyon Promises to Solidify In-Memory Analytics,http://www.datanami.com/2014/08/14/amplabs-tachyon-promises-solidify-memory-analytics/
+Kickstart A Couchbase Cluster with Docker,http://blog.abhinav.ca/blog/2014/07/31/kickstart-a-couchbase-cluster-with-docker/
+How to Implement Robust and Scalable Transactions Across Documents with MongoDB,http://edgystuff.tumblr.com/post/93523827905/how-to-implement-robust-and-scalable-transactions
+Get Ready to Learn SQL: Database Normalization Explained in Simple English,http://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/
+5 Tips for Running Redis over AWS,http://redislabs.com/blog/5-tips-for-running-redis-over-aws
+Extending Redis with Lua Packages,http://fnordig.de/2014/07/27/extending-redis-with-lua-packages/
+A Q&A on Putting MySQL Fabric to use,http://www.mysqlperformanceblog.com/2014/08/04/qa-putting-mysql-fabric-to-use/
+The Easy Way of Building a Growing Startup Architecture Using HAProxy; PHP; Redis and MySQL to Handle 1 Billion Requests,http://highscalability.com/blog/2014/8/11/the-easy-way-of-building-a-growing-startup-architecture-usin.html
+Hadoop in Low-Power Processors,http://arxiv.org/abs/1408.2284
+Database Queries that Explain their Work,http://arxiv.org/abs/1408.1675
+Why the 'My' in MySQL?,http://www.vertabelo.com/blog/mysql-history
+9 Useful MySQL Indexing Tips,http://codesamplez.com/database/mysql-indexing-tips
+Mock-Couch: A CouchDB Server for your Unit Tests,https://github.com/chris-l/mock-couch
+mixer: A MySQL Proxy Powered by Go,https://github.com/siddontang/mixer
+

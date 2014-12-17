@@ -1,0 +1,28 @@
+title,link
+Node.js at PayPal,https://www.paypal-engineering.com/2013/11/22/node-js-at-paypal/
+Ben Noordhuis's Departure,http://blog.nodejs.org/2013/12/03/bnoordhuis-departure/
+this libuv pull request.,https://github.com/joyent/libuv/commit/804d40e
+Form Validation With ExpressJS,http://www.telerik.com/everlive/blog/13-11-21/form-validation-with-expressjs
+Try out Heroku's new Node.js Buildpack,https://discussion.heroku.com/t/the-official-node-js-buildpack-is-going-on-a-diet/100
+,https://discussion.heroku.com/t/the-official-node-js-buildpack-is-going-on-a-diet/100
+Eliminating Code Smell with Grunt,http://flippinawesome.org/2013/12/02/eliminating-code-smell-with-grunt/
+Node.js Needs A New Home?,https://groups.google.com/d/msg/nodejs/mqSf47HhmyY/1k5lacBo5DwJ
+Restify: Build Correct REST Web Services in Node,https://www.openshift.com/blogs/day-27-restify-build-correct-rest-web-services-in-nodejs
+Using Node’s Event Module,http://net.tutsplus.com/tutorials/javascript-ajax/using-nodes-event-module/
+Hacking Music and MIDI (and Animation) with Node.js and Clojure,http://gilesbowkett.blogspot.co.uk/2013/11/new-ebook-hacking-music-and-midi-and.html
+Creating Desktop Applications With node-webkit,http://strongloop.com/strongblog/creating-desktop-applications-with-node-webkit/
+Handling OAuth2 with Node.js and Angular.js,http://www.flashics.com/2013/11/24/handling-oauth2-with-node-js-and-angular-js-passport-to-the-rescue/
+How To Deploy Node.js Applications Using Systemd and Nginx,https://www.digitalocean.com/community/articles/how-to-deploy-node-js-applications-using-systemd-and-nginx
+MQTT and Node.js: Messaging the Internet of Things,http://www.youtube.com/watch?v=WE7GVIFRV7Q
+MQTT,http://mqtt.org/
+pod: Git Push Deploy for Node.js Based on pm2,https://github.com/yyx990803/pod
+Hippie: A Node.js Tool for Simple and Intuitive Web API Testing,https://github.com/vesln/hippie
+JSON Server: Serves JSON or JS Seed Files Through REST Routes,https://github.com/typicode/json-server
+PgREST: A JSON Document Store Running Inside PostgreSQL,http://pgre.st/
+Dyson: Node Server for Dynamic; Fake JSON,https://github.com/webpro/dyson
+imgur-sucker: A Node App for Vacuuming A Subreddit's Images from imgur.com,https://github.com/codevinsky/imgur-sucker
+http-framework: A Web Framework Based Purely on require('http'),https://github.com/Raynos/http-framework
+Software Developer Intern at Garagesocial; Inc. (Boston; MA),http://www.internmatch.com/internships/garagesocial-inc/software-developer-intern--2
+Senior Front End Software Engineer (Seattle; WA),http://moz.theresumator.com/apply/HaSNk1/Senior-Front-End-Software-Engineer.html?source=jsweekly
+Generating A Tree of Events using process.addAsyncListener,https://gist.github.com/creationix/7796338
+

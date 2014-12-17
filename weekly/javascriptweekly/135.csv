@@ -1,0 +1,45 @@
+title,link
+Use Forensics and Detective Work to Solve JavaScript Performance Mysteries,http://www.html5rocks.com/en/tutorials/performance/mystery/
+Announcing TypeScript 0.9,http://blogs.msdn.com/b/typescript/archive/2013/06/18/announcing-typescript-0-9.aspx
+blog post,http://blogs.msdn.com/b/somasegar/archive/2013/06/18/typescript-0-9-preview-release.aspx
+video interview,http://channel9.msdn.com/Blogs/Charles/Anders-Hejlsberg-Steve-Lucco-and-Luke-Hoban-Inside-TypeScript-09
+JS.everywhere(2013) - San Francisco; October 25,http://www.jseverywhere.org/
+Frontend Masters: New Fall 2013 Live Workshop Series,http://frontendmasterslive.com/
+Event details here.,http://frontendmasterslive.com/
+,http://frontendmasterslive.com/
+Effectively Managing Memory At Gmail Scale,http://www.html5rocks.com/en/tutorials/memory/effectivemanagement/
+What asm.js Is and What asm.js Isn’t,http://mozakai.blogspot.co.uk/2013/06/what-asmjs-is-and-what-asmjs-isnt.html
+Using JavaScript’s “toString” Method,http://designpepper.com/blog/drips/using-javascripts-tostring-method
+Information Hiding in JavaScript,http://weblog.bocoup.com/info-hiding-in-js/
+The JavaScript Behind Touch-Friendly Sliders,http://css-tricks.com/the-javascript-behind-touch-friendly-sliders/
+Referencing DOM from JS: there must be a DRYer; safer way,http://blog.pamelafox.org/2013/06/referencing-dom-from-js-there-must-be.html
+What's the Big Deal with Generators?,http://devsmash.com/blog/whats-the-big-deal-with-generators
+Adding Support for Search Engines to your JavaScript Applications,http://eviltrout.com/2013/06/19/adding-support-for-search-engines-to-your-javascript-applications.html
+AngularJS Versus Ember.js,http://eviltrout.com/2013/06/15/ember-vs-angular.html
+A Tale of two Web Technologies,http://blog.tojicode.com/2013/06/a-tale-of-two-web-technologies.html
+Test-Driven Node.js Development with Grunt and Nodeunit,http://markdalgleish.com/2012/09/test-driven-node-js-development-with-grunt/
+Learning How to Write A Software 3D Engine From Scratch (A Tutorial Series),http://blogs.msdn.com/b/davrous/archive/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript.aspx
+Learning Advanced JavaScript Via The Backbone.js Source Code,http://chrisawren.com/posts/Learning-Advanced-JavaScript-via-the-Backbone-js-source-code.html
+Solving the Expression Problem in JavaScript,http://anders.janmyr.com/2013/06/solving-expression-problem-in-javascript.html
+expression problem,http://www.daimi.au.dk/~madst/tool/papers/expression.txt
+Using Promises in AngularJS Views,http://markdalgleish.com/2013/06/using-promises-in-angularjs-views/
+`with` Makes It Harder to Evolve JavaScript,http://www.2ality.com/2013/06/with-array.html
+Building An App In 45 Minutes With Meteor,http://www.smashingmagazine.com/2013/06/13/build-app-45-minutes-meteor/
+Frontend Workflows with Grunt and Angular JS,http://www.youtube.com/watch?v=fSAgFxjFSqY
+FunScript: F# to JavaScript with Type Providers,http://funscript.info/
+kwargsjs: Keyword Arguments for JavaScript,https://github.com/serkanyersen/kwargsjs
+Aristochart: Sophisticated JavaScript Charts,http://dunxrion.github.io/aristochart/
+Phoria 3D: WebGL-Free 3D Graphics for Canvas,http://www.kevs3d.co.uk/dev/phoria/
+shuffle-array: Randomize The Order of Elements in An Array Using The Fisher-Yates Algorithm,https://github.com/pazguille/shuffle-array
+adaptive-speech: Control AngularJS Apps Using Voice Commands,https://github.com/angular-adaptive/adaptive-speech
+slugg: Make Strings URL Safe from JavaScript,https://github.com/bengourley/slugg
+Simple Statistics: Library for Descriptive Statistics; Regression and Classification,http://macwright.org/simple-statistics/
+loglevel: Minimal Lightweight Logging for JavaScript,http://pimterry.github.io/loglevel/
+Pomelo: Fast; Scalable; Distributed Game Server Framework for Node.js,https://github.com/NetEase/pomelo
+Gaslight: An AutoSave Pattern for Ember and Ember Data,http://blog.gaslight.co/post/53361504301/an-autosave-pattern-for-ember-and-ember-data
+Front End Software Engineer at Citrix,http://careers.citrix.com/jobs/descriptions/sr-softare-engineer-web-dev-santa-barbara-california-job-16-3692401#?
+Front End Developer at Booking.com in Amsterdam,http://www.booking.com/jobs.en-us.html?sid=223c1a144dfd42a2e5d4b64e8ff6fa5e;dcid=1;st=details;job_id=12341
+Learn more in our video.,http://www.youtube.com/watch?v=9T6Xi4U5APo
+Front End / Full Stack Developer at InCrowd (Cambridge; MA),http://www.incrowdnow.com/careers/
+“Programming JavaScript Applications” by Eric Elliott,http://chimera.labs.oreilly.com/books/1234000000262/index.html
+

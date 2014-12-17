@@ -1,0 +1,38 @@
+title,link
+JavaScript Weekly,http://javascriptweekly.com
+Cam Pedersen,http://campedersen.com/
+Joyent,http://www.joyent.com/
+Node v0.10.17 (Stable) Released,http://blog.nodejs.org/2013/08/21/node-v0-10-17-stable/
+deeper insights on what’s new,http://blog.strongloop.com/whats-new-in-node-js-and-libuv-aug-29-2013/
+Streams in Node.js,http://www.joyent.com/blog/streams-in-node
+Capture your Exceptions with Airbrake,http://airbrake.io/pages/home?r=nodeweekly
+,http://airbrake.io/pages/home?r=nodeweekly
+Writing a Command Line Utility using Node,http://flippinawesome.org/2013/07/29/writing-a-command-line-utility-using-node/
+Developing a Mobile Backend Using StrongLoop Node,http://blog.strongloop.com/developing-a-mobile-backend-using-strongloop-node/
+part two,http://blog.strongloop.com/developing-a-mobile-backend-using-strongloop-node-part-2/
+Using The Directory-serving Middleware in Express,http://www.raymondcamden.com/index.cfm/2013/8/11/Using-the-Directoryserving-middleware-in-Express
+An Absolute Beginner's Guide to Node.js,http://blog.modulus.io/absolute-beginners-guide-to-nodejs
+Client-Side Dependency Management: Choosing Between npm; Bower and component,http://flippinawesome.org/2013/08/26/choosing-between-npm-bower-and-component/
+Use Node.js to Extract Data from the Web for Fun and Profit,http://www.storminthecastle.com/2013/08/25/use-node-js-to-extract-data-from-the-web-for-fun-and-profit/
+Mocking API Requests in Node Tests,http://javascriptplayground.com/blog/2013/08/mocking-web-requests/
+Setting Up and Monitoring Node.js Apps on Elastic Beanstalk with StrongOps,http://blog.strongloop.com/setting-up-and-monitoring-node-js-apps-on-elastic-beanstalk-with-strongops/
+Debugging Mocha Tests Via Node’s Standard Debugger,http://dailyjs.com/2013/08/22/mocha-debugger/
+Node.js Deployments with Docker; Dokku; and Digital Ocean,https://medium.com/code-adventures/438bce155dcb
+Setting Up Continuous Deployment for Node.js Applications,http://blog.codeship.io/2013/08/27/testing-tuesday-20-continuous-deployment-for-node-js-applications.html
+NodeBB: Node-Powered Forum Software (in Progress),https://github.com/designcreateplay/NodeBB/
+ansi-styles: ANSI Escape Codes for Colorizing Strings in The Terminal,https://github.com/sindresorhus/ansi-styles?
+,https://github.com/sindresorhus/ansi-styles?
+Node Web Modules: A Collection of Web Frameworks for Node.js,http://nodewebmodules.com/
+Nodist: A Simple Node.js Version Manager,https://github.com/keremc/nodist
+memdiff: BDD-style Memory Leak Hunting Tool,https://github.com/azer/memdiff
+Edge.js: Run .NET and Node.js Code In-Process,https://github.com/tjanczuk/edge
+great slidedeck,http://tjanczuk.github.io/edge/
+Visual Node: Node.js Tools for Visual Studio,http://www.visualnode.info/
+Lets Have Launch: An Example Launch Page App to Learn From,http://act2.me/letshavelaunch/
+node_module: Run (Some) Ruby Methods as JavaScript under Node.js,https://github.com/leemachin/node_module
+Pulldown: The Minimal JavaScript Package Manager,https://github.com/jackfranklin/pulldown
+Helmet: Middleware to Implement Security Headers for Express / Connect,https://github.com/evilpacket/helmet
+NodeTube: Node.js App for Downloading YouTube Videos,https://github.com/qawemlilo/nodetube
+Software Engineer at Turn (Silicon Valley),http://www.turn.com/career-opportunities/applications-engineering-front-end
+Nodechecker: Testing Node Modules 24/7,http://npmt.abru.pt/
+

@@ -1,0 +1,25 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Capybara 1.0.0 Released,http://groups.google.com/group/ruby-capybara/browse_thread/thread/b4568c21b36225ff
+Announcing Formtastic 2.0.0 RC1,http://justinfrench.com/notebook/announcing-formtastic-200rc1
+RailsInstaller for Windows 2.0.0 Preview Release,http://www.engineyard.com/blog/2011/railsinstaller-for-windows-2-0-0-preview-release/
+What's Up With All These Changes in Rails?,http://yehudakatz.com/2011/06/14/what-the-hell-is-happening-to-rails/
+The Rails Initialization Process,http://guides.rubyonrails.org/initialization.html
+Creating 'man' Pages for Ruby Gems,http://shairosenfeld.com/blog/index.php/2011/04/ruby-gems-and-man-pages/
+Inferring Block Use Patterns with Laser,http://carboni.ca/blog/p/Laser-Infers-Block-Use-Patterns
+Rails 3.1 Asset Pipeline in the Real World,http://blog.nodeta.com/2011/06/14/rails-3-1-asset-pipeline-in-the-real-world/
+Why Rubyists Should Care About Messaging (A High Level Intro),http://www.rubyinside.com/why-rubyists-should-care-about-messaging-a-high-level-intro-5017.html
+Microsoft SQL Server 10x Faster with Rails 3.1,http://www.engineyard.com/blog/2011/sql-server-10xs-faster-with-rails-3-1/
+Stubbing out Rails.env,http://blog.thefrontiergroup.com.au/2011/06/stubbing-out-rails-env/
+The State of Ruby and Testing,http://22ideastreet.com/blog/2011/06/02/the-state-of-ruby-and-testing/
+Peepcode's Meet EventMachine,http://peepcode.com/products/eventmachine
+How to Install Postgres On OS X For Rails Development,http://www.rubyinside.com/how-to-install-and-use-postgres-on-os-x-for-ruby-and-rails-development-4999.html
+How Arel Works,http://www.bigbinary.com/videos/5-how-arel-works
+SweetVimRSpec: Sweeter Specs from Vim,https://github.com/duskhacker/sweet-rspec-vim
+Metior: A Source Code History Analyzer,http://koraktor.de/metior/
+ValidAttribute: Minimalist Validation BDD for ActiveModel Specs,http://bcardarella.com/post/6458785026/validattribute-1-0
+hotkeys - Bind Global Hot Keys in MacRuby,https://rubygems.org/gems/hotkeys
+DHH Shows How To Use Concerns To Keep Your Rails Models Manageable,https://gist.github.com/1014971
+Ruby on Rails Developer [Canton; Connecticut],http://jobs.rubyinside.com/a/jbb/job-details/511797
+ScaffoldHub: Community-driven Gallery of Rails Scaffolds,http://www.scaffoldhub.org/
+

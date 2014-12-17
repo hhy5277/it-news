@@ -1,0 +1,25 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Mechanize 2.0 Released: Even Better Web Automation,http://blog.segment7.net/2011/06/27/mechanize-2-0
+RDoc 3.7 Released,http://blog.segment7.net/2011/06/27/rdoc-3-7
+A Guide To Starting Your Own Rails Engine Gem,http://coding.smashingmagazine.com/2011/06/23/a-guide-to-starting-your-own-rails-engine-gem/
+Your First MacRuby App in 4 Easy Steps,http://icy.io/ruby/macruby/first-app/
+Using the Google Authenticator App with Rails,https://moocode.com/posts/3-using-the-google-authenticator-app-with-rails
+TIL: It's OK to return nil from to_ary,http://tenderlovemaking.com/2011/06/28/til-its-ok-to-return-nil-from-to_ary/
+An SQL Pattern in Rails,http://napkin.highgroove.com/articles/2011/06/28/a-sql-pattern-in-rails
+Building Structured API Clients with API Smith,http://www.engineyard.com/blog/2011/building-structured-api-clients-with-api-smith/
+Prepping your Gemfile for Rubinius,http://collectiveidea.com/blog/archives/2011/06/23/prepping-your-gemfile-for-rubinius/
+Aaron Patterson: I Want DTrace Probes in Ruby,http://tenderlovemaking.com/2011/06/29/i-want-dtrace-probes-in-ruby/
+Ruby File IO Primer Part 1: The File Class,http://marcosccm.com/posts/ruby-file-io-primer-part-1-the-file-class
+Invite Facebook Friends to your awesome Rails App,http://blog.otherscreen.com/2011/06/invite-facebook-friends-to-your-rails-app-omniauth-javascript/
+Introduction to CoffeeScript,http://screencasts.org/episodes/introduction-to-coffeescript
+Eat: A Replacement for open-uri,https://github.com/seamusabshere/eat
+Celluloid: Actor-based Concurrent Object Framework,http://celluloid.github.com/
+Linguist: Detecting Code Languages and Data Formats,https://github.com/github/linguist
+rack-protection: Rack Middleware To Protect Against Common Attacks,https://github.com/rkh/rack-protection#readme
+New Relic Menu Bar Performance Monitoring App for OS X,http://britg.com/2011/06/21/new-relic-menu-bar-performance-monitoring-app/
+Tarot: Easier Rails Configurations,http://www.coffeepowered.net/2011/06/28/tarot-for-easier-rails-configurations/
+Rails + Postgres Database Developer [Los Angeles; California],http://jobs.rubyinside.com/a/jbb/job-details/518209
+Ruby on Rails Developer [London; United Kingdom],http://jobs.rubyinside.com/a/jbb/job-details/519327
+Ruby Reloaded: My Live Course For Levelling Up Your Ruby Confidence,http://rubyreloaded.com/
+

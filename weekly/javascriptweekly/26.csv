@@ -1,0 +1,29 @@
+title,link
+CDN JS - A New CDN for Other JavaScript Libraries,http://cdnjs.com
+Meet CoffeeScript: A New PeepCode Screencast,http://peepcode.com/products/coffeescript
+WebGL - A New Dimension for Browser Exploitation,http://www.contextis.co.uk/resources/blog/webgl/
+jQuery 1.6.1 Released,http://blog.jquery.com/2011/05/12/jquery-1-6-1-released/
+CouchApp 0.8 Released: Framework for JS + HTML5 Apps on CouchDB,http://groups.google.com/group/couchapp/browse_thread/thread/342667bc6831e2d4
+John Resig on jQuery 1.6 and .attr(),http://ejohn.org/blog/jquery-16-and-attr/
+Creating 2D Games with JavaScript & HTML5,http://googlecode.blogspot.com/2011/05/creating-2d-games-with-javascript-html5.html
+Remote debugging with Chrome Developer Tools,http://blog.chromium.org/2011/05/remote-debugging-with-chrome-developer.html
+Javascript Mistakes You Must Avoid,http://www.ifadey.com/2011/05/javascript-mistakes-you-must-avoid/
+How To Write Your Own Native Node.js Extension,http://syskall.com/how-to-write-your-own-native-nodejs-extension
+Implementing 'Pointers' in JavaScript,http://forrst.com/posts/Javascript_Pointers-9q3
+Client-Side XSLT Transformations with JavaScript,http://ivanz.com/2011/05/12/client-side-xslt-transformations-with-javascript/
+6 Tutorials for the Spine MVC Framework,http://maccman.github.com/spine.tutorials/
+6 Video Presentations from Google's 'JavaScript on Mobile' Conference,http://dayofjs.com/
+Writing Maintainable JavaScript,http://channel9.msdn.com/events/mix/mix11/EXT23
+WebGL Techniques and Performance (from Google I/O 2011),http://www.youtube.com/watch?v=rfQ8rKGTVlg
+Kaffeine: Extended JavaScript for Pros,http://weepy.github.com/kaffeine/
+Haraka: A Node.js SMTP Mail Server,https://github.com/baudehlo/Haraka
+Redback: Fast Redis Library for Node.js,http://redbackjs.com/
+Crossroads.js: A JavaScript URL Routes System,http://millermedeiros.github.com/crossroads.js/
+FitText.js: A jQuery Plugin for Inflating Web Type,https://github.com/davatron5000/FitText.js
+haml-coffee: JS Haml Parser with Inline CoffeeScript Support,https://github.com/9elements/haml-coffee
+CoffeeScript Port of a Scheme/Lisp Evaluator from SICP,http://dmitrysoshnikov.com/scheme-on-coffee/
+TreeHugger: JavaScript AST Transformation Tools,https://github.com/zefhemel/treehugger
+Haml.js: High Performance Haml Implementation for Node.js,https://github.com/visionmedia/haml.js
+Faker.js: Generate Fake Data in the Browser and Node.js,https://github.com/marak/Faker.js
+RewardJS: Prizes for Contributing to Open Source JS Projects,http://rewardjs.com/
+

@@ -1,0 +1,29 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Phusion Shares A Sneak Peek of the Phusion Passenger 4.0 Roadmap,http://blog.phusion.nl/2012/07/24/roadmap-preview-1-phusion-passenger-4-0-and-phusion-passenger-enterprise/
+Edge Ruby/Ruby 2.0 Adds %i and %I To Notate An Array of Symbols,https://github.com/ruby/ruby/commit/91bd6e711db3418baa287e936d4b0fac99927711
+And the gold medal for amazing app speed goes to...,http://blog.newrelic.com/2012/06/25/new-feature-application-speed-index/?utm_source=RBWK&utm_medium=email&utm_content=ASI&utm_campaign=RPM&utm_term=7-26-12&mpc=EM-RBWK-RPM-EN-100-RubyWeekly-7-26-12
+,http://blog.newrelic.com/2012/06/25/new-feature-application-speed-index/?utm_source=RBWK&utm_medium=email&utm_content=ASI&utm_campaign=RPM&utm_term=7-26-12&mpc=EM-RBWK-RPM-EN-100-RubyWeekly-7-26-12
+The Hitchhiker's Guide to Riding a Mountain Lion,http://robots.thoughtbot.com/post/27985816073/the-hitchhikers-guide-to-riding-a-mountain-lion
+Building An API for Fun With Grape,http://armoredcode.com/blog/build-an-api-for-fun-with-grape/
+RubyMotion Tutorial: Make iOS Apps With Ruby,http://rubymotion-tutorial.com/
+Tell; Don't Ask (with Ruby Objects),http://robots.thoughtbot.com/post/27572137956/tell-dont-ask
+Implicit Gemsets with rbenv,http://devoh.com/blog/2012/07/implicit-gemsets-with-rbenv
+Liskov Principle and MiniTest,http://wojtekmach.pl/blog/2012/07/17/liskov-principle-and-minitest/
+How to Send Private Messages With The Facebook API,http://dalibornasevic.com/posts/35-how-to-send-private-messages-with-facebook-api
+Using MiniProfiler with Rails (RailsCasts),http://railscasts.com/episodes/368-miniprofiler
+Making a Rails App Fast and Scalable,https://speakerdeck.com/u/schneems/p/fast-scalable
+Graphene: Stats and Graphs From Collections Of Ruby Objects,http://jordanhollinger.com/2012/07/23/introducing-graphene
+Stamp: Format Dates and Times Using Human-Readable Examples,https://github.com/jeremyw/stamp
+csv_shaper: DSL for Creating CSV Output,https://github.com/paulspringett/csv_shaper
+Desant: Ruby-Powered Open Source 'Landing Page' System,http://desantapp.com/
+Sex Machine: Get Gender from First Name,https://github.com/bmuller/sexmachine
+jruby-memcached: Surprisingly; A Memcached Libary for JRuby,https://github.com/aurorafeint/jruby-memcached
+classy_enum: Class Based Enumerator Gem for Rails,https://github.com/beerlington/classy_enum
+Hamster: Efficient; Immutable; Thread-Safe Collection Classes,https://github.com/harukizaemon/hamster
+Rubyception: A Realtime Rails Log in Your Browser,https://github.com/tye/rubyception
+Ruby on Rails Consultant at IMPRTL Inc [Telecommute/Remote!],http://jobs.rubyinside.com/a/jbb/job-details/706570
+Ruby Developer at MeLLmo; Inc. [Solana Beach; California],http://jobs.rubyinside.com/a/jbb/job-details/706544
+Ruby Software Engineer at Aptonet; Inc [Atlanta; Georgia],http://jobs.rubyinside.com/a/jbb/job-details/706545
+Rails 3.2.7 RC1 Released; 3.2.7 Proper Due Any Moment Now..,http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/397751
+

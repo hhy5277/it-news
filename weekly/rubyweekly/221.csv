@@ -1,0 +1,39 @@
+title,link
+Ruby 2.1.5; 2.0.0-p598; and 1.9.3-p551 Released Due to Another REXML Vulnerability,https://www.ruby-lang.org/en/news/2014/11/13/ruby-2-1-5-is-released/
+CVE-2014-8090,https://www.ruby-lang.org/en/news/2014/11/13/rexml-dos-cve-2014-8090/
+Fun with the Object#method Method,http://www.justinweiss.com/blog/2014/11/10/fun-with-the-method-method/
+Building A Ruby List Comprehension,https://blog.engineyard.com/2014/ruby-list-comprehension
+Fix bugs in production before your boss even notices.,https://www.honeybadger.io/
+Try exception; uptime and performance monitoring for free.,https://www.honeybadger.io/pages/plans
+click here,https://honeybadgerio.wufoo.com/forms/get-your-free-honeybadgerio-tshirt/
+,https://www.honeybadger.io/
+Ruby DSLs for Fun and Profit,http://blog.atechmedia.com/ruby-dsls-for-fun/
+So You've Decided to Contribute to Ruby,https://blog.engineyard.com/2014/contribute-to-ruby
+exploring the MRI code base,https://www.youtube.com/watch?v=0npv906IQag
+Fullstack Web Engineer,http://marinsoftware.ongig.com/jobs/view/Fullstack-Web-Engineer-San-Francisco
+Rails Engineer at Funny Or Die,https://jobs.lever.co/funnyordie/b7700d6d-325c-4efa-b844-108418e478b5/apply?lever-source=rubyweekly
+Rubinius 3.0 - Part 1: The Rubinius Team,http://rubini.us/2014/11/10/rubinius-3-0-part-1-the-rubinius-team/
+Part 2: The Process,http://rubini.us/2014/11/11/rubinius-3-0-part-2-the-process/
+RubyMine 7 (a Ruby and Rails IDE) Released,http://blog.jetbrains.com/ruby/2014/11/hone-your-craft-with-rubymine-7/
+Lazy Refactoring with Ruby's Enumerator: A Walkthrough,http://robots.thoughtbot.com/lazy-refactoring
+How We've Made Raptor Up to 4x Faster Than Unicorn; Up to 2x Faster Than Puma; Torquebox,http://www.rubyraptor.org/how-we-made-raptor-up-to-4x-faster-than-unicorn-and-up-to-2x-faster-than-puma-torquebox/
+Why We Teach Rack in our Ruby on the Server Bootcamp,http://www.bignerdranch.com/blog/why-we-teach-rack-in-our-ruby-on-the-server-bootcamp/
+Don't Forget about eager_load when Extending autoload Paths,http://blog.arkency.com/2014/11/dont-forget-about-eager-load-when-extending-autoload/
+Polling Your Users with Rails,http://www.sitepoint.com/polling-users-rails/
+Geocoding Locations and Visitors with the Geocoder Gem,http://easyactiverecord.com/blog/2014/11/10/geocoding-locations-and-visitors-with-the-geocoder-gem/
+Internationalization (i18n) and Localization (l10n) in Rails How-To,https://github.com/consti/i18n-howto
+Sorting and Reordering has_many :through Associations with the ActsAsList Gem,http://easyactiverecord.com/blog/2014/11/11/sorting-and-reordering-lists-with-the-actsaslist-gem/
+Natural Language Parsing with Ruby (using Treetop),http://blog.glaucocustodio.com/2014/11/10/natural-language-parsing-with-ruby/
+Sharing View Templates Between Rails and Angular,https://jack.ofspades.com/sharing-view-templates-across-frameworks/
+Building a RESTful API in a Rails application,http://www.airpair.com/ruby-on-rails/posts/building-a-restful-api-in-a-rails-application
+How to Set Up Continuous Deployment with Ninefold,http://www.sitepoint.com/set-continuous-deployment-ninefold/
+Hound: Reviews Your Ruby (and CoffeeScript) Code for Style Violations,https://houndci.com/
+An Improvement on the 'Rails Stats' Tool,http://www.bleonard.com/blog/2014/11/07/rails-stats/
+elastics: A Simple ElasticSearch Client with ActiveRecord Integration,https://github.com/printercu/elastics-rb
+Services: A Nifty Service Layer for Your Rails App,https://www.krautcomputing.com/blog/2014/11/12/a-nifty-service-layer-for-your-rails-app/
+Rawscsi: Ruby Amazon Web Services Cloud Search Interface,https://github.com/stevenjl/rawscsi
+AWS CloudSearch.,http://aws.amazon.com/cloudsearch/
+ADTs: Algebraic Data Types for Ruby,https://github.com/txus/adts
+Chartkick: Create JavaScript Charts with One Line of Ruby,http://ankane.github.io/chartkick/
+LingoHub: Free Translation Platform for Ruby on Rails,https://lingohub.com/?utm_source=RubyWeekly_1114_second&utm_medium=newsletter&utm_campaign=CooperPress
+

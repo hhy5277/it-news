@@ -1,0 +1,28 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+The RailsConf 2014 Program Has Been Revealed,http://www.railsconf.com/program
+Regression of Hash#reject in Ruby 2.1.1,https://www.ruby-lang.org/en/news/2014/03/10/regression-of-hash-reject-in-ruby-2-1-1/
+Rails 4.0.4 Released,http://weblog.rubyonrails.org/2014/3/14/Rails-4-0-4-has-been-released/
+Ruby on Rails in the Google Summer of Code 2014,http://weblog.rubyonrails.org/2014/3/7/google-summer-of-code-2014/
+Fix Your Ruby Performance Issues & Get a Free Shirt,http://www.newrelic.com/
+a free t-shirt when you deploy.,http://www.newrelic.com/
+,http://www.newrelic.com/
+A Step-by-Step Guide to Building Your First Ruby Gem,http://quickleft.com/blog/step-by-step-guide-to-building-your-first-ruby-gem
+A Look at the Circuit Breaker Pattern in Ruby,http://martinfowler.com/bliki/CircuitBreaker.html
+Watching and Understanding the Ruby 2.1 Garbage Collector at Work,http://thorstenball.com/blog/2014/03/12/watching-understanding-ruby-2.1-garbage-collector/
+Ruby Command Line Interface Gems,http://www.sitepoint.com/ruby-command-line-interface-gems/
+How Method Dispatch Works in JRuby/Truffle,http://www.chrisseaton.com/rubytruffle/how-method-dispatch-works-in-jruby-truffle/
+Visualizing Rails Schemas with the RailRoady Gem,http://engineering.coachup.com/visualizing-rails-schemas-railroady-gem/
+Ruby & OpenCalais: Semantically Tag Anything,http://www.sitepoint.com/ruby-opencalais-semantically-tag-anything/
+7 Daily Use Cases for Ruby Hashes,http://blog.8thcolor.com/en/2014/03/7-daily-use-cases-of-ruby-hash/
+Why I Wrote the Sucker Punch Gem,http://brandonhilkert.com/blog/why-i-wrote-the-sucker-punch-gem/
+Tearing Down Capybara Tests of AJAX Pages,http://www.salsify.com/blog/tearing-capybara-ajax-tests
+Software Engineer at Blue Apron (New York; NY),http://www.blueapron.com/pages/jobs#software_engineer
+Senior Software Engineers at HouseTrip (London; UK or Remote),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+Head of UI and FrontEnd at CirroSecure [Sunnyvale; California],http://jobs.rubyinside.com/a/jbb/job-details/984454
+mock5: Mock External APIs with Simple Sinatra Rack Apps,https://github.com/rwz/mock5
+rubykiq: Sidekiq Agnostic Enqueuing using Redis,https://github.com/karlfreeman/rubykiq
+Sass 3.3 Released,http://blog.sass-lang.com/posts/184094-sass-33-is-released
+Sinatra-Sublime: A Sublime Text extension for Sinatra,https://github.com/karlcoelho/Sinatra-Sublime
+Hosting for your apps is getting too expensive?,https://shellycloud.com/pricing_comparison?utm_source=Ruby+Weekly&utm_medium=email&utm_campaign=rubyweekly6
+

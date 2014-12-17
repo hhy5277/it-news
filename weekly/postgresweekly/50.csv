@@ -1,0 +1,16 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Craig Kerstiens,https://twitter.com/craigkerstiens
+PostgreSQL Now Has Logical Decoding,http://rhaas.blogspot.com/2014/03/postgresql-now-has-logical-decoding.html
+Postgres 9.3.4 Due to Be Released Tomorrow (March 20),http://www.postgresql.org/docs/devel/static/release-9-3-4.html
+Postgres full-text search is Good Enough!,http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/
+Postgres 9.4 feature highlight: Physical slots for replication,http://michael.otacoo.com/postgresql-2/postgres-9-4-feature-highlight-replication-slots/
+Heroku Postgres - Fully managed Postgres on EC2,https://postgres.heroku.com/&utm_campaign=emailbanner
+,https://postgres.heroku.com/&utm_campaign=emailbanner
+Check out the latest issue of DB Weekly; our general database newsletter,http://dbweekly.com/issues/5?euid=*%7CUNIQID%7C*
+issue 5,http://dbweekly.com/issues/5?euid=*%7CUNIQID%7C*
+A JSON field type for Django,https://metric.io/blog/2014/07/json-field-type-django
+Write scalability for UPDATE operations,http://rhaas.blogspot.com/2014/03/write-scalability-for-update-operations.html
+plv8-bedrock: PostgreSQL/plv8 CommonJS; migrations; unit tests.,https://github.com/mgutz/plv8-bedrock
+Craig Kerstiens,http://craigkerstiens.com/
+

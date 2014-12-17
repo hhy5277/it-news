@@ -1,0 +1,14 @@
+title,link
+Postgres 9.4 feature highlight: REFRESH CONCURRENTLY,http://michael.otacoo.com/postgresql-2/postgres-9-4-feature-highlight-refresh-concurrently-a-materialized-view/
+Postgres Open 2013 Conference List of Talks,http://www.postgresopen.org/2013/schedule/lists/talks/
+Heroku Postgres - Fully managed Postgres on EC2,https://postgres.heroku.com/&utm_campaign=emailbanner
+,https://postgres.heroku.com/&utm_campaign=emailbanner
+Using PostgreSQL hstore in a Rails application on Engine Yard Cloud,https://blog.engineyard.com/2013/using-postgresql-hstore-in-a-rails-application-on-engine-yard-cloud
+Rails,http://schneems.com/post/19298469372/you-got-nosql-in-my-postgres-using-hstore-in-rails
+Django,http://www.craigkerstiens.com/2012/06/11/schemaless-django/
+Fluming your PostgreSQL logs,http://www.openscg.com/2013/07/fluming-your-postgresql-logs/
+PostgreSQL Tip of the Day,https://twitter.com/selenamarie/status/358258090983956481
+Explaining the Postgres Query Optimizer,http://momjian.us/main/writings/pgsql/optimizer.pdf
+Live updates to Meteor from Postgres,http://www.lshift.net/blog/2013/02/25/live-updates-to-meteor-from-postgres
+Craig Kerstiens,http://craigkerstiens.com/
+

@@ -1,0 +1,30 @@
+title,link
+Node.js at Scale [video],https://www.youtube.com/watch?v=bvDtEcQdGs0
+Tint: Compile Native Applications with JavaScript; CSS; HTML5 and Node,https://github.com/trueinteractions/tint2
+LocallyDB: An Embedded NoSQL Database for Node.js and node-webkit,http://wamalaka.com/locallydb/
+Best Practices for Deploying Node.js in Production,http://strongloop.com/strongblog/node-js-deploy-production-best-practice/
+slc,http://strongloop.com/strongblog/slc-create-boilerplate-for-node-modules-and-applications-easily/
+New Relic strengthens Node.js with new features,http://blog.newrelic.com/2014/03/17/browser-monitoring-for-node-js/?mpc=EM-COOP-generic-EN-100-NodeWeekly-BlogNRBrowserNode-js
+New Relic’s blog,http://blog.newrelic.com/2014/03/17/browser-monitoring-for-node-js&utm_content=BlogNRBrowserNode-js&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-NodeWeekly-BlogNRBrowserNode-js
+,http://blog.newrelic.com/2014/03/17/browser-monitoring-for-node-js/?mpc=EM-COOP-generic-EN-100-NodeWeekly-BlogNRBrowserNode-js
+Getting Started with Jenkins and Node,https://medium.com/risingstack-blog/getting-started-with-jenkins-and-node-f859934d0249
+FullStack: A New Node and JS Conference in London; UK (October 23-24),http://blog.skillsmatter.com/2014/08/20/fullstack-the-node-and-javascript-conference-call-for-papers/
+call for papers,https://docs.google.com/forms/d/1wqBzy0PkE4ZQkJ33i4aL4fN5hkbWHlWuo0j4CI2jle8/viewform
+Node-Happy FE Engineer at Reverb Technologies (San Mateo; CA),https://helloreverb.com/jobs/frontend-engineer/
+JavaScript Developers; AngularJS/Node.js (Berlin),http://www.idsign.com/jobs/javascript-developer-angular-node.html
+Visual Studio Introduces Gulp; Grunt; Bower; and npm Support,http://www.hanselman.com/blog/IntroducingGulpGruntBowerAndNpmSupportForVisualStudio.aspx
+NodeGear: A New Node.js Hosting Platform for Bloggers and Developers,https://nodegear.com/
+Building a Web Based File Browser with jsTree; Angular.js and Express,http://thejackalofjavascript.com/file-browser-with-jstree-angularjs-and-expressjs
+Using The NodeJS Debugger On Code Called From Grunt (And Grunt-Jasmine-Node Specs),http://derickbailey.com/2014/09/02/using-the-nodejs-debugger-on-code-called-from-grunt-and-grunt-jasmine-node-specs/
+Small Sips of Gulp.js: 4 Steps to Reduce Complexity,https://teamgaslight.com/blog/small-sips-of-gulp-dot-js-4-steps-to-reduce-complexity
+Testing Elasticsearch with Node,http://faiq.me/testing-elasticsearch-node/
+Webapplate: A Maintainable Web App Template for Firefox OS and Chrome Apps,https://hacks.mozilla.org/2014/09/webapplate-maintainable-web-app-template-for-firefox-os-and-chrome-apps/
+kamote: Yet Another RPC Library for Node,https://github.com/majimboo/kamote
+workerpool: Offload Tasks to A Pool of Workers On Node.js and in the Browser,https://github.com/josdejong/workerpool
+luajit-libuv: A LuaJIT FFI binding for Node's libuv,https://github.com/pguillory/luajit-libuv
+Various Styles for Writing SQL Strings in JavaScript,https://github.com/adrianblynch/sequels
+uver-cli: Bump The Version On package.json and Other Files From The Command Line,https://github.com/flesler/uver-cli/
+Sparkly: A Sparkline Generator for Node,https://github.com/sindresorhus/sparkly
+Powerful browser-based coding; front-end and back,https://codio.com/
+Joyent; Inc.,http://www.joyent.com/
+

@@ -1,0 +1,39 @@
+title,link
+Ruby 2.2.0 Preview 2 Released,https://www.ruby-lang.org/en/news/2014/11/28/ruby-2-2-0-preview2-released/
+Rails 4.2.0 Release Candidate 1 Released,http://weblog.rubyonrails.org/2014/11/28/Rails-4-2-0-rc1-has-been-released/
+release notes,http://edgeguides.rubyonrails.org/4_2_release_notes.html
+Ezra Zygmuntowicz Has Died,https://news.ycombinator.com/item?id=8676140
+memorial fund for his son,https://www.indiegogo.com/projects/ezra-zygmuntowicz-memorial-fund-for-his-son-ryland
+Monitor unlimited Rails apps and hosts with AppSignal,https://appsignal.com/?referrer=rubyweekly
+,https://appsignal.com/?referrer=rubyweekly
+RailsBricks: Start Faster with Rails,http://www.sitepoint.com/railsbricks-start-faster-rails/
+Have Some (Referential) Integrity with Foreign Keys,http://robots.thoughtbot.com/referential-integrity-with-foreign-keys
+Command Line Flags for Minitest in the Raw,http://chriskottom.com/blog/2014/12/command-line-flags-for-minitest-in-the-raw/
+ruby-prof-flamegraph: Easily Visualize Bottlenecks in Your Ruby Code,https://github.com/oozou/ruby-prof-flamegraph
+A 3 Part Rails Deployment Tutorial (Videos + Text),http://www.rubytreesoftware.com/courses/deploy-ruby-on-rails-tutorial
+Speeding up Rails 4.2,http://samsaffron.com/archive/2014/12/01/speeding-up-rails-4-2
+Meet 1;500+ Companies Hiring Web Devs and Designers,http://hired.com/?utm_source=newsletters&utm_medium=rubyweekly&utm_campaign=n-nov27_14-rubyweekly_jobs&utm_content=1500
+Software Engineer (London; New York; or remote),http://engineering.alphasights.com
+Sr. Platform Software Engineer at Sony (New York City),https://scajobs.sony.com/careers/job_detail.asp?JobID=4358947&user_id
+Freelance with Companies like Airbnb; IDEO & JPMorgan,http://www.toptal.com/developers?utm_source=ruby_weekly&utm_medium=cpm-newsletter&utm_campaign=ruby_weekly_job
+Bath Ruby Conference (in the UK - March 13; 2015),http://2015.bathruby.org/
+The Work on Rails 5 Begins With This Commit,https://github.com/rails/rails/commit/f25ad07f5ade46eb978fa82658463232d0247c65
+Sinatra Applications with RSpec,http://shiroyasha.github.io/sinatra-app-with-rspec.html
+Rails 4.1 Testing with Test::Unit; MiniTest; and RSpec,http://www.ironhorserails.com/posts/1
+DRYing up Rails Views with View Carriers and Services,http://blog.bigbinary.com/2014/12/02/drying-up-rails-views-with-view-carriers-and-services.html
+Testing and Environment Variables,http://robots.thoughtbot.com/testing-and-environment-variables
+Better Globals with A Tiny ActiveSupport Module,http://www.justinweiss.com/blog/2014/12/01/better-globals-with-a-tiny-activesupport-module/
+Sending Emails in Rails Applications,http://www.gotealeaf.com/blog/handling-emails-in-rails
+Caching the Uncacheable: CSRF Security,http://www.fastly.com/blog/Caching-the-Uncacheable-CSRF-security/
+The Syntax of Taste: Refactoring Conditionals,http://www.sitepoint.com/syntax-taste-refactoring-conditionals/
+The Art of Rails Cooking with IRuby Notebook,https://www.hakkalabs.co/articles/art-rails-cooking-iruby-notebook
+A 2014 Rails Gemfile Teardown,http://brandonhilkert.com/blog/rails-gemfile-teardown-2014/
+Deconstructing Fizz Buzz With Flip-Flops in Ruby,http://juliansimioni.com/blog/2014/12/03/deconstructing-fizz-buzz-with-flip-flops-in-ruby/
+node_module: Get Really Close to The Metal in Ruby,https://github.com/leemachin/node_module
+Caravan: A Ruby API Versioning and Enforcement Example,http://bendyworks.com/caravan-ruby-api-versioning-enforcement/
+HasManyCommas: Convert ActiveRecord Query Results into Tabular Text Representations,https://github.com/Takemikazuchi/has_many_commas
+site_prism: A Page Object Model DSL for Capybara,https://github.com/natritmeyer/site_prism
+X Ray Machine: Logger/Profiler for Tracking Heavy External API Calls in Rails Apps,https://github.com/MadRabbit/x-ray-machine
+TheViking 1.0: Akismet Anti-Spam Service for Ruby and Rails,https://github.com/the-teacher/the_viking
+Become a Software Engineer: Online Courses Start Feb 2 and Mar 23,http://www.hackreactor.com/remote-beta/?utm_source=coopermedia&utm_medium=dec4rubyweeklysecondary&utm_campaign=remotebeta
+

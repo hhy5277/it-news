@@ -1,0 +1,16 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Speeding Up PostgreSQL With Partial Indexes,http://blog.heapanalytics.com/speeding-up-postgresql-queries-with-partial-indexes/
+Heap,http://www.heapanalytics.com/
+Postgres 9.4.0 To Be Released December 18th,http://www.postgresql.org/message-id/26295.1417708564@sss.pgh.pa.us
+pg_shard: A PostgreSQL Extension to Scale Out Real-Time Reads and Writes,https://github.com/citusdata/pg_shard
+Immersive JavaScript Courses Begin Feb 2 and Mar 23,http://www.hackreactor.com/?utm_source=coopermedia&utm_medium=dec10postgresweeklyexclusive&utm_campaign=general
+,http://www.hackreactor.com/?utm_source=coopermedia&utm_medium=dec10postgresweeklyexclusive&utm_campaign=general
+Will Paginate in Half the Time,http://tech.patientslikeme.com/2011/04/06/will-paginate-in-half-the-time.html
+CTEs,http://www.craigkerstiens.com/2013/11/18/best-postgres-feature-youre-not-using/
+Postgres 9.4: The Ideal Domain-Driven Design Aggregate Store?,https://vaughnvernon.co/?p=942
+postgresql-pretty-table: A Script to Make Pretty HTML Tables from psql,https://github.com/ustun/postgresql-pretty-table
+Multicorn based PostgreSQL Foreign Data Wrapper for RethinkDB,https://github.com/wilsonrmsorg/rethinkdb-multicorn-postgresql-fdw
+What's This pg_shard Thing?,http://www.databasesoup.com/2014/12/whats-this-pgshard-thing.html
+Craig Kerstiens,http://craigkerstiens.com/
+

@@ -1,0 +1,30 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+PSD.rb: A Ruby Library That Opens Up The Adobe Photoshop PSD Format,http://cosmos.layervault.com/psdrb.html
+their introductory blog post.,http://layervault.tumblr.com/post/56891876898/psd-rb
+Bloc RubyWarrior: An Interactive Ruby Game in the Browser,https://www.bloc.io/ruby-warrior/#/
+Beware Subclassing Ruby Core Classes,http://words.steveklabnik.com/beware-subclassing-ruby-core-classes
+The Freedom to Build in your language of choice!,http://go.rackspace.com/we-speak-your-language.html?cm_mmc=SMB12Display-_-Ruby-_-AppDev-_-Language
+Cloud Server,http://go.rackspace.com/we-speak-your-language.html?cm_mmc=SMB12Display-_-Ruby-_-AppDev-_-Language
+The Rackspace Cloud,http://www.rackspace.com/cloud/?cm_mmc=SMB12Display-_-Ruby-_-AppDev-_-RSCloud
+,http://go.rackspace.com/we-speak-your-language.html?cm_mmc=SMB12Display-_-Ruby-_-AppDev-_-Language
+An Example Chat App Using Server-Sent Events with Rails 4,http://robots.thoughtbot.com/post/55421584115/chat-example-app-using-server-sent-events
+How Beanstalk Migrated to Rails 4 and Ruby 2,http://blog.beanstalkapp.com/post/56162575030/how-we-migrated-beanstalk-to-rails-4-and-ruby-2
+Simple Algebraic Data Types for Ruby,http://spin.atomicobject.com/2013/07/29/ruby-data-types-algebraic/
+Lets Build a Sinatra App,http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html
+How to Create Postgres Indexes Concurrently in ActiveRecord Migrations,http://robots.thoughtbot.com/post/56828751507/how-to-create-postgres-indexes-concurrently-in
+How to Build a Port Scanner in Ruby,http://rubysource.com/build-a-port-scanner-in-ruby/
+Optimizing your Rails App Part 1: N + 1 Queries,https://www.codemy.net/posts/optimizing-your-rails-app-part-1-n-1-queries
+Building and Maintaining A Ruby Team During The Rails Crisis of 2013,http://www.youtube.com/watch?v=T5eM40PjCDE
+Write Your Ruby in Style,http://www.youtube.com/watch?v=J03pbYLeO_Aa
+The Ruby Rogues Discuss Non-Rails Ruby Projects,http://rubyrogues.com/116-rr-non-rails-projects/
+Searchkick: Intelligent Search Made Easy,http://ankane.github.io/searchkick/
+introductory blog post.,http://rocketship.instacart.com/2013/07/30/searchkick.html
+Maildown: Write Your ActionMailer Email Templates in Markdown,https://github.com/schneems/maildown
+RubyLuwak: A Compiler and Runtime for Ruby on the Java Virtual Machine,http://rubyluwak.com/
+Zephyros: An OS X Window Manager for 'Hackers' That Supports Ruby 2.0,https://github.com/sdegutis/zephyros
+Service-Oriented; Web Application Hacker (San Francisco; CA),https://hire.jobvite.com/j/?aj=oOrVVfwP&s=Ruby_Weekly
+Harry Tuttle wanted at Zendesk,https://gist.github.com/osheroff/6066053
+Ruby Developers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oqRWWfwT&s=Ruby_weekly
+Zombie Outlaws: A Rails 4 Course from Code School,http://www.codeschool.com/courses/rails-4-zombie-outlaws
+

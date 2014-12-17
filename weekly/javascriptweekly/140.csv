@@ -1,0 +1,55 @@
+title,link
+Node Weekly,http://nodeweekly.com/
+instantly subscribe by clicking here.,http://nodeweekly.com/oneclick.js?uid=*%7CUNIQID%7C*
+Bower 1.0.0 Released,https://github.com/bower/bower/blob/master/CHANGELOG.md#100---2013-07-23
+Bower,http://bower.io/
+separate document,https://github.com/bower/bower/wiki/Rewrite-state
+Object Playground: The Definitive Guide to Object-Oriented JavaScript,http://www.objectplayground.com/
+In Defense of JavaScript’s Constructors,http://www.2ality.com/2013/07/defending-constructors.html
+Frontend Masters: Attend 6 Front-End Dev Workshops LIVE Online,https://mjg.wufoo.com/forms/live-online-fall-season-pass-pass-js-weekly-deal/
+,https://mjg.wufoo.com/forms/live-online-fall-season-pass-pass-js-weekly-deal/
+SEO in JavaScript Web Apps,http://blog.alexmaccaw.com/seo-in-js-web-apps
+Ajax crawling specification,https://developers.google.com/webmasters/ajax-crawling/docs/specification
+Introduction to Express,http://net.tutsplus.com/tutorials/javascript-ajax/introduction-to-express/
+Express,http://expressjs.com/
+Backbone.js Deconstructed (Part 1),http://tech.pro/tutorial/1367/part-1-backbonejs-deconstructed
+AngularJS Directives That Override Standard HTML Tags,http://flippinawesome.org/2013/07/22/angularjs-directives-that-override-standard-html-tags/?
+How ‘yield’ Will Transform Node.js,http://blog.alexmaccaw.com/how-yield-will-transform-node
+discussion,http://monocle.io/posts/how-yield-will-transform-node
+PouchDB; The JavaScript Database That Syncs,http://pouchdb.com/getting-started.html
+DOM Traversal and Manipulation with Voyeur,http://flippinawesome.org/2013/07/22/dom-traversal-and-manipulation-with-voyeur/?
+Implementing HTML5 Components with HTML5 APIs and Open Source Polyfills,http://www.ibm.com/developerworks/web/library/wa-html5components3/index.html
+Build Custom Directives with AngularJS,http://www.ng-newsletter.com/posts/directives.html
+Loading JSON-Formatted Data with Ajax and xhr.responseType='json',http://mathiasbynens.be/notes/xhr-responsetype-json
+Extracting Tables From PDFs In JavaScript With PDF.js,http://garysieling.com/blog/extracting-tables-from-pdfs-in-javascript-with-pdf-js
+Break on Property Change of an Arbitrary Object,http://johnkpaul.com/blog/2013/07/20/break-on-property-change/
+Value Objects in JS: ECMAScript 7 Work in Progress,http://www.slideshare.net/BrendanEich/value-objects
+Teach Yourself Node.js in 10 Steps,http://blog.ponyfoo.com/2013/07/12/teach-yourself-nodejs-in-10-steps
+Replicating the DOOM Screen Melt Effect with JavaScript and Canvas,http://davidwalsh.name/canvas-effect
+Let’s Learn Ember,http://freecourses.tutsplus.com/lets-learn-ember/index.html
+Testing Strategies for AngularJS,http://www.youtube.com/watch?v=UYVcY9EJcRs
+Integration Testing Your Ember.js App with QUnit and Karma,http://toranbillups.com/blog/archive/2013/07/21/Integration-testing-your-emberjs-app-with-QUnit-and-Karma/
+Unit Testing: Minutes Now Will Save Hours Later,http://www.youtube.com/watch?v=_UmmaPe8Bzc
+Slides,http://eamann.com/slides/unit-testing/title/
+My workflow v3: full coding stack,http://remysharp.com/2013/07/18/my-workflow-v3-full-coding-stack/
+A Variety of Ember 1.0 RC Releases,http://emberjs.com/blog/2013/07/25/ember-1-0-rc6-1-rc5-1-rc4-1-rc3-1-rc2-1-and-rc1-1-released.html
+Adobe PhoneGap 3.0 Released,http://phonegap.com/blog/2013/07/19/adobe-phonegap-3.0-released/
+.net magazine,http://www.netmagazine.com/news/mobile-app-framework-phonegap-30-launches-132895
+InfoQ,http://www.infoq.com/news/2013/07/brian_leroux_on_phonegap_3
+qooxdoo 3.0 Released,http://news.qooxdoo.org/qooxdoo-3-0-released
+Announcing A New and Improved Node.js Debugger,http://blog.strongloop.com/announcing-a-new-and-improved-node-js-debugger/
+Node Inspector,https://github.com/node-inspector/node-inspector
+VerbalExpressions: JavaScript Regular Expressions Made Easy,https://github.com/jehna/VerbalExpressions
+Ajax Replay: Cache Ajax Calls in The Browser and Replay Them in The Future (for Testing),https://github.com/mbradshawabs/ajaxreplay
+David: Dependency Management Tool for Node.js Projects,https://david-dm.org/
+grunt-express: Start An Express.js Web Server Using Grunt.js,https://github.com/blai/grunt-express
+leap.js: API for the Leap Motion Controller,http://js.leapmotion.com/
+Leap Motion,https://www.leapmotion.com/
+lz-string: JavaScript Compression; Fast,http://pieroxy.net/blog/pages/lz-string/index.html
+Inquirer.js: Command Line User Interfaces for Node.js,https://github.com/SBoudrias/Inquirer.js
+ChessBoardJS: A JavaScript Chess Board Widget,http://chessboardjs.com/
+Senior Frontend Developer at WizeHive,http://bit.ly/14K4dZ6
+Weebly is hiring Javascript Hackers and ping-pong masters,http://www.weebly.com/jobs/
+UI Engineer at Yahoo!,http://bit.ly/1dCEFRk
+Curious about SPA development? Learn how to create your own SPA with Kendo UI,http://www.kendoui.com/spa.aspx?utm_source=JavaScriptWeekly&utm_medium=banner&utm_campaign=JavaScriptWeekly_newsletter-secondary-sponsorship_KendoUI_SPA
+

@@ -1,0 +1,30 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Ruby 2.1.0 Preview 1 Released,https://www.ruby-lang.org/en/news/2013/09/23/ruby-2-1-0-preview1-is-released/
+OS X and Linux stacks available,http://bitnami.com/stack/ruby
+Kicking the Tires on Ruby 2.1 Preview,http://spin.atomicobject.com/2013/09/26/ruby-2-1-preview/
+Konstantin Haase on Ruby 2.1,http://rkh.im/ruby-2.1
+Lambdas/Procs in Case Expressions,http://batsov.com/articles/2013/09/24/lambdas-slash-procs-in-case-expressions/
+DRY your Rails CRUD with Simple Form and Inherited Resources,https://www.petekeen.net/dry-your-rails-crud-with-simple-form-and-inherited-resources
+An Unusual Case For Cucumber,http://mrjoy.com/2013/09/19/an-unusual-case-for-cucumber/
+A Case Against Cucumber,http://blog.8thlight.com/kevin-liddle/2013/09/18/a-case-against-cucumber.html
+Rails Security Pitfalls,http://www.sitepoint.com/rails-security-pitfalls/
+Adventures in RubyMotion: Reaching The App Store in 2 Weeks,http://chriszetter.com/blog/2013/09/23/adventures-in-rubymotion/
+Introducing 'Churn Site' to Measure Code Churn,http://mayerdan.com/ruby/2013/09/16/introducing-churn-site-to-measure-code-churn/
+Throw Away Sprockets; Use UNIX,http://blog.arkency.com/2013/09/throw-away-sprockets-use-unix/
+Our Chance to Live On; or Slowly Recede Into History As A Community,http://dfischer.svbtle.com/our-chance-to-live-on-or-slowly-recede-into-history-as-a-community
+The Ruby Rogues Discuss JRuby with Charlie Nutter,http://rubyrogues.com/124-rr-jruby-with-charlie-nutter/
+http-2: Pure Ruby; Framework and Transport Agnostic Implementation of HTTP 2.0,https://github.com/igrigorik/http-2
+Phusion Passenger WebSockets demo,https://github.com/phusion/passenger-ruby-websocket-demo
+Rack Middleware to Render Graphviz Diagrams From Inline Source,http://www.hokstad.com/inline-graphviz
+sandi_meter: A Tool To Check if Code Satisfies Sandi's Rules,http://gistflow.com/posts/901-sandi_meter-tool-for-checking-sandi-metz-rules
+Ruby Glob Tester,http://rubyglobtest.herokuapp.com/
+Ruby Engineer; Shutterstock; NYC,http://www.shutterstock.com/jobs.mhtml
+Senior Ruby Developer & Senior Rails Developer (SF Bay Area),http://www.machinio.com/careers/
+Senior Software Engineers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+Honeybadger.io is exception monitoring for Ruby; by devs who give a !@#$,https://www.honeybadger.io/
+learn more.,https://www.honeybadger.io/blog/2013/08/30/alerts-and-integrations-just-leveled-up
+Try us free,https://www.honeybadger.io/pages/plans
+features,https://www.honeybadger.io/documentation/project_setup
+free t-shirt.,http://honeybadger.us5.list-manage2.com/subscribe?u=624aa4162f5834d06e9347c6e&id=9beea9cf63
+

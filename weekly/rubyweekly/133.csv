@@ -1,0 +1,31 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Ruby MRI Source Code Idioms #3: Embedded Objects,http://patshaughnessy.net/2013/2/8/ruby-mri-source-code-idioms-3-embedded-objects
+Tuning Rails 3 Day Workshop,http://www.starterleague.com/tuningrails
+Handling 1 Million Concurrent Connections with Ruby?,https://github.com/slivu/1mc2#aim
+Get your yaml files professionally translated,http://www.localeapp.com/
+,http://www.localeapp.com/
+Add Regex#to_proc to Ruby,http://bugs.ruby-lang.org/issues/7883
+Building a Minecraft Mod with RubyBukkit,http://loki.ws/code/2013/01/19/minecraft-mod-with-rubybukkit.html
+What Happens When RSpec Runs,http://interblah.net/how-rspec-works
+Rails 4's Routing Concerns,http://blog.envylabs.com/post/43076921318/rails-4-routing-concerns
+When and How to Use an FFI (Foreign Function Interface),http://spin.atomicobject.com/2013/02/15/ffi-foreign-function-interfaces/
+XNI: An Alternative Native Interface for Accessing C/C++ Code From JRuby,http://ruby.11.n6.nabble.com/ANN-XNI-an-alternative-native-interface-for-accessing-C-C-code-from-JRuby-td4987813.html
+What You Did Not Know About Capistrano; Yet,http://benediktdeicke.com/2013/02/what-you-did-not-know-about-capistrano-yet/
+Why We Don't Use A Rails Template,http://thunderboltlabs.com/posts/why-we-dont-use-a-rails-template
+BackboneRails.com: Learn to Build Web Apps Using Backbone and Rails,http://www.backbonerails.com/
+The Ruby Rogues Discuss 'Security Exploits' with Patrick McKenzie (patio11),http://rubyrogues.com/093-rr-security-exploits-with-patrick-mckenzie/
+CohortMe: Cohort Analysis for User Retention In a Rails App,http://ninjasandrobots.com/cohort-analysis-user-retention-in-a-rails-application/
+Handle Inbound Email in any Rack Application,https://www.honeybadger.io/blog/2013/02/19/incoming-gem-receive-inbound-email-from-your-rails-or-rack-app
+Spring: A Rails Application Preloader,https://github.com/jonleighton/spring
+HolePicker: Pick Holes in Your Gemfiles,http://psionides.eu/2013/02/18/pick-holes-in-your-gemfiles/
+Attribution: Add Attributes to Ruby Objects,https://github.com/pjb3/attribution
+rack-robustness: Rack Middleware to Ensure Robustness of Your Web Stack,https://github.com/blambeau/rack-robustness
+Full-stack Web App Engineer for fast-growing SaaS company,https://gist.github.com/lylo/aa7d782ca200a954e462
+,https://gist.github.com/lylo/aa7d782ca200a954e462
+Web Application Developer for Big Nerd Ranch,http://bignerdranch.theresumator.com/apply/PPxl0c/Web-Application-Developer.html?source=RubyWeekly
+Senior Engineer at State (London) - new global platform for opinions,http://jobs.state.com/apply/M6YbAD/Senior-Software-Developer.html
+BundleScout: E-mail Notifications of Library Updates,https://bundlescout.com/
+supports Ruby and gems.,http://bundlescout.tumblr.com/post/43015432727/now-with-gems
+Gemnasium,https://gemnasium.com/
+

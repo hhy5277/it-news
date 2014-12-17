@@ -1,0 +1,10 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Postgres Datatypes – The ones you're not using,http://www.craigkerstiens.com/2014/05/07/Postgres-datatypes-the-ones-youre-not-using
+Why you should always set temp_file_limit,http://www.databasesoup.com/2014/05/why-you-should-always-set-tempfilelimit.html
+Postgres partitioning explained,https://github.com/fiksu/partitioned/blob/master/PARTITIONING_EXPLAINED.txt
+Trigger Overhead,http://www.openscg.com/2014/05/trigger-overhead/
+New Finding Unused Indexes Query,http://www.databasesoup.com/2014/05/new-finding-unused-indexes-query.html
+A full text search engine in Postgres (Part 2),http://shisaa.jp/postset/postgresql-full-text-search-part-2.html
+Craig Kerstiens,http://craigkerstiens.com/
+

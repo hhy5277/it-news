@@ -1,0 +1,33 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+RailsConf 2013: April 29 - May 2 in Portland; Oregon,http://www.railsconf.com/2013/cfp
+New SQL Injection Vulnerability in Rails 3: New Versions Released,https://groups.google.com/forum/?fromgroups=#!topic/rubyonrails-security/DCNTNp_qjFM
+saying,http://news.ycombinator.com/item?id=4999849
+Ruby 1.9.3-p362 More Prone to Segmentation Faults?,https://bugs.ruby-lang.org/issues/7629
+Integrated Background Job / Queues Support Removed from Rails 4 (for now),https://github.com/rails/rails/commit/f9da785d0b1b22317cfca25c15fb555e9016accb
+Meet the Developers Behind Obama's Successful 2012 Campaign,http://newrelic.com/codingforward?utm_source=COOP&utm_medium=email&utm_content=codeforward&utm_campaign=RPM&utm_term=1_3_13&mpc=EM-COOP-RPM-en-100-rubyweekly-1_3_13
+,http://newrelic.com/codingforward?utm_source=COOP&utm_medium=email&utm_content=codeforward&utm_campaign=RPM&utm_term=1_3_13&mpc=EM-COOP-RPM-en-100-rubyweekly-1_3_13
+Rails is 'Omakase',http://david.heinemeierhansson.com/2012/rails-is-omakase.html
+Benchmarking with Ruby,http://gistflow.com/posts/136-benchmarking-with-ruby
+A Ruby Design Process - Talking Points,http://brixen.io/2012/12/30/a-ruby-design-process-talking-points
+'DCI' in Ruby is Completely Broken,http://tonyarcieri.com/dci-in-ruby-is-completely-broken
+A Love Affair With PostgreSQL,http://blog.remarkablelabs.com/2012/12/a-love-affair-with-postgresql-rails-4-countdown-to-2013
+Easier Debugging with capybara-screenshot,http://spin.atomicobject.com/2012/12/30/easier-debugging-with-capybara-screenshot/
+Basics of Fog and AWS for Rails Apps,http://sevos.github.com/2012/12/31/basics-of-fog-and-aws-for-rails-apps.html
+Why I (Corey Haines) Don't Use ActiveSupport::Concern,http://programmingtour.blogspot.co.uk/2012/12/why-i-dont-use-activesupportconcern.html
+Get Your App Ready for Rails 4,http://rubysource.com/get-your-app-ready-for-rails-4/
+ZeroMQ and Ruby a Practical Example,http://blog.paracode.com/2012/12/28/zeromq-and-ruby-a-practical-example/
+58 Videos from PuppetConf 2012,http://www.confreaks.com/events/puppetconf2012
+PeepCode Releases Part 2 of RSpec 2 Screencast Series,https://peepcode.com/products/rspec-ii
+Obvious: An Agile Architecture Framework for Ruby Apps,http://obvious.retromocha.com/
+Twitter-style status update app,https://github.com/RetroMocha/obvious_status
+ShenRuby 0.1.0: A Ruby Port of Shen; a Functional Language,http://sourcematters.org/2012/12/30/announcing-shenruby-0-1-0.html
+browser_details: Rack Middleware to Collect User Agent Info,https://github.com/gshutler/browser_details
+RubyFlux: A Ruby to Java Static Compiler,https://github.com/headius/rubyflux
+Active Model Pusher: An Easy Way to Push Your Models to Pusher,https://github.com/AlexanderZaytsev/active_model_pusher
+lua-mruby: Extending Lua with (m)Ruby,https://github.com/RyanScottLewis/lua-mruby
+JrSerialPort: Connect to a Serial Port in JRuby via RXTX,http://spin.atomicobject.com/2012/12/27/jrserialport-connect-to-a-serial-port-in-jruby-via-rxtx/
+Rails Developer at WeedMaps [Denver; Colorado],http://jobs.rubyinside.com/a/jbb/job-details/780028
+Front-End Engineer at New Relic [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/778380
+Rust for Rubyists,http://www.rustforrubyists.com/
+

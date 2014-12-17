@@ -1,0 +1,28 @@
+title,link
+Read this e-mail on the Web,http://rubyweekly.com/issues/203
+End of Life for Ruby 1.8.7 and 1.9.2,https://www.ruby-lang.org/en/news/2014/07/01/eol-for-1-8-7-and-1-9-2/
+Zero to Smoke Test with Sinatra,http://devblog.avdi.org/2014/07/08/zero-to-smoke-test-with-sinatra/
+Ship your Rails app with free hosting & deployment.,https://ninefold.com/
+,https://ninefold.com/
+Awesome Ruby: A Curated Collection of Awesome Ruby Libraries; Tools; etc.,https://github.com/markets/awesome-ruby
+How We Write Readable Feature Tests with RSpec,https://about.futurelearn.com/blog/how-we-write-readable-feature-tests-with-rspec/
+Senior Developer at Table XI (Chicago),http://tablexi.theresumator.com/apply/N5C5q5/Senior-Software-Developer
+Lead Developer (Ruby on Rails),http://www.sponsorpay.com/careers.html#p=Developer_-Ruby_on_Rails-&c=Berlin&t=Engineering
+Back-End Web Developer at Planbox,https://www.planbox.com/careers/ruby_developer/
+N+1 Problem: Build a Custom Query with AREL,https://www.youtube.com/watch?v=k0gBItXBztU
+Battling Complexity in Ruby,http://growingdevs.com/battling-complexity-in-ruby.html
+Sharing Rails Configuration with JavaScript,http://railsware.com/blog/2014/07/09/share-rails-configuration-to-javascript/
+How to Remove Old/Stale Database Migrations in Rails Apps,http://naturaily.com/blog/post/how-to-remove-old-database-migrations-in-ruby-on-rails-apps
+Store an Array in a PostgreSQL hstore Column in Rails 4,http://blog.brzezinka.eu/rails4/store-an-array-in-postgresql-hstore-in-rails4
+Multiple Sidekiq Processes for Multiple Rails/Sinatra Applications,http://dev.mensfeld.pl/2014/07/multiple-sidekiq-processes-for-multiple-railssinatra-applications-namespacing/
+Rails and the Warped Asset Pipeline,https://ninefold.com/blog/2014/07/01/rails-and-the-warped-asset-pipeline/
+rails-env-favicon: Gem to Display the Environment in a Rails App's Favicon,https://github.com/accessd/rails-env-favicon
+delayed_cron_job: Extension to Delayed::Job to set cron expressions for jobs to run regularly,https://github.com/codez/delayed_cron_job
+Fourchette: Isolated Testing Environments on Heroku for Pull Requests,https://github.com/jipiboily/fourchette
+Yt: A Reliable YouTube API Client for Ruby,https://github.com/Fullscreen/yt
+Ruby Queue Pop with Timeout,http://spin.atomicobject.com/2014/07/07/ruby-queue-pop-timeout/
+Elixir vs Ruby Showdown - Phoenix vs Rails,http://www.littlelines.com/blog/2014/07/08/elixir-vs-ruby-showdown-phoenix-vs-rails/
+The Ruby Rogues Discuss Staying Sharp with Dave Thomas,http://rubyrogues.com/164-rr-staying-sharp-with-dave-thomas/
+Working with YAML Files,https://www.codemy.net/posts/working-with-yaml-files
+Frozen Rails: come enjoy a cool glass of Ruby in Helsinki,http://2014.frozenrails.eu/
+

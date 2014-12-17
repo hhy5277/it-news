@@ -1,0 +1,31 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+DOS Attack Vulnerability Found in Ruby 1.8's Hash Algorithm,http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-talk/391607
+JRuby 1.6.5.1 Released: Fixes the Hashing Vulnerability,http://jruby.org/2011/12/27/jruby-1-6-5-1
+KidsRuby 1.0 Released,http://kidsruby.com/
+MiniTest Quick Reference,http://www.mattsears.com/articles/2011/12/10/minitest-quick-reference?
+Structural Design Patterns in Ruby,http://blog.rubybestpractices.com/posts/gregory/060-issue-26-structural-design-patterns.html
+'bundle exec rails' Executes Bundler.setup 3 Times,http://blog.wyeworks.com/2011/12/27/bundle-exec-rails-executes-bundler-setup-3-times
+1 and 2 Letter Ruby Gems,http://afreshcup.com/home/2011/12/28/one-and-two-letter-gems.html
+'Kestrels; Quirky Birds; and Hopeless Egocentricity' by Reg Braithwaite,http://leanpub.com/combinators
+Evaluating Alternative Decorator Implementations in Ruby,http://robots.thoughtbot.com/post/14825364877/evaluating-alternative-decorator-implementations-in
+Deprecating a Legacy Subsystem in Rails,http://myronmars.to/n/dev-blog/2011/12/deprecating-a-legacy-subsystem-in-rails
+'Architecture the Lost Years' by Robert Martin at Ruby Midwest 2011,http://confreaks.net/videos/759-rubymidwest2011-keynote-architecture-the-lost-years
+ActiveRecord Anti-Patterns for Fun and Profit,http://confreaks.net/videos/752-rubymidwest2011-activerecord-anti-patterns-for-fun-and-profit
+Smalltalk On Rubinius (or How to Implement Your Own Programming Language),http://confreaks.net/videos/645-gogaruco2011-smalltalk-on-rubinius-or-how-to-implement-your-own-programming-language
+Getting Started with Rails: RailsCasts,http://railscasts.com/episodes/310-getting-started-with-rails
+Vim for Rails Developers Screencast,https://workshops.thoughtbot.com/vim
+The Ruby Rogues on Benchmarking and Profiling,http://rubyrogues.com/034-rr-benchmarking-and-profiling/
+MacRuby for Fun and Profit by Joshua Ballanco (55 minutes),http://bostonrb.org/presentations/macruby-for-fun-and-profit
+Software Developer at Geoforce; Inc. [Lewisville; Texas],http://jobs.rubyinside.com/a/jbb/job-details/616741
+Network Software Engineer at Carnegie Mellon University [Pittsburgh; Pennsylvania],http://jobs.rubyinside.com/a/jbb/job-details/618778
+@JEG2,http://twitter.com/JEG2
+Ruby Rogues,http://rubyrogues.com/
+Rubies in the Rough,http://subinterest.com/rubies-in-the-rough
+Pry,http://pry.github.com/
+more useful,http://www.jonathan-jackson.net/give-it-a-pry
+faraday,https://github.com/technoweenie/faraday
+middleware,https://github.com/pengwynn/faraday_middleware
+in this slide deck,http://speakerdeck.com/u/jeg2/p/life-on-the-edge
+Typhoeus,https://github.com/dbalatero/typhoeus
+

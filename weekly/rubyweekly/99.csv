@@ -1,0 +1,33 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+'Programming in CoffeeScript' by Mark Bates; Now Available,http://www.amazon.com/gp/product/032182010X/
+MagicRuby 2012: A Ruby Conference At Walt Disney World (October 2012),http://magic-ruby.com/
+Am I Doing It Wrong?,https://gist.github.com/2838490#gistcomment-356060
+My (new) Favourite RSpec Pattern,http://blog.thefrontiergroup.com.au/2012/06/my-new-favourite-rspec-pattern/
+Tutorial: Reddit in 10 Lines of Code,http://www.drurly.com/blog/2012/06/26/reddit-in-10-lines-of-code/
+Data Scraping And More With Ruby; Nokogiri; Sinatra And Heroku,http://hunterpowers.com/data-scraping-and-more-with-ruby-nokogiri-sinatra-and-heroku/
+Generating Random URL-safe tokens with SecureRandom,http://coderwall.com/p/kqhlna
+How We Used Rails and Backbone.js to Build A Lightning-Fast Webapp,http://adrianpike.tumblr.com/post/25812863078/how-we-used-rails-backbone-js-to-build-a
+Rails 4.0 Sneak Peek: Queueing,http://reefpoints.dockyard.com/ruby/2012/06/25/rails-4-sneak-peek-queueing.html
+Rails 4.0 Sneak Peek: Asynchronous ActionMailer,http://reefpoints.dockyard.com/ruby/2012/06/26/rails-4-sneak-peek-async-actionmailer.html
+Lessons Learned: The First Six Months of Running a Rails Consultancy,http://reefpoints.dockyard.com/opinion/2012/06/21/lessons-learned-six-month-of-running-dockyard.html
+Facebook Authentication in Rails (RailsCasts),http://railscasts.com/episodes/360-facebook-authentication
+,http://railscasts.com/episodes/360-facebook-authentication
+Complex Made Simple: Sleep Better with TorqueBox,http://confreaks.com/videos/912-railsconf2012-complex-made-simple-sleep-better-with-torquebox
+The Ruby Rogues Discuss SOLID with Jim Weirich,http://rubyrogues.com/rr-60-solid-with-jim-weirich/
+The Changelog Interviews Laurent Sansonetti about Ruby Motion; MacRuby and More,http://thechangelog.com/post/25928209107/episode-0-8-2-ruby-motion-macruby-and-more-with-laurent
+Rack Canonical Host: Middleware for Defining A Canonical Host Name,https://github.com/tylerhunt/rack-canonical-host
+Aspector: Aspect Oriented Programming (AOP) for Ruby,https://github.com/gcao/aspector
+SoundCord: Perform Comparisons for Phonetically Similar Terms,https://github.com/lukasalexandre/soundcord
+minitest 3.2.0 Released,http://blog.zenspider.com/releases/2012/06/minitest-version-3-2-0-has-been-released.html
+rbfu 0.3.0: A Light-Weight Alternative to RVM and rbenv,http://hmans.io/2012/06/27/rbfu-0-3-0/
+Jist: Publish GitHub 'gists' from Ruby,https://github.com/ConradIrwin/jist
+ffi-http-parser: Ruby FFI Bindings to the 'http-parser' Library,https://github.com/postmodern/ffi-http-parser
+R18n: I18N Tool to Translate Your Ruby Application,https://github.com/ai/r18n
+OmniAuth StackExchange: StackExchange OAuth Strategy for OmniAuth,https://github.com/nashby/omniauth-stackexchange
+Back End Developer; SoundCloud; Berlin; Germany,http://soundcloud.com/jobs/2012-03-23-back-end-developer-berlin-germany
+Sr. Ruby on Rails Software Engineer,http://getg5.com/about/careers/sr-software-engineers-ruby-on-rails/
+Senior Tech Lead at Seso Media Group [Los Angeles; California],http://jobs.rubyinside.com/a/jbb/job-details/699679
+See 20 other Ruby and Rails jobs on our job board!,http://jobs.rubyinside.com/
+Sublime Text 2 for Ruby,http://blog.codeclimate.com/blog/2012/06/21/sublime-text-2-for-ruby/
+

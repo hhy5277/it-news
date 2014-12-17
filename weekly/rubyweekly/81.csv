@@ -1,0 +1,27 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Spree 1.0 Released (Rails-based E-commerce System),http://spreecommerce.com/blog/2012/02/09/spree-1-0-0-released/
+RubyMine 4.0 (Ruby IDE) Released,http://blog.jetbrains.com/ruby/2012/02/rubymine-4-is-here-to-make-you-feel-the-productivity/
+Steel City Ruby Conf - Pittsburgh; PA - August 3-4; 2012,http://www.steelcityrubyconf.com/
+The Pry Ecosystem (the awesome alternative to IRB),http://banisterfiend.wordpress.com/2012/02/14/the-pry-ecosystem/
+DCI Role Injection in Ruby,http://mikepackdev.com/blog_posts/26-dci-role-injection-in-ruby
+How To Build a Naive Bayes Classifier,http://bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html
+How to Apply What You've Learned from TDD to Writing Data Migrations,http://robots.thoughtbot.com/post/17549345094/how-to-apply-what-youve-learned-from-tdd-to-writing
+Making ActiveRecord Models Thin,http://solnic.eu/2011/08/01/making-activerecord-models-thin.html
+Dave Thomas on 'Smart Constants' in Ruby,http://pragdave.blogs.pragprog.com/pragdave/2012/02/smart-constants.html
+Ten Tips for Writing Better Cucumber Steps,http://coryschires.com/ten-tips-for-writing-better-cucumber-steps/
+Linting Your Ruby Classes with Pelusa,http://blog.codegram.com/2012/2/linting-the-hell-out-of-your-ruby-classes-with-pelusa
+The Ruby Rogues on Code Metrics,http://rubyrogues.com/041-rr-code-metrics/
+Cane: Failing Your Build for Code Quality Problems,http://corner.squareup.com/2012/02/cane.html
+Sidekiq: Efficient Resque-compatible Message Processing for Rails 3,http://mperham.github.com/sidekiq/
+Prickle: A Simple DSL Extending Capybara,https://github.com/ExtractMethod/prickle
+Mechanize 2.2 Released,http://blog.segment7.net/2012/02/13/mechanize-2-2
+Spotify-Water-Cooler: Multi-user Spotify Playist Queuing,https://github.com/hamin/Spotify-Water-Cooler
+Conway's Game of Life in 140 Characters of Ruby,https://gist.github.com/1761463
+Deliver: Heroku-style Deployment on non-Heroku Servers,https://github.com/gerhard/deliver
+Newman: A Microframework for Email-based Apps,https://github.com/mendicant-university/newman
+Mongoid Alphadog: Case-insensitive Sorting for Mongoid Document Strings,https://github.com/LoneStarInternet/mongoid_alphadog
+Rails Developer at New Relic [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/649063
+Web Development Engineer at G5 Search Marketing [Bend; Oregon],http://jobs.rubyinside.com/a/jbb/job-details/645237
+Ruby Reloaded #5 Coming in March; Sign Up to be Notified,http://rubyreloaded.com/
+

@@ -1,0 +1,52 @@
+title,link
+DevDocs: All-In-One API Documentation Reader,http://devdocs.io/
+So You Wanna Build a Crowdfunding Site? (In Node.js),https://hacks.mozilla.org/2013/07/so-you-wanna-build-a-crowdfunding-site/
+npmsearch: Search The npm Registry for Node.js Packages,http://npmsearch.com/
+Crank Up Your App Security with Multi-Factor Authentication,http://developer.rackspace.com/blog/crank-up-app-security-with-multi-factor-authentication.html?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-Security
+Find out why,http://developer.rackspace.com/blog/crank-up-app-security-with-multi-factor-authentication.html?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-Security
+,http://developer.rackspace.com/blog/crank-up-app-security-with-multi-factor-authentication.html?cm_mmc=SMB12Display-_-JavaScript-_-AppDev-_-Security
+JavaScript; The Winning Style,http://seravo.fi/2013/javascript-the-winning-style
+The Case for setImmediate(),http://www.nczonline.net/blog/2013/07/09/the-case-for-setimmediate/
+How to Unit Test Private Functions in JavaScript,http://philipwalton.com/articles/how-to-unit-test-private-functions-in-javascript/
+Getting Over jQuery,http://blog.ponyfoo.com/2013/07/09/getting-over-jquery
+Developing Google Chrome Extensions,http://net.tutsplus.com/tutorials/javascript-ajax/developing-google-chrome-extensions/
+Create Keyboard Shortcuts with Mousetrap,http://davidwalsh.name/keyboard-shortcuts
+Mousetrap,https://github.com/ccampbell/mousetrap
+Managing Responsive Breakpoints in JavaScript,http://www.jonathanfielding.com/managing-responsive-design-breakpointstates-in-javascript/
+Protecting Your Mellow With JavaScript Linters,http://www.kendoui.com/blogs/teamblog/posts/13-07-09/protecting-your-mellow-with-javascript-linters.aspx
+Why Curry(ing) Helps,http://hughfdjackson.com/javascript/2013/07/06/why-curry-helps/
+How Does Trello Access The User’s Clipboard?,http://stackoverflow.com/questions/17527870/how-does-trello-access-the-users-clipboard/17528590
+Thorax is Awesome,http://blog.peterdecroos.com/blog/2013/07/05/thorax-is-awesome/
+Modular HTML Components with RequireJS,http://simonsmith.io/modular-html-components-with-requirejs/
+JavaScript Grid with One Million Records,http://w2ui.com/web/blog/7/JavaScript-Grid-with-One-Million-Records
+w2ui,http://w2ui.com/web/
+Concurrency in JavaScript with Workers,http://typedarray.org/concurrency-in-javascript/
+Modularizing Node Applications with Express,http://blog.ponyfoo.com/2013/07/10/modularizing-node-applications-with-express
+Extending Jasmine (the BDD Testing Framework),http://krasimirtsonev.com/blog/article/Extending-Jasmine-BDD-framework-for-testing
+Classical Inheritance is Obsolete: How to Think in Prototypal OO,https://vimeo.com/69255635
+blog post,http://ericleads.com/2013/02/fluent-javascript-three-different-kinds-of-prototypal-oo/
+Transitioning to JavaScript,http://javascriptjabber.com/066-jsj-transitioning-to-javascript/
+Node v0.10.13 (Stable),http://blog.nodejs.org/2013/07/09/node-v0-10-13-stable/
+Knockout v2.3.0 Released; v3.0.0 Beta Available,http://blog.stevensanderson.com/2013/07/09/knockout-v2-3-0-released-v3-0-0-beta-available/
+RequireJS 2.1.8,http://jrburke.com/2013/07/08/requirejs-2.1.8-released/
+Underscore.js 1.5.0,http://underscorejs.org/#changelog
+Bower 0.10.0,https://github.com/bower/bower/blob/master/CHANGELOG.md#0100---2013-07-02
+Leaflet: Open-Source JavaScript Library for Mobile-Friendly Interactive Maps,http://leafletjs.com/
+Polymer Example At TodoMVC,http://todomvc.com/architecture-examples/polymer/
+TodoMVC,http://todomvc.com/
+Polymer,http://www.polymer-project.org/
+ElementTransitions.js: Simple Transitions for Web Pages,http://dan-silver.github.io/ElementTransitions.js/
+eddy.js: Event-Driven JavaScript,https://github.com/WebReflection/eddy
+Supervizer: Node.js Fancy Process Manager,https://github.com/oOthkOo/supervizer
+log-globals: Log Your Global Variables to The Console,https://github.com/sindresorhus/log-globals
+DevTools snippet,https://github.com/bgrins/devtools-snippets#to-enable-devtools-snippets-in-chrome
+setImmediate.js: Polyfill for setImmediate(),https://github.com/NobleJS/setImmediate
+Anima: jQuery Plugin to Animate with Transforms and Transitions,https://github.com/minimit/minimit-anima
+TreeModel: Manipulate and Traverse Tree-Like Structures in JavaScript,http://jnuno.com/tree-model-js/
+he: Robust HTML Entity Encoder/Decoder Written in JavaScript,https://github.com/mathiasbynens/he
+Haste Compiler: A Haskell to JavaScript Transpiler,https://github.com/valderman/haste-compiler
+typescript-pong: TypeScript Implementation of Pong,https://github.com/sufianrhazi/typescript-pong
+Senior Front End Developer for the National Hockey League (New York; NY),http://hockeyjobs.nhl.com/teamwork/r.cfm?i=56435
+Front End Developer for National Geographic Society,http://www.nationalgeographic.com/jobs
+JavaScriptOO.com: Directory of JavaScript Projects,http://www.javascriptoo.com/
+

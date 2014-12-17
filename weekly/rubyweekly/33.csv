@@ -1,0 +1,22 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+JRuby 1.6.0 Released: Ruby 1.9.2 Support and More!,http://jruby.org/2011/03/15/jruby-1-6-0.html
+Prototype Out; jQuery In for Rails 3.1 Says DHH,https://twitter.com/dhh/status/45923430608023552
+Phusion Passenger 3.0.5 Released: More Bug Fixes,http://blog.phusion.nl/2011/03/11/phusion-passenger-3-0-5-released/
+LivingSocial Acquires Ruby/Rails Consultancy InfoEther,http://infoether.com/livingsocial
+JRuby 1.6 Released.. Now What?,http://www.engineyard.com/blog/2011/jruby-1-6-released-now-what/
+A Review of 'The RSpec Book' by David Chelimsky et al.,http://www.rubyinside.com/a-review-of-the-rspec-book-by-david-chelimsky-4468.html
+Rails Served by Unicorn with nginx and a Reverse Proxy on Ubuntu,http://tech.tomgoren.com/archives/245
+Full Text Searching with Solr and Sunspot,http://collectiveidea.com/blog/archives/2011/03/08/full-text-searching-with-solr-and-sunspot/
+Tune Ruby 1.9.2's Garbage Collector with RVM and a Simple Patch,http://metaskills.net/2011/03/09/gc-tune-ruby-1.9.2-with-rvm/
+execjs: Run JavaScript Code from Ruby,https://github.com/sstephenson/execjs
+ProxyMachine: Content-Aware TCP Routing Proxy,https://github.com/mojombo/proxymachine
+Forker: Super Simple Daemonization,https://github.com/bmarini/forker
+Slop: Simple Command Line Option Parsing,https://github.com/injekt/slop
+cache: A Cache Abstraction Library,https://github.com/seamusabshere/cache
+Gmaps4rails: Google Maps for Rails,https://github.com/apneadiving/Google-Maps-for-Rails
+Flea: A Scheme-Subset Interpreter Built in Ruby,https://github.com/aarongough/flea
+Web Developer (Ruby Developer) [San Diego; California],http://jobs.rubyinside.com/a/jbb/job-details/457631
+Application Developer [London; United Kingdom],http://jobs.rubyinside.com/a/jbb/job-details/457921
+RailsCasts: Request Specs and Capybara,http://railscasts.com/episodes/257-request-specs-and-capybara
+

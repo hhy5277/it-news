@@ -1,0 +1,23 @@
+title,link
+Node v0.10.31 (Stable) Released,http://blog.nodejs.org/2014/08/19/node-v0-10-31-stable/
+CVE-2014-6668,http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2013-6668
+The Future of the npm Website: Let's Map This Road,http://blog.npmjs.org/post/94662089625/the-future-of-the-npm-website-lets-map-this-road
+Making distributed Node.js deployment easy and manageable,https://www.phusionpassenger.com/node_weekly
+,https://www.phusionpassenger.com/node_weekly
+V8 Intent to Implement: ES6 Classes,https://groups.google.com/a/chromium.org/d/msg/blink-dev/3dLc0LIhDDk/ikXXhLlEMisJ
+Rec Room: A New Node-based Client Side App Building Utility Belt from Mozilla,https://hacks.mozilla.org/2014/08/time-to-get-hacking-introducing-rec-room/
+Node-RED: A Visual Tool for Wiring The Internet of Things,http://nodered.org/
+Build A Real-Time Polls Application with Node.js; Express; AngularJS; and MongoDB,http://www.ibm.com/developerworks/library/wa-nodejs-polling-app/
+Intro to OAuth with Node.js: OAuth 1.0 (One-Legged),http://webapplog.com/intro-to-oauth-with-node-js-oauth-1-0/
+Why You Shouldn't Wait for Meteor 1.0 (to Start Using It),http://joshowens.me/why-you-shouldnt-wait-for-meteor-1-0-to-start-using-it/
+Exploring Node.js Streams with node-vstream,http://www.joyent.com/blog/exploring-node-js-streams-with-node-vstream
+Scraperjs: A Web Scraper Module for Node,https://github.com/ruipgil/scraperjs
+LowDB: A Flat JSON File Database,https://github.com/typicode/lowdb
+Bragi: A JavaScript Logging Library for Node,http://vasir.net/blog/programming/bragi-a-javascript-logging-library
+node-sonos: Node.js Interface to Sonos (Wireless Speaker/Hi-Fi System),https://github.com/bencevans/node-sonos
+node-squad: Run N Functions in Parallel; Until The Input Data Set Is Drained,https://github.com/fallanic/node-squad
+Ghost 0.5 Released: The Node-based Blogging Platform,http://blog.ghost.org/ghost-0-5/
+Preql.js: Makes Writing SQL in JavaScript A Little More Bearable,https://github.com/NGPVAN/preql
+Semaphore CI is now free for open source,https://semaphoreapp.com/blog/2014/08/14/semaphore-gets-free.html
+Joyent; Inc.,http://www.joyent.com/
+

@@ -1,0 +1,32 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Test-Induced Design Damage,http://david.heinemeierhansson.com/2014/test-induced-design-damage.html
+TDD Is Dead. Long Live Testing,http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+Eldritch: A Parallel Programming Constructs DSL,https://github.com/beraboris/eldritch
+Learn Advanced Rake in 7 Episodes,http://devblog.avdi.org/2014/04/30/learn-advanced-rake-in-7-episodes/
+Create first-class Ruby training; earn first-rate royalties,http://blog.pluralsight.com/open-source-authors?utm_source=ruby&utm_medium=banner&utm_campaign=authoros
+find out how you can create online courses and start earning royalties today.,http://blog.pluralsight.com/open-source-authors?utm_source=ruby&utm_medium=banner&utm_campaign=authoros
+,http://blog.pluralsight.com/open-source-authors?utm_source=ruby&utm_medium=banner&utm_campaign=authoros
+Reimplementing Ruby's Hash Using Binary Search Trees,http://zvkemp.github.io/blog/2014/04/28/reimplementing-rubys-hash-using-binary-search-trees/
+Full Text Search in Rails,http://code.tutsplus.com/tutorials/full-text-search-in-rails--cms-20638
+Micromessaging: Connecting Heroku Microservices w/Redis and RabbitMQ,http://blog.carbonfive.com/2014/04/28/micromessaging-connecting-heroku-microservices-wredis-and-rabbitmq/
+The Ruby Job Market Infographic,http://i.imgur.com/W9anp8l.png
+Slow Database Test Fallacy,http://david.heinemeierhansson.com/2014/slow-database-test-fallacy.html
+Mutation Testing with Mutant,http://www.sitepoint.com/mutation-testing-mutant/
+'Guard' is Looking for New Maintainers,https://groups.google.com/d/msg/guard-dev/2Td0QTvTIsE/cegvVofIJ8AJ
+Managing Data in HBase using Ruby and Thrift,http://agilityfeat.com/blog/2014/04/managing-data-in-hbase-using-ruby-and-thrift
+RailsConf 2014 Recap: Day 4 with Aaron Patterson,http://www.bigastronaut.com/blog/2014/railsconf-2014-recap-day-4-with-aaron-patterson
+Senior Software Engineers at HouseTrip (London; UK or Remote),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+Intermediate Ruby and Rails Developer at Kipu Systems (Miami; Florida),http://jobs.rubyinside.com/a/jbb/job-details/986788
+Lead Ruby Engineer at Zendesk (San Francisco),https://gist.github.com/morten/2e080cc819df4dd656ce
+RailsApps Testing Gem: Configures a Testing Stack for your Rails App,https://github.com/RailsApps/rails_apps_testing
+Jekyll 2.0.0.rc1 Released,http://rubygems.org/gems/jekyll/versions/2.0.0.rc1
+Capistrano::TeamNotifications: Capistrano Notifications for All Team Members Via OSX Notification Center,https://github.com/evrone/capistrano-team_notifications
+RbNaCl 3.0.0: A Modern Cryptography Library for Ruby,https://groups.google.com/d/msg/rbnacl/aiQycTbD0iE/mK6G6mzuAVoJ
+Networking and Cryptography Library,http://nacl.cr.yp.to/
+Various: Simple ActionPack::Variant Configuration for Rails 4.1,https://github.com/kulte/various
+mini-chatter: A Realtime Rack-based Chat App using websocket-rack,https://github.com/DamirSvrtan/mini-chatter
+Zaru: Filename Sanitization for Ruby,https://github.com/madrobby/zaru
+AppSignal: The best Rails error and performance monitoring; from $19/month,https://appsignal.com/?referrer=rubyweekly
+Starting at $19,https://appsignal.com/plans?referrer=rubyweekly
+

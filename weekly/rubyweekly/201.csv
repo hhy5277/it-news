@@ -1,0 +1,34 @@
+title,link
+Read this e-mail on the Web,http://rubyweekly.com/issues/201
+Rails 4.1.2 and 4.0.6 Released,http://weblog.rubyonrails.org/2014/6/26/Rails-4-1-2-and-4-0-6-has-been-released/
+Keep Ruby Weird: A One Day Conference 'Filled With Weird',http://keeprubyweird.com/
+CFP,http://keeprubyweird.com/cfp/
+Get real-time data from your real end-users,http://blog.newrelic.com/2014/03/13/javascript-error-reporting-ajax-timing-new-relic/?utm_source=COOP&utm_medium=email&utm_content=BlogNRBrowserAnnounce&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-JavascriptWeekly-BlogNRBrowserAnnounce
+,http://blog.newrelic.com/2014/03/13/javascript-error-reporting-ajax-timing-new-relic/?utm_source=COOP&utm_medium=email&utm_content=BlogNRBrowserAnnounce&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-JavascriptWeekly-BlogNRBrowserAnnounce
+Make Your Tests Cleaner with Minitest and Shoulda,http://www.sitepoint.com/minitest-shoulda/
+Mongoid 4.0 Released: An Object Document Mapper for MongoDB,https://github.com/mongoid/mongoid
+variety of changes,https://github.com/mongoid/mongoid/blob/master/CHANGELOG.md#400
+How Rails' Type Casting Works,http://robots.thoughtbot.com/how-rails-works-type-casting
+Improve Rails Performance by Adding A Few Gems,http://marianposaceanu.com/articles/improve-rails-performance-by-adding-a-few-gems
+Agent: Go-Like Concurrency in Ruby,http://www.sitepoint.com/agent-go-like-concurrency-ruby/
+NoSQL in SQL: Build Schema-free; Scalable Data Storage Inside a Traditional RDBMS (video),http://www.hakkalabs.co/articles/nosql-sql-build-schema-free-scalable-data-storage-inside-traditional-rdbms
+flex_columns,https://github.com/ageweke/flex_columns
+low_card_tables,https://github.com/ageweke/low_card_tables
+db-charmer,https://github.com/ageweke/db-charmer
+Foolproof I18n Setup in Rails,http://robots.thoughtbot.com/foolproof-i18n-setup-in-rails
+Senior Rails Developer (NYC or Remote),http://gothamtechlabs.com/jobs/ruby-on-rails-developer
+Apply Once & Get 5-15 Job Offers from 950+ Companies (SF; NYC; LA),https://hired.com/?utm_source=newsletters&utm_medium=rubyweekly&utm_campaign=rubyweekly-june26_14-jobs
+Junior Rails Developer (Indiana),http://jobs.rubyinside.com/a/jbb/job-details/993606
+Rubinius 1.3.3 Released: With Ruby 1.8.7 Support,https://github.com/rubinius/rubinius/releases/tag/v1.3.3
+rack-secure-upload: Rack Middleware to Pass User Uploads Through Antivirus,https://github.com/dtaniwaki/rack-secure-upload
+ConfConf: Utility for Verifying The Correctness of Environment Variables At App Boot,https://github.com/jkassemi/conf_conf
+Bundler 1.6.3 Now Available with Faster Gem Resolution,https://ninefold.com/news/bundler-163/
+ReduceRanges: Reduces Consecutive Elements of An Array of Integers Into Ranges,https://github.com/jacobaweiss/reduce_ranges
+Cascadia Ruby: August 11–12 in Portland; OR,http://cascadiaruby.com/
+Simple Ways to Protect an API: HTTP Basic Auth and HTTP Token Auth,http://techblog.thescore.com/2014/06/25/http-basic-authentication-and-http-token-authentication/
+Managing Login Passwords for Capybara with Minitest and Rails Fixtures,http://brandonhilkert.com/blog/managing-login-passwords-for-capybara-with-minitest-and-rails-fixtures/
+flex_columns: Schema-free; Structured JSON storage Inside a RDBMS via ActiveRecord,https://github.com/ageweke/flex_columns
+N+1 Problem: Optimized Counts with Joins and Custom Selects in Rails (video),https://www.youtube.com/watch?v=rJg3I-leoo4
+Metamagic: Simple Rails Plugin for Creating 'meta' Tags,https://github.com/lassebunk/metamagic
+A Heavyweight Ruby Playground in the Cloud,https://codio.com/
+

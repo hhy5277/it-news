@@ -1,0 +1,20 @@
+title,link
+Node v0.10.18 (Stable) Released,http://blog.nodejs.org/2013/09/04/node-v0-10-18-stable/
+Node v0.11.7 (Unstable) Released,http://blog.nodejs.org/2013/09/04/node-v0-11-7-unstable/
+Tessel: Internet-Connected JavaScript-Programmable Microcontroller,http://www.dragoninnovation.com/projects/22-tessel
+Heroku; the Node.js-Friendly Cloud Application Platform,https://www.heroku.com/
+,https://www.heroku.com/
+Analysis of Generators and Other Async Patterns in Node,http://spion.github.io/posts/analysis-generators-and-other-async-patterns-node.html
+Generators vs Fibers,http://howtonode.org/generators-vs-fibers
+ES6 on Node.js,http://h3manth.com/new/blog/2013/es6-on-nodejs/
+Node.js vs. PHP,http://flippinawesome.org/2013/09/03/node-js-vs-php/
+PHP to JavaScript converter,https://github.com/Danack/PHP-to-Javascript
+How Node.js Makes Network Code More Testable,http://weblog.bocoup.com/how-nodejs-makes-network-code-more-testable/
+Nor-fs: Chainable Asynchronous File System Library for Node.js,https://github.com/Sendanor/nor-fs
+parse5: Fast Full-Featured HTML5 Parser for Node,https://github.com/inikulin/parse5
+Proxima: HTTP and TLS (HTTPS) Reverse Proxy Server,https://github.com/BlueJeansAndRain/proxima
+Heimcontrol.js - Home Automation in Node.js with Raspberry PI and Arduino,http://ni-c.github.io/heimcontrol.js/
+source-map: JavaScript Library to Parse and Consume Source Maps,https://github.com/mozilla/source-map
+Sr. JavaScript Engineer (San Francisco - SOMA),http://www.krux.com/pro/who_we_are/careers/javascript_guru/
+npm's Origins and Node.js with Isaac Schlueter [audio],http://thechangelog.com/101/
+

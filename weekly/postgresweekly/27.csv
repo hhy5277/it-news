@@ -1,0 +1,18 @@
+title,link
+PostgreSQL 9.3 Released,http://www.postgresql.org/about/news/1481/
+Josh Berkus,http://www.databasesoup.com/2013/09/more-about-my-favorite-93-features.html
+Heroku Postgres team,https://postgres.heroku.com/blog/past/2013/9/9/postgres_93_now_available/
+ReadWriteWeb,http://readwrite.com/2013/09/10/postresql-hits-93-new-levels-of-popularity-with-the-cool-kids
+,http://www.postgresql.org/about/news/1481/
+What's new in PostgreSQL 9.3,http://wiki.postgresql.org/wiki/What's_new_in_PostgreSQL_9.3
+Heroku Postgres - Fully managed Postgres on EC2,https://postgres.heroku.com/&utm_campaign=emailbanner
+,https://postgres.heroku.com/&utm_campaign=emailbanner
+GIN Vs GiST For Faceted Search With Postgres Full Text Indexes,http://www.garysieling.com/blog/gin-vs-gist-for-faceted-search-with-postgres-full-text-indexes
+Using Trigrams against Typos,http://tapoueh.org/blog/2013/09/06-pg_trgm-suggestions.html
+earthdiststance,http://www.postgresql.org/docs/current/static/earthdistance.html
+hstore,http://www.postgresql.org/docs/current/static/hstore.html
+Encryption: MySQL vs PostgreSQL,http://ledgersmbdev.blogspot.com/2013/08/encryption-mysql-vs-postgresql.html
+Postgres_ext adds rank and common table expressions,http://reefpoints.dockyard.com/2013/09/06/postgres_ext-adds-rank-and-common-table-expressions.html
+Implementing Multi-Table Full Text Search with Postgres in Rails,http://robots.thoughtbot.com/post/58438017998/implementing-multi-table-full-text-search-with-postgres
+Craig Kerstiens,http://craigkerstiens.com/
+

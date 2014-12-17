@@ -1,0 +1,29 @@
+title,link
+RSpec 3.1 Released,http://myronmars.to/n/dev-blog/2014/09/rspec-3-1-has-been-released
+Write Reliable; Asynchronous Integration Tests With Capybara,http://robots.thoughtbot.com/write-reliable-asynchronous-integration-tests-with-capybara
+Rails 5; Module#prepend; and the end of `alias_method_chain`,http://www.justinweiss.com/blog/2014/09/08/rails-5-module-number-prepend-and-the-end-of-alias-method-chain/
+Monitor unlimited Rails apps and hosts with AppSignal,https://appsignal.com/rubyweekly
+,https://appsignal.com/rubyweekly
+Bug #10212: MRI Is Not for Lambda Calculus,https://bugs.ruby-lang.org/issues/10212
+3 Simple Examples From Ruby to Elixir,http://dev.mikamai.com/post/94717466094/3-simple-examples-from-ruby-to-elixir
+Understanding Rails' 'protect_from_forgery',http://blog.nvisium.com/2014/09/understanding-protectfromforgery.html
+Full Stack Engineer at Salsify,http://salsify.com/careers
+QA Automation Engineer at VerticalResponse (San Francisco),http://jobs.rubyinside.com/a/jbb/job-details/998606
+Ruby Software Developer at Red Nova Labs (Kansas City; KS),http://rednovalabs.theresumator.com/apply/YX9LHk/Ruby-Software-Developer.html
+Nickel City Ruby Conference - October 3-4; 2014 - Buffalo; NY,http://nickelcityruby.com/
+Rails 4.1.6.rc2 and 4.0.10.rc2 Released,http://weblog.rubyonrails.org/2014/9/8/Rails-4-1-6-rc2-and-4-0-10-rc2-has-been-released/
+Click to Deploy Ruby Development Stack Available on Google Compute Engine,http://googlecloudplatform.blogspot.co.uk/2014/08/click-to-deploy-ruby-development-stack-on-google-compute-engine.html
+Configuring Rails Environments,http://eng.joingrouper.com/blog/2014/09/02/configuring-rails-environments/
+An Introduction To Pry; A Ruby REPL,http://christopherdbui.com/an-introduction-to-pry-a-ruby-repl/
+Styling Emails with Rails and Roadie,http://cookieshq.co.uk/posts/how-to-style-emails-with-rails-and-roadie/
+A Look At Some New Features in Rails 4.2,http://raysrashmi.com/2014/09/02/new-features-in-rails-4-2/
+Teaching Novice Programmers How to Debug Their Code,http://blog.codeunion.io/2014/09/03/teaching-novices-how-to-debug-code/
+The Ruby Rogues Discuss ActiveRecord CRUD with Eileen Uchitelle,http://rubyrogues.com/173-rr-activerecord-crud/
+Rack::Tracker: Tracking Made Easy,https://github.com/railslove/rack-tracker
+Queue Classic 3 Released: Simple; Efficient Worker Queue for Ruby & PostgreSQL,https://blog.rainforestqa.com/2014-09-05-queue-classic-3-released/
+Bh: Bootstrap Helpers for Ruby,https://github.com/Fullscreen/bh
+Theme Bandit: Convert Site Templates (Wordpress; Joomla; etc.) Into A Rack App,https://github.com/lfender6445/theme_bandit
+s3_rails: A Rails Resolver That Retrieves Templates From Amazon S3,https://github.com/straydogstudio/s3_rails
+Origami: A Ruby Framework to Parse; Analyze and Forge PDF Documents,http://esec-lab.sogeti.com/pages/Origami
+Get Fast Code Review on Unlimited Ruby and Rails repositories from 20€/month,https://www.pullreview.com/
+

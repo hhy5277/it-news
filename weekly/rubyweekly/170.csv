@@ -1,0 +1,34 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Ruby Under a Microscope: An Illustrated Guide to Ruby Internals,http://nostarch.com/rum
+,http://nostarch.com/rum
+Rails 4.0.1 Released,http://weblog.rubyonrails.org/2013/11/1/Rails-4-0-1-has-been-released/
+Adhearsion Conf 2013 (December 4-5 - Atlanta; GA),http://adhearsionconf.com/
+Deploy your code faster,https://semaphoreapp.com/
+,https://semaphoreapp.com/
+Exploring Low-level Computing Concepts with Ruby,https://practicingruby.com/articles/low-level-computing?u=c84864ec01
+Keeping Your YAML Clean,http://blog.envylabs.com/post/65339158741/keeping-your-yaml-clean
+Deploying Multiple Rails Apps to a Single VPS,http://www.talkingquickly.co.uk/2013/11/deploying-multiple-rails-apps-to-a-single-vps/
+Using Factory Girl without Active Record,http://collectiveidea.com/blog/archives/2013/11/05/factory-girl-without-active-record/
+Unconditional Programming,http://michaelfeathers.typepad.com/michael_feathers_blog/2013/11/unconditional-programming.html
+How to Set Up Ruby on Rails on Ubuntu 13.10,http://gorails.com/setup/ubuntu/13.10
+Why Meteor Will Kill Ruby on Rails,http://differential.io/blog/meteor-killin-rails
+Redis-based Ruby Code Control with FeatureGuard,http://cmme.org/tdumitrescu/blog/2013/11/featureguard/
+Fast Tests Remove Testing Barriers,http://blog.tddium.com/2013/11/04/fast-tests-remove-testing-barriers/
+Ruby Systems Programming,http://www.youtube.com/watch?v=XNP0b6ykfFw
+Rapid Game Prototyping with Ruby,http://www.confreaks.com/videos/2636-madisonruby2013-rapid-game-prototyping-with-ruby
+Supercharging ActiveRecord with PostgreSQL,http://confreaks.com/videos/2744-wickedgoodruby-supercharging-activerecord-with-postresql
+accompanying slides,http://slid.es/danmcclain/supercharging-activerecord-with-postgresql
+XPath Is Actually Pretty Useful Once It Stops Being Confusing,http://news.rapgenius.com/Mat-brown-xpath-is-actually-pretty-useful-once-it-stops-being-confusing-lyrics
+Dissecting Ruby with Ruby,http://www.youtube.com/watch?v=UYVUSoNrM-c
+Senior Ruby Developer [Austin; TX],http://activeprospect.theresumator.com/apply/nc2DDK/Senior-Ruby-Developer.html
+Radioactive Antidote Study (Need Test Subjects) [San Francisco; CA],http://conqueringit.com/engineer.html
+All-round or backend web-developer [Utrecht; The Netherlands],http://blog.blendle.nl/post/65430202736/blendle-needs-an-all-round-and-or-backend-developer
+Senior Software Engineers at HouseTrip [London; UK],http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+RuboCop 0.15: The Ruby Code Analyzer,https://github.com/bbatsov/rubocop/blob/master/CHANGELOG.md
+ruby-wpdb: A Way to Access WordPress Databases from Ruby,http://robm.me.uk/ruby/2013/10/24/ruby-wpdb-part-1.html
+Gretel: A Flexible Rails Breadcrumbs Plugin,https://github.com/lassebunk/gretel
+Minegems: Private Gem Hosting System Deployable On Heroku,https://github.com/jodosha/minegems
+Espinita: Audit ActiveRecord Models in Rails 4,https://github.com/continuum/espinita
+Ruby Version Manager (RVM) Now on Twitter @rvm_io,https://twitter.com/rvm_io
+

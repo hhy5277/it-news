@@ -1,0 +1,32 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Ruby 1.9.3-p327 Released: Fixes a Hash-Flooding DoS Vulnerability,http://www.ruby-lang.org/en/news/2012/11/09/ruby-1-9-3-p327-is-released/
+2013 Fukuoka Ruby Award Competition,http://www.ruby-lang.org/en/news/2012/11/10/2013-fukuoka-ruby-award-competitionentries-to-be-judged-by-matz/
+Capybara 2.0.0 Released: The Acceptance Test Framework for Webapps,https://groups.google.com/forum/?fromgroups=#!topic/ruby-capybara/C0O7nP2YG1A
+LA Ruby Conf 2013: Call For Proposals Open Until Dec 10,http://larubyconf.com/
+Rails 3.2.9 Released,http://weblog.rubyonrails.org/2012/11/12/ann-rails-3-2-9-has-been-released/
+Cloud-based image management for your web application,http://cloudinary.com/
+,http://cloudinary.com/
+Printing 'Hello; World' in Style (Concurrently),http://danielsz.posterous.com/167870244
+Matz Is Not A Threading Guy,http://jstorimer.com/2012/11/08/matz-is-not-a-threading-guy.html
+rspec-rails and Capybara 2.0: What You Need to Know,http://alindeman.github.com/2012/11/11/rspec-rails-and-capybara-2.0-what-you-need-to-know.html
+Why Ruby Class Methods Resist Refactoring,http://blog.codeclimate.com/blog/2012/11/14/why-ruby-class-methods-resist-refactoring/
+Reference Graphs as Tools for Refactoring,http://blog.newrelic.com/2012/11/08/reference-graphs-as-tools-for-refactoring/
+Trick for Tolerance-based Test Assertions Using #ish,http://spin.atomicobject.com/2012/11/13/convenient-trick-for-tolerance-based-test-assertions-using-ish/
+Recurrent Neural Networks in Ruby,http://blog.josephwilk.net/ruby/recurrent-neural-networks-in-ruby.html
+How I Set out to Benchmark an Algorithm and Ended Up Fixing Ruby,http://confreaks.com/videos/1301-rubyconf2012-there-and-back-again-or-how-i-set-out-to-benchmark-an-algorithm-and-ended-up-fixing-ruby
+Ten Things You Didn't Know You Could Do in Ruby,http://www.youtube.com/watch?v=aBgnlBoIkVM
+The Ruby Rogues on Documenting Code,http://rubyrogues.com/079-rr-documenting-code/
+ruby-lint: Static Code Analysis and Linter for Ruby,https://github.com/YorickPeterse/ruby-lint
+Spinel: A New; 'Ruby-Infused' Open Source Game Engine,https://github.com/cadwallion/spinel
+Version Cake: An Unobtrusive Way to Version APIs in Your Rails App,https://github.com/bwillis/versioncake
+enumerate_it: Enumerations for Ruby (and ActiveRecord) Classes,https://github.com/cassiomarques/enumerate_it
+rmagick-metadata: Parses An Image Using RMagick and Return The Metadata,https://github.com/cavneb/rmagick-metadata
+lazy_mail: A Lazy and Quick Way to Use The Function 'mail',https://github.com/arkes/lazy_mail
+has-many-with-set: A Smarter Way to Have Many-to-Many Relationships in Rails,https://github.com/ebobby/has-many-with-set
+Test Driven JavaScript and Ruby Developer [San Francisco and Santa Monica; CA],http://www.carbonfive.com/jobs
+,http://www.carbonfive.com/jobs
+Backend Web Developer (Ruby) for NY Times featured Startup at Cater2.me [New York; New York],http://jobs.rubyinside.com/a/jbb/job-details/754596
+Ruby engineer at profitable established company at Concierge Live [New York; New York],http://jobs.rubyinside.com/a/jbb/job-details/755916
+Write Faster Rails Tests: Insights via E-mail,http://www.fastrailstests.com/
+

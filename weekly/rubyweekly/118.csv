@@ -1,0 +1,35 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+My 'Ruby 2.0 Walkthrough' Kickstarter Campaign,http://www.kickstarter.com/projects/1225193080/the-ruby-20-walkthrough
+,http://www.kickstarter.com/projects/1225193080/the-ruby-20-walkthrough
+Rubinius 2.0.0 Release Candidate 1,https://github.com/rubinius/rubinius/commit/d19e086d013e7a3c99ec935ca84825db6f437dd8
+Amazon Adds Ruby Support to AWS Elastic Beanstalk,http://aws.typepad.com/aws/2012/11/aws-elastic-beanstalk-ruby-support-and-vpc-integration.html
+Yet Another Ruby Shootout: MRI 1.9.3 vs MRI 2.0 vs Rubinius 2.0,http://igor-alexandrov.github.com/blog/2012/11/05/yet-another-ruby-shootout/
+'require is slow in its bookkeeping; can make Rails startup 2.2x faster',http://bugs.ruby-lang.org/issues/7158
+Ruby 2.0 Preview Available on Heroku,http://blog.heroku.com/archives/2012/11/5/ruby-2-preview-on-heroku/
+Reinventing Wheels of Future: Matz's RubyConf Keynote Slides,https://speakerdeck.com/yukihiro_matz/reinventhing-wheels-of-future
+Game Development and Ruby,https://speakerdeck.com/cadwallion/game-development-and-ruby
+RubyConf Roundup: Day One,http://leone.panopticdev.com/2012/11/rubyconf-roundup-day-one.html
+RubyConf Roundup: Day Two,http://leone.panopticdev.com/2012/11/rubyconf-roundup-day-two.html
+Dead Simple Login System for Rails Apps with OmniAuth and Facebook,http://blog.ragingstudios.com/blog/2012/10/24/absolutely-dead-simple-login-system-for-rails-with-omniauth-and-facebook/
+Let's Not: Refactoring RSpec Specs with Plain Ruby Methods,http://robots.thoughtbot.com/post/34709581001/lets-not
+Thinking in Objects,https://speakerdeck.com/joshsusser/thinking-in-objects-rubyconf-2012
+Building a Peer-to-Peer Chat System using Multicasting in Ruby,http://tx.pignata.com/2012/11/multicast-in-ruby-building-a-peer-to-peer-chat-system.html
+Instructions to Install Ruby 2.0.0-preview1 on OS X with Homebrew and rbenv,https://gist.github.com/4014963
+Delegation on a Method by Method Basis with Forwardable,http://brainspec.com/blog/2012/11/07/delegation-with-forwardable/
+Traitor: An Implementation of Traits for Ruby 2.0,http://blog.txus.io/2012/11/traitor-an-implementation-of-traits-for-ruby-2-dot-0/
+ActiveResource Is Dead; Long Live ActiveResource,http://yetimedia.tumblr.com/post/35233051627/activeresource-is-dead-long-live-activeresource
+RailsCasts Digs Into Rails 4.0's Turbolinks,http://railscasts.com/episodes/390-turbolinks
+The Farmhouse Podcast: Rubyist Talk from Los Angeles,http://farmhouse.la/podcast
+RubyConf 2012 Lightning Talks: An 80 Minute Grab Bag,http://www.justin.tv/confreaks/b/337863983
+The Thoughtbot Podcast Chats to RubyConf 2012 Attendees,http://www.thoughtbot.com/podcast/20
+Espresso: A New Scalable Web Framework Aimed at Speed and Simplicity,https://github.com/slivu/espresso
+Ruboto 0.9: The JRuby on Android Platform,https://github.com/ruboto/ruboto/wiki/Ruboto-0.9.0-release-doc
+A Simplified Version of Ruby's Object System; Implemented in Ruby,https://gist.github.com/4009812
+Chili: A Spicy 'Feature Toggle' Framework for Rails,http://balvig.github.com/chili/
+Redtape: A Cleaner Alternative to accepts_nested_attributes_for in Rails,https://github.com/ClearFit/redtape
+Sr. Rails Engineer at VMware Socialcast (San Francisco),http://bit.ly/RmXHA7
+Ruby on Rails Developer at Litmus (Remote; anywhere!),http://litmus.com/careers
+Sr. Ruby on Rails Developer at ARPC [District of Columbia],http://jobs.rubyinside.com/a/jbb/job-details/754287
+The British Ruby Conference: Giving 15% for Movember,http://2013.britruby.com/
+

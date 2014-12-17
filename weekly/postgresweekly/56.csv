@@ -1,0 +1,13 @@
+title,link
+Archives,http://postgresweekly.com/issues
+PostgreSQL: A Full Text Search Engine - Part 1,http://shisaa.jp/postset/postgresql-full-text-search-part-1.html
+Putting stats_temp_directory On A RAM Disk,http://hacksoclock.blogspot.ch/2014/04/putting-statstempdirectory-on-ramdisk.html
+Check out DB Weekly; our general database newsletter,http://dbweekly.com/issues/11?euid=*%7CUNIQID%7C*
+Issue 11,http://dbweekly.com/issues/11?euid=*%7CUNIQID%7C*
+Migration of Postgres 9.2 to 9.3 with Homebrew and json_enhancements,http://www.peterbe.com/plog/pg-9.2-to-9.3-json_enhancement
+Postgres 9.4 Feature Highlight: REPLICA IDENTITY and Logical Replication,http://michael.otacoo.com/postgresql-2/postgres-9-4-feature-highlight-replica-identity-logical-replication/
+Table Partitioning in PostgreSQL,http://informatics.unep-wcmc.org/post/84213191855/table-partitioning-in-postgresql
+UPSERTisms in Postgres; Part 2: Congestion,http://johtopg.blogspot.com/2014/04/upsertisms-in-postgres-part-2-congestion.html
+What Happens When Replacing A Function Used in an Index?,http://stackoverflow.com/questions/17601719/replace-function-used-in-index
+Craig Kerstiens,http://craigkerstiens.com/
+

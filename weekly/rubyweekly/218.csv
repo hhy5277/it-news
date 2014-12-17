@@ -1,0 +1,35 @@
+title,link
+Installing a Full Ruby/Rails 4.1 Stack on OS X Yosemite,http://railsapps.github.io/installrubyonrails-mac.html
+alternative,https://medium.com/@deanperry/installing-ruby-on-rails-on-osx-yosemite-478f37a86668
+Getting a 'Did You Mean?' Experience for Method Typos,http://www.yukinishijima.net/2014/10/21/did-you-mean-experience-in-ruby.html
+Payola: A Rails Engine for Taking Payments with Stripe,https://www.petekeen.net/introducing-payola
+AppSignal. Just great app monitoring.,https://appsignal.com/rubyweekly
+,https://appsignal.com/rubyweekly
+Introduction to Using LevelDB in Ruby,http://www.sitepoint.com/leveldb-ruby/
+How to Start using Arrays in Rails with PostgreSQL,http://blog.arkency.com/2014/10/how-to-start-using-arrays-in-rails-with-postgresql/
+Raptor: A Radically New Ruby Web Server,http://www.rubyraptor.org/
+shared some benchmark results,http://www.akitaonrails.com/2014/10/19/the-new-kid-on-the-block-for-ruby-servers-raptor
+Effective Ruby: A New Book with 48 Specific Ruby Tactics,http://www.effectiveruby.com/
+Lead Rails Developer at WorkCompass (Cork; Ireland),http://workcompass.com/job/lead-rails-developer/
+Lead Ruby Developer @Fyber (Berlin/Germany),http://www.fyber.com/careers.html?#p=Lead_Developer_-Ruby_on_Rails-&c=Berlin&t=Engineering
+Software Engineer at Local Orbit,http://localorbit.theresumator.com/apply/78YySw/Software-Engineer.html?source=ruby-weekly
+Under the Hood of Ruby's Generational Garbage Collector,https://www.youtube.com/watch?v=hcaYjiAIres&list=UUWnPjmqvljcafA0z2U1fwKQ
+Benchmarking each_with_object Against inject for Building Hashes from Arrays,http://andycroll.com/ruby/benchmarking-each_with_object-against-inject-when-building-hashes-from-arrays/
+Multithreading in the MRI Ruby Interpreter,http://www.csinaction.com/2014/10/10/multithreading-in-the-mri-ruby-interpreter/
+How to Set Up Authentication with AngularJS and Ruby on Rails,http://www.airpair.com/ruby-on-rails-4/posts/authentication-with-angularjs-and-ruby-on-rails
+Bending the Curve: Writing Safe & Fast Native Gems With Rust,http://blog.skylight.io/bending-the-curve-writing-safe-fast-native-gems-with-rust/
+Build a Custom API to Connect WordPress With Ruby on Rails,http://code.tutsplus.com/tutorials/build-a-custom-api-to-connect-wordpress-with-ruby-on-rails--cms-21189
+Clean Up Your Rails Controllers with Decent Exposure,http://easyactiverecord.com/blog/2014/10/16/clean-up-your-rails-controllers-with-decent-exposure/
+Writing Better Tests with The Three-Phase Pattern,http://www.justinweiss.com/blog/2014/10/20/writing-better-tests-with-the-three-phase-pattern/
+Understanding Polymorphic Associations in Rails,http://www.gotealeaf.com/blog/understanding-polymorphic-associations-in-rails
+Ruby on Enums; Queries and Rails 4.1,https://hackhands.com/ruby-on-enums-queries-and-rails-4-1/
+Tagging Your Content Using the Acts As Taggable On Gem,http://easyactiverecord.com/blog/2014/10/21/tagging-your-content-using-the-acts-as-taggable-on-gem/
+Background Processing: Use Einhorn to Spawn and Manage Worker Processes,http://techblog.thescore.com/2014/10/20/background-processing-use-einhorn-to-spawn-and-manage-workers/
+TZInfo: A Ruby Timezone Library,https://github.com/tzinfo/tzinfo
+jstz,http://pellepim.bitbucket.org/jstz/
+EventCounter: A Database-based Event Counter with Throttling Per Time Intervals,https://github.com/skyeagle/event-counter
+Shoryuken: Super Efficient AWS SQS Message Processor for Ruby,https://github.com/phstc/shoryuken
+Social Shares: Check How Many Times a URL Was Shared on Social Networks,https://github.com/Timrael/social_shares
+fake-person: For Creating Fake Personalities / Person Data,https://github.com/adamcooke/fake-person
+LingoHub: Free Translation Platform for Ruby on Rails,https://lingohub.com/?utm_source=RubyWeekly_1014_second&utm_medium=newsletter&utm_campaign=CooperPress
+

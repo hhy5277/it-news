@@ -1,0 +1,15 @@
+title,link
+Archives,http://postgresweekly.com/issues
+PostgreSQL 9.3.3; 9.2.7; 9.1.12; 9.0.16 and 8.4.20 Released,http://www.postgresql.org/about/news/1506/
+The Costs of A PostgreSQL Connection,http://hans.io/blog/2014/02/19/postgresql_connection/index.html
+DreamFactory: Open Source REST API for Postgres,http://bitnami.com/stack/dreamfactory
+,http://bitnami.com/stack/dreamfactory
+Why HStore2/jsonb Is The Most Important Patch of 9.4,http://www.databasesoup.com/2014/02/why-hstore2jsonb-is-most-important.html
+missed PostgreSQL 9.4,http://www.craigkerstiens.com/2014/02/15/PostgreSQL-9.4-What-I-Wanted/
+Using PostgreSQL Arrays The Right Way,http://blog.heapanalytics.com/dont-iterate-over-a-postgres-array-with-a-loop/
+Creating Triggers In PostgreSQL,http://www.bitsntricks.com/creating-triggers-postgresql/
+Streaming Replication Slots in PostgreSQL 9.4,http://blog.2ndquadrant.com/postgresql-9-4-slots/
+PostgreSQL; Aggregates and Histograms,http://tapoueh.org/blog/2014/02/21-PostgreSQL-histogram.html
+functions,http://www.postgresql.org/docs/9.3/static/functions.html
+Craig Kerstiens,http://craigkerstiens.com/
+

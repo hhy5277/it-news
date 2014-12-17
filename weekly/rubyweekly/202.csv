@@ -1,0 +1,32 @@
+title,link
+Read this e-mail on the Web,http://rubyweekly.com/issues/202
+App Server Arena: A Comparison of Popular Ruby Application Servers,https://blog.engineyard.com/2014/ruby-app-server-arena-pt1
+Part 2,https://blog.engineyard.com/2014/ruby-app-server-arena-pt2
+Rails 4.1.4 and 4.0.8 Released,http://weblog.rubyonrails.org/2014/7/2/Rails_4_0_8_and_4_1_4_have_been_released/
+4.1.3 and 4.0.7,http://weblog.rubyonrails.org/2014/7/2/Rails_3_2_19_4_0_7_and_4_1_3_have_been_released/
+an SQL injection vulnerability,https://groups.google.com/d/msg/rubyonrails-security/wDxePLJGZdI/WP7EasCJTA4J
+AppSignal; because devs deserve waffles,https://appsignal.com/rubyweekly
+,https://appsignal.com/rubyweekly
+Favorite Ruby Tricks or Quirks That Most People Don't Know About,http://www.reddit.com/r/ruby/comments/29hr4x/whats_youre_favorite_ruby_trick_or_quirk_that/
+How to Debug Rails in the Context of Your Application,http://www.gotealeaf.com/blog/how-to-debug-ruby-gems-with-source-code
+,http://martinfowler.com/articles/is-tdd-dead/
+Is TDD Dead? The Fowler; Beck; and Heinemeier Hansson Debates,http://martinfowler.com/articles/is-tdd-dead/
+TDD is dead?,http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
+Ruby for Good: A Community Hackathon Conference for Community Projects,http://rubyforgood.com/
+Ruby on Rails Engineer at VerticalResponse,http://hire.jobvite.com/j/?aj=o319ZfwW&s=RubyWeekly
+Senior Ruby Devs are in High Demand (SF; LA; NY),http://ext.careercommits.com/rubywanted
+Taking The Test Trash Out with DatabaseCleaner and RSpec,http://tomdallimore.com/blog/taking-the-test-trash-out-with-databasecleaner-and-rspec/
+Create; Run and Manage Your Ruby Background Processes with Upstart,http://blog.arkency.com/2014/06/create-run-and-manage-your-background-processes-with-upstart/
+Testing Sinatra Application Methods in Isolation with RSpec,http://dev.mensfeld.pl/2014/06/testing-sinatra-application-methods-in-isolation-with-rspec/
+Movie Night And Bacon: A Mechanize Tutorial With Examples,http://thaiwood.io/movie-night-and-bacon-a-mechanize-tutorial-with-examples/
+Batch Changing Facebook Album Descriptions with Ruby and Watir,https://medium.com/ruby-everyday/batch-changing-facebook-album-descriptions-35c69100a322
+How to Create a Post-it Note/Stickies GUI App with Ruby Shoes,https://masteruby.github.io/shoes/2014/06/16/how-to-create-notes-app-in-ruby-shoes.html
+Simplify your Ruby code with the Robustness Principle,http://www.justinweiss.com/blog/2014/06/24/simplify-your-ruby-code-with-the-robustness-principle/
+soundcloud2000: A Terminal-Based SoundCloud Client / Player,https://github.com/grobie/soundcloud2000/
+Ruboto 1.1.1 Released: The JRuby on Android Platform,http://ruboto.org/news/2014/07/01/Ruboto-1.1.1-release-doc.html
+mandriller: Mandrill SMTP API Integration for ActionMailer,https://github.com/dtaniwaki/mandriller
+Jerry: An Inversion of Control (IoC) Container for Ruby,https://github.com/beraboris/jerry
+FastAttributes: Adds Attributes with Their Types to a Ruby Class,https://github.com/applift/fast_attributes
+DevOps Automation: Measuring Application Performance,http://go.rackspace.com/benchmarking-application-performance-with-statsd-and-graphite.html?cm_mmc=managed-_-cloud-_-contentnam-_-rubyweekly-devopswebinar
+Register here.,http://go.rackspace.com/benchmarking-application-performance-with-statsd-and-graphite.html?cm_mmc=managed-_-cloud-_-contentnam-_-rubyweekly-devopswebinar
+

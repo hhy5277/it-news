@@ -1,0 +1,27 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 3.2.5 Released: Fixes Vulnerabilities and Bugs,http://weblog.rubyonrails.org/2012/5/31/ann-rails-3-2-5-has-been-released/
+Take The Ruby on Rails Hosting Survey 2012,http://rails-hosting.com/
+RailsInstaller for OS X: Ruby; Rails; Git; and More in One Download,http://www.engineyard.com/blog/2012/railsinstaller-for-os-x/
+Michael Hartl's Rails Tutorial 2nd Edition; Out Now,http://zfer.us/EKm97
+,http://zfer.us/EKm97
+Forgotten Rails Features: HTTP Streaming,http://robotmay.com/post/24054884390/forgotten-rails-features-http-streaming
+Using vim-slime with Pry for REPL Perfection,http://www.alanmacdougall.com/blog/2012/03/27/using-vim-slime-with-pry-for-repl-perfection/
+A Write Up of the SQL Injection Vulnerability in Rails,http://blog.pentesterlab.com/2012/06/cve-2012-2661-exploitation-write-up.html
+Using ActiveSupport::Configurable to Store Config Options,http://akash.im/2012/06/04/using-activesupport-configurable-to-store-config-options.html
+PhoneGap vs RubyMotion,http://iconoclastlabs.com/cms/blog/posts/phonegap-vs-rubymotion
+Building a Per Project Ruby Console (for non Rails apps) with Pry,http://johnmurray.io/log/2012/05/31/Per--Project-Console.md
+Future Versions of Pow Won't Automatically Support RVM,https://github.com/37signals/pow/commit/3e62babd559430baa21aac8a36072c2c0a7d5aa0
+Heroku Isn't for Idiots,http://rdegges.com/heroku-isnt-for-idiots
+Ruby Is Faster Than Python; PHP and Perl(?),http://www.unlimitednovelty.com/2012/06/ruby-is-faster-than-python-php-and-perl.html
+Yehuda Katz Explains Rails' Versioning System,https://github.com/rails/rails/pull/6610#issuecomment-6128253
+Using Ruby to Craft and Test Beautiful Command Line Applications,http://confreaks.com/videos/922-rubyconfindia2012-using-ruby-to-craft-and-test-beautiful-command-line-applications
+Sidekiq 2.0 Released; Gets Scheduled Jobs,https://github.com/mperham/sidekiq/blob/master/Changes.md
+Parts of RubyMotion Open Sourced,http://blog.rubymotion.com/post/24197887535/community-open-source-updates
+IProcess: Transport Ruby Objects Between Processes,https://github.com/robgleeson/IProcess
+SmartProperties: Ruby Accessors 'on Steroids',https://github.com/t6d/smart_properties
+Rails Software Engineer at Mulu.me (Los Angeles),http://mulu.me/about/jobs
+Rails Developer at IBM [Emeryville; California],http://jobs.rubyinside.com/a/jbb/job-details/697191
+Rails Programmer at Digital Monitoring Products; Inc. [Springfield; Missouri],http://jobs.rubyinside.com/a/jbb/job-details/698233
+Why Our Code Smells,http://opensoul.org/blog/archives/2012/05/23/why-our-code-smells/
+

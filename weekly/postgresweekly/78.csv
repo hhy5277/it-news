@@ -1,0 +1,17 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Multi-Table Full-text Search with Postgres (slide deck + video),http://calebthompson.io/talks/search.html
+Solving Data “Variety” with Postgres’s NoSQL Extensions,http://java.dzone.com/articles/solving-data-variety
+Monitoring Postgresql with a Background Worker,http://no0p.github.io/postgresql/2014/10/21/postgresql-monitoring-framework.html
+Postgres Skills are in Demand - Add to your skill set and get certified,http://www.enterprisedb.com/products-services-training/training&utm_campaign=training5
+,http://www.enterprisedb.com/products-services-training/training&utm_campaign=training5
+Pagination Done the PostgreSQL Way,http://leopard.in.ua/2014/10/11/postgresql-paginattion/
+How to Start using Arrays in Rails with PostgreSQL,http://blog.arkency.com/2014/10/how-to-start-using-arrays-in-rails-with-postgresql/
+pgweb: Web-based PostgreSQL Database Browser,https://github.com/sosedoff/pgweb
+JackDB,https://www.jackdb.com
+Introducing Flexible Freeze,http://www.databasesoup.com/2014/10/introducing-flexible-freeze.html
+project,https://github.com/pgexperts/flexible-freeze
+Quickly list missing foreign key indexes,https://tomafro.net/2009/09/quickly-list-missing-foreign-key-indexes
+Postgres 9.5 Feature Highlight: Replication Slot Control with pg_receivexlog,http://michael.otacoo.com/postgresql-2/postgres-9-5-feature-highlight-physical-slot-pg-receivexlog/
+Craig Kerstiens,http://craigkerstiens.com/
+

@@ -1,0 +1,32 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Introducing Generational Garbage Collection for Ruby 2.1,https://bugs.ruby-lang.org/issues/8339
+Matz's MountainWest RubyConf 2013 Keynote,http://www.youtube.com/watch?v=zQvmgN-0imY
+Rails 4.0 Release Candidate 1 Released,http://weblog.rubyonrails.org/2013/5/1/Rails-4-0-release-candidate-1/
+Draft Ruby 2.1 Schedule Published,https://bugs.ruby-lang.org/projects/ruby-trunk/roadmap#Ruby-210
+Keep your projects in shape with Gemnasium!,https://gemnasium.com/?utm_source=rubyweekly+week1&utm_medium=email&utm_campaign=rubyweekly
+,https://gemnasium.com/?utm_source=rubyweekly+week1&utm_medium=email&utm_campaign=rubyweekly
+Hey Judy; Don't Make It Bad,https://github.com/blog/1489-hey-judy-don-t-make-it-bad
+Let's Play with Ruby Code,http://whitequark.org/blog/2013/04/26/lets-play-with-ruby-code/
+Crafting Rails Applications; 2nd Edition,http://pragprog.com/book/jvrails2/crafting-rails-applications
+Rails 4 UUID Primary Keys with PostgreSQL,http://labria.github.io/2013/04/27/rails-4-uuid-primary-keys-with-postgresql/
+Distributing Complex Ruby Scripts with Omnibus Generated Debian Packages,http://rubiojr.rbel.co/hack/2013/04/29/distributing-complex-ruby-scripts-with-omnibus-generated-debian-packages/
+Behavior-Driven Development with Cucumber,http://blog.codeship.io/2013/04/30/BDD-With-Cucumber.html
+Ruby at GitHub,http://opensoul.org/blog/archives/2013/04/29/ruby-at-github/
+Ruby Rogues 103: Ruby Gems,http://rubyrogues.com/103-rr-ruby-gems/
+FRiPpery: Functional Reactive Programming in Ruby,http://aanandprasad.com/talks/frippery/
+The Many Ways to Deploy Continuously,http://www.confreaks.com/videos/2365-mwrc2013-the-many-ways-to-deploy-continuously
+Ruby Batteries Included,http://verboselogging.com/2013/05/01/ruby-batteries-included
+MountainWest RubyConf 2013 Lightning Talks,http://www.youtube.com/watch?v=XYk1YkCRuKQ
+Parser: A Ruby Parser in Pure Ruby,https://github.com/whitequark/parser
+Minitest 5: Lots O'Changes Coming,https://github.com/seattlerb/minitest/commit/9a57c520ceac76abfe6105866f8548a94eb357b6
+Xray: A Development Tool That Reveals Your Rails App UI's Bones,https://github.com/brentd/xray-rails
+Loadjs: Page Specific JavaScript code in Rails Apps,http://eng.wolox.com.ar/blog/2013/04/19/introducing-loadjs/
+gingerice: Corrects Spelling and Grammar Mistakes,https://github.com/subosito/gingerice
+Rice: Ruby Interface for C++ Extensions,https://rubygems.org/gems/rice
+widget_list: A Turbo Charged Ruby Data Grid,https://github.com/davidrenne/widget_list
+DevOps Hipster aka Infrastructure Engineer at Jimdo (Hamburg; Germany),http://www.jimdo.com/jobs/devops-hipster/
+Full Stack Developer - Win a Trip to Space! at PaeDae [Santa Monica; CA],http://jobs.rubyinside.com/a/jbb/job-details/824493
+Senior Ruby Developer at ARPC [District of Columbia],http://jobs.rubyinside.com/a/jbb/job-details/825074
+/Reg(exp){2}lained/: Demystifying Regular Expressions,http://www.youtube.com/watch?v=EkluES9Rvak
+

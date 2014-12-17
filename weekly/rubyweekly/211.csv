@@ -1,0 +1,32 @@
+title,link
+Yehuda Katz Retires from Rails Core; but Welcome to Senny and Godfrey,http://weblog.rubyonrails.org/2014/9/3/Senny-and-Godfrey-to-Rails-core-Yehuda-to-alumni/
+@wycats,https://twitter.com/wycats
+Porting Your Test Suite to MiniTest: A Series,http://thomascannon.me/posts/porting-to-minitest-part-2/
+what you stand to gain,http://thomascannon.me/posts/porting-to-minitest-part-1/
+how to port your existing tests.,http://thomascannon.me/posts/porting-to-minitest-part-2/
+Adapters 101,http://blog.arkency.com/2014/08/ruby-rails-adapters/
+Heroku vs. Ninefold – Performance and Price Compared,https://ninefold.com/spree/
+,https://ninefold.com/spree/
+Refactoring Our Rails App Out of Single-Table Inheritance (STI),https://about.futurelearn.com/blog/refactoring-rails-sti/
+Acceptance Tests at a Single Level of Abstraction,http://robots.thoughtbot.com/acceptance-tests-at-a-single-level-of-abstraction
+Rails Authorization; a How To,http://railsapps.github.io/rails-authorization.html
+Clean Architecture in Ruby,https://medium.com/@fbzga/clean-architecture-in-ruby-7eb3cd0fc145
+Architecture; the Lost Years.,https://www.youtube.com/watch?v=WpkDN78P884
+Ruby on Rails developers needed in Enschede or Amsterdam,http://tmblr.co/ZOkD6w1Of8rjR
+Ruby Software Developer at Red Nova Labs,http://rednovalabs.theresumator.com/apply/YX9LHk/Ruby-Software-Developer.html
+Draft Chapters of The Ruby On Rails Tutorial (3rd Ed.) Now Available,http://news.railstutorial.org/rails_tutorial_3rd_edition/
+An Introduction to Elixir for Rubyists,https://www.youtube.com/watch?v=XbD1Emhm31w&list=UUWnPjmqvljcafA0z2U1fwKQ
+A New Feature in RSpec 3: Verifying Doubles,http://wegowise.github.io/blog/2014/09/03/rspec-verifying-doubles/
+A Few Tips for Cutting Down Exception Noise,http://www.justinweiss.com/blog/2014/09/02/a-few-tips-for-cutting-down-exception-noise/
+How to Design Clean and Maintainable Code with Service Objects in Rails,https://netguru.co/blog/service-objects-in-rails-will-help
+Seamlessly Navigate Rails Projects With Tmux,http://littlelines.com/blog/2014/09/02/seamlessly-navigate-rails-projects-with-tmux/
+Integrating Rails and Foundation: A 3 Part Tutorial Series,http://www.gotealeaf.com/blog/rails-and-foundation-part-1/
+Building Many-to-Many Relationships with PostgreSQL's hstore in Rails 4,http://pothibo.com/2014/9/many-to-many-relationships-with-postgresql-s-hstore-in-rails-4
+A Guide to Setting up Digital Ocean; Ubuntu; Nginx; Unicorn; Rails; etc.,http://blog.mccartie.com/2014/08/28/digital-ocean.html
+How to Integrate Braintree Payments into Rails,http://www.sitepoint.com/integrate-braintree-payments-rails/
+Tom and Nick Mango Preview the 2014 Rails Rumble,http://5by5.tv/rubyonrails/166
+Royce: A New Rails Roles Solution,https://github.com/MartinJNash/Royce
+image_zoomer_rb: An Easy Way to Integrate an Image Zooming jQuery Plugin into Rails Apps,https://github.com/ilatif/image_zoomer_rb
+Fix bugs in production before your boss even notices.,https://www.honeybadger.io/
+Try exception; uptime and performance monitoring for free.,https://www.honeybadger.io/pages/plans
+

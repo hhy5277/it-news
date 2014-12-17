@@ -1,0 +1,25 @@
+title,link
+JSConf US 2012 Dates and Call For Speakers Announced,http://2012.jsconf.us/
+The Rise and Rise of JavaScript,http://dannorth.net/2011/12/19/the-rise-and-rise-of-javascript/
+Using jQuery's .pushStack() for Reusable DOM Traversing Methods,http://www.learningjquery.com/2011/12/using-jquerys-pushstack-for-reusable-dom-traversing-methods
+The JS Guide to Objects; Functions; Closures and Scope,http://hangar.runway7.net/javascript-guide-to-objects-functions-scope-prototpyes-closures
+How to Set Up Stripe Payments with Node.js,http://www.catonmat.net/blog/stripe-payments-with-node/
+The JxLib UI Framework: An Introduction,http://mootools.net/blog/2011/12/26/jxlib-an-introduction/
+Introducing filer.js: A Wrapper for the HTML5 Filesystem API,http://ericbidelman.tumblr.com/post/14866798359/introducing-filer-js
+WS: The Fastest WebSocket Module for Node.js,http://hobbycoding.posterous.com/the-fastest-websocket-module-for-nodejs
+Google V8 Performance Tuning Tricks: A Presentation,https://mkw.st/p/gdd11-berlin-v8-performance-tuning-tricks/#1
+12 Days of CreativeJS,http://creativejs.com/category/12-days-of-creativejs/
+Elliptic Curve Cryptography in JavaScript [PDF],http://eprint.iacr.org/2011/654.pdf
+22 Most Popular jQuery Plugins of 2011,http://www.moretechtips.net/2011/12/22-most-popular-jquery-plugins-of-2011.html
+URI.js: Library for Working with URLs/URIs,http://medialize.github.com/URI.js/
+randexp.js: Generate Strings from Regular Expressions,https://github.com/fent/randexp.js
+Sugarless: A Functional & Context Oriented Way to Write JS,http://laktek.com/2011/12/21/introducing-sugarless/
+node-native-zip: Pure JavaScript ZIP File Creation,https://github.com/janjongboom/node-native-zip
+jQuery-Placeholder: HTML5 Placeholder Behavior for Old-School Browsers,https://github.com/mathiasbynens/jquery-placeholder
+Task.js: Beautiful Concurrency for JavaScript,http://taskjs.org/
+EveryAuth: Authentication for Node.js Connect and Express Webapps,https://github.com/bnoguchi/everyauth
+Clarinet: SAX-based Evented JSON Parser,http://writings.nunojob.com/2011/12/clarinet-sax-based-evented-streaming-json-parser-in-javascript-for-the-browser-and-nodejs.html
+jQuery-inlog: Easily debug jQuery code by digging into function calls,http://prinzhorn.github.com/jquery-inlog/
+lua.js: Compile Lua Code to JavaScript,https://github.com/mherkender/lua.js
+tmpltr: A New; Web-based JavaScript 'Tinkertool',http://rocktronica.github.com/tmpltr/
+

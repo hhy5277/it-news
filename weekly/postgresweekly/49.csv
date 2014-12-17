@@ -1,0 +1,13 @@
+title,link
+Archives,http://postgresweekly.com/issues
+PostgreSQL Prefers the Scenic Route,http://www.linuxinsider.com/story/Bruce-Momjian-PostrgreSQL-Prefers-the-Scenic-Route-80045.html
+PostgreSQL Participating in Google Summer of Code 2014,http://www.postgresql.org/about/news/1509/
+PG Commander: A Modern Postgres Client for the Mac,https://eggerapps.at/pgcommander/
+,https://eggerapps.at/pgcommander/
+Row Security in PostgreSQL - Overview and Current Status,http://blog.2ndquadrant.com/postgresql-row-security-overview/
+PostgreSQL Gains Support For Logical Decoding,http://www.phoronix.com/scan.php?page=news_item&px=MTYyMTM
+Tracking Month over Month Growth in SQL,http://www.craigkerstiens.com/2014/02/26/Tracking-MoM-growth-in-SQL/
+Getting Audit Logs to use Hstore,http://penningpence.blogspot.com/2014/02/getting-audit-logs-to-use-hstore.html
+Integrated Cache Invalidation for Better Hit Rates [PDF],http://www.hagander.net/talks/cache_invalidation_2014.pdf
+Craig Kerstiens,http://craigkerstiens.com/
+

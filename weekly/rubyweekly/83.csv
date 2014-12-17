@@ -1,0 +1,32 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Refinery CMS 2.0.0 Released,http://refinerycms.com/blog/refinery-cms-2-0-0-released
+For Rails 4; PATCH Is The New Primary HTTP Method for Updates,http://weblog.rubyonrails.org/2012/2/26/edge-rails-patch-is-the-new-primary-http-method-for-updates
+Code School Unleashes 'Rails Testing for Zombies',http://www.codeschool.com/courses/rails-testing-for-zombies
+CloudSpokes: Ready to compete with code in the cloud and win cash?,http://join.cloudspokes.com/joincloudspokesRW.html
+,http://join.cloudspokes.com/joincloudspokesRW.html
+The Joke Is On Us: How Ruby 1.9 Supports the Goto Statement,http://patshaughnessy.net/2012/2/29/the-joke-is-on-us-how-ruby-1-9-supports-the-goto-statement
+Performance Cost of Ruby ORM Model Instantiation,http://merbist.com/2012/02/23/quick-dive-into-ruby-orm-object-initialization/
+,http://merbist.com/2012/02/23/quick-dive-into-ruby-orm-object-initialization/
+Rails Went Off The Rails: Why I'm Rebuilding Archaeopteryx In CoffeeScript,http://gilesbowkett.blogspot.com/2012/02/rails-went-off-rails-why-im-rebuilding.html
+Learning from Rails' Failures,http://merbist.com/2012/02/29/learning-from-rails-failures/
+Let's Write a Gem,http://rakeroutes.com/blog/lets-write-a-gem-part-one/
+Work-Stealing and Recursive Partitioning with Fork/Join in JRuby,http://www.igvita.com/2012/02/29/work-stealing-and-recursive-partitioning-with-fork-join/
+Ruby Generated Poetry,http://blog.andrewmcdonough.com/blog/2012/02/23/ruby-poetry/
+Play by Play with Aaron 'Tenderlove' Patterson,http://peepcode.com/products/play-by-play-tenderlove-ruby-on-rails
+,http://peepcode.com/products/play-by-play-tenderlove-ruby-on-rails
+Twitter Bootstrap Basics by RailsCasts,http://railscasts.com/episodes/328-twitter-bootstrap-basics
+SimpleForm 2.0: Rails Form Creator; Now With Twitter Bootstrap Support,http://blog.plataformatec.com.br/2012/02/simpleform-2-0-bootstrap-for-you-with-love/
+A Rails 3 App in a Single File,https://gist.github.com/1942658
+UnixUtils: Like FileUtils But For Using Unix Tools,https://github.com/seamusabshere/unix_utils
+Funnel: Full Rails Source for a Freelancer Business Management Tool,https://github.com/owainlewis/funnelhq
+Cheddar: Convert Human Input Strings into Numbers,https://github.com/kparnell/cheddar
+Bitwise: Fast; Memory Efficient Bitwise Ops on Large Binary Strings,https://github.com/kenn/bitwise
+Mutation Testing in Rubinius with Mutant,http://blog.txustice.me/2012/02/mutation-testing-with-mutant/
+Sunzi: Ruby-powered Server Provisioning Utility for Minimalists,https://github.com/kenn/sunzi
+Mocktra: A Webmock DSL using Sinatra,https://github.com/jugyo/mocktra
+Unwind: Takes a Forwarding URL; Figures Out Its Final Destination,http://www.scottw.com/unwind
+Senior Ruby Engineer at Spinnakr [District of Columbia],http://jobs.rubyinside.com/a/jbb/job-details/656290
+Veteran Rubyist to Join Team of Financial Software Engineers at Fynanz; Inc. [New York City],http://jobs.rubyinside.com/a/jbb/job-details/658341
+Ruby Patterns from GitHub's Codebase,http://zachholman.com/talk/ruby-patterns
+

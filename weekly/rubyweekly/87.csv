@@ -1,0 +1,34 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Matz Wins FSF's 2011 Award for the Advancement of Free Software,https://www.fsf.org/news/2011-free-software-awards-announced
+,https://www.fsf.org/news/2011-free-software-awards-announced
+Released: 'The Rails View' by John Athayde and Bruce Williams,http://pragprog.com/book/warv/the-rails-view
+,http://pragprog.com/book/warv/the-rails-view
+Ruby Language Accepted As An International Standard by ISO,http://dallarosa.tumblr.com/post/20338743300/ruby-is-accepted-as-an-international-standard
+Rails 3.2.3 Released,http://weblog.rubyonrails.org/2012/3/30/ann-rails-3-2-3-has-been-released/
+Yehuda Katz Raises $40k for 'rails.app'; an OS X Rails Environment Installer,http://www.kickstarter.com/projects/1397300529/railsapp
+Rails Core Drama: Reverting 'Return an actual boolean from xml_http_request?',https://github.com/rails/rails/commit/3756a3fdfe8d339a53bf347487342f93fd9e1edb
+Exploring Ruby's Regular Expression Algorithm,http://patshaughnessy.net/2012/4/3/exploring-rubys-regular-expression-algorithm
+Why You Should Be Excited About Garbage Collection in Ruby 2.0,http://patshaughnessy.net/2012/3/23/why-you-should-be-excited-about-garbage-collection-in-ruby-2-0
+Using MiniTest::Spec With Rails,http://metaskills.net/2011/03/26/using-minitest-spec-with-rails/
+Building Backbone.js Apps With Ruby; Sinatra; MongoDB and Haml,http://addyosmani.com/blog/building-backbone-js-apps-with-ruby-sinatra-mongodb-and-haml/
+Running JRuby on Heroku,http://carlhoerberg.github.com/blog/2012/03/29/run-jruby-on-heroku/
+Zero to Jekyll in 20 Minutes,http://rubysource.com/zero-to-jekyll-in-20-minutes/
+Building and Implementing a Single Sign-On Solution,http://merbist.com/2012/04/04/building-and-implementing-a-single-sign-on-solution/
+What Would Happen If You Ran 'bundle update' Right Now?,http://robots.thoughtbot.com/post/20222801236/what-would-happen-if-you-ran-bundle-update-right-now
+RailsCasts on Copycopter,http://railscasts.com/episodes/336-copycopter
+,http://railscasts.com/episodes/336-copycopter
+Building a Ruby Gem - A Tech Talk,https://vimeo.com/39004946
+PeepCode Play by Play: Jim Weirich,https://peepcode.com/products/play-by-play-jimweirich-ruby
+Don't Fear The Threads: Simplify Your Life with JRuby,http://www.naildrivin5.com/blog/2012/03/23/slides-from-my-talk-on-jruby-and-threads.html
+Weary: Framework and DSL for Building RESTful Web Service Clients,https://github.com/mwunsch/weary
+debugger: Port of ruby-debug That Works on 1.9.2 and 1.9.3,https://github.com/cldwalker/debugger
+store_configurable: A Hash for Config Options on ActiveRecord Objects,https://github.com/metaskills/store_configurable
+Proffer: Hide Instance Variables from Rails Views by Default,https://github.com/hudge/proffer
+S3itch: Amazon S3 WebDAV Proxy for Skitch,https://github.com/mattmatt/s3itch
+rankable_graph: A Ruby PageRank-Like Implementation,https://github.com/cubox/rankable_graph
+Ruby Developer at Decisiv; Inc. [Remote working OK],http://jobs.rubyinside.com/a/jbb/job-details/664486
+Mid-Senior Ruby Software Engineers at FreeAgent [Edinburgh; United Kingdom (Remote poss)],http://jobs.rubyinside.com/a/jbb/job-details/668885
+Cloudinary: Image Manipulation in the Cloud,http://cloudinary.com/
+Heroku Add-ons Catalog,http://addons-catalog.herokuapp.com/
+

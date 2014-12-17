@@ -1,0 +1,12 @@
+title,link
+Archives,http://postgresweekly.com/issues
+ORDER BY [my custom order] in PostgreSQL,http://www.gab.lc/articles/order_by_custom_list.php
+PGConf.EU 2014 Now Open for Registration,http://www.postgresql.org/about/news/1531/
+PostgreSQL's CTEs are optimisation fences,http://blog.2ndquadrant.com/postgresql-ctes-are-optimization-fences/
+Postgis; PostgreSQL's spatial partner (Part 2),http://shisaa.jp/postset/postgis-postgresqls-spatial-partner-part-2.html
+Bucardo 5 Released: A Postgres Database Replication System,http://blog.endpoint.com/2014/06/bucardo-5-multimaster-postgres-released.html
+Lead Database Engineer at Harvest (Anywhere),http://www.getharvest.com/careers/lead-database-engineer
+Manipulating jsonb data by abusing of key uniqueness,http://michael.otacoo.com/postgresql-2/manipulating-jsonb-data-with-key-unique/
+Postgres 9.5 Feature Highlight: Tracking Processes with cluster_name,http://michael.otacoo.com/postgresql-2/postgres-9-5-feature-highlight-process-tracking-cluster-name/
+Craig Kerstiens,http://craigkerstiens.com/
+

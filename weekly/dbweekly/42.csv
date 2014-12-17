@@ -1,0 +1,32 @@
+title,link
+,http://rackspace.com/
+The MDBM High-Speed Database,http://yahooeng.tumblr.com/post/104861108931/mdbm-high-speed-database
+DBM family,http://en.wikipedia.org/wiki/Dbm
+Databases at 14.4Mhz,http://blog.foundationdb.com/databases-at-14.4mhz
+Deploying Apache Spark and Hadoop,https://www.brighttalk.com/webcast/11427/128505
+,https://www.brighttalk.com/webcast/11427/128505
+Why 2015 Will Be Big for NoSQL Databases,http://www.zdnet.com/article/why-2015-will-be-big-for-nosql-databases-couchbase-ceo/
+YAWNDB: A Time Series Database Written in Erlang,http://kukuruku.co/hub/erlang/yawndb-time-series-database
+Postgres 9.4: The Ideal Domain-Driven Design Aggregate Store?,https://vaughnvernon.co/?p=942
+MongoDB Administrator (Austin; TX),https://uscareers-rackspace.icims.com/jobs/9847/mongodb-administrator/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-Mongojob
+Apply here.,https://uscareers-rackspace.icims.com/jobs/9847/mongodb-administrator/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-Mongojob
+Datawarehouse Infrastructure Engineer (San Antonio; TX),https://uscareers-rackspace.icims.com/jobs/12313/datawarehouse-infrastructure-engineer/job
+Learn More.,https://uscareers-rackspace.icims.com/jobs/12313/datawarehouse-infrastructure-engineer/job
+Errplane Snags $8.1M To Continue Building Open Source InfluxDB Time Series Database,http://techcrunch.com/2014/12/08/errplane-snags-8-1m-to-continue-building-open-source-influxdb-time-database/
+Hadoop Goes Primetime with Hortonworks IPO,http://www.cnbc.com/id/102261971
+MapR Claims Momentum as Hadoop Subs Grow,http://www.datanami.com/2014/12/09/mapr-claims-momentum-hadoop-subs-grow/
+MongoDB 2.6.6 Released,https://groups.google.com/d/msg/mongodb-dev/1KeP6A5cax0/y_YN5tvZcpcJ
+NSA Releases Data Management Tool,http://www.datanami.com/2014/12/01/nsa-releases-data-management-tool/
+Microsoft Strengthens Data Platform with SQL Database and Big Data Appliance Updates; Adds New Java SDK for NoSQL,http://blogs.technet.com/b/dataplatforminsider/archive/2014/12/11/microsoft-strengthens-data-platform-with-sql-database-and-big-data-appliance-updates-adds-new-java-sdk-for-its-nosql-service.aspx
+Advances in MongoDB Scalability by Eliot Horowitz (co-founder of MongoDB),https://www.youtube.com/watch?v=nt3rMzAoQws
+Building an AirPair Dashboard Using Apache Spark and Clojure,https://www.airpair.com/clojure/posts/using-apache-spark-clojure
+Speeding Up PostgreSQL With Partial Indexes,http://blog.heapanalytics.com/speeding-up-postgresql-queries-with-partial-indexes/
+Building MongoDB Applications with Binary Files Using GridFS: Part 1,http://www.mongodb.com/blog/post/building-mongodb-applications-binary-files-using-gridfs-part-1
+Do We Really Need Faster Databases?,http://blog.foundationdb.com/do-we-really-need-faster-databases
+Poor Performance From Your MongoDB Database? Look At the Shard Key,http://gobitcan.com/blog/2014-12-05-poor-performance-from-your-mongodb-database-look-at-the-shard-key
+DeepDive: A New System for Developers to Analyze Data Deeply,http://deepdive.stanford.edu/
+Ferry: A Ruby Tool for Easy Data Transfers; Migrations and Manipulation,http://cmu-is-projects.github.io/ferry/
+FiltrES.js: A Simple; Safe; JavaScript ElasticSearch Query Compiler,https://github.com/abeisgreat/FiltrES.js
+Bolt: A Low-Level Key/Value Database for Go.,https://github.com/boltdb/bolt
+pg_shard: A PostgreSQL Extension to Scale Out Real-Time Reads and Writes,https://github.com/citusdata/pg_shard
+

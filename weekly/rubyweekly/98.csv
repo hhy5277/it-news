@@ -1,0 +1,28 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+RSpec's New Expectation Syntax (Coming in 2.11),http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax
+Removing config.threadsafe! from Rails,http://tenderlovemaking.com/2012/06/18/removing-config-threadsafe.html
+Rails Pull Request: Enable threadsafe! By Default,https://github.com/rails/rails/pull/6685
+Why Your Web Framework Should Not Adopt The Rack API,http://blog.plataformatec.com.br/2012/06/why-your-web-framework-should-not-adopt-rack-api/
+Setting Up an Ubuntu 12.04 Rails Development Environment,http://www.rubypluspl.us/2012/06/ubuntu-1204-ruby-on-rails-development.html
+RailsThemes.com: Quick; Easy & Beautiful Rails Themes,https://railsthemes.com/
+,https://railsthemes.com/
+RailsCasts on Brakeman: The Rails Vulnerability Scanner,http://railscasts.com/episodes/358-brakeman
+Ruby Rogues 59: Security with Rein Henrichs,http://rubyrogues.com/059-rr-security-with-rein-henrichs/
+An Intro to Sinatra,http://vimeo.com/43965446
+Creating A Blog Application in Rails 3.2,http://www.k3integrations.com/news-blog/developers-blog/creating-a-blog-application-in-rails-3-2
+Evented Ruby vs Node.js,http://www.youtube.com/watch?v=4iFBC-xbE9I
+API Taster: Visually Test Your Rails Application's API,https://github.com/fredwu/api_taster
+Gary Bernhardt's Simple Queue That You Can Pass to IO.select,https://gist.github.com/2963229
+Rails 2 Asset Pipeline: Familiar Asset Handling for Those On Rails 2,https://github.com/grosser/rails2_asset_pipeline
+cod: IPC Made Simple,http://kschiess.github.com/cod/
+Upsert: SQL MERGE Tricks Codified For 'Upserting' on MySQL; PostgreSQL and SQLite,https://github.com/seamusabshere/upsert
+Portalign: Ruby Gem for Management Of Your EC2 Security Groups,http://agileleague.com/2012/06/portalign-ruby-gem-easier-management-ec2-security-groups/
+Slacker: Test Framework for SQL Server 2005 and 2008 Programmable Objects,https://github.com/vassilvk/slacker/wiki
+Redis Store: Redis Stores for Ruby Frameworks,http://blog.togo.io/introducing/redis-store/
+Talks: Let Your Ruby Programs Talk To You,https://github.com/ruby-talks/talks
+RoR Developers at Quri (San Francisco; CA),http://thesourcery.com/jobs/339/
+Web Developer - Threespot (Washington DC),http://www.threespot.com/about/jobs/webdeveloper/
+Head of Tech or Lead Developer - Purpose (New York; NY),http://skillfer.com/apply.html
+Semaphore: A Hosted Continuous Integration Service for Ruby and Rails,https://semaphoreapp.com/
+

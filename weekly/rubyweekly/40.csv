@@ -1,0 +1,29 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 3.1 Beta 1 Released,http://weblog.rubyonrails.org/2011/5/5/rails-3-1-beta-1-released
+Exceptional Ruby: Avdi Grimm's E-book Now Available,http://exceptionalruby.com/
+TorqueBox 1.0.0 Released: A Java Platform for Rack Apps,http://torquebox.org/news/2011/04/29/torquebox-ruby-appserver-1-0-0-available-now/
+RubyGems 1.8.0 Released,http://blog.segment7.net/2011/05/04/rubygems-1-8-0
+Sinatra 1.2.6 Released,http://groups.google.com/group/sinatrarb/browse_thread/thread/c403efef1ef468b7
+Ubuntu Packages for Nginx+Passenger 3 Released,http://blog.brightbox.co.uk/posts/nginx-passenger-3-ubuntu-packages
+RubyGems 1.8 Is Coming (And Why It Matters),http://blog.zenspider.com/2011/05/rubygems-18-is-coming.html
+Running EventMachine alongside Passenger,http://railstips.org/blog/archives/2011/05/04/eventmachine-and-passenger/
+Understanding Ruby Blocks; Procs and Lambdas,http://www.robertsosinski.com/2008/12/21/understanding-ruby-blocks-procs-and-lambdas/
+How To Make A Reverse SSH Tunnel for Any Rack App with Pow and Nginx,http://www.pogodan.com/blog/2011/5/3/reverse-ssh-tunnel-any-rack-app-with-pow-and-nginx
+Linguistic Analysis with Lingua,http://rubysource.com/linguistic-analysis-with-lingua/
+Configuring Rails 3(.1) to use HTTPS and SSL,http://www.simonecarletti.com/blog/2011/05/configuring-rails-3-https-ssl/
+Presenters As A Solution To as_json Woes In Rails APIs,http://quickleft.com/blog/presenters-as-a-solution-to-asjson-woes-in-rails-apis
+Beware Of Thread#kill Or Your ActiveRecord Transactions Are In Danger,https://coderrr.wordpress.com/2011/05/03/beware-of-threadkill-or-your-activerecord-transactions-are-in-danger-of-being-partially-committed/
+Using MongoDB And Mongoid Without Rails,http://lostechies.com/derickbailey/2011/05/02/using-mongo-and-mongoid-without-rails/
+Bundling Your Gems for Production on Torquebox,http://spin.atomicobject.com/2011/04/28/bundle-your-torquebox-gems-for-production
+The Large Hadron Migrator: Online ActiveRecord Migrations,http://backstage.soundcloud.com/2011/05/introducing-the-large-hadron-migrator-3/
+Fructose: A Ruby Subset to PHP Compiler,http://www.fructoselang.org/
+Cloudist: A New Highly Scalable Job Queue System,https://github.com/ivanvanderbyl/cloudist
+data-migrate: ActiveRecord Migrations for Data,https://github.com/ajvargo/data-migrate
+9 Ruby Devs Seeking Colleagues [VANCOUVER; Canada],http://jobs.rubyinside.com/a/jbb/job-details/485920
+Senior Ruby on Rails Developer [Portland; Oregon],http://jobs.rubyinside.com/a/jbb/job-details/482508
+Web Developer (Ruby Developer) [San Diego; California],http://jobs.rubyinside.com/a/jbb/job-details/486739
+Want to post a job on Ruby Inside and in Ruby Weekly? Head here.,http://www.rubyinside.com/post-a-job
+Ruby Mendicant: Progress Report #1,http://blog.majesticseacreature.com/ruby-mendicant-progress-report-1
+RubyRescue: A Live Ruby Q&A Show; Every Tuesday,http://rubyrescue.tv/
+

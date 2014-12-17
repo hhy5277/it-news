@@ -1,0 +1,14 @@
+title,link
+@postgresweekly,https://twitter.com/postgresweekly
+PGStrom: Postgres on the GPU,http://wiki.postgresql.org/wiki/PGStrom
+Running PostgreSQL on Compression-enabled ZFS,http://citusdata.com/blog/64-zfs-compression
+Citus DB,http://citusdata.com/
+,http://citusdata.com/blog/64-zfs-compression
+Using JSON in Postgres and Node.js,http://blog.j0.hn/post/48591247017/using-json-in-postgres-and-node-js
+natively as of 2 days ago,https://github.com/brianc/node-postgres/pull/239
+Postgres 9.3 feature highlight: JSON parsing functions,http://michael.otacoo.com/postgresql-2/postgres-9-3-feature-highlight-json-parsing-functions/
+A very simple custom aggregate,http://www.databasesoup.com/2013/04/a-very-simple-custom-aggregate.html
+Using array_agg in Postgres,http://craigkerstiens.com/2013/04/17/array-agg/
+Finding your One Metric That Matters using SQL,http://blog.getmetrica.com/post/48153893395/finding-your-one-metric-that-matters-using-sql
+Craig Kerstiens,http://craigkerstiens.com/
+

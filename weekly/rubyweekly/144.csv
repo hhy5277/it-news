@@ -1,0 +1,34 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Phusion Passenger 4.0.1 Released,http://blog.phusion.nl/2013/05/06/phusion-passenger-4-0-1-final-release/
+Upgrading to Rails 4,http://railscasts.com/episodes/415-upgrading-to-rails-4
+Steel City Ruby Conference 2013 Registration Opened,http://steelcityruby.org/
+Popular Ruby-based Static Site Generator Jekyll Reaches 1.0,http://blog.parkermoore.de/2013/05/06/jekyll-1-dot-0-released/
+Track Your App's Dependencies from the Command Line,http://gemnasium.github.io/gemnasium-gem/?utm_source=rubyweekly+week2&utm_medium=email&utm_campaign=rubyweekly
+gemnasium.com,https://gemnasium.com?utm_source=rubyweekly+week2&utm_medium=email&utm_campaign=rubyweekly
+open-source.,https://github.com/gemnasium/gemnasium-gem?utm_source=rubyweekly+week2&utm_medium=email&utm_campaign=rubyweekly
+,http://gemnasium.github.io/gemnasium-gem/?utm_source=rubyweekly+week2&utm_medium=email&utm_campaign=rubyweekly
+Magic Tricks of Testing,https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf?slide=0
+,https://speakerdeck.com/skmetz/magic-tricks-of-testing-railsconf?slide=0
+Deprecate '::' for Method Calls in Ruby 2.1?,https://bugs.ruby-lang.org/issues/8377
+How Ruby Method Dispatch Works,http://blog.jcoglan.com/2013/05/08/how-ruby-method-dispatch-works/
+Building A Complete iOS App with RubyMotion and a Rails API Backend,http://lucatironi.github.io/tutorial/2013/05/05/ruby_rails_rubymotion_ios_app_authentication_devise_tutorial_part_one/
+Using Bundler with JRuby Complete,http://spin.atomicobject.com/2013/04/24/bundler-jruby-complete/
+How to Setup a Production Server for Rails 4,http://robmclarty.com/blog/how-to-setup-a-production-server-for-rails-4
+A Ruby Lazy Infinite Stream in the SICP Way,http://melvinxie.github.io/blog/2013/05/04/ruby-lazy-infinite-stream-in-the-sicp-way/
+Better Single-Table Inheritance through Model Delegation,http://nathanmlong.com/2013/05/better-single-table-inheritance/
+My Assets Are No Longer Minified in Rails 4: HELP,http://alindeman.github.io/2013/05/08/my-assets-are-no-longer-compressed-in-rails-4-halp.html
+The Problem with Rails Callbacks,http://samuelmullen.com/2013/05/the-problem-with-rails-callbacks/
+Postgres. The Best Tool You're Already Using,http://adamsanderson.github.io/railsconf_2013/?full#1
+Rails 4: My First Run-in with Turbolinks,http://srbiv.github.io/2013/04/06/rails-4-my-first-run-in-with-turbolinks.html
+AppSignal: Monitor The Crap Out of Your App,https://appsignal.com/?referrer=rubyweekly
+Rack::Attack: Get Protection From Abusive Clients,http://www.kickstarter.com/backing-and-hacking/rack-attack-protection-from-abusive-clients
+Stringer: A (Work-in-Progress) Anti-Social RSS Reader on Sinatra,https://github.com/swanson/stringer
+PaperclipOptimizer: Minify JPEG and PNG Attachments Received via Paperclip,https://github.com/janfoeh/paperclip-optimizer
+Logging4Hackers: A New Attempt at High Quality Logging from Ruby,https://github.com/botanicus/logging4hackers
+My Travis: Monitor TravisCI Builds Direct from Chrome [Chrome Extension],https://chrome.google.com/webstore/detail/my-travis/ddlafmkcenhiahiikbgjemcbdengmjbg
+Senior Rails Developer at mynewsdesk.com (Stockholm; Sweden),http://mynewsdesk.theresumator.com/apply/GDYLiq/Ruby-On-Rails-Developer-Mynewsdesk.html
+Ruby Developer at HouseTrip [London; United Kingdom],http://jobs.rubyinside.com/a/jbb/job-details/825538
+Software Engineer at Nextpoint [Madison; Wisconsin],http://jobs.rubyinside.com/a/jbb/job-details/831198
+10 Rails 4 Videos from CodeSchool,http://rails4.codeschool.com/videos
+

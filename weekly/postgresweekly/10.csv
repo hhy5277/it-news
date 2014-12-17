@@ -1,0 +1,13 @@
+title,link
+PostgreSQL 9.3 Beta 1 Released,http://www.postgresql.org/about/news/1463/
+Heroku Postgres - Fully managed Postgres on EC2,https://postgres.heroku.com/&utm_campaign=emailbanner
+,https://postgres.heroku.com/&utm_campaign=emailbanner
+Quickly Migrate A DB From MySQL To Postgres,http://datachomp.com/archives/quickly-migrate-a-db-from-mysql-to-postgres/
+Deploying PostgreSQL on Amazon EC2: A Case Study,http://www.pateldenish.com/2013/05/deploying-postgresql-on-amazon-ec2-a-case-study.html
+Database Insight with pg-extras,https://postgres.heroku.com/blog/past/2013/5/10/more_insight_into_your_database_with_pgextras/
+github repo,https://github.com/heroku/heroku-pg-extras/blob/master/init.rb
+Tagging With ActiveRecord and Postgres,http://monkeyandcrow.com/blog/tagging_with_active_record_and_postgres/
+Introduction to PostgreSQL Arrays; Basic Concepts and Normalization Considerations,http://ledgersmbdev.blogspot.com/2013/04/introduction-to-postgresql-arrays-basic.html
+Postgres 9.3 Feature Highlight: Parallel 'pg_dump',http://michael.otacoo.com/postgresql-2/postgres-9-3-feature-highlight-parallel-pg_dump/
+Craig Kerstiens,http://craigkerstiens.com/
+

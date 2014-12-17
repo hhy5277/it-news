@@ -1,0 +1,37 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Ruby 1.9.3-p286 Released,http://www.ruby-lang.org/en/news/2012/10/12/ruby-1-9-3-p286-is-released/
+A Whirlwind Tour of Rails 4,http://vimeo.com/51181496
+JRuby 1.7.0 Release Candidate 2 Released,http://www.jruby.org/2012/10/09/jruby-1-7-0-RC2
+Bugrocket - A Simple Hosted Bug Tracker for Small Teams,https://bugrocket.com/?src=rubyweekly1
+,https://bugrocket.com/?src=rubyweekly1
+7 Ways to Decompose Fat ActiveRecord Models,http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/
+So You Want To Optimize Ruby,http://blog.headius.com/2012/10/so-you-want-to-optimize-ruby.html
+Try and Try Again: Using the Null Object Pattern in Ruby,http://jonathan-jackson.net/2012/10/15/try-and-try-again
+Gem Developers: Let The User Choose The JavaScript Engine,http://blog.sensible.io/post/33424749719/gem-developers-let-the-user-choose-the-javascript
+Visualising the Ruby Global VM Lock,http://johnleach.co.uk/words/1245/visualising-the-ruby-global-vm-lock
+Explain: A Ruby Source to Natural Language Compiler,http://blog.txus.io/2012/10/expressing-ruby-code-in-natural-language/
+Would You Like A Mobile App With That?,http://schneems.com/post/33781154129/would-you-like-a-mobile-app-with-that
+End-to-End Testing With RSpec Integration Tests and Capybara,http://robots.thoughtbot.com/post/33771089985/rspec-integration-tests-with-capybara
+Object-Oriented File Importing and Parsing in Ruby,http://robots.thoughtbot.com/post/33362333571/object-oriented-file-importing-and-parsing
+Lazy User Registration for Rails Apps,http://highgroove.com/articles/2012/10/09/lazy-user-registration-for-rails-apps.html
+Better Specs: A Collection of Guidelines for RSpec Users,http://betterspecs.org/
+An Interview with Xavier Noria; The Code Gardener,http://rubysource.com/xavier-noria-the-code-gardener/
+Ruby's Symbols Explained,http://www.youtube.com/watch?v=mBXGBbEbXZY
+Opal: Ruby to JavaScript Compiler,http://opalrb.org/
+Selfstarter: Roll Your Own Crowdfunding,http://selfstarter.us/
+Fun with Unicode Math in Ruby,http://collectiveidea.com/blog/archives/2012/10/11/fun-with-unicode-math-in-ruby/
+AngularJS Scaffolding for Rails,http://blog.ricodigo.com/blog/2012/10/14/announcing-the-release-of-angularjs-scaffold/
+node-mruby: Embedding Ruby into Node.js,https://github.com/tokuhirom/node-mruby
+rouge: A Clojure implementation on Ruby,https://github.com/unnali/rouge
+Elastictastic: Object-Document Mapper and API Adapter for ElasticSearch,https://github.com/brewster/elastictastic
+Redis Failover 1.0: ZooKeeper-based Master/Slave Automatic Failover,https://github.com/ryanlecompte/redis_failover
+Exception Notification 3.0.0: Exception Notifier Plugin for Rails,http://smartinez87.github.com/exception_notification/
+Cequel: CQL Query Builder and Object-Row Mapper for Apache Cassandra,https://github.com/brewster/cequel
+Ruby Engineer,https://gist.github.com/1f66b372f4967de941c4
+Senior Architect at American College of Physicians [Philadelphia; Pennsylvania],http://jobs.rubyinside.com/a/jbb/job-details/749983
+Foodie Rails Developer Wanted at America's Test Kitchen [Brookline; Massachusetts],http://jobs.rubyinside.com/a/jbb/job-details/751399
+rubytune: Rails Shop Specializing in Performance and Troubleshooting,http://rubytune.com/
+The British Ruby Conference: Standard Tickets Now on Sale,http://2013.britruby.com/
+Rails Rumble Judging Has Just Hours to Go (Vote Now!),http://blog.railsrumble.com/2012/10/15/let-the-judging-begin/
+

@@ -1,0 +1,35 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+The Ruby Core Team Officially 'Retires' 1.8.7,http://www.ruby-lang.org/en/news/2013/06/30/we-retire-1-8-7/
+planned,http://www.ruby-lang.org/en/news/2011/10/06/plans-for-1-8-7/
+1.8.7-p374.,http://www.ruby-lang.org/en/news/2013/06/27/ruby-1-8-7-p374-is-released/
+Understanding Computation: From Simple Machines to Impossible Programs,http://computationbook.com/
+,http://computationbook.com/
+Rails Security: A No Charge One Month E-mail Course,http://railssecurity.com/
+RailsThemes.com: Quick; Easy & Beautiful Rails Themes,https://railsthemes.com/
+,https://railsthemes.com/
+Getting Started with Rails 4.x on Heroku,https://devcenter.heroku.com/articles/rails4-getting-started
+Exploring Rack,http://net.tutsplus.com/tutorials/exploring-rack/
+Puma vs Phusion Passenger,https://github.com/FooBarWidget/passenger/wiki/Puma-vs-Phusion-Passenger
+Concurrent Garbage Collection and Rubinius,http://rubini.us/2013/06/22/concurrent-garbage-collection/
+What's New And Awesome in Ruby 2?,https://blog.engineyard.com/2013/whats-new-and-awesome-in-ruby-2
+RubyKaigi: Making a Japanese Conference Accessible to the World,http://patshaughnessy.net/2013/6/25/rubykaigi-making-a-japanese-conference-accessible-to-the-world
+Datamappify - A New Take on Decoupling Domain; Form and Persistence in Rails,http://fredwu.me/post/54009567748/datamappify-a-new-take-on-decoupling-domain-form-and
+Comparing MRI Rails App Server Performance on Heroku,https://github.com/jrochkind/fake_work_app/blob/master/README.md
+How To Use ActiveModel::Callbacks,http://vicfriedman.github.io/blog/2013/07/03/how-to-use-activemodel-callbacks/
+Ruby Rogues on 'Community Hacks',http://rubyrogues.com/112-rr-community-hacks/
+Building A Mocking Library,http://www.youtube.com/watch?v=2aYdtS7FZJA
+How to Install Ruby and Rails with Screencasts (on Linux; Mac and Windows),http://www.codelearn.org/blog/how-to-install-ruby-rails-screencasts-linux-mac-windows
+franks-famous: A Heroku Ready Sintra Boilerplate,https://github.com/kripy/franks-famous
+Pizza Man,https://github.com/kripy/pizza-man
+Technology Preview: Introducing Flying Passenger,http://blog.phusion.nl/2013/07/03/technology-preview-introducing-flying-passenger/
+Hashifiable: Dead Simple Hash Representation Declarations,https://github.com/pote/hashifiable
+Sublime Text 2 Ruby Markers,https://github.com/mmims/sublime-text-2-ruby-markers
+Adauth: A Ruby Interface for Microsoft's Active Directory Based On 'ruby-net-ldap',https://github.com/Arcath/Adauth
+Ready for Rails 4?,http://www.ready4rails4.net/
+Ruby Developers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oqRWWfwT&s=Ruby_weekly
+Senior Ruby on Rails Developer at Econsultancy [London; United Kingdom],http://jobs.rubyinside.com/a/jbb/job-details/849352
+Lead Developer at Fiduciary Benchmarks [Lake Oswego; Oregon],http://jobs.rubyinside.com/a/jbb/job-details/851337
+Ruby on Rails Programmer at Digital Monitoring Products; Inc. [Springfield; Missouri],http://jobs.rubyinside.com/a/jbb/job-details/856816
+ruby -run -e httpd . -p5000,https://twitter.com/n0kada/status/351556831958667264
+

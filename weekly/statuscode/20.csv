@@ -1,0 +1,58 @@
+title,link
+Programmer Interrupted,http://blog.ninlabs.com/2013/01/programmer-interrupted/?utm_source=statuscode&utm_medium=email
+Implementing a Language with LLVM,http://llvm.org/docs/tutorial/LangImpl1.html?utm_source=statuscode&utm_medium=email
+Microsoft Warms Up to git,http://blogs.msdn.com/b/bharry/archive/2013/01/30/git-init-vs.aspx?utm_source=statuscode&utm_medium=email
+Waza 2013: Heroku's Developer Event - February 28; San Francisco,https://waza.heroku.com/2013?utm_source=statuscode&utm_medium=email
+The C++ Grandmaster Certification,http://www.cppgm.org/index.html?utm_source=statuscode&utm_medium=email
+Using Artificial Intelligence to Write Self-Modifying/Improving Programs,http://www.primaryobjects.com/CMS/Article149.aspx?utm_source=statuscode&utm_medium=email
+Xcode 4.6,https://developer.apple.com/library/mac/#releasenotes/DeveloperTools/RN-Xcode/#//apple_ref/doc/uid/TP40001051-SW216?utm_source=statuscode&utm_medium=email
+What to expect out of MongoDB 2.4,http://jtfreeman.blogspot.co.uk/2013/02/what-to-expect-out-of-mongodb-24.html?utm_source=statuscode&utm_medium=email
+MySQL 5.6: What's New in Performance; Scalability and Availability,https://blogs.oracle.com/MySQL/entry/mysql_5_6_is_a?utm_source=statuscode&utm_medium=email
+O'Reilly Releases 'Coding with Coda' by Eric Gruber,http://shop.oreilly.com/product/0636920028215.do?utm_source=statuscode&utm_medium=email
+Eclipse Foundation Announces Release of Hudson 3.0,http://eclipse.org/org/press-release/20130123_hudson3.php?utm_source=statuscode&utm_medium=email
+Scala 2.10.0 now available,http://www.scala-lang.org/node/27499?utm_source=statuscode&utm_medium=email
+Ada 2012 Language Standard Approved by ISO,http://www.adacore.com/press/ada-2012-language-approved?utm_source=statuscode&utm_medium=email
+GNU sed 4.2.2 released; and a rant from the maintainer,http://article.gmane.org/gmane.comp.lang.smalltalk.gnu.general/7873?utm_source=statuscode&utm_medium=email
+LLVM 3.2 Released,http://llvm.org/releases/3.2/docs/ReleaseNotes.html?utm_source=statuscode&utm_medium=email
+Why C++ Is Not 'Back',http://simpleprogrammer.com/2012/12/01/why-c-is-not-back/?utm_source=statuscode&utm_medium=email
+New Programming Language Spotlight: Bandicoot,http://www.youtube.com/watch?v=k6vizYkPFEg&list=SP586C8FE242700A4D&index=36&cmp=tw-code-pdcst-bandicoot
+Why does Google append 'while(1);' in front of their JSON responses?,http://stackoverflow.com/q/2669690/3951?utm_source=statuscode&utm_medium=email
+New School C,http://radar.oreilly.com/2012/12/c-programming-language-ben-klemens.html?utm_source=statuscode&utm_medium=email
+From NAND to Tetris in 12 Steps,http://www.youtube.com/watch?v=IlPj5Rg1y2w
+Functional thinking: Why functional programming is on the rise,http://www.ibm.com/developerworks/library/j-ft20/?utm_source=statuscode&utm_medium=email
+How profilers lie: the cases of gprof and KCachegrind,http://www.yosefk.com/blog/how-profilers-lie-the-cases-of-gprof-and-kcachegrind.html?utm_source=statuscode&utm_medium=email
+Considering MySQL? Use something else. Already on MySQL? Migrate.,http://grimoire.ca/mysql/choose-something-else?utm_source=statuscode&utm_medium=email
+Computer Science PhD trends,http://blog.vivekhaldar.com/post/42007984829/computer-science-phd-trends?utm_source=statuscode&utm_medium=email
+A Look Back at Several 2012 Software Screw Ups,http://blog.tddium.com/2013/01/17/a-look-back-at-2012-software-screw-ups/?utm_source=statuscode&utm_medium=email
+Go: A Nice Language with an Annoying Personality?,http://corte.si/posts/code/go/go-rant.html?utm_source=statuscode&utm_medium=email
+(A small part of) The 6502 chip explained down to the silicon,http://www.arcfn.com/2013/01/a-small-part-of-6502-chip-explained.html?utm_source=statuscode&utm_medium=email
+14 Ways to Contribute to Open Source without Being a Programming Genius or a Rock Star,http://blog.smartbear.com/software-quality/bid/167051/14-Ways-to-Contribute-to-Open-Source-without-Being-a-Programming-Genius-or-a-Rock-Star?utm_source=statuscode&utm_medium=email
+How to Write your own Minesweeper AI,http://luckytoilet.wordpress.com/2012/12/23/2125/?utm_source=statuscode&utm_medium=email
+Assembly Language Primer For Hackers,http://www.worldofhacker.com/Article-Assembly-Language-Primer-For-Hackers-Part-1-System-Organization?utm_source=statuscode&utm_medium=email
+24 Ways: A Web Design and Development Advent Calendar,http://24ways.org/?utm_source=statuscode&utm_medium=email
+Math for Game Developers: Video Series,http://www.gamedev.net/blog/796/entry-2255993-math-for-game-developers-video-series/?utm_source=statuscode&utm_medium=email
+School of Haskell Goes Beta,http://fpcomplete.com/school-of-haskell-goes-beta/?utm_source=statuscode&utm_medium=email
+Colorsublime: Color Schemes for Sublime Text 2,http://colorsublime.com/?utm_source=statuscode&utm_medium=email
+MMURTL (a.k.a. Developing Your Own 32 Bit Operating System),http://www.ipdatacorp.com/mmurtl/?utm_source=statuscode&utm_medium=email
+Enabling colors in Git's command-line interface,http://faizanshaharyar.com/enabling-colors-in-git-command-line-interface?utm_source=statuscode&utm_medium=email
+9 of the Best Free C Books,http://www.linuxlinks.com/article/20130202034416464/9oftheBestFreeC-Part1.html?utm_source=statuscode&utm_medium=email
+Google unveils C++ containers that save memory and time,http://google-opensource.blogspot.in/2013/01/c-containers-that-save-memory-and-time.html?utm_source=statuscode&utm_medium=email
+5 great visual tweaks for Sublime Text,http://wesbos.com/sublime-text-5-visual-tweaks/?utm_source=statuscode&utm_medium=email
+Fay: A Subset of Haskell that Compiles to JavaScript,http://fay-lang.org/?utm_source=statuscode&utm_medium=email
+Compiling Scala to LLVM,http://www.infoq.com/presentations/Scala-LLVM?utm_source=statuscode&utm_medium=email
+Higgs: A Monitoring JIT for JavaScript & Metacircular VM Layering,https://air.mozilla.org/higgs-jit/?utm_source=statuscode&utm_medium=email
+Creating a Simple Bloom Filter (in Python),http://maxburstein.com/blog/creating-a-simple-bloom-filter/?utm_source=statuscode&utm_medium=email
+Inside the ALU of the 8085 microprocessor,http://www.arcfn.com/2013/01/inside-alu-of-8085-microprocessor.html?utm_source=statuscode&utm_medium=email
+Zipline: A Pythonic Algorithmic Trading Library,https://github.com/quantopian/zipline?utm_source=statuscode&utm_medium=email
+Computer Scientists Find New Shortcuts to the Traveling Salesman Problem,https://simonsfoundation.org/features/science-news/computer-scientists-take-road-less-traveled/?utm_source=statuscode&utm_medium=email
+Functional C Programming: Higher order functions; closures; lifted types…,http://blog.charlescary.com/?p=95
+C++11 & The Long-Term Viability Of GCC Is Questioned,http://www.phoronix.com/scan.php?page=news_item&px=MTI4NDU
+When Haskell Is Not Faster than C,http://jacquesmattheij.com/when-haskell-is-not-faster-than-c?utm_source=statuscode&utm_medium=email
+A Brainf*ck CPU in FPGA,http://gergo.erdi.hu/blog/2013-01-19-a_brainfuck_cpu_in_fpga/?utm_source=statuscode&utm_medium=email
+How Erlang Does Scheduling,http://jlouisramblings.blogspot.co.uk/2013/01/how-erlang-does-scheduling.html?utm_source=statuscode&utm_medium=email
+Software Developer (Amsterdam) - Good in Perl or Willing to Learn?,http://www.booking.com/jobs.en-us.html?sid=250ab6c830753040467ad3fdcb5ea63d;dcid=1;st=details;job_id=10795
+Test Driven JavaScript and Ruby Developer (San Francisco and Santa Monica; CA),http://www.carbonfive.com/jobs?utm_source=statuscode&utm_medium=email
+Full Stack Web Application Developer,http://www.zoodles.com/home/careers#web_app_dev?utm_source=statuscode&utm_medium=email
+Postgres Weekly: A New Weekly Coming Soon from Cooper Press,http://postgresweekly.com/?utm_source=statuscode&utm_medium=email
+,http://postgresweekly.com/?utm_source=statuscode&utm_medium=email
+

@@ -1,0 +1,29 @@
+title,link
+read it online here.,http://rubyweekly.com/issues/196
+RubyMotion 3.0 To Support Android,http://blog.rubymotion.com/post/87048665656/rubymotion-3-0-sneak-peek-android-support
+The 8 Rails Google Summer of Code Students and Projects Revealed,http://weblog.rubyonrails.org/2014/5/23/meet-our-google-summer-of-code-students-and-mentors/
+An Update on the Progress of RVM 2,https://www.bountysource.com/teams/rvm/updates
+Fix bugs in production before your boss even notices.,https://www.honeybadger.io/
+Try exception; uptime and performance monitoring for free.,https://www.honeybadger.io/pages/plans
+,https://www.honeybadger.io/
+7 Reasons Why I'm Sticking with Minitest and Fixtures in Rails,http://brandonhilkert.com/blog/7-reasons-why-im-sticking-with-minitest-and-fixtures-in-rails/
+Upgrading to Ruby 2.1 (and Other Fun with YAML),http://engineering.freeagent.com/2014/05/23/upgrading-to-ruby-2.1/
+Jim Weirich on Exceptions,http://devblog.avdi.org/2014/05/21/jim-weirich-on-exceptions/
+Avoid Rails When Generating JSON Responses with PostgreSQL,http://reefpoints.dockyard.com/2014/05/27/avoid-rails-when-generating-json-responses-with-postgresql.html
+How You Nest Modules Matters in Ruby,http://techblog.thescore.com/how-you-nest-modules-matters-in-ruby/
+MetaRuby - Building Classes Dynamically,http://monkeyandcrow.com/blog/building_classes_dynamically/
+On the Road to Continuous Delivery at Localytics,http://www.localytics.com/blog/2014/on-the-road-to-continuous-delivery-at-localytics/
+The Ruby Rogues' Confessions,http://rubyrogues.com/158-rr-confessions/
+Class Reloading in Rails: The Whole Story (by Xavier Noria),https://www.youtube.com/watch?v=4sIU8PxJEEk
+Senior Developer (Ruby on Rails),http://www.sponsorpay.com/careers.html#p=Senior_Developer_-Ruby_on_Rails-&c=Berlin&t=Engineering
+Sr. Ruby on Rails Developer (Austin; TX - allows remote),http://www.scoutrfp.com/were-hiring/
+Curious? (Menlo Park; CA),http://curious.com/jobs
+FortyFacets: For Building Explorative Search Interfaces On ActiveRecord Models,https://github.com/fortytools/forty_facets
+Rails 4.1.2 RC1 and 4.0.6 RC1 Released,http://weblog.rubyonrails.org/2014/5/27/Rails-4-1-2-rc1-and-4-0-6-rc1-has-been-released/
+Camcorder: Record Method Interactions for Future Playback,https://github.com/ghempton/camcorder
+VCR,https://github.com/vcr/vcr
+Ruboto 1.1.0 Released: The JRuby on Android Platform,http://ruboto.org/news/2014/05/25/Ruboto-1.1.0-release-doc.html
+A Two-Factor Authentication Extension for Devise,https://github.com/tinfoil/devise-two-factor
+ActiveJob: Declare Job Classes That Can Be Run by A Variety of Queueing Backends,https://github.com/rails/activejob
+A Heavyweight Ruby Playground in the Cloud,https://codio.com/
+

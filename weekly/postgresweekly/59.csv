@@ -1,0 +1,11 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Postgres and Connection Pooling,http://www.craigkerstiens.com/2014/05/22/on-connection-pooling/
+Querying Time Series in Postgresql,http://no0p.github.io/postgresql/2014/05/08/timeseries-tips-pg.html
+Scaling Gilt with PostgreSQL,http://tech.gilt.com/post/85923439469/scaling-gilt-with-postgresql-from-one-database-to-many
+SQLite and Postgres,http://www.pgcon.org/2014/schedule/attachments/319_PGCon2014OpeningKeynote.pdf
+Avoid Rails When Generating JSON responses with PostgreSQL,http://reefpoints.dockyard.com/2014/05/27/avoid-rails-when-generating-json-responses-with-postgresql.html
+rdb - ORM for Node,https://www.npmjs.org/package/rdb
+9.4 JSON Slides,http://www.slideshare.net/amdunstan/94json
+Craig Kerstiens,http://craigkerstiens.com/
+

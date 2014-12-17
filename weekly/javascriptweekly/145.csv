@@ -1,0 +1,47 @@
+title,link
+The Road to Ember.js 1.0: Final Release This Weekend?,https://github.com/emberjs/ember.js/issues/3246
+Yeoman 1.0 Released: Modern Workflows for Modern Webapps,http://yeoman.io/blog/hello-1.0.html
+also shares what the future holds for Yeoman,http://www.youtube.com/watch?v=MTYZzs8ud3E
+ECMAScript Internationalization API,http://generatedcontent.org/post/59403168016/esintlapi
+ECMA-402,http://www.ecma-international.org/ecma-402/1.0/
+Protecting Objects in JavaScript,http://www.2ality.com/2013/08/protecting-objects.html
+Determining if a String Contains a Substring,http://designpepper.com/blog/drips/determining-if-a-string-contains-another-string-in-javascript-three-approaches
+Outlining: Work-Around for JITs and Big Functions,http://mozakai.blogspot.de/2013/08/outlining-workaround-for-jits-and-big.html
+Client-Side Dependency Management: Choosing Between npm; Bower and component,http://flippinawesome.org/2013/08/26/choosing-between-npm-bower-and-component/
+Understanding Scope and Context in JavaScript,http://flippinawesome.org/2013/08/26/understanding-scope-and-context-in-javascript/?
+An Introduction to IIFEs (Immediately Invoked Function Expressions),http://designpepper.com/blog/drips/an-introduction-to-iifes-immediately-invoked-function-expressions
+ES6 Generators Deliver Go-Style Concurrency,http://swannodette.github.io/2013/08/24/es6-generators-and-csp/
+Communicating Sequential Processes,http://en.wikipedia.org/wiki/Communicating_sequential_processes
+Debugging Modern Web Applications Part 1,http://tech.pro/tutorial/1404/debugging-modern-web-applications-part-1
+Building Large Backbone Applications,http://victorsavkin.com/post/59496656297/building-large-backbone-applications
+Web Components Resources,http://ebidel.github.io/webcomponents/
+The Tiny Table Sorter or ‘You Can Write LINQ in JavaScript’,http://blogs.msdn.com/b/oldnewthing/archive/2013/08/19/10442582.aspx
+Remarkable React,http://www.phpied.com/remarkable-react/
+Should JavaScript Devs Build ‘Real’ Things?,http://ajfisher.me/2013/08/21/should-javascript-devs-build-real-things/
+Converting An Existing Backbone.js Project to Require.js,http://ozkatz.github.io/converting-an-existing-backbonejs-project-to-requirejs.html
+Debugging Mocha Tests Via Node’s Standard Debugger,http://dailyjs.com/2013/08/22/mocha-debugger/
+Kickstart Your AngularJS Development with Yeoman; Grunt and Bower,http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/
+The Loading Point: How Little Modules Can Make A Big Difference,https://vimeo.com/album/2495028/video/72690876
+An Intro to Data Visualisation Using D3.js,https://vimeo.com/album/2495028/video/72467564
+Visualising JavaScript Processing Over Time With Chrome DevTools Flame Charts,http://addyosmani.com/blog/devtools-flame-charts/
+jsPDF: Client-Side Solution for Generating PDFs,http://parall.ax/products/jspdf
+D3.js 3.3 Released,https://github.com/mbostock/d3/releases/tag/v3.3.0
+The 'Theseus' JavaScript Debugger for Chrome and Node.js,http://blog.brackets.io/2013/08/28/theseus-javascript-debugger-for-chrome-and-nodejs/
+Sifter.js: Autocomplete Search Library,https://github.com/brianreavis/sifter.js
+Hopscotch: Framework for Product Tours of Web Pages,http://linkedin.github.io/hopscotch/
+RequireBin: Share Browser Code Using Node.js Modules,http://requirebin.com/
+mdn.io: Passive URL Shortening for MDN,http://lazd.github.io/mdn-io-passive-url-shortening-for-mdn.html
+mdn.io/defineproperty,http://mdn.io/defineproperty
+url-to-screenshot: Capture Screenshots of Web Pages Using PhantomJS,https://github.com/re-view/url-to-screenshot
+XHook: Intercept and Modify XHR Request and Response,https://github.com/jpillora/xhook
+JsDebuggr: Add and Remove JavaScript Breakpoints from Sublime Text,https://github.com/rDr4g0n/JsDebuggr
+Backbone.Modal: Plugin That Simplifies Creating Modals for Your App,http://awkward.github.io/backbone.modal/
+wu.js: Library for Lazy; Functional Programming in JavaScript,http://fitzgen.github.io/wu.js/
+Antycs: Organize and Simplify Your Analytics Event Trapping Related Code,http://freshcod.es/antycs/
+Hammer.js: Library for Multi-Touch Gestures,http://eightmedia.github.io/hammer.js/
+Minivents: A Tiny JavaScript Events Library,https://github.com/allouis/minivents
+Flipload: Flipping HTML Elements to Show a Loading Indicator on the Back,http://pazguille.github.io/flipload/
+Software Engineer at Turn (Silicon Valley),http://www.turn.com/career-opportunities/applications-engineering-front-end
+Web Designer at Booking.com in Amsterdam; the Netherlands,http://www.booking.com/jobs.en-us.html?sid=8f26e7bade6c74cc7e64fc64562f4431;dcid=1;st=details;job_id=10540
+A simpler way to deploy,http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptweekly&utm_medium=displayemail&utm_content=total_deployment_v2_m3&utm_campaign=deploymentmanager&utm_term=email-20677
+

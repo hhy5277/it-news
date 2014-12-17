@@ -1,0 +1,31 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Parsing JSON The Hard Way,https://practicingruby.com/articles/shared/scqtutaqfldp
+String#scrub Method Added to Edge Ruby (Ruby 2.1),https://github.com/ruby/ruby/blob/1e8a05c1dfee94db9b6b825097e1d192ad32930a/string.c#L7770-L7783
+Time to break up that huge Ruby App? We have you covered.,http://blog.newrelic.com/2013/04/22/cross-app-tracing-time-to-break-up-that-huge-rails-application/?utm_source=COOP&utm_medium=email&utm_content=cat&utm_campaign=rubyweekly&mpc=EM-COOP-RPM-en-100-rubyweekly-4_25
+,http://blog.newrelic.com/2013/04/22/cross-app-tracing-time-to-break-up-that-huge-rails-application/?utm_source=COOP&utm_medium=email&utm_content=cat&utm_campaign=rubyweekly&mpc=EM-COOP-RPM-en-100-rubyweekly-4_25
+Ruby Versions Demystified,http://tech.pro/blog/1247/ruby-versions-demystified
+RVM 2.0: The Plan,https://docs.google.com/document/d/1xW9GeEpLOWPcddDg_hOPvK4oeLxJmU3Q5FiCNT7nTAc/edit?pli=1
+Running Bash (or any External) Commands From Ruby,http://ruby.elevatedintel.com/blog/running-bash-commands-from-ruby/
+Ruby Hacking Guide Chapter 11: Finite-State Scanner,http://whitequark.org/blog/2013/04/01/ruby-hacking-guide-ch-11-finite-state-lexer/
+Metaprogramming Fibonacci,http://www.commandercoriander.net/blog/2013/04/10/metaprogramming-fibonacci/
+Don't Spam Your Users: Batch Notifications in Rails,http://blog.meldium.com/home/2013/4/22/dont-spam-your-users-batch-notifications-in-rails
+Advanced Topics in Ruby FFI,http://www.elabs.se/blog/61-advanced-topics-in-ruby-ffi
+Instrumenting Ruby On Rails with TraceView in Under 10 Minutes,http://blog.gameface.in/post/48724980929/instrumenting-ruby-on-rails-with-traceview-in-under-10
+A Screencast on using MiniTest with Rails; Just For You,http://www.metacasts.tv/rubyweekly
+Impressive Ruby Productivity with Vim and Tmux,http://confreaks.com/videos/2291-larubyconf2013-impressive-ruby-productivity-with-vim-and-tmux
+High Rails Availability at Braintree,https://www.braintreepayments.com/braintrust/ruby-conf-australia-high-availability-at-braintree
+Help; I'm Stuck. What Do I Test Next?,http://www.tablexi.com/blog/2013/04/help-im-stuck-what-do-i-test-next-xi-to-eye/developers/
+The Death of Ifs,http://jumpstartlab.com/news/archives/2013/04/23/the-death-of-ifs
+Sync: Realtime Rails Partials,http://chrismccord.com/blog/2013/04/21/sync-realtime-rails-partials/
+A Scorched Earth Game in Ruby with OpenGL/Gosu/Chingu,https://github.com/jamesmoriarty/scorched-earth-rb
+Groupdate: Group ActiveRecord Objects by Dates,http://ankane.github.io/groupdate/
+lazyload-rails: jQuery Lazy Load for Rails image_tag helpers,https://github.com/jassa/lazyload-rails
+ruby-lint 0.0.3: A Linter and Static Code Analysis Tool for Ruby,https://github.com/YorickPeterse/ruby-lint/commit/ab442c50ce3b2e8c1fea4de1dad74353907d0189
+Hatch: An Experiment in Invalid Object Representations,https://github.com/tonchis/hatch
+DevOps Hipster aka Infrastructure Engineer at Jimdo (Hamburg; Germany),http://www.jimdo.com/jobs/devops-hipster/
+Senior Software Engineer - Ruby; Web and Data Science at State [London; UK],http://jobs.rubyinside.com/a/jbb/job-details/823022
+Senior Rails Developer at PhishMe; Inc. [Virginia],http://jobs.rubyinside.com/a/jbb/job-details/824311
+The Pragmatic Studio's New 'Ruby on Rails Programming' Course,http://pragmaticstudio.com/rails
+Ruby Programming course,http://pragmaticstudio.com/ruby
+

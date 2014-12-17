@@ -1,0 +1,26 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Cucumber Hits 1.0.0,http://aslakhellesoy.com/post/6734058541/cucumber-one-oh
+Rails 3.0.9 Released: Bug Fixes For The Win,http://weblog.rubyonrails.org/2011/6/16/ann-rails-3-0-9-has-been-released
+Ruby In Steel 2 Beta Available,http://www.sapphiresteel.com/Products/Ruby-In-Steel/article/ruby-in-steel-2-download
+Nokogiri 1.4.5 Released,http://groups.google.com/group/nokogiri-talk/browse_thread/thread/d8eee2b53aefe515
+Developing a RubyGem using Bundler,https://github.com/radar/guides/blob/master/gem-development.md
+Ruby Verbose Mode and How It's Broken,http://mislav.uniqpath.com/2011/06/ruby-verbose-mode/
+Making HAML Faster - 3 Optimizations,http://www.coffeepowered.net/2011/06/17/making-haml-faster/
+An RSpec Tip: Using 'let' and Nested describe/context Blocks,http://napkin.highgroove.com/articles/2011/06/21/rspec-tip-let-and-nested-describe-context-blocks
+MacRuby: What Is It And Why Should I Care?,http://bostonrb.org/presentations/month/June-2011
+RailsCasts on Resque,http://railscasts.com/episodes/271-resque
+Integration Testing with Capybara,http://gemaweek.com/post/6579217051/episode3-capybara
+Eventable: Add Events To Your Ruby Classes,https://github.com/mikbe/eventable
+quickl: Command-line Ruby Interfaces In Classes,https://github.com/blambeau/quickl
+Ruby Eco: Bridge To A CoffeeScript Templating Library,https://github.com/sstephenson/ruby-eco
+Ice: Bringing Eco and Ruby Eco to Rails 3,https://github.com/ludicast/ice
+Rexpl - Interactive Bytecode Console for Rubinius,http://blog.txustice.me/2011/06/rexpl-interactive-bytecode-console-for-rubinius/
+bench: Another Way To Benchmark in Ruby,https://github.com/blambeau/bench
+PacketFu: A Network Packet Manipulation Library,https://github.com/todb/packetfu
+Alf - Classy Data-Manipulation Dressed in a DSL,http://rubydoc.info/github/blambeau/alf/master/file/README.md
+mysql2postgres: Tool For Converting From MySQL to PostgreSQL,https://github.com/maxlapshin/mysql2postgres
+Bioinformatics Startup seeks Full-Stack Engineers in The Mission; San Francisco,http://wellnessfx.com/jobs
+Web Developer for Demosphere International [Falls Church; Virginia],http://jobs.rubyinside.com/a/jbb/job-details/514526
+The Billy Baldwin of Conditional Assignment,http://collectiveidea.com/blog/archives/2011/06/21/the-billy-baldwin-of-conditional-assignment/
+

@@ -1,0 +1,36 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Security Maintenance Extension of Ruby 1.8.7 and 1.9.2,https://www.ruby-lang.org/en/news/2013/12/17/maintenance-of-1-8-7-and-1-9-2/
+supporting,https://blog.heroku.com/archives/2013/12/5/a_patch_in_time_securing_ruby
+Rails 4.1.0 Beta 1 Released,http://weblog.rubyonrails.org/2013/12/18/Rails-4-1-beta1/
+RubyWeekly.com Gets Proper Archives; Full-Text Search..,http://rubyweekly.com/
+proper archives,http://rubyweekly.com/issues
+full-text search.,http://rubyweekly.com/search?q=tenderlove&pub=rw
+RubyConf India 2014 Call For Proposals and Tickets Now Open,https://www.ruby-lang.org/en/news/2013/12/14/rubyconf-india-2014/
+Honeybadger.io: Exception; uptime; and performance monitoring - all in one app.,https://www.honeybadger.io/blog/2013/10/23/uptime-monitoring-and-performance-metrics-for-rails-are-live
+Try us free,https://www.honeybadger.io/pages/plans
+features,https://www.honeybadger.io/blog/2013/10/23/uptime-monitoring-and-performance-metrics-for-rails-are-live
+,https://www.honeybadger.io/blog/2013/10/23/uptime-monitoring-and-performance-metrics-for-rails-are-live
+Decoding 'Almost Sinatra',http://robm.me.uk/2013/12/13/decoding-almost-sinatra.html
+What's New in Rails 4.1,http://coherence.io/blog/2013/12/17/whats-new-in-rails-4-1.html
+Reading Rails: Migrations,http://monkeyandcrow.com/blog/reading_rails_migrations/
+Yes; You Should Write Controller Tests,http://blog.codeship.io/2013/12/16/yes-you-should-write-controller-tests.html
+5 Architecture Anti-Patterns and Solutions for Large Rails Apps,http://devblog.reverb.com/post/70344683203/5-architecture-anti-patterns-and-solutions-for-large
+COPY Millions of Rows to Postgres with Rails,http://www.kadrmasconcepts.com/blog/2013/12/15/copy-millions-of-rows-to-postgresql-with-rails/
+Sequel Is Awesome and Much Better Than ActiveRecord,http://rosenfeld.herokuapp.com/en/articles/ruby-rails/2013-12-18-sequel-is-awesome-and-much-better-than-activerecord
+The World Needs Another Post About Dependency Injection in Ruby,http://solnic.eu/2013/12/17/the-world-needs-another-post-about-dependency-injection-in-ruby.html
+Prawn 0.13.0 Has Been Released; and 1.0 Is (Finally) On The Horizon,http://elmcitycraftworks.org/post/70158932822/prawn-0-13-0-has-been-released-and-1-0-is-finally-on
+Building A Custom User Interface for Your Mac OS X Status Bar App in RubyMotion,http://kickcode.com/blog/2013/12/14/custom-ui-popup-panel-for-mac-os-x-status-bar-app-with-rubymotion.html
+Caching API Requests,http://robots.thoughtbot.com/caching-api-requests/
+Start A Full-Featured Rails 4 Application with uWSGI,http://dev.mikamai.com/post/69680190127/start-a-rails-4-full-featured-application-with-uwsgi
+Eager Loading Calculations with Database Views in Rails,http://www.salsify.com/blog/eager-loading-calculations-database-views-in-rails
+The Padrino Framework,http://www.youtube.com/watch?v=CH_a3yNbYDM
+RubyConf Video Wrapup: Multifaceted,http://multifaceted.io/2013/rubyconf-wrapup/
+Software Developer at Collaborative Drug Discovery (Burlingame; CA),https://www.collaborativedrug.com/pages/employment
+Back-End Web Developer at Planbox (remote position),https://www.planbox.com/careers/ruby_developer/
+Ruby Developer at Efinancial (Bellevue; WA; Portland; OR; Chicago; IL),http://jobs.rubyinside.com/a/jbb/job-details/967679
+Senior Ruby Developer at ActiveProspect; Inc. (Austin; TX; Remote possible),http://jobs.rubyinside.com/a/jbb/job-details/968456
+Introducing after_do: after/before Method Callbacks in Ruby,https://pragtob.wordpress.com/2013/12/19/introducing-after_do-afterbefore-method-callbacks-in-ruby/
+Vagrant 1.4 Released: Now Includes A 'Docker' Provisioner,http://www.vagrantup.com/blog/vagrant-1-4.html
+Uru: A Multi-Platform Ruby Installation Manager,https://bitbucket.org/jonforums/uru
+

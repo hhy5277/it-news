@@ -1,0 +1,31 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+'Refinements' Added to Ruby Trunk,https://bugs.ruby-lang.org/issues/4085?#change-28594
+JRuby 1.7.0 Preview 2 Released,http://www.jruby.org/2012/08/07/jruby-1-7-0-preview2.html
+Why Rails 4's 'Live Streaming' Is A Big Deal,http://blog.phusion.nl/2012/08/03/why-rails-4-live-streaming-is-a-big-deal/
+An Explanation and Examples of Ruby's New 'Refinements',http://blog.wyeworks.com/2012/8/3/ruby-refinements-landed-in-trunk
+SPDY on Rails,http://blog.bugsnag.com/2012/08/05/spdy-on-rails/
+Synchronized Times In Ruby and JavaScript Acceptance Tests Using Capybara; Timecop and Sinon.JS,http://metaskills.net/2012/08/07/synchronized-times-in-ruby-and-javascript-acceptance-tests-using-capybara-timecop-and-sinon.js/
+ko1 Asks for Experience of Python's 'PEP-302 New Import Hooks'?,http://programmers.stackexchange.com/q/154247/24694
+Your First Ruby Native Extension in Java,http://blog.jcoglan.com/2012/08/02/your-first-ruby-native-extension-java/
+Overriding Instance Methods With Modules,http://shime.github.com/blog/2012/08/06/overriding-instance-method-with-module-method/
+Ruby with MongoDB for Web Development,http://www.packtpub.com/article/ruby-mongodb-web-developement
+A Quick Test Of The New MySQL memcached Plugin With (J)Ruby,http://elevat.eu/blog/2012/08/a-quick-test-of-the-new-mysql-memcached-plugin-with-ruby/
+Ditching ERB: A Guide to Using Liquid,http://rubysource.com/ditching-erb-a-guide-to-using-liquid/
+Adventures in Functional Programming With Ruby,http://www.naildrivin5.com/blog/2012/07/17/adventures-in-functional-programming-with-ruby.html
+RailsCasts on Ransack: A Complex Search Form Builder,http://railscasts.com/episodes/370-ransack
+A Rubyist's Guide to the HTML5 Canvas API,http://confreaks.com/videos/1067-cascadiaruby2012-a-rubyist-s-guide-to-the-canvas-api
+Ruby Rogues on Hiring Programmers,http://rubyrogues.com/063-rr-hiring-programmers/
+Ruby Rogues on Presenting at Conferences,http://rubyrogues.com/064-rr-presenting-at-conferences/
+Stubble: A Simple URL Shortening App,http://mattbradley.github.com/stubble/
+Je: jemalloc Injection into Ruby Apps for Better Perf and Memory Use,https://github.com/treasure-data/je
+Mortal Token: Library for Generating Self-Destructing Tokens,http://jordanhollinger.com/2012/08/02/mortal-token-a-library-for-generating-self-destructing-tokens
+BinUtils: Methods for Working with Binary Data in Ruby,https://github.com/funny-falcon/bin_utils
+auto_html: Rails Extension for Transforming URLs to Appropriate Resources,http://rors.org/2010/08/15/auto_html
+Backburner: Simple; Reliable Beanstalkd Job Queue for Ruby,http://nesquena.github.com/backburner/
+bootstrap_flash_messages: Twitter Bootstrap Alerts and Rails Flash Messages,https://github.com/RobinBrouwer/bootstrap_flash_messages
+Ruby on Rails Developer on Small Agile Team (Portland; OR or Pasadena; CA),http://goldstar.catchthebest.com/apply/2985/fa8b
+Ruby Programmer at PuzzleFlow Solutions [Novi; Michigan],http://jobs.rubyinside.com/a/jbb/job-details/717005
+RoR/Agile Developer New York City at Simon  Schuster [New York; New York],http://jobs.rubyinside.com/a/jbb/job-details/719678
+A Full JRuby GUI App; JotBot; Open Sourced under GPLv3,https://github.com/Neurogami/JotBot
+

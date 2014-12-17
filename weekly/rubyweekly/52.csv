@@ -1,0 +1,28 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Slim 1.0 Released - A Fast; Lightweight Template Engine for Ruby,http://slim-lang.com/
+Rails 3.1 Due on August 22; 2011; RC5 Out Now,http://groups.google.com/group/rubyonrails-talk/browse_thread/thread/ae3139e531b970a2?pli=1
+Rails' Codebase Gets Continuous Integration with Travis CI,http://weblog.rubyonrails.org/2011/7/27/rails-now-tested-on-travis-ci
+Madison Ruby Conference - August 18-20 - Wisconsin,http://madisonruby.org/
+Learn Rails 3 with 500+ Pages and 15+ Hours of Video Guidance,http://zfer.us/EKm97
+Finding and Fixing Memory Leaks in Ruby C Extensions,http://www.holymonkey.com/how-to-find-and-fix-a-memory-leak-in-a-ruby-c-extension.html
+An Introduction to Concurrency in JRuby,http://www.engineyard.com/blog/2011/concurrency-in-jruby/
+Compiling Executables on Heroku,http://jonmagic.com/blog/archives/2011/07/28/running-pdftotext-on-heroku/
+Code Review: Ruby and Rails Idioms,http://robots.thoughtbot.com/post/8135270582/code-review-ruby-and-rails-idioms
+Controlling Access to Resque with CanCan,http://www.arcath.net/posts/38
+How to Use Capybara on Any HTML Fragment or Page,http://robots.thoughtbot.com/post/8087279685/use-capybara-on-any-html-fragment-or-page
+A Tour of Ruby's pack and unpack,http://www.bigbinary.com/2011/07/20/ruby-pack-unpack.html
+Testing Time & Web Requests - RailsCasts,http://railscasts.com/episodes/276-testing-time-web-requests
+Engine Yard's Ruby Platform Options Throwdown,http://www.engineyard.com/video/26773441?mkt_tok=3RkMMJWWfF9wsRoluK3KZKXonjHpfsX/4%2BUpXaWg38431UFwdcjKPmjr1YEDTcd0dvycMRAVFZl5nQlWHembeZlB6PE%3D
+Rack-webconsole: A Ruby/Rails Console Inside Your Browser,http://blog.codegram.com/2011/7/rack-webconsole-a-rubyrails-console-inside-your-browser
+Jsonify: An Easy Way to Build JSON,https://github.com/bsiggelkow/jsonify
+Whoops: A Rails-based Self-Hosted Logging System,http://www.whoopsapp.com/
+Foreverb - A Framework for Daemons,https://github.com/DAddYE/foreverb
+Introducing Has Face for Rails,http://blog.thefrontiergroup.com.au/2011/07/introducing-has-face-for-rails/
+Myrrha: The Missing Coercion Framework,https://github.com/blambeau/myrrha
+Adauth 1.0.0: Active Directory Authentication for Rails,http://www.arcath.net/posts/40
+delayed_paperclip: Background Paperclip Attachment Processing,https://github.com/jstorimer/delayed_paperclip
+Rails Developer [San Mateo; California],http://jobs.rubyinside.com/a/jbb/job-details/530691
+Ruby on Rails Developer for Wimdu GmbH [Berlin; Germany],http://jobs.rubyinside.com/a/jbb/job-details/528393
+Rails Developer for RevSource Solutions [Irvine; California],http://jobs.rubyinside.com/a/jbb/job-details/528650
+

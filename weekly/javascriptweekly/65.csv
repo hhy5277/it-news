@@ -1,0 +1,28 @@
+title,link
+Nodebits - A New Node.js Focused Blog,http://nodebits.org/
+Remy Sharp's New Node and HTML5 Course (in the UK),http://leftlogic.com/training?ref=remysharp.com#node
+EnvJasmine 1.7 Released (Headless JS Testing Tool),http://trevmex.com/post/16905545657/envjasmine-1-7-released
+Easily Test jQuery Pre-Release Versions,http://weblog.bocoup.com/easily-test-jquery-pre-release-versions/
+Is JavaScript 'Untyped' or Not? Yes and No..,http://stackoverflow.com/questions/9154388/does-untyped-also-mean-dynamically-typed-in-the-academic-cs-world
+Slicing Arguments,http://dropshado.ws/post/17272087625/slicing-arguments
+Regular Expressions in CoffeeScript are Awesome,http://www.elijahmanor.com/2012/02/regular-expressions-in-coffeescript-are.html
+Differences Between jQuery .bind() vs .live() vs .delegate() vs .on(),http://www.elijahmanor.com/2012/02/differences-between-jquery-bind-vs-live.html
+Modernizr Prefixed: Annoying DOM Style Prefixes Be Gone,http://www.andismith.com/blog/2012/02/modernizr-prefixed/
+Notes on Sam Stephenson's CoffeeScript Video,http://alittlecode.com/coffeescript-intro-video-by-sam-stephenson-of-37signals/
+'If You're Using Node.js; You're Doing Life Wrong',http://codeslinger.posterous.com/if-youre-using-nodejs-youre-doing-life-wrong
+EasyXDM: Crossdomain JavaScript Done Right,http://www.zemanta.com/fruitblog/easyxdm-crossdomain-javascript-done-right/
+Anders Janmyr on Functional JavaScript,http://vimeo.com/35694483
+JavaScript Jabber on Build Tools,http://javascriptjabber.com/003-jsj-build-tools/
+Derick Bailey on Backbone.js,http://herdingcode.com/?p=390
+TypedJS: Add (and Test Against) Type Annotations to your JS Code,http://typedjs.com/
+Serenade.js: Yet Another MVC Client-side JavaScript Framework,https://github.com/elabs/serenade.js
+Why Serenade.js?,http://elabs.se/blog/33-why-serenade
+Wrap.js: RequireJS Plugin for Wrapping Regular Scripts as AMD Modules,https://github.com/geddesign/wrap.js
+tty.js: A Terminal in Your Browser (using Node; Express + Socket.io),https://github.com/chjj/tty.js
+File-Watcher: Watch Multiple Files for Changes (over HTTP),https://github.com/twolfson/File-Watcher
+jQuery.superLabels: A Slick Placeholder Text Effect on Form Inputs,https://github.com/remybach/jQuery.superLabels
+Noty: A jQuery Notification Plugin,http://needim.github.com/noty/
+SimpleVid: A jQuery Plugin for Self-Hosted Fluid Width Video,http://johnpolacek.github.com/SimpleVid/
+Touchy.js: A Lightweight JS Library for Touch Events,https://github.com/jairajs89/Touchy.js
+Textualizer: Text Blurb Transitions,http://kiro.me/textualizer/
+

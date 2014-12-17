@@ -1,0 +1,15 @@
+title,link
+PostgreSQL 9.3 RC1 Available for Testing,http://www.postgresql.org/about/news/1478/
+foreign data wrappers; and,http://www.craigkerstiens.com/2013/08/05/a-look-at-FDWs/
+lateral joins,http://www.depesz.com/2012/08/19/waiting-for-9-3-implement-sql-standard-lateral-subqueries/
+Postgres.app,https://github.com/PostgresApp/PostgresApp/releases/tag/9.3RC1.0
+PG Commander 1.0.0,http://eggerapps.at/blog/2013/pg-commander-1.0.0.html
+Heroku Postgres - Fully managed Postgres on EC2,https://postgres.heroku.com/&utm_campaign=emailbanner
+,https://postgres.heroku.com/&utm_campaign=emailbanner
+4 Tips for Working with Dates in PostgreSQL,http://blog.sensible.io/2013/08/26/4-tips-for-working-with-dates-in-postgresql.html
+Tuple Flensing: Treating Postgres Corruption,http://www.bitrotincarnate.com/blog/2013/08/27/tuple-flensing-treating-postgres-corruption-part-i/
+Auditing Changes with Hstore,http://tapoueh.org/blog/2013/08/27-auditing-changes-with-hstore.html
+Makara: a read-write splitting adapter for Active Record,http://tech.taskrabbit.com/blog/2013/01/02/makara/
+PostGIS and Rails: A Simple Approach,http://ngauthier.com/2013/08/postgis-and-rails-a-simple-approach.html
+Craig Kerstiens,http://craigkerstiens.com/
+

@@ -1,0 +1,24 @@
+title,link
+OpenSSL and Breaking UTF-8 Change (Fixed in Node v0.8.27 and v0.10.29),http://blog.nodejs.org/2014/06/16/openssl-and-breaking-utf-8-change/
+CVE-2014-0224,https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0224
+Building Native Apps with Node.js (video),https://vimeo.com/97881078
+Resources to Get You Up to Speed in Node.js,http://code.tutsplus.com/articles/resources-to-get-you-up-to-speed-in-nodejs--cms-21431
+NodePing has everything you need to monitor your web app.,https://nodeping.com/?rid=nodeweekly
+,https://nodeping.com/?rid=nodeweekly
+Diving into Node's require(),http://fredkschott.com/post/2014/06/require-and-the-module-system/
+High Availability Node.js at Box,http://tech.blog.box.com/2014/06/node-js-high-availability-at-box/
+Developing a Node.js app with Docker,http://blog.abhinav.ca/blog/2014/06/17/develop-a-nodejs-app-with-docker/
+Node Needs An Alternative Approach to Endless; Recursively Nested 'node_modules' Folders On Windows,https://github.com/joyent/node/issues/6960
+The Best Tool for the Join: Scaling Node.js with Unix,http://engineering.clever.com/2014/06/18/the-best-tool-for-the-join-scaling-node.js-with-unix/
+Nearing Practical Maintainability (Rewriting npm-www),http://blog.npmjs.org/post/88024339405/nearing-practical-maintainability
+Hapi,http://hapijs.com/
+Flatten Your Npm Dependencies With Dedupe,http://4waisenkinder.de/blog/2014/06/09/flatten-your-dependencies-with-npm-dedupe/
+Using Node to Change Your Bash Prompt,http://www.nicholascloud.com/2014/06/use-node-to-change-your-bash-prompt/
+AWESOM-0: A Node-based IRC Bot,https://github.com/akenn/AWESOM-0
+Omelette.js 0.3.1: Simple bash/zsh Autocompletion Engine for Node.js Tools,http://f.github.io/omelette/
+PM2: A Node.js Process Manager with Built-In Load Balancer,http://www.warpdesign.fr/node-js-production-management-with-pm2/
+Node v0.8.27 (Maintenance),http://blog.nodejs.org/2014/06/16/node-v0-8-27-/
+Node v0.10.29 (Stable),http://blog.nodejs.org/2014/06/16/node-v0-10-29-stable/
+diskDB: A Lightweight Disk-Based JSON Database with a MongoDB-like API for Node,http://arvindr21.github.io/diskDB
+We've Gone Global: Apply Today to Hack Reactor Remote,http://www.hackreactor.com/remote-beta/?utm_source=coopermedia&utm_medium=secondaryad&utm_campaign=remotebeta
+

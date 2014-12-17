@@ -1,0 +1,30 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Ruby 1.8.7-p370 Released: The Last Bug Fix Release for 1.8.7,http://www.ruby-lang.org/en/news/2012/06/29/ruby-1-8-7-p370-released/
+The Ruby OpenSource Challenge,http://rubyosc.com/
+RubyShift 2012: Ukrainian Ruby Conference; September 29-30,http://rubyshift.org/
+The Ruby Greener Test Challenge (A Windows Challenge),https://groups.google.com/d/msg/rubyinstaller/A92K_EYJX2A/nsJNnsYoY68J
+MagicRuby - A Ruby conference *inside* Walt Disney World!,http://magic-ruby.com/
+,http://magic-ruby.com/
+Constant Stubbing in RSpec 2.11,http://myronmars.to/n/dev-blog/2012/06/constant-stubbing-in-rspec-2-11
+Adding SMS Capabilities to Your Rails App With Twilio,http://rubysource.com/adding-sms-capabilities-to-your-rails-app/
+Vim for Ruby on Rails (and A Sexy Theme!),http://astonj.com/tech/vim-for-ruby-rails-and-a-sexy-theme/
+9 FactoryGirl Tips; Tricks and Pitfalls,http://arjanvandergaag.nl/blog/factory_girl_tips.html
+Quick Intro to Mechanize: Interact With the Web From Your Source Code,http://www.commented-out.com/2012/07/03/rubymechanize-interacting-with-webpages-from-your-source-code/
+Exporting CSV and Excel From A Rails App: Railscasts,http://railscasts.com/episodes/362-exporting-csv-and-excel
+Barkeep: An Open Source Code Review System,http://getbarkeep.org/
+Flowdock Open Sources 'Oulu': An EventMachine-Driven IRC Gateway,http://blog.flowdock.com/2012/06/26/open-sourcing-hosted-irc-gateway-oulu/
+OmniContacts: Rack Middleware for Importing E-mail Contacts,https://github.com/Diego81/omnicontacts
+Seedbank: Organize Your Rails App's 'Seed Data',https://github.com/james2m/seedbank
+Rack-Policy: Middleware for Complying With the EU ePrivacy Directive,https://github.com/peter-murach/rack-policy
+Image Sorcery: A Ruby ImageMagick Library 'That Doesn't Suck',https://github.com/EricR/image_sorcery
+Periscope: Expose Your Scopes to the World,https://github.com/laserlemon/periscope
+Twitter Gem Hits Version 3.0,https://github.com/jnunemaker/twitter/blob/master/CHANGELOG.md#300---june-28-2012
+Concensus: Ruby Library to Read US Census TIGER/Line Shapefiles,https://github.com/adamjacobbecker/concensus
+Ruby OpenSSL Cheat Sheet,https://github.com/augustl/ruby-openssl-cheat-sheet
+Rails Developer at OneLogin [San Francisco],http://jobs.rubyinside.com/a/jbb/job-details/715321
+Senior Ruby Developer at Zooppa [Seattle; Washington],http://jobs.rubyinside.com/a/jbb/job-details/700095
+Senior Rails Engineer at ITT Exelis [Dulles; Virginia],http://jobs.rubyinside.com/a/jbb/job-details/700946
+DevOps Engineer at OneLogin [San Francisco],http://jobs.rubyinside.com/a/jbb/job-details/715317
+What Is Your Primary Text Editor for Ruby Development?,http://gopollgo.com/what-is-your-primary-text-editor-for-ruby-slash-rails
+

@@ -1,0 +1,52 @@
+title,link
+The RedMonk Programming Language Rankings: February 2012,http://redmonk.com/sogrady/2012/02/08/language-rankings-2-2012/?utm_source=statuscode&utm_medium=email
+TLDR on the Browser World's '-webkit' Vendor Prefix Drama,http://css-tricks.com/tldr-on-vendor-prefix-drama/?utm_source=statuscode&utm_medium=email
+IBM Seeks Patent On Judging Programmers By Commits,http://yro.slashdot.org/story/12/02/09/1624232/ibm-seeks-patent-on-judging-programmers-by-commits?utm_source=statuscode&utm_medium=email
+PHP 5.4 vs PHP 5.3 Benchmarks,http://news.php.net/php.internals/57760?utm_source=statuscode&utm_medium=email
+Unix as IDE,http://blog.sanctum.geek.nz/series/unix-as-ide/?utm_source=statuscode&utm_medium=email
+MapReduce Patterns; Algorithms; and Use Cases,http://highlyscalable.wordpress.com/2012/02/01/mapreduce-patterns/?utm_source=statuscode&utm_medium=email
+Adventures in using Gradient Boosted Trees for Image Compression,http://eigendog.blogspot.com/2012/02/lennas-nose.html?utm_source=statuscode&utm_medium=email
+The Faster-than-Fast Fourier Transform,http://web.mit.edu/newsoffice/2012/faster-fourier-transforms-0118.html?utm_source=statuscode&utm_medium=email
+Why Aren't Computer Programming Languages Designed Better?,http://www.fastcodesign.com/1665735/why-arent-computer-programming-languages-designed-better?utm_source=statuscode&utm_medium=email
+How the Boehm Garbage Collector Works,http://discontinuously.com/2012/02/How-the-Boehm-Garbage-Collector-Works/?utm_source=statuscode&utm_medium=email
+How the Go language improves expressiveness without sacrificing runtime performance,http://dave.cheney.net/how-the-go-compiler-improves-expressiveness-w?utm_source=statuscode&utm_medium=email
+How To Build a Naive Bayes Classifier,http://bionicspirit.com/blog/2012/02/09/howto-build-naive-bayes-classifier.html?utm_source=statuscode&utm_medium=email
+What does the JVM do if there's insufficient memory to throw an OutOfMemoryError?,http://stackoverflow.com/q/9261705/3951?utm_source=statuscode&utm_medium=email
+Why Concatenative Programming Matters: A Tutorial,http://evincarofautumn.blogspot.com/2012/02/why-concatenative-programming-matters.html?utm_source=statuscode&utm_medium=email
+Betrayed by a bitfield,http://lwn.net/Articles/478657/?utm_source=statuscode&utm_medium=email
+How to Get 100% CPU Usage from a C Program,http://stackoverflow.com/q/9244481/3951?utm_source=statuscode&utm_medium=email
+JetBrains open sources Kotlin,http://blog.jetbrains.com/kotlin/2012/02/kotlin-goes-open-source-2/?utm_source=statuscode&utm_medium=email
+Twisted 12.0.0,http://twistedmatrix.com/trac/wiki?utm_source=statuscode&utm_medium=email
+Spree 1.0.0,http://spreecommerce.com/blog/2012/02/09/spree-1-0-0-released/?utm_source=statuscode&utm_medium=email
+PyPy 1.8,http://morepypy.blogspot.com/2012/02/pypy-18-business-as-usual.html?utm_source=statuscode&utm_medium=email
+Opa 0.9.0 (S4),http://blog.opalang.org/2012/02/new-release-opa-090-s4.html?utm_source=statuscode&utm_medium=email
+Advanced Data Structures: MIT course,http://courses.csail.mit.edu/6.851/spring12/?utm_source=statuscode&utm_medium=email
+Everything You Know (about Parallel Programming) Is Wrong!,http://my-inner-voice.blogspot.com/2012/01/many-core-processors-everything-you.html?utm_source=statuscode&utm_medium=email
+Heroku and Java Webinar,http://www.youtube.com/watch?v=Jv7tj8GvRho
+NSScreencast: Bite-sized Screencasts for iOS Development,http://nsscreencast.com/?utm_source=statuscode&utm_medium=email
+The JSON Saga,http://www.youtube.com/watch?v=-C-JoyNuQJs
+Hacker Shelf,http://hackershelf.com/?utm_source=statuscode&utm_medium=email
+Mixu's Node book,http://book.mixu.net/?utm_source=statuscode&utm_medium=email
+Minicourse on Technical Writing (PDF),http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf?utm_source=statuscode&utm_medium=email
+O'Reilly Strata,http://strataconf.com/strata2012?utm_source=statuscode&utm_medium=email
+QCon London,http://qconlondon.com/?utm_source=statuscode&utm_medium=email
+O'Reilly Where,http://whereconf.com/where2012?utm_source=statuscode&utm_medium=email
+Scandinavian Developer Conference,http://scandevconf.se/?utm_source=statuscode&utm_medium=email
+Bacon,http://devslovebacon.com/?utm_source=statuscode&utm_medium=email
+RailsConf,http://railsconf2012.com/?utm_source=statuscode&utm_medium=email
+EuroClojure,http://euroclojure.com/2012/euroclojure-2012/?utm_source=statuscode&utm_medium=email
+WebRebels,http://webrebels.org/?utm_source=statuscode&utm_medium=email
+Strange Loop,https://thestrangeloop.com/?utm_source=statuscode&utm_medium=email
+High-level overviews of Haskell; Scala; ML and Scheme,http://matt.might.net/articles/best-programming-languages/?utm_source=statuscode&utm_medium=email
+Implementing continuations in C++ with fork,http://mainisusuallyafunction.blogspot.com/2012/02/continuations-in-c-with-fork.html?utm_source=statuscode&utm_medium=email
+Sensei DB: Open-source; distributed; realtime; semi-structured database,http://senseidb.com/?utm_source=statuscode&utm_medium=email
+Finding with Git,http://anders.janmyr.com/2012/01/finding-with-git.html?utm_source=statuscode&utm_medium=email
+A single-block collision attack on MD5,http://marc-stevens.nl/research/md5-1block-collision/?utm_source=statuscode&utm_medium=email
+Perloku: Deploy Perl applications on Heroku in seconds,https://github.com/judofyr/perloku?utm_source=statuscode&utm_medium=email
+Binary Tetris (in 140 bytes of JavaScript),https://gist.github.com/1672254/?utm_source=statuscode&utm_medium=email
+Requests: A New; Cleaner HTTP Request Library for PHP,http://thechangelog.com/post/17266976705/requests-http-library-for-php?utm_source=statuscode&utm_medium=email
+Why Python is important for you,http://blaag.haard.se/Why-Python-is-important-for-you/?utm_source=statuscode&utm_medium=email
+Rediscovering the RSync Algorithm (with OCaml),http://blog.incubaid.com/2012/02/14/rediscovering-the-rsync-algorithm/?utm_source=statuscode&utm_medium=email
+A Large-scale Study of the Use of Eval in JavaScript Applications [PDF],http://www.cs.purdue.edu/homes/jv/pubs/ecoop11.pdf?utm_source=statuscode&utm_medium=email
+SocketRocket: A WebSocket library for Objective-C,http://corner.squareup.com/2012/02/socketrocket-websockets.html?utm_source=statuscode&utm_medium=email
+

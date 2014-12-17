@@ -1,0 +1,25 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 3.1.0 RC3 Released,http://weblog.rubyonrails.org/2011/6/8/ann-rails-3-1-0-rc3-has-been-released
+Rails 3.0.9 RC1 Released,http://weblog.rubyonrails.org/2011/6/8/ann-rails-3-0-9-rc1-has-been-released
+Chronic 0.4.x Released: Better Date/Time Parsing,https://github.com/mojombo/chronic
+Mongoid Is Looking For New Maintainers,http://www.rubyflow.com/items/6004-mongoid-is-looking-for-new-maintainers
+RailsInstaller 1.2 for Windows Released,http://www.engineyard.com/blog/2011/railsinstaller-1-2-for-windows-released/
+15 Hours to Rails 3 Confidence?,http://zfer.us/EKm97
+The Story Behind Ruby 1.9.3 Getting 36% Faster Loading Times,http://www.rubyinside.com/ruby-1-9-3-faster-loading-times-require-4927.html
+How To Get The Edge Ruby Faster-Loading-Hotness in Ruby 1.9.2 Right Now,http://www.rubyinside.com/get-edge-ruby-faster-loading-ruby-1-9-2-now-4973.html
+10 Ruby One Liners to Impress Your Friends,http://programmingzen.com/2011/06/02/10-ruby-one-liners-to-impress-your-friends/
+iOS 5 Gets Garbage Collection? So Here Comes MacRuby/iOS? (Maybe Not.),http://news.ycombinator.com/item?id=2628745
+ESPN: A Rails Case Study,http://gunnertech.com/espn-ruby-on-rails-case-study/
+Why Rails 3.1 Streaming Means You Still Have To Think About Your HEAD,http://www.mcdowall.info/john/blog/2011/06/why-rails-3-1-streaming-means-you-still-have-to-think-about-your-head/
+Zach Holman: The Most Important Code Isn't Code,http://zachholman.com/posts/documentation/
+SlimGems: A Drop-In Replacement for RubyGems,http://gnuu.org/2011/06/01/slimgems-a-drop-in-replacement-for-rubygems/
+Virtus - Attributes For Your Plain Ruby Objects,http://solnic.eu/2011/06/06/virtus---attributes-for-your-plain-ruby-objects.html
+Tasteful Routes for Rails 3,http://icelab.com.au/articles/tasteful-routes-ruby-gem/
+unimidi: Platform-Independent Realtime MIDI IO in Ruby,http://tx81z.blogspot.com/2011/06/unimidi-platform-independent-realtime.html
+redis-scripted: Experimental Redis Client with Scripting Support,https://github.com/djanowski/redis-scripted
+Rails Developer [Henley-on-Thames; United Kingdom],http://jobs.rubyinside.com/a/jbb/job-details/505333
+Operations Engineer for CustomInk [Fairfax; Virginia],http://jobs.rubyinside.com/a/jbb/job-details/502190
+Rails Developer for Webs; Inc. [Silver Spring; Maryland],http://jobs.rubyinside.com/a/jbb/job-details/508952
+Using Concerns To Keep Your Rails Models Manageable by DHH,https://gist.github.com/1014971
+

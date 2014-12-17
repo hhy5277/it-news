@@ -1,0 +1,31 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+The www.ruby-lang.org Design Contest,https://www.ruby-lang.org/en/news/2013/09/28/design-contest/
+make your design available,http://www.ruby.or.jp/en/news/20130924.html
+High-Speed Rails Deploys With Git,http://blog.codeclimate.com/blog/2013/10/02/high-speed-rails-deploys-with-git/
+RubyConf 2013 Schedule Revealed,http://rubyconf.org/schedule
+A Tour Through Random Ruby,http://www.sitepoint.com/tour-random-ruby/
+Getting Started with Ruby and WebSockets,https://blog.engineyard.com/2013/getting-started-with-ruby-and-websockets
+A Frozen Array and Hash Literals Proposal for Ruby,https://bugs.ruby-lang.org/projects/ruby-trunk/wiki/Frozen_Array_and_Hash_literals_proposal
+6 Ways to Remove Pain From Feature Testing in Ruby on Rails,http://gaslight.co/blog/6-ways-to-remove-pain-from-feature-testing-in-ruby-on-rails
+Slow Tests Are The Symptom; Not The Cause,http://re-factor.com/blog/2013/09/27/slow-tests-are-the-symptom-not-the-cause/
+Using Sidekiq and Clockwork? Try Sidetiq,http://www.michaelvanrooijen.com/posts/2013/09/28/using-sidekiq-and-clockwork-try-sidetiq/
+Using Postgres Arrays with Rails 4,http://blog.relatabase.com/rails-postgres-arrays
+More Than You Care to Know About the Array#uniq Method,http://chrisholtz.com/blog/more-than-you-care-to-know-about-the-uniq-method/
+Elixir for Rubyists - Part 1,http://www.natescottwest.com/blog/2013/09/26/elixir-for-rubyists/
+How to Create Executable Web Applications with Ruby,http://shvets.github.io/blog/2013/09/28/executable-web-apps.html
+How to Make $100k in OSS by Working Hard,http://www.mikeperham.com/2013/10/01/how-to-make-100k-in-oss-by-working-hard/
+How to Integrate AngularJS with Rails 4,https://shellycloud.com/blog/2013/10/how-to-integrate-angularjs-with-rails-4?
+Serving Ruby Gems; The Paranoid Way,http://blog.gemnasium.com/post/62702069261/serving-ruby-gems-the-paranoid-way
+Testing EventMachine Periodic Timers,http://lorenzoplanas.com/blog/20130922-testing-eventmachine-periodic-timers
+MetaCasts Covers Ruby 2.1.0.preview1,http://www.metacasts.tv/casts/ruby-2-1-0-preview1
+Announcing Faye 1.0,http://blog.jcoglan.com/2013/10/01/announcing-faye-1-0/
+negative-captcha: For Creating Negative CAPTCHAs in Rails Apps,https://github.com/subwindow/negative-captcha
+Data Mining in JRuby with Ruby Band,http://sciruby.com/blog/2013/09/24/gsoc-2013-data-mining-in-jruby-with-ruby-band/
+Ruby Band,https://github.com/arrigonialberto86/ruby-band
+binding.repl: binding.pry for Everyone,https://github.com/robgleeson/binding.repl
+Senior Software Developer at Econify [Washington; DC],http://econify.com/careers
+Senior Software Engineers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+Build Rails Stacks On Any Cloud in 5 Minutes,https://www.cloud66.com/h/deploy
+Try Cloud66 for Free Now.,https://www.cloud66.com/h/deploy
+

@@ -1,0 +1,36 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Yehuda Katz Needs Your Input on the Tokaido (a.k.a. rails.app) UI,https://plus.google.com/106300407679257154689/posts/GTQQ3zgJfsz
+,https://plus.google.com/106300407679257154689/posts/GTQQ3zgJfsz
+RIP attr_accessible: DHH Commits StrongParameters to Rails Edge,https://github.com/rails/rails/commit/c49d959e9d40101f1712a452004695f4ce27d84c
+KidsRuby Now Available in French; Japanese; and Spanish,http://thenextweb.com/dd/2012/09/06/kidsruby-goes-global-french-japanese-spanish-versions/
+Tddium Looking for Beta Testers of its New JRuby CI Service,http://info.tddium.com/jruby/
+Attention Data Nerds!,http://newrelic.com/datanerd?utm_source=COOP&utm_medium=email&utm_content=rubyweekly&utm_campaign=RPM&utm_term=9-6-12&mpc=EM-COOP-RPM-en-100-rubyweekly-9-6-12
+here.,http://newrelic.com/datanerd?utm_source=COOP&utm_medium=email&utm_content=rubyweekly&utm_campaign=RPM&utm_term=9-6-12&mpc=EM-COOP-RPM-en-100-rubyweekly-9-6-12
+,http://newrelic.com/datanerd?utm_source=COOP&utm_medium=email&utm_content=rubyweekly&utm_campaign=RPM&utm_term=9-6-12&mpc=EM-COOP-RPM-en-100-rubyweekly-9-6-12
+How Ruby Borrowed a Decades Old Idea From Lisp,http://patshaughnessy.net/2012/9/18/how-ruby-borrowed-a-decades-old-idea-from-lisp
+raise 'hell': Better Programming Through Error Messages,http://schneems.com/post/31460949407/raise-hell-better-programming-through-error-messages
+Ruby's EventMachine: Event-based Programming (Part 1),http://www.bigfastblog.com/rubys-eventmachine-part-1-event-based-programming
+An Experiment in Static Compilation of Ruby: FastRuby,http://blog.headius.com/2012/09/an-experiment-in-static-compilation-of.html
+8 (New) Steps for Fixing Other People's Code,http://robots.thoughtbot.com/post/31584205500/8-new-steps-for-fixing-other-peoples-code
+Rails 4.0 Sneak Peek: PostgreSQL Array Support,http://reefpoints.dockyard.com/ruby/2012/09/18/rails-4-sneak-peek-postgresql-array-support.html
+Refactoring: Replace Conditional with Polymorphism,http://robots.thoughtbot.com/post/31728620503/refactoring-replace-conditional-with-polymorphism
+Learning Chef,http://mlafeldt.github.com/blog/2012/09/learning-chef/
+Simulating the World with Ruby,http://confreaks.com/videos/1088-madisonruby2012-simulating-the-world-with-ruby
+Ruby's Symbol#to_proc: A Walkthrough,http://www.youtube.com/watch?v=aISNtCAZlMg
+What to Expect in Rails 4.0,http://bostonrb.org/presentations/what-to-expect-in-rails-40
+minitest-reporters: Reporters for MiniTest,https://github.com/CapnKernul/minitest-reporters/
+oEmbed Ruby Library,http://soulim.github.com/oembed/
+Ongoing ActiveRecord Optimizations: Freeze Columns Before Using Them As Hash Keys,https://github.com/rails/rails/pull/7631
+Sinatra-Like Routes in Rails Controllers,https://gist.github.com/3717973
+Punch Reloaded: A Modern Web Publishing Framework in Ruby,http://laktek.com/2012/09/18/punch-reloaded/
+EnumAccessor: Simple Enum Fields for ActiveRecord,https://github.com/kenn/enum_accessor
+rspec-given: Given/When/Then Keywords for RSpec Specs,https://github.com/jimweirich/rspec-given
+jquery-rails-cdn: Adds CDN Support to jquery-rails,https://github.com/kenn/jquery-rails-cdn
+StoreField: Nested Fields for ActiveRecord::Store,https://github.com/kenn/store_field
+Yell: Your Extensible Logging Library,https://github.com/rudionrails/yell
+Back-end Software Engineer at Geckoboard (London; UK),http://www.geckoboard.com/jobs/#backend
+Software Engineer – Experienced / Senior [New York City],http://intentmedia.theresumator.com/apply/pxxhrJ/Software-Engineer-Experienced-Senior.html
+Ruby Test Automation/DevOps Engineer at Highwinds [Winter Park; Florida],http://jobs.rubyinside.com/a/jbb/job-details/732893
+Dumper: Cloud Database Backup Service for Rails,http://dumper.io/
+

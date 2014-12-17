@@ -1,0 +1,32 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 3.1.3 Released (Very Quickly After 3.1.2),http://weblog.rubyonrails.org/2011/11/20/rails-3-1-3-has-been-released
+Rails 3.0.11 Released (clears up aforementioned security vuln too),http://weblog.rubyonrails.org/2011/11/18/rails-3-0-11-has-been-released
+Matz says 'Autoload will be dead' (in Ruby 3.0),http://blade.nagaokaut.ac.jp/cgi-bin/scat.rb/ruby/ruby-core/41149
+MountainWest RubyConf 2012 Call For Proposals Open,http://mtnwestrubyconf.org/
+Scottish Ruby Conference 2012 Registration Open,http://scottishrubyconference.com/
+Railsclub: A Russian Rails Conference; Moscow; December 17,http://railsclub.ru/
+Heroku Launches Postgres as a SQL Database-as-a-Service,http://postgres.heroku.com/
+Tech Startup Events and Industry News to your E-mail Each Week,http://startupdigest.com/
+,http://startupdigest.com/
+Configuration for Rails; the Right Way,http://blog.carbonfive.com/2011/11/23/configuration-for-rails-the-right-way/
+Rails 3.1 Subdomains and Devise Example App and Tutorial,https://github.com/RailsApps/rails3-subdomains
+Ruby 1.9 Walkthrough: A Bumper Set of Ruby 1.9 Notes,http://dev-logger.blogspot.com/2011/11/ruby-19-walkthrough-by-peter-cooper.html
+Unobtrusive Object Deletion in Rails; The Easy Way,http://ryantownsend.co.uk/post/13058102942/unobtrusive-object-deletion-in-rails
+Using Amazon's CloudFront CDN with Rails,http://ryantownsend.co.uk/post/13126016608/cloudfront-cdn-on-rails
+The Rails 3 Asset Pipeline in (about) 5 Minutes,http://2beards.net/2011/11/the-rails-3-asset-pipeline-in-about-5-minutes/
+How to Make Gem Patches with Gem Edit,http://randomtype.ca/blog/how-to-make-gem-patches-with-gem-edit/
+Installing Ruby; Rails; and MySQL on OS X Lion,http://thinkvitamin.com/code/ruby-on-rails/installing-ruby-rails-and-mysql-on-os-x-lion/
+Admin Interfaces for Rails Apps: RailsAdmin vs ActiveAdmin,http://batsov.com/articles/2011/11/20/admin-interfaces-for-rails-apps-railsadmin-vs-activeadmin/
+Contributing to Open Source (RailsCasts),http://railscasts.com/episodes/300-contributing-to-open-source
+Aaron 'Tenderlove' Patterson's Emoji Test Output Gem,http://thinkinginrails.com/2011/11/aaron-pattersons-emoji-test-output-gem/
+Faye 0.7: New Event APIs and an Open WebSocket Stack,http://blog.jcoglan.com/2011/11/23/faye-0-7-new-event-apis-and-an-open-websocket-stack/
+Ruby Command-Line One-Liners,http://benoithamelin.tumblr.com/ruby1line
+Snowday: A Snow Themed RSpec Formatter,https://github.com/mikepack/snowday
+rack_mailer: Rack End Point for a Contact Form,https://github.com/eric1234/rack_mailer
+An OAuth2 Tutorial Project,https://github.com/Gazler/Oauth2-Tutorial
+Junior Rails Developer at Harvest [New York; New York],http://jobs.rubyinside.com/a/jbb/job-details/597020
+Ruby/Rails developer - Remote at 12 Spokes [Salt Lake City; Utah],http://jobs.rubyinside.com/a/jbb/job-details/598479
+Ruby and Front-End Web Developers at BenchPrep.com [Chicago; Illinois],http://jobs.rubyinside.com/a/jbb/job-details/598667
+Ruby Reloaded: Boost Your Ruby-Fu in December with Peter Cooper,http://rubyreloaded.com/
+

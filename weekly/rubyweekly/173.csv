@@ -1,0 +1,36 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 3.2.16 and 4.0.2 Released: Important Security Fix Releases,http://weblog.rubyonrails.org/2013/12/3/Rails_3_2_16_and_4_0_2_have_been_released/
+Bundler's Features to be Merged into RubyGems (Gradually),https://github.com/jruby/jruby/issues/1146#issuecomment-29714318
+Honeybadger.io: Exception; uptime; and performance monitoring - all in one app.,https://www.honeybadger.io/blog/2013/10/23/uptime-monitoring-and-performance-metrics-for-rails-are-live
+Try us free,https://www.honeybadger.io/pages/plans
+features,https://www.honeybadger.io/blog/2013/10/23/uptime-monitoring-and-performance-metrics-for-rails-are-live
+,https://www.honeybadger.io/blog/2013/10/23/uptime-monitoring-and-performance-metrics-for-rails-are-live
+Sharing Rails Sessions with Non-Ruby Apps,http://matt.aimonetti.net/posts/2013/11/30/sharing-rails-sessions-with-non-ruby-apps/
+Why I love Ruby Enumerable#inject,http://www.gabekoss.com/blog/2013/12/why_i_love_ruby_enumerable_inject/
+Write You a Parser for Fun and Win,http://viget.com/extend/write-you-a-parser-for-fun-and-win
+Build Awesome Command-Line Applications in Ruby 2 by David Copeland,http://pragprog.com/book/dccar2/build-awesome-command-line-applications-in-ruby-2
+Bulk Tagging in Rails (when using Postgres Arrays),http://www.ecommerceonrails.com/2013/11/25/bulk-tagging-in-rails.html
+How to Start an HTTP server with `ruby -run`,http://justincampbell.me/til/start-an-http-server-with-ruby-run
+How Setting Aside Rails and Picking Up Padrino Might Make You a Better Ruby Developer,http://programming.oreilly.com/2013/12/how-setting-aside-rails-and-picking-up-padrino-might-make-you-a-better-ruby-developer.html
+An Ultrasonic Range Sensor using Linux; Ruby; and an Arduino,http://innovationsts.com/?p=4458
+Rake: File Tasks,http://blog.envylabs.com/post/68063567445/rake-file-tasks
+Brandon Hilkert's Building a 'Build a Ruby Gem' Email Course,http://brandonhilkert.com/blog/build-a-ruby-gem-woh-day-1/
+A Look at Ruby 2.1.0.preview1,http://www.metacasts.tv/rubyweekly
+Matz's RubyConf 2013 Keynote: Living in the Fantasy Land,http://www.youtube.com/watch?v=4pObcegbMRE
+An Introduction to TracePoint in Ruby 2.0,https://www.youtube.com/watch?v=V_dZQ6AeZDE
+Kernel#set_trace_func.,http://t-a-w.blogspot.co.uk/2007/04/settracefunc-smoke-and-mirrors.html
+Advanced Multithreading in Ruby by Jerry D'Antonio,http://www.youtube.com/watch?v=pstcxQVYn3k
+Test Driven Neural Networks with Ruby by Matthew Kirk,http://www.confreaks.com/videos/2873-rubyconf2013-test-driven-neural-networks-with-ruby
+dashing-rails: The Handsome Dashboard Framework for Rails,https://github.com/gottfrois/dashing-rails
+Monocle: A Link and News Sharing System,https://github.com/maccman/monocle
+monocle.io,http://monocle.io/
+cap-ec2: Capify-EC2 Rewritten for Capistrano v3,https://github.com/forward3d/cap-ec2
+Spring: Rails Application Preloader,https://github.com/jonleighton/spring
+be included,http://thechangelog.com/rails-4-1-get-spring-step/
+Senior Ruby on Rails Developer at Websend BV [Leidschendam; The Netherlands],http://websend.nl/job_opening
+Web Development Immersive Instructor (NYC; SF; BOS; DC; LA; SYD; LDN; HK),http://boards.greenhouse.io/generalassembly/jobs/3533#.Upzjp6WE5g0
+Senior Software Engineers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+Better Service Status Communication,https://www.statuspage.io/?utm_source=Ruby+Weekly&utm_medium=newsletter+sponsorship&utm_content=december_5&utm_campaign=Ruby+Weekly+Newsletter
+StatusPage.io,http://www.statuspage.io/?utm_source=Ruby+Weekly&utm_medium=newsletter+sponsorship&utm_content=december_5&utm_campaign=Ruby+Weekly+Newsletter
+

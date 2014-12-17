@@ -1,0 +1,15 @@
+title,link
+Archives,http://postgresweekly.com/issues
+PostgreSQL Anti-patterns: Read-Modify-Write Cycles,http://blog.2ndquadrant.com/postgresql-anti-patterns-read-modify-write-cycles/?utm_source=postgresweekly&utm_medium=email
+about loops,http://bonesmoses.org/2014/07/25/friends-dont-let-friends-use-loops/?utm_source=postgresweekly&utm_medium=email
+Get Lightning Fast Search Results in Django with Postgres,https://www.youtube.com/watch?v=Ns-2Z90aByk
+Writable Common Table Expressions,http://hashrocket.com/blog/posts/writable-common-table-expressions?utm_source=postgresweekly&utm_medium=email
+write complex queries,http://www.craigkerstiens.com/2013/11/18/best-postgres-feature-youre-not-using/
+Heroku Postgres - Fully managed Postgres on EC2,https://postgres.heroku.com/?utm_source=postgresweekly&utm_medium=email&utm_campaign=emailbanner
+,https://postgres.heroku.com/?utm_source=postgresweekly&utm_medium=email&utm_campaign=emailbanner
+Postgres Upsert (Update or Insert) in GER using Knex.js,http://maori.geek.nz/post/postgres_upsert_update_or_insert_in_ger_using_knex_js?utm_source=postgresweekly&utm_medium=email
+Using Postgres' Hstore datatype in Rails,https://alybadawy.com/post/using-postgres-hstore-datatype-with-ruby-on-rails?utm_source=postgresweekly&utm_medium=email
+Installing PostgreSQL On EC2 Via Chef Solo and Testing with serverspec,http://hashnao.blogspot.co.uk/2014/08/installing-postgresql-on-ec2-via-chef.html?utm_source=postgresweekly&utm_medium=email
+Intro to Flask Part 13 - Heroku Postgres Setup (video),https://www.youtube.com/watch?v=FD0p-opdyoE
+Craig Kerstiens,http://craigkerstiens.com/
+

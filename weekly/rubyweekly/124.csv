@@ -1,0 +1,34 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Heroku Adds Official Support for JRuby,http://blog.heroku.com/archives/2012/12/13/run_jruby_on_heroku_right_now/
+La Conf in Paris; France - An Unusual Conference for Rubyists in 2013,http://2013.la-conf.org/#paris
+A Potential 'Science Ruby' Conference,http://scienceruby.com/
+3 Ways to Handle API Versioning,http://blog.smartlogicsolutions.com/2012/12/12/api-versioning-3-ways-to-architect-your-api-to-handle-versioned-requests/
+,http://blog.smartlogicsolutions.com/2012/12/12/api-versioning-3-ways-to-architect-your-api-to-handle-versioned-requests/
+2012: The Year Rubyists Learned to Stop Worrying and Love Threads,http://tonyarcieri.com/2012-the-year-rubyists-learned-to-stop-worrying-and-love-the-threads
+Ruby; Smalltalk and Class Variables,http://patshaughnessy.net/2012/12/17/ruby-smalltalk-and-class-variables
+Changing The Superclass of A Class in Ruby,http://charlie.bz/blog/changing-the-superclass-of-a-class-in-ruby
+Code With Clarity,http://blog.mojotech.com/post/38317154050/code-with-clarity
+Thunderbolt Labs Releases 'RubyMotion in the Cloud' PDF,http://thunderboltlabs.com/knowledge/rubymotion_in_the_cloud
+Rails Turbolinks Currently Incompatible with Chrome for iOS,https://github.com/rails/turbolinks/issues/82
+How to Fix 'Undefined method 'visit'' with Capybara 2.0,http://www.codelearn.org/blog/how-to-make-old-integration-tests-work-with-capybara-2-0
+Rails 4 Requires At Least Ruby 1.9.3 [Rails 4 Countdown to 2013],http://blog.remarkablelabs.com/2012/12/rails-4-requires-at-least-ruby-1-9-3-rails-4-countdown-to-2013
+Configuring Environment Variables for Rails Apps,http://railsapps.github.com/rails-environment-variables.html
+DCI,http://en.wikipedia.org/wiki/Data,_context_and_interaction
+Rails Developers Should Take DCI Seriously,http://gilesbowkett.blogspot.co.uk/2012/12/rails-developers-should-take-dci.html
+Put Chubby Models On A Diet With Concerns,http://37signals.com/svn/posts/3372-put-chubby-models-on-a-diet-with-concerns
+DCI: The King of the Open/Closed Principle,http://mikepackdev.com/blog_posts/37-dci-the-king-of-the-open-closed-principle
+Chubby Models Are Still Fat With Concerns; DCI Focuses On How Things Work Together,http://www.saturnflyer.com/blog/jim/2012/12/18/chubby-models-are-still-fat-with-concerns-dci-focuses-on-how-things-work-together/
+DCI; Concerns and Readable Code,http://blog.codeclimate.com/blog/2012/12/19/dci-concerns-and-readable-code/
+Badger Rails: Open Source Rails 3 Deployment to Linux Servers,http://curiousminds.github.com/badger-rails/
+chruby: Changes The Current Ruby,https://github.com/postmodern/chruby
+Use 'Service' to Simplify Run Loops,https://github.com/RyanScottLewis/service
+Arxiv: Ruby Wrapper for The ArXiv API,https://github.com/scholastica/arxiv
+Algorithms: A Collection of Algorithms and Containers for Ruby,https://github.com/kanwei/algorithms
+Sidekiq 2.6.0 Released,https://github.com/mperham/sidekiq/blob/master/Changes.md
+Applications Developer at the Central Intelligence Agency [District of Columbia],http://jobs.rubyinside.com/a/jbb/job-details/775441
+Lead Software Developer at Bedrocket Media Ventures [New York; New York],http://jobs.rubyinside.com/a/jbb/job-details/776045
+Front-End Engineer at New Relic [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/778380
+mruby Now On the Web using Emscripten and JavaScript,http://qiezi.me/projects/mruby-web-irb/mruby.html
+Ideone: Online Ruby Interpreter & Debugging Tool,http://ideone.com/I2My0f
+

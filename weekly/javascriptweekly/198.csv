@@ -1,0 +1,35 @@
+title,link
+ECMAScript 6 Modules: The Final Syntax,http://www.2ality.com/2014/09/es6-modules-final.html
+hello.js: A Client-Side JavaScript SDK for Authenticating with OAuth2,http://adodson.com/hello.js/
+many services,http://adodson.com/hello.js/modules.html#hellojs-already-has-you-connected
+angular-data: Data Store and Caching for Angular.js,http://angular-data.pseudobry.com/
+Announcing JS Error Reporting + AJAX Timing in New Relic,http://blog.newrelic.com/2014/03/13/javascript-error-reporting-ajax-timing-new-relic/&utm_content=BlogNRBrowserAnnounce&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-HTML5Weekly-BlogNRBrowserAnnounce
+,http://blog.newrelic.com/2014/03/13/javascript-error-reporting-ajax-timing-new-relic/&utm_content=BlogNRBrowserAnnounce&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-HTML5Weekly-BlogNRBrowserAnnounce
+Join The Web Components Revolution with Polymer,http://www.ibm.com/developerworks/library/wa-polymer/
+Introducing the Nashorn JavaScript Engine,http://www.sitepoint.com/introducing-nashorn-javascript-engine/
+polyfill.io: Polyfills As A Service from the FT,http://labs.ft.com/2014/09/polyfills-as-a-service/
+Frontend developer (JavaScript specialist) at the Guardian (London),https://gnm.taleo.net/careersection/ex/jobdetail.ftl?job=KIN000076&src=CooperPressJSWeekly
+JavaScript Developer at GameHouse (Seattle),https://hire.jobvite.com/j?cj=oLo6YfwX&s=JavaScript_Weekly
+Get 5-15 Javascript Job Offers in SF; NYC; LA; & SEA,https://hired.com/?utm_source=newsletters&utm_medium=javascriptweekly&utm_campaign=sept2_14-jsw
+Firefox Nightly now has an initial optimized implementation of the new JS-SIMD API,http://sunfishcode.github.io/blog/2014/09/09/js-simd.html
+Learning Gulp: Getting Started with The Front End Factory,http://hmphry.com/gulp/
+Require.js Packages for Building Large Scale Angular Applications,http://jonathancreamer.com/require-js-packages-for-building-large-scale-angular-applications/
+Retrieving Property Names with Object.getOwnPropertyNames and Object.keys,http://designpepper.com/blog/drips/retrieving-property-names-with-object-getownpropertynames-and-object-keys.html
+Combining JavaScript Arrays,http://davidwalsh.name/combining-js-arrays
+Taming the Asynchronous Beast with CSP in JavaScript,http://jlongster.com/Taming-the-Asynchronous-Beast-with-CSP-in-JavaScript
+Integrating D3.js Visualizations in a React App,http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/
+Emscripten & asm.js: Approaching Native Speed in JavaScript,http://kripken.github.io/mloc_emscripten_talk/cppcon.html#/
+Using Fourier Transforms with the Web Audio API,http://www.sitepoint.com/using-fourier-transforms-web-audio-api/
+Forcing Stack Traces with JavaScript,http://davidwalsh.name/javascript-stack-trace
+Easier ArrayBuffer to String Conversion with The Encoding API,http://updates.html5rocks.com/2014/08/Easier-ArrayBuffer---String-conversion-with-the-Encoding-API
+Crockfords 'New' Way to Create Object Constructors?,http://www.reddit.com/r/javascript/comments/2fenau/crockfords_new_way_to_create_object_constructors/
+Collecting and Iterating; the ES6 Way,http://updates.html5rocks.com/2014/08/Collecting-and-Iterating-the-ES6-Way
+Erik Bryn's Ember Fest 2014 Keynote,https://www.youtube.com/watch?v=z4oxa-UR7oA
+How Instagram.com Works,https://www.youtube.com/watch?v=VkTCL6Nqm6Y
+jQuery FocusPoint: Intelligent Cropping for Flexible Image Containers,https://github.com/jonom/jquery-focuspoint
+Phaser 2.1.0 Released: A Fast HTML5 2D Gamedev Framework,https://github.com/photonstorm/phaser
+axios: Promise-based XHR Library,https://github.com/mzabriskie/axios
+DataCollection.js: Fast; Synchronous Processing of Large Datasets From API Responses,http://thestorefront.github.io/DataCollection.js/
+React-Components: A Searchable Database of React Components,http://react-components.com/
+Still in the 24% who don’t do database source control? Then read this free eBook,http://www.red-gate.com/products/sql-development/sql-source-control/entrypage/sql-server-source-control-basics?utm_source=javascriptweekly&utm_medium=displayemail&utm_content=24_percent_ebook&utm_campaign=sqlsourcecontrol&utm_term=email-22600
+

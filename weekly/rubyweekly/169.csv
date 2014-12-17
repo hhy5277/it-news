@@ -1,0 +1,52 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Postgres,http://postgresweekly.com/
+HTML5,http://html5weekly.com/
+JavaScript,http://javascriptweekly.com/
+Node,http://nodeweekly.com/
+The Ruby Association's 2013 Grant Selection Results,http://www.ruby.or.jp/en/news/20131029.html
+Rails 4.0.1.rc4 Released; Final Tomorrow?,https://groups.google.com/forum/#!msg/rubyonrails-core/p9HllmOCl-Y/X953220-9noJ
+The 2013 Rails Rumble Winners,http://railsrumble.com/entries/winners
+Ruby-FFI Maintenance Changes; Switches to BSD License,https://github.com/ffi/ffi
+stopped maintaining,https://github.com/ffi/ffi/commit/bef6f44505fd96eb16c044b1e1af9cbad2697bfe
+picked up the baton,https://github.com/ffi/ffi/commit/e40243a224a7aedc3cd36c67ee11d847f24f99c5
+to BSD,https://github.com/ffi/ffi/issues/288
+New Relic announces new product – code-named Rubicon,http://newrelic.com/software-analytics?utm_source=COOP&utm_medium=email&utm_content=rubicon&utm_campaign=rubyweekly&mpc=EM-COOP-generic-en-100-rubicon-october
+sign up here.,http://newrelic.com/software-analytics?utm_source=COOP&utm_medium=email&utm_content=rubicon&utm_campaign=rubyweekly&mpc=EM-COOP-generic-en-100-rubicon-october
+,http://newrelic.com/software-analytics?utm_source=COOP&utm_medium=email&utm_content=rubicon&utm_campaign=rubyweekly&mpc=EM-COOP-generic-en-100-rubicon-october
+Installing a Full Rails 4.0 Stack on OS X Mavericks,http://railsapps.github.io/installrubyonrails-mac.html
+A Rails Rumble Gem Teardown,http://www.dwellable.com/blog/Rails-Rumble-Gem-Teardown
+How To Use Mina to Deploy a Ruby on Rails Application,https://www.digitalocean.com/community/articles/how-to-use-mina-to-deploy-a-ruby-on-rails-application
+Auto Generating UUIDs with Postgres and Rails 4,http://blog.lingohub.com/developers/2013/10/dev-bit-auto-generate-uuid-postgres-rails-4/
+How To Stub External Services In Tests,http://robots.thoughtbot.com/how-to-stub-external-services-in-tests/
+Keeping it Simple: Migrating to Pundit from CanCan,http://blog.carbonfive.com/2013/10/21/migrating-to-pundit-from-cancan/
+Building a Blog with Jekyll,http://flippinawesome.org/2013/10/28/building-a-blog-with-jekyll/
+Constant Resolution in Ruby,http://valve.github.io/blog/2013/10/26/constant-resolution-in-ruby/
+Setting Up Emacs as a Ruby Development Environment on OS X,http://crypt.codemancers.com/posts/2013-09-26-setting-up-emacs-as-development-environment-on-osx/
+Detecting Failed Delayed Job Workers: Don't Fear the Reaper,http://www.salsify.com/blog/detect-failed-delayed-job-workers/1571
+How to Build a Subscription Service on Rails: A Noob's Guide,http://www.joelhooks.com/blog/2013/10/30/how-to-build-a-subscription-service-on-rails-a-noobs-guide/
+ActiveRecord's Dirty Little Secret,http://gavinmiller.io/2013/active-records-dirty-little-secret/
+26 Talks (so far!) from Wicked Good Ruby 2013,http://www.confreaks.com/events/wickedgoodruby
+Machine Learning with Ruby,http://www.youtube.com/watch?v=cO26TjhQWvA
+Understanding Ruby's Method Cache,http://www.youtube.com/watch?v=JMR0TEh9W2U
+MRI Magic Tricks,http://www.youtube.com/watch?v=SBdqCYKWISU
+Writing DSLs with Parslet,http://www.youtube.com/watch?v=ET_POMJNWNs
+RubyMotion under the Hood,http://www.youtube.com/watch?v=edVIJ60kIrQ
+Wicked Bad Ruby,http://www.youtube.com/watch?v=VO-NvnZfMA4
+Creativity with Ruby-Processing,http://www.youtube.com/watch?v=Rnw9WNSph5k
+JRuby: Insights from Six Years in Production,http://www.youtube.com/watch?v=t_JJD-AEtNM
+Outside-In Testing,http://www.youtube.com/watch?v=JDgOuKvRaf4
+Supercharging ActiveRecord with PostreSQL,http://www.youtube.com/watch?v=SiwuXtKLjIE
+RubyScore: Check How Your Ruby Achievements Stack Up,http://rubyscore.com/
+ruby-build 20131028: The Ruby Implementation Builder,https://github.com/sstephenson/ruby-build/releases/tag/v20131028
+Pundit: Minimal Authorization through OO Design and Pure Ruby Classes,https://github.com/elabs/pundit/
+Koudoku: Robust Subscription Support for Rails with Stripe,https://github.com/andrewculver/koudoku
+Google-Maps-for-Rails: Easy Google Map + Overlays in Ruby Apps,https://github.com/apneadiving/Google-Maps-for-Rails
+VCR 2.7.0 Released,https://github.com/vcr/vcr/blob/master/CHANGELOG.md#270-october-31-2013
+Ork: Object-Document Mapping for Riak,https://github.com/emancu/ork
+Senior Software Engineer (Ruby on Rails),http://xogroupinc.theresumator.com/apply/ErXopk/Senior-Software-Engineer-Ruby-On-Rails.html?source=rubywkly
+Ruby Developer at Lonely Planet [Nashville; TN],https://lonelyplanet.recruiterbox.com/jobs/24074
+Lonelyplanet.com,http://lonelyplanet.com/
+Lonelyplanet.com,http://lonelyplanet.com/
+Senior Software Engineers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+

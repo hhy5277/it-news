@@ -1,0 +1,36 @@
+title,link
+3rd Edition of the Ruby on Rails Tutorial Book Now Out,http://news.railstutorial.org/rails_tutorial_3rd_ed_screencast_access/
+read the whole thing online,https://www.railstutorial.org/book
+Ruby’s Unary Operators and How to Redefine Their Functionality,http://www.rubyinside.com/rubys-unary-operators-and-how-to-redefine-their-functionality-5610.html
+Ruby Objects in The Deep C Underworld,https://www.omniref.com/ruby/2.2.0.preview1/symbols/Object?#annotation=4032415&line=1
+Codeship is Continuous Delivery for free.,https://www.codeship.io/?utm_source=RubyWeekly&utm_medium=newsletter&utm_campaign=CooperPress
+,https://www.codeship.io/?utm_source=RubyWeekly&utm_medium=newsletter&utm_campaign=CooperPress
+Top 5 Talks at Barcelona Ruby Conference 2014,http://blog.elpassion.com/top-5-baruco-talks/
+A Memcached Trick and an Old Watchdog,http://wegowise.github.io/blog/2014/10/09/a-memcached-trick-and-an-old-watchdog/
+Watchdog,https://github.com/wegowise/watchdog
+Ruboto 1.2.0 Released: The Ruby on Android Development Platform,http://ruboto.org/news/2014/10/13/Ruboto-1.2.0-release-doc.html
+Lewsnetter: An E-mail Marketing Application on Rails,https://github.com/bborn/lewsnetter
+Senior Software Engineer at IFTTT (San Francisco; CA),http://ift.tt/iloveruby
+Hedge Fund Looking for a Rails Freelancer,http://www.puravidainvestments.com/
+samaarons@gmail.com,mailto:samaarons@gmail.com
+Mastering Modern Payments: Using Stripe with Rails,https://www.masteringmodernpayments.com/
+How to Accept Bitcoin with Ruby on Rails,https://www.uludum.org/courses/122-how-to-accept-bitcoin-with-ruby-on-rails
+How to Use RSpec to Test an Angular/Rails Single-Page Application,http://www.angularonrails.com/use-rspec-test-angular-rails-single-page-application/
+File Validations in Ruby using Magic Numbers,http://kgrz.io/ruby/2014/10/10/robust-file-validations-in-ruby.html
+Using Facebook Graph APIs in Rails with Omniauth-facebook and Koala,http://www.gotealeaf.com/blog/facebook-graph-api-using-omniauth-facebook-and-koala
+Making A Rails App Without A Database,http://blog.revelry.co/post/98484994405/making-a-rails-app-without-a-database
+New Rails Shiny: ActiveJob,http://www.sitepoint.com/new-rails-shiny-activejob/
+How to Persist Hashes in Rails Applications with PostgreSQL,http://blog.arkency.com/2014/10/how-to-persist-hashes-in-rails-applications-with-postgresql/
+Using PgMorph to Cheat ActiveRecord into Better Database Consistency with Polymorphic Relations,http://blog.lunarlogic.io/2014/polymorphic-relations-and-db-consistency-with-ease-from-now-yes/
+Rebuild a Gem (Simply): Rack,http://www.kavinder.com/blog/2014-10-10-rebuild-a-gem-rack/
+Create a Ruby Gem for a jQuery Plugin: The Basics,http://www.sitepoint.com/create-ruby-gem-jquery-plugin-basics/
+The Ruby Rogues Discuss Rubygems with Eric Hodel,http://rubyrogues.com/174-rubygems-with-eric-hodel/
+ENVied; or How I Stopped Worrying About Ruby's ENV,http://www.gertgoet.com/2014/10/14/envied-or-how-i-stopped-worrying-about-ruby-s-env.html
+Unit Tests Vs Class Tests,http://blog.arkency.com/2014/09/unit-tests-vs-class-tests/
+WorkingHours: Time Calculations using Business / Working Hours,https://github.com/Intrepidd/working_hours
+Non-Destructive Migrations for Rails,https://github.com/jasonfb/nondestructive_migrations
+Activerecord::DelayTouching: Batch Up Your ActiveRecord 'touch' Operations for Better Performance,https://github.com/godaddy/activerecord-delay_touching
+Cucumber-rails 1.4.2 Released,https://groups.google.com/d/msg/cukes/jr36fLx2Z9g/eH1H-B06bysJ
+Fix bugs in production before your boss even notices.,https://www.honeybadger.io/
+Try exception; uptime and performance monitoring for free.,https://www.honeybadger.io/pages/plans
+

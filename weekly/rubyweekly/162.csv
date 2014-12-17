@@ -1,0 +1,35 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+RubyGems 2.1.0 Released,http://blog.rubygems.org/2013/09/09/2.1.0-released.html
+CVE-2013-4287,http://blog.rubygems.org/2013/09/09/CVE-2013-4287.html
+Official Debian and Ubuntu packages for Phusion Passenger,http://blog.phusion.nl/2013/09/11/debian-and-ubuntu-packages-for-phusion-passenger/
+Ruby Devs; Please Tweak Your GC Settings for Tests,http://fredwu.me/post/60441991350/protip-ruby-devs-please-tweak-your-gc-settings-for
+A Simple Pattern for Cleaning Up Your Ruby DSL,http://blog.joecorcoran.co.uk/2013/09/04/simple-pattern-ruby-dsl/
+Using OrientDB with JRuby,http://www.sitepoint.com/using-orientdb-with-jruby/
+OrientDB,http://www.orientdb.org/
+Adtech Startup Staq Will Pay You $20 An Hour to Learn Ruby in Baltimore,http://technical.ly/baltimore/2013/09/05/staq-ruby-pay-learn-baltimore/
+Taste Test: Puppet; Chef; Salt; Ansible,https://gumroad.com/l/taste-test/rubyweekly
+Sample chapter PDF.,http://devopsu.com/books/taste-test-shell-script-sample-chapter.pdf
+How to Do jQuery UI Autocomplete with Capybara 2,http://ruby-journal.com/how-to-do-jqueryui-autocomplete-with-capybara-2/
+A Capistrano Recipe for Checking Travis CI Build Status,http://railsware.com/blog/2013/09/10/capistrano-recipe-for-checking-travis-ci-build-status/
+What Is Rails' config.threadsafe!,http://www.sitepoint.com/config-threadsafe/
+Running a Ruby app on Heroku with Phusion Passenger,https://github.com/phusion/passenger-ruby-heroku-demo#readme
+Help; My Test Is Failing,http://www.tablexi.com/blog/2013/09/help-my-test-is-failing-xi-to-eye/developers/
+Developing Test Automation Scripts with RubyMine,http://blog.jetbrains.com/ruby/2013/09/webinar-recording-developing-test-automation-scripts-with-rubymine/?
+The Ruby Rogues Discuss Daemons and Daemonization with Kenneth Kalmer,http://rubyrogues.com/122-rr-daemons-with-kenneth-kalmer/
+Seeing is Believing - A REPL in Your Editor,https://vimeo.com/73866851
+jump to the code on GitHub.,https://github.com/JoshCheek/seeing_is_believing
+Hutch: Inter-Service Communication with RabbitMQ,https://gocardless.com/blog/hutch-inter-service-communication-with-rabbitmq/
+Weasel-Diesel: A DSL to Describe; Document and Test Web Services,https://github.com/mattetti/Weasel-Diesel
+The Game of Life on Gist,https://gist.github.com/netmute/1761463
+Introduction to Single Page Apps; with Ruby and Breeze.js,http://www.breezejs.com/samples/intro-spa-ruby
+Pluginator: A Simple Plugin System Based On Gem.find_files,https://github.com/rvm/pluginator
+Experienced Rails developers wanted at philosophie [Venice; California],http://gophilosophie.com/jobs/Venice/3&utm_content=v1&utm_campaign=hiremore
+Senior Software Engineers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+Rails Developer at AutoRevo [Addison; Texas],http://jobs.rubyinside.com/a/jbb/job-details/895801
+Honeybadger.io is error monitoring for Ruby; by devs who give a !@#$,https://www.honeybadger.io/
+Try us free,https://www.honeybadger.io/pages/plans
+features,https://www.honeybadger.io/documentation/project_setup
+free t-shirt.,http://honeybadger.us5.list-manage2.com/subscribe?u=624aa4162f5834d06e9347c6e&id=9beea9cf63
+Ruby Day Camp - September 28-29 - Lorton; VA,http://rubydaycamp.eventbrite.com/
+

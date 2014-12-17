@@ -1,0 +1,11 @@
+title,link
+Postgres Open 2013 Wrapup,https://wiki.postgresql.org/index.php?title=Postgres_Open_2013
+PostgreSQL 9.3 and JSON [PDF],https://www.dropbox.com/s/gtxnueq6hc2ycr5/9.3json.pdf
+Heroku Postgres - Fully managed Postgres on EC2,https://postgres.heroku.com/&utm_campaign=emailbanner
+,https://postgres.heroku.com/&utm_campaign=emailbanner
+Returning Hierarchical Data in a Single SQL Query,http://bender.io/2013/09/22/Returning-Hierarchical-Data-in-a-Single-SQL-Query/
+Using JSON data type in production with Socorro,http://www.chesnok.com/daily/2013/08/06/using-json-data-type-in-production-with-socorro/
+Federating Queries Using postgres_fdw [PDF],http://phaedrusdeinus.org/talks/federate_fdw/federate_fdw.pdf
+Scalable Uniques in Postgres with HLL,https://speakerdeck.com/craigkerstiens/scalable-uniques-in-postgres-with-hll
+Craig Kerstiens,http://craigkerstiens.com/
+

@@ -1,0 +1,33 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+RSpec 2.8: The Popular Ruby BDD Tool Goes Supersonic,http://www.rubyinside.com/rspec-2-8-released-5772.html
+TorqueBox 2.0 Beta 2 Released,http://torquebox.org/news/2012/01/06/torquebox-2-0-0-beta2-released/
+Redcar 0.12 Released: An Editor Built in Ruby,http://redcareditor.com/blog/2012/01/redcar-012/
+StatusCode: My New Weekly Newsletter for Developers; Coming Soon,http://statuscode.org/
+,http://statuscode.org/
+The Status of DataMapper,http://solnic.eu/2012/01/10/ruby-datamapper-status.html
+Does My Rails App Need A Service Layer?,http://blog.carbonfive.com/2012/01/10/does-my-rails-app-need-a-service-layer/
+An Exhaustive Explanation of Minimax: A Staple AI Algorithm,http://www.flyingmachinestudios.com/programming/minimax/
+How Airbnb Upgraded from Rails 2.3 to Rails 3.0,http://nerds.airbnb.com/upgrading-airbnb-from-rails-23-to-rails-30
+Rails Development on Ubuntu 11.10: Setting Up a Dev Environment,http://www.rubypluspl.us/2012/01/new-year-updated-ubuntu-rails-setup.html
+How to Create A Local Copy of the Rails API Docs and Guides,http://aslamnajeebdeen.com/blog/how-to-create-your-own-local-copy-of-rails-api-doc-and-guides
+Hosting Your Own Local RubyGems Server,http://2beards.net/2012/01/hosting-your-own-rubygem-server/
+Ruby Float Quirks,http://www.rails-troubles.com/2011/12/ruby-float-quirks.html
+Installing RefineryCMS with Rails 3.1.3,http://semanteks.com/blog/installing-refinerycms-with-rails-313
+Capybara; Cucumber and How the Cookie Crumbles,http://collectiveidea.com/blog/archives/2012/01/05/capybara-cucumber-and-how-the-cookie-crumbles/
+DDD Aggregates in Rails with ActiveRecord,http://jessedearing.com/nodes/16-ddd-aggregates-in-rails-with-activerecord
+Pretty URLs with FriendlyId (RailsCasts),http://railscasts.com/episodes/314-pretty-urls-with-friendlyid
+,http://railscasts.com/episodes/314-pretty-urls-with-friendlyid
+Puma: A Ruby Web Server Built For Concurrency,https://github.com/evanphx/puma
+confstruct: Yet Another Configuration Object for Ruby,https://github.com/mbklein/confstruct
+coffee-script-pure: A Pure Ruby CoffeeScript Compiler,https://github.com/charliesome/coffee-script-pure
+gon-sinatra: Get Your Sinatra Variables in your JavaScript,https://github.com/gazay/gon-sinatra
+rack_session_access: Rack Middleware for 'rack.session' Environment Management,https://github.com/railsware/rack_session_access
+Rglpk: Ruby Wrapper for the GNU Linear Programming Kit,https://github.com/wtaysom/rglpk
+liquid.js: A JS; In-Browser Implementation of the Liquid Templating Language,https://github.com/tchype/liquid.js
+Ruby and Rails Entwickler bei blau Mobilfunk GmbH [Hamburg; Deutschland],http://jobs.rubyinside.com/a/jbb/job-details/625475
+Lead Rails Developer at Unpakt [New York; New York],http://jobs.rubyinside.com/a/jbb/job-details/626668
+Exceptional Ruby: Master The Art of Handling Failure in Ruby,http://exceptionalruby.com/
+,http://exceptionalruby.com/
+StatusCode: Sign Up for my New Weekly Newsletter for Developers,http://statuscode.org/
+

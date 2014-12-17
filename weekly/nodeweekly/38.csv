@@ -1,0 +1,21 @@
+title,link
+npm Passes RubyGems in Terms of Module Count,http://modulecounts.com/
+Writing Command-Line Utilities with Node.js: A Straightforward Tutorial,http://cruft.io/posts/node-command-line-utilities/
+Nodevember: A JavaScript Conference in Nashville; TN - November 15-16,http://nodevember.org/
+New Relic strengthens Node.js with new features,http://blog.newrelic.com/2014/03/17/browser-monitoring-for-node-js/?mpc=EM-COOP-generic-EN-100-NodeWeekly-BlogNRBrowserNode-js
+New Relic’s blog,http://blog.newrelic.com/2014/03/17/browser-monitoring-for-node-js?utm_source=COOP&utm_medium=email&utm_content=BlogNRBrowserNode-js&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-NodeWeekly-BlogNRBrowserNode-js
+,http://blog.newrelic.com/2014/03/17/browser-monitoring-for-node-js/?mpc=EM-COOP-generic-EN-100-NodeWeekly-BlogNRBrowserNode-js
+Node.js in Production,http://blog.carbonfive.com/2014/06/02/node-js-in-production/
+Build Interactive Voicemail with Twilio; MongoDB; Angular; and Node.js,https://www.twilio.com/blog/2014/04/build-interactive-voicemail-for-sports-fans-with-twilio-mongodb-angular-and-node-js-part-one.html
+Preserving Data Across Async Callbacks in Node,https://datahero.com/blog/2014/05/22/node-js-preserving-data-across-async-callbacks/
+Transitioning Groupon to Node.js,https://www.youtube.com/watch?v=TWVblTpUlxM&feature=share
+Vatican.js: A Framework for Building REST APIs on Node,http://www.vaticanjs.info/
+River4: Dave Winer's Latest 'River of News' Aggregator; Built on Node,http://river4.smallpict.com/2014/06/04/welcomeToRiver4.html
+browser-perf: Performance Metrics for Web Browsers,https://github.com/axemclion/browser-perf
+Ramda: A Practical Functional Library for JavaScript Programmers,https://github.com/CrossEye/ramda
+code is the documentation.,https://rawgit.com/CrossEye/ramda/master/docs/ramda.html
+mongo-select: Module to Help Create Projection Objects When Working with MongoDB,https://github.com/dschenkelman/mongo-select
+Omelette.js: Simple Autocompletion Helper for Node.js CLI Tools,https://github.com/f/omelette
+nodeifications: Simple Cross Platform Desktop Notifications for node-webkit,https://github.com/pbojinov/nodeifications
+A Heavyweight Node.js Playground in the Cloud,https://codio.com/
+

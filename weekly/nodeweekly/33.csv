@@ -1,0 +1,28 @@
+title,link
+On-Board: Intel Galileo Programming with JavaScript and Node.js,http://bocoup.com/weblog/intel-galileo-javascript-nodejs/
+Johnny Five,https://github.com/rwaldron/johnny-five
+Node.js On The Road: What to Expect From The v1.0 Release,http://sdt.bz/content/article.aspx?ArticleID=70125&page=1#nodeonroad
+MediacenterJS: A Node.js-based Media Center for your Browser,http://www.mediacenterjs.com/
+code is on GitHub.,https://github.com/jansmolders86/mediacenterjs
+New Relic strengthens Node.js with new features,http://blog.newrelic.com/2014/03/17/browser-monitoring-for-node-js/?mpc=EM-COOP-generic-EN-100-NodeWeekly-BlogNRBrowserNode-js
+New Relic’s blog,http://blog.newrelic.com/2014/03/17/browser-monitoring-for-node-js?utm_source=COOP&utm_medium=email&utm_content=BlogNRBrowserNode-js&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-NodeWeekly-BlogNRBrowserNode-js
+,http://blog.newrelic.com/2014/03/17/browser-monitoring-for-node-js/?mpc=EM-COOP-generic-EN-100-NodeWeekly-BlogNRBrowserNode-js
+Express.js 4; Node.js and MongoDB REST API Tutorial,http://webapplog.com/express-js-4-node-js-and-mongodb-rest-api-tutorial/
+Finding The Right Node.JS WebSocket Implementation,https://medium.com/node-js-javascript/b63bfca0539
+Node.js Performance Tip of the Week: Heap Profiling,http://strongloop.com/strongblog/node-js-performance-heap-profiling-tip/
+Explore the Marvel Universe with Node and Orchestrate,http://orchestrate.io/blog/2014/04/08/explore-the-marvel-universe-with-orchestrate/
+Deploying a Node.js app to IBM BlueMix,http://joelennon.com/deploying-a-node-js-app-to-ibm-bluemix/
+Getting Started With NodeJS: Installing And Writing Your First Code,http://sub.watchmecode.net/getting-started-with-nodejs-installing-and-writing-your-first-code/
+Building a Bitcoin Payment Site with Node.js and Bitpay,https://www.youtube.com/watch?v=5ROp9Ac3UqE
+Debug: A Small JS Library for Logging Debug Messages,http://smalljs.org/logging/debug/
+PushServer: Node Server for Sending Apple APNS Push Notifications,https://github.com/jazzychad/PushServer
+torrent-mount: Mount A Torrent As A Filesystem in Real Time,https://github.com/mafintosh/torrent-mount
+Distill: Clean Up Your JSON Objects with Ease.,https://github.com/originalmachine/distill
+RhapsodyJS: HMVC and REST Framework Built On Top of Express 4,http://rhapsodyjs.github.io/
+Thinky: A Light Node.js ORM for RethinkDB,http://thinky.io/
+RethinkDB,http://rethinkdb.com/
+image-type: Detect The Image Type of A Buffer/Uint8Array,https://github.com/sindresorhus/image-type
+Codeship: Continuous Deployment made simple,https://www.codeship.io/?utm_source=NodeWeekly&utm_medium=newsletter&utm_campaign=CooperPress
+Codeship,https://www.codeship.io/?utm_source=NodeWeekly&utm_medium=newsletter&utm_campaign=CooperPress
+Start with the free plan.,https://www.codeship.io/?utm_source=NodeWeekly&utm_medium=newsletter&utm_campaign=CooperPress
+

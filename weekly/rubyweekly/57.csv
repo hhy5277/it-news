@@ -1,0 +1,27 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 3.1.0 Released,http://weblog.rubyonrails.org/2011/8/31/rails-3-1-0-has-been-released
+Rails 3.1 Release Notes,http://guides.rubyonrails.org/3_1_release_notes.html
+Agile Web Development with Rails Book Updated for Rails 3.1,http://pragprog.com/book/rails4/agile-web-development-with-rails
+Official Rails API Docs Switching to SDoc,http://weblog.rubyonrails.org/2011/8/29/the-rails-api-switches-to-sdoc
+Sprockets 2.0 Released,https://github.com/sstephenson/sprockets
+RubyGems 1.8.10 Released: Code Injection Flaw Resolved,http://blog.rubygems.org/2011/08/25/1.8.10-released.html
+An Introduction to Ruby Mixins,http://rubysource.com/ruby-mixins-2/
+Hire a Guard for Your Project,http://intridea.com/2011/8/25/hire-a-guard-for-your-project
+Using the Asset Pipeline outside of Rails for Serving CoffeeScript and Sass,http://blog.envylabs.com/2011/08/using-the-asset-pipeline-outside-of-rails-serving-and-running-coffeescript-2/
+Getting HTTPS Going on Your Local POW Instance Using Nginx,http://www.commonvision.com.au/2011/08/26/getting-https-going-on-your-local-pow-instance-using-nginx/
+Some New Features in Factory Girl 2,http://dtuite.github.com/factory-girl-2.html
+Foreman; The Multiple Process Manager,http://railscasts.com/episodes/281-foreman
+,http://railscasts.com/episodes/281-foreman
+CoffeeScript for the Well-Rounded Rubyist,http://vimeo.com/27200146
+How to use the Redcar Editor with a Rails Project,http://pragmaticstudio.com/screencasts/19-redcar
+,http://pragmaticstudio.com/screencasts/19-redcar
+Rails 3.1 Example Apps and Tutorials,http://railsapps.github.com/
+Stasis - A Ruby Static Site Generator,http://stasis.me/
+gritter: Growl-like Notifications for Rails Apps using jQuery,https://github.com/RobinBrouwer/gritter
+rubygems-pwn: Proof of Concept for a RubyGems Vulnerability,https://github.com/sophsec/rubygems-pwn
+Ruby and Rails Engineers (Edinburgh; Scotland),http://www.freeagentcentral.com/company/jobs
+Ruby on Rails Developer for Media Applications at Gannett Co [Fairfax; Virginia],http://jobs.rubyinside.com/a/jbb/job-details/540710
+Ruby on Rails Developer at Enable Labs [Troy; New York],http://jobs.rubyinside.com/a/jbb/job-details/542046
+Q&A with Matz; the Creator of Ruby,http://servicesangle.com/blog/2011/08/31/qa-with-yukihiro-matz-matsumoto-the-creator-of-ruby/
+

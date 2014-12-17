@@ -1,0 +1,34 @@
+title,link
+TypeScript: Microsoft's New Language that Compiles to JavaScript,http://www.typescriptlang.org/
+NetBeans 7.3 Beta Gains JavaScript Development Features,http://www.h-online.com/open/news/item/NetBeans-7-3-s-HTML5-App-Dev-features-go-into-beta-1723548.html
+jQuery Mobile 1.2.0 Released,http://jquerymobile.com/blog/2012/10/02/announcing-jquery-mobile-1-2-0-final/
+Don't Initialize All the Things in jQuery.ready(),http://www.elijahmanor.com/2012/10/dont-initialize-all-things-in.html
+Using || Instead of 'if': Is This Legal and Cross Browser Valid?,http://stackoverflow.com/q/12635401/3951
+The Object-Resource Impedance Mismatch,http://ruben.verborgh.org/blog/2012/09/27/the-object-resource-impedance-mismatch/
+Enyo Tutorial: Part 1,http://dailyjs.com/2012/09/20/enyo-1/
+Testing JavaScript with PhantomJS and YUI Test,http://www.okuryu.com/2012/09/30/testing-javascript-with-phantomjs-and-yui-test.html
+Building World-Ready Applications in JavaScript Becoming a Reality,http://blogs.msdn.com/b/ie/archive/2012/10/04/building-world-ready-applications-in-javascript-becoming-a-reality.aspx
+TypeScript Support Now in Cloud9,https://c9.io/site/blog/2012/10/typescript-support-in-cloud9/
+Nicholas C Zakas' (In-Depth) Thoughts on TypeScript,http://www.nczonline.net/blog/2012/10/04/thoughts-on-typescript/
+The Google Dart Team Welcomes TypeScript,http://news.dartlang.org/2012/10/the-dart-team-welcomes-typescript.html
+Microsoft TypeScript: the JavaScript we need; or a solution looking for a problem?,http://arstechnica.com/information-technology/2012/10/microsoft-typescript-the-javascript-we-need-or-a-solution-looking-for-a-problem/
+Is TypeScript gradually typed?,http://siek.blogspot.co.uk/2012/10/is-typescript-gradually-typed-part-1.html
+LibUV: How Node.js' Asynchronous IO Works Under the Hood,http://blog.nodejs.org/2012/09/30/bert-belder-libuv-lxjs-2012/
+d3.js Video Tutorial Series 'Mixtape',http://enjalot.github.com/dot-enter/
+Doctest.js: The Humane JavaScript Test Framework,http://doctestjs.org/
+Why doctest.js is Better Than Python's 'doctest',http://blog.ianbicking.org/2012/10/02/why-doctest-js-is-better-than-pythons-doctest/
+Acorn: Yet Another JavaScript Parser,http://marijnhaverbeke.nl/blog/acorn.html
+prettyCheckable: Checkbox and Radio Button jQuery Plugin,http://arthurgouveia.com/prettyCheckable/
+ExtractValues: Simple Helper to Extract Values from a String,http://laktek.com/2012/10/04/extract-values-from-a-string/
+DoppioVM: A JVM Written in CoffeeScript,http://int3.github.com/doppio/about.html
+SlideControl.js: jQuery Plugin for Custom 'Slider' Controls,http://nikorablin.com/slideControl/
+pXY.js: Pixel Analysis for HTML5 Canvas,http://o-0.me/pXY/
+i8080-js: The Intel 8080 CPU Modelled in JavaScript,https://github.com/begoon/i8080-js
+lazy-worker: Lazy Web Workers Only Work When Someone Is Watching,https://github.com/bgrohman/lazy-worker
+queue-flow: Chainable Logic Built On Queues in JavaScript,http://dfellis.github.com/queue-flow/
+Front-End Developer,http://infbio.theresumator.com/apply/SciQDh/FrontEnd-Developer.html?source=JSweek
+JavaScript/HTML5 Developer (New York; NY),http://www.undertone.com/careers/openings?
+jsheth@undertone.com,mailto:jsheth@undertone.com
+Front End UX Developer at Econsultancy (London; UK),http://econsultancy.com/jobs/front-end-ux-developer
+Tributary: Live Coding Environment for d3.js Visualizations,http://enjalot.com/
+

@@ -1,0 +1,31 @@
+title,link
+The 2013 Node Knockout Winners,http://nodeknockout.com/
+The Node.js Stream Playground,http://ejohn.org/blog/node-js-stream-playground/
+Node v0.10.22 (Stable) Released,http://blog.nodejs.org/2013/11/12/node-v0-10-22-stable/
+Node v0.11.9 (Unstable) Released,http://blog.nodejs.org/2013/11/20/node-v0-11-9-unstable/
+Try out Heroku's new Node.js Buildpack,https://discussion.heroku.com/t/the-official-node-js-buildpack-is-going-on-a-diet/100
+,https://discussion.heroku.com/t/the-official-node-js-buildpack-is-going-on-a-diet/100
+What’s New in Node.js v0.12: Cluster Round-Robin Load Balancing,http://strongloop.com/strongblog/whats-new-in-node-js-v0-12-cluster-round-robin-load-balancing/
+Express.js Fundamentals,http://flippinawesome.org/2013/11/11/express-js-fundamentals/
+Deploying Node.js Apps Without npm using pac,http://www.codinginthecrease.com/news_article/show/307636
+Node.js the Right Way (book),http://pragprog.com/book/jwnode/node-js-the-right-way
+Task Automation with `npm run`,http://substack.net/task_automation_with_npm_run
+Going for the Node: The 5ms API Challenge,https://medium.com/tech-talk/28df31f1be98
+Unified Logging with Node and Syslog,http://engineering.hipmob.com/2012/10/12/Unified-logging-with-Node-JS-and-Syslog/
+bramqp: A Raw AMQP Library for Node.js,https://github.com/bakkerthehacker/bramqp
+AMQP,http://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol
+nwfaketop: A GruntJS Compiler for Node-webkit Applications (OSX Based),https://github.com/wookiecooking/nwfaketop
+DPLOY: An FTP/SFTP Deployment Tool Built in Node,http://leanmeanfightingmachine.github.io/dploy/
+docker-urlarchiver: Package A Node.js App (including Node itself) for Docker,https://github.com/adamalex/docker-urlarchiver
+strip-json-comments: Strips Comments from JSON,https://github.com/sindresorhus/strip-json-comments
+hostile: Simple; Programmatic `/etc/hosts` Manipulation (in Node.js),https://github.com/feross/hostile
+node-wkhtmltopdf: A Wrapper for The wkhtmltopdf HTML to PDF Converter,https://github.com/devongovett/node-wkhtmltopdf
+node-express-boilerplate: A CoffeeScript-based Express.js Boilerplate App,https://github.com/eunjae-lee/node-express-boilerplate
+Fine: Tiny File Finder Utility for Node.js,https://github.com/vesln/fine
+node-load-tester: Simple Load Testing with Node.js,https://github.com/jpillora/node-load-tester
+Web Engineer at Maker Studios (Los Angeles),https://home.eease.adp.com/recruit2/?id=6937511&t=1
+Freelance with Companies like Airbnb; IDEO & JPMorgan,http://www.toptal.com/developer/?utm_source=JavaScript_Weekly&utm_medium=cpm%24%24%24newsletter&utm_campaign=Jobs&utm_content=jw_a&network=d
+Software Developer at Booking.com in Amsterdam!,http://www.booking.com/jobs/10795.en-us.html?sid=62f4bef905bcbadfdd1b2ee1c52d85c0;dcid=1
+npmjs.eu: A European npm Mirror,http://npmjs.eu/
+npm-stat: Statistical Charts for npm Registry Packages,http://npm-stat.vorba.ch/
+

@@ -1,0 +1,33 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Refining Ruby (or The Best Study of Ruby 2.0 Refinements Yet),http://blog.headius.com/2012/11/refining-ruby.html
+The British Ruby Conference.. Cancelled,http://2013.britruby.com/
+here,http://news.ycombinator.com/item?id=4803437
+here.,http://news.ycombinator.com/item?id=4801226
+DHH's Latest Project: Colt Heinemeier Hansson,https://twitter.com/dhh/status/271209790674464768
+Edge Rails Now Tested on Ruby 2.0 with Travis CI,https://github.com/rails/rails/pull/8249
+Still managing your website images in-house?,http://cloudinary.com/
+,http://cloudinary.com/
+Deploying Ruby Applications to AWS Elastic Beanstalk with Git,http://ruby.awsblog.com/post/Tx2AK2MFX0QHRIO/Deploying-Ruby-Applications-to-AWS-Elastic-Beanstalk-with-Git
+Zen and The Art of Speaking at RubyConf 2012 - The dRuby Way,http://blog.new-bamboo.co.uk/2012/11/30/drubyconf-2012
+The Cost of Ruby 1.9.3's GC::Profiler,http://jamesgolick.com/2012/11/19/the-cost-of-ruby-1.9.3-s-gc-profiler.html
+Is Your Application Running with Ruby - Slow?,http://spin.atomicobject.com/2012/11/06/is-your-application-running-with-ruby-slow/
+A 2012 Mac Setup for Ruby development,http://blog.remarkablelabs.com/2012/11/2012-mac-setup-for-ruby-development
+A Lightweight 'CMS' Using Ruby and Google Drive,http://spin.atomicobject.com/2012/11/16/a-lightweight-cms-using-ruby-and-google-drive/
+A 'yield' Gotcha Every Ruby Developer Should Be Aware of,http://railsware.com/blog/2012/11/20/yield-gotcha-in-ruby-blocks/
+Profiling Ruby (or How I Made Rails Start Up Faster),http://blog.tddium.com/2012/11/20/profiling-ruby/
+Riding Rails: The People Behind Rails 4,http://weblog.rubyonrails.org/2012/11/21/the-people-behind-rails-4/
+Concurrency Patterns in Ruby: Futures,http://tx.pignata.com/2012/11/concurrency-patterns-in-ruby-futures.html
+Guest User Records - RailsCasts,http://railscasts.com/episodes/393-guest-user-record
+Matz Speaking at LinkedIn about Ruby,http://www.youtube.com/watch?feature=player_embedded&v=2lBBjkcfKuE
+Writing Command Line Applications With Ruby: A Presentation,http://launchware.com/articles/writing-command-line-applications-with-ruby-a-presentation-to-the-route-9-ruby-group/
+The Ruby Rogues on 'Practical Metaprogramming' with Steven Harms,http://rubyrogues.com/080-rr-practical-metaprogramming-with-steven-harms/
+Convert Syck to Psych YAML Format,http://darwinweb.net/articles/convert-syck-to-psych-yaml-format
+Daybreak: A Simple Key/Value Store for Ruby,http://propublica.github.com/daybreak/
+chruby: Changes The Current Ruby,https://github.com/postmodern/chruby
+Ruby on Rails Developer at Top Agent Network [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/756017
+RoR Developer; Platform at New Relic [Seattle; Washington],http://jobs.rubyinside.com/a/jbb/job-details/756033
+Ruby on Rails Developer at Liaison International [Watertown; Massachusetts],http://jobs.rubyinside.com/a/jbb/job-details/756113
+Software Engineer - Experienced/Senior at Intent Media [New York; New York],http://jobs.rubyinside.com/a/jbb/job-details/757807
+Giles Bowkett: 'I Wrote An eBook In A Week',http://gilesbowkett.blogspot.co.uk/2012/11/i-wrote-ebook-in-week.html
+

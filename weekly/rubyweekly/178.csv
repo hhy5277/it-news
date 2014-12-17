@@ -1,0 +1,27 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Support for MRI Ruby Version 1.9.3 to End on February 23; 2015,https://www.ruby-lang.org/en/news/2014/01/10/ruby-1-9-3-will-end-on-2015/
+RailsBricks: Create Rails Apps Faster,http://www.railsbricks.net/
+RailsConf 2014 - April 22-25 in Chicago; IL,http://railsconf.com/
+Recurring Subscriptions with Ruby; RSpec and Modular Arithmetic,http://dmcca.be/2014/01/09/recurring-subscriptions-with-ruby-rspec-and-modular-arithmetic.html
+Rails Testing Antipatterns: Fixtures and Factories,https://semaphoreapp.com/blog/2014/01/14/rails-testing-antipatterns-fixtures-and-factories.html
+Code Show and Tell: PolymorphicFinder,http://robots.thoughtbot.com/code-show-and-tell-polymorphic-finder
+New in RSpec 3: Composable Matchers,http://myronmars.to/n/dev-blog/2014/01/new-in-rspec-3-composable-matchers
+The Data Mapper Pattern in Rails 4 using The 'perpetuity' Gem,https://www.honeybadger.io/blog/2014/01/14/data-mapper-pattern-rails-perpetuity-gem
+Building a Faster I18n Backend for Ruby in C,http://instructure.github.io/blog/2014/01/07/faster-ruby-i18n-backend-written-in-c/
+Test Driven Rails – Part 1,http://karolgalanciak.com/blog/2014/01/04/test-driven-rails-part-1/
+RSpec Custom Matchers: A Deep Dive,http://danielchangnyc.github.io/blog/2014/01/15/tdd2-RSpecMatchers/
+Ruby Systems Programming,http://www.youtube.com/watch?v=uaSiV0TFgLI
+Patterns to Deal with Big ActiveRecord Models,http://www.youtube.com/watch?v=ori_StLXMSk
+Rails Developer at Harvest (Anywhere),http://www.getharvest.com/careers/rails-developer-dd
+Software Developer at Collaborative Drug Discovery (Burlingame; CA),https://www.collaborativedrug.com/pages/employment
+Freelance with Companies like Airbnb; IDEO & JPMorgan,http://www.toptal.com/developer/?utm_source=Ruby_Weekly&utm_medium=cpm%24%24%24newsletter&utm_campaign=Jobs&utm_content=rw_a&network=d%20
+Ruby Instarepl for Light Table,https://github.com/existentialmutt/lt-ruby
+Light Table IDE.,http://www.lighttable.com/
+Ruby plugin for Light Table,https://github.com/darthdeus/LightTable-Ruby
+Duktape.rb: A C Extension for The Duktape JavaScript Interpreter,https://github.com/judofyr/duktape.rb
+Que: A Ruby Job Queue That Uses PostgreSQL's Advisory Locks for Speed and Reliability,https://github.com/chanks/que
+Associates: Associate Multiple Models Together and Make Them Behave As One,https://github.com/phildionne/associates
+Count Von Count - A Real-time Counting Database,http://tech.ftbpro.com/post/73212710968/count-von-count-a-real-time-counting-database
+Just like Heroku but on your own servers,https://www.cloud66.com/
+

@@ -1,0 +1,17 @@
+title,link
+PGConf.EU 2013 Now Open for Registration,http://www.postgresql.org/about/news/1473/
+A Tour of PostgreSQL Data Types,http://www.pgcon.org/2013/schedule/attachments/269_tour-of-postgresql-data-types.pdf
+Heroku Postgres - Fully managed Postgres on EC2,https://postgres.heroku.com/&utm_campaign=emailbanner
+,https://postgres.heroku.com/&utm_campaign=emailbanner
+hstore vs. JSON - Which to use in Postgres,http://www.craigkerstiens.com/2013/07/03/hstore-vs-json/
+JSON vs hstore: Which will get you into a cool bar in the Mission?,http://thebuild.com/blog/2013/07/03/json-vs-hstore-which-will-get-you-into-a-cool-bar-in-the-mission/
+@XoF,http://www.twitter.com
+Hstore development for 9.4 release,http://obartunov.livejournal.com/172503.html
+First steps with pgbouncer; set and run it,http://michael.otacoo.com/postgresql-2/first-steps-with-pgbouncer-how-to-set-and-run-it/
+Simple Case for Pivoting in SQL,http://tapoueh.org/blog/2013/07/04-Simple-case-for-pivoting
+tablefunc extension for pivoting in Postgres,http://www.craigkerstiens.com/2013/06/27/Pivoting-in-Postgres/
+@tapoueh,http://www.twitter.com/tapoueh
+Distributed locking in Postgres,http://practiceovertheory.com/blog/2013/07/06/distributed-locking-in-postgres/
+django-postgres-fuzzycount: A Django model manager providing fast / fuzzy counts,https://github.com/stephenmcd/django-postgres-fuzzycount
+Craig Kerstiens,http://craigkerstiens.com/
+

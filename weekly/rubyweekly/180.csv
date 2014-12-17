@@ -1,0 +1,25 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+A 6 Minute Guide to Keyword Arguments in Ruby 2.0 (video),http://www.youtube.com/watch?v=u8Q6Of_mScI
+Using Out-of-Band Garbage Collection in Ruby 2.1,http://tmm1.net/ruby21-oobgc/
+Submit Your Proposal to Speak At RubyConf Uruguay,http://www.rubyconfuruguay.org/en/conference_editions/8/talks/new
+Persisting Data in Ruby with PStore,http://robm.me.uk/ruby/2014/01/25/pstore.html
+Applying Functional Programming Principles to Your Rails Codebase,http://blog.carbonfive.com/2014/01/26/applying-functional-programming-principles-to-your-rails-codebase/
+Setting up JRuby and Mahout 0.8 on Mac OS X,http://benjamintanweihao.github.io/blog/2014/01/26/setting-up-jruby-and-mahout-0-dot-8-on-mac-osx/
+The Stripe Webhook Event Cheatsheet,https://www.petekeen.net/stripe-webhook-event-cheatsheet
+The Dark Side of Ruby,http://www.youtube.com/watch?v=-oorcRJ2Kfg
+Native Extensions Served 3 Ways,http://www.youtube.com/watch?v=bI5oJr4ueQc
+A 1 Day Stripe Integration Workshop in London (Feb 22),http://readysteadycode.com/stripe#?
+Zero Downtime Deployments with Docker,http://www.confreaks.com/videos/2920-gardencityruby-zero-downtime-deployments-with-docker
+Senior Ruby on Rails Developer (Anywhere/Remote),http://salted.theresumator.com/apply/SZPCNo/Ruby-On-Rails-Developer-anywhere.html?source=RW
+Ruby Engineer - Innovation & Social Good (New York; NY),http://skillfer.com/jobs.html
+Software Developer at Collaborative Drug Discovery (Burlingame; CA),https://www.collaborativedrug.com/pages/employment
+izzy: Gives You Methods to Mitigate Long Conditionals,https://github.com/baweaver/izzy
+Propono: Pub/Sub Gem Built On Top of Amazon Web Services,http://meducation.github.io/propono/
+Object#methods_returning: A Trick to Work Out Which Methods Return What We Want,https://gist.github.com/peterc/8607915
+sparkr 0.3.0: Create Colored ASCII Sparklines for Your Ruby CLIs,http://trivelop.de/sparkr/
+playful: A Ruby Implementation of UPnP That Works with Ruby 1.9+,https://github.com/turboladen/playful
+Git_pretty_accept: Accept Pull Requests the Pretty Way,http://tech.lovewithfood.com/blog/2014/01/19/git-pretty-accept-accept-pull-requests-the-pretty-way/
+Fix Your Ruby Performance Issues & Get a FREE Shirt!,http://www.newrelic.com/
+a FREE t-shirt when you deploy!,http://www.newrelic.com/
+

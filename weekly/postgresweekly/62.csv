@@ -1,0 +1,13 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Craig Kerstiens,https://twitter.com/craigkerstiens
+Aggregate Functions Gone Bad; and the Joins Who Made Them that Way,http://www.looker.com/news/blog/aggregate-functions-gone-bad-and-joins-who-made-them-way
+Foreign Tables (in Postgres) are not as Useful as I Hoped,http://bonesmoses.org/2014/06/11/foreign-tables-are-not-as-useful-as-i-hoped/
+PostGIS: PostgreSQL's Spatial Partner - Part 1,http://shisaa.jp/postset/postgis-postgresqls-spatial-partner-part-1.html
+Postgres 9.4 feature highlight: GiST operator class for inet and cidr datatypes,http://michael.otacoo.com/postgresql-2/postgres-9-4-feature-highlight-gist-inet-datatype/
+Parse Postgresql Queries In Ruby,https://pganalyze.com/blog/parse-postgresql-queries-in-ruby.html
+pgsql-listen-exchange: RabbitMQ Exchange That Publishes Messages Received From PostgreSQL Notifications,https://github.com/aweber/pgsql-listen-exchange
+All Your Base: A Database Conference for Web Developers - Oxford; 17 October 2014,http://allyourbaseconf.com/2014/
+the videos from 2013 here.,https://vimeo.com/album/2683752
+Craig Kerstiens,http://craigkerstiens.com/
+

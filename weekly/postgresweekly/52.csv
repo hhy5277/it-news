@@ -1,0 +1,19 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Craig Kerstiens,https://twitter.com/craigkerstiens
+Creating PostgreSQL Arrays Without A Quadratic Blowup,http://blog.heapanalytics.com/creating-postgresql-arrays-without-a-quadratic-blowup/
+Subtly Bad Things Linux May Be Doing To PostgreSQL,http://rhaas.blogspot.com/2014/04/subtly-bad-things-linux-may-be-doing-to.html
+Postgres 9.4 Feature Highlight: Triggers On Foreign Tables,http://michael.otacoo.com/postgresql-2/postgres-9-4-feature-highlight-trigger-foreign-tables/
+Bitcoin Weekly: Our New Cryptocurrency Newsletter,http://bitcoinweekly.com/
+check out the sample issue,http://bitcoinweekly.com/issues/1?euid=*%7CUNIQID%7C*
+,http://bitcoinweekly.com/
+GIN As A Substitute for Bitmap Indexes,http://hlinnaka.iki.fi/2014/03/28/gin-as-a-substitute-for-bitmap-indexes/
+Gracefully Restart PostgreSQL with PGBouncer,http://hans.io/blog/2014/03/27/gracefully_restart_postgresql_with_pgbouncer/index.html
+Announcing walctl for PostgreSQL Transaction Log Management,http://bonesmoses.org/2014/03/27/announcing-walctl-for-postgresql-transaction-log-management/
+WAL-E,https://github.com/wal-e/wal-e
+barman,http://www.pgbarman.org/
+Issue 7 of DB Weekly; our general purpose database newsletter,http://dbweekly.com/issues/7?euid=*%7CUNIQID%7C*
+looked at,http://dbweekly.com/issues/7?euid=*%7CUNIQID%7C*
+our latest issue,http://dbweekly.com/issues/7?euid=*%7CUNIQID%7C*
+Craig Kerstiens,http://craigkerstiens.com/
+

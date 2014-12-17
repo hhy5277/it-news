@@ -1,0 +1,15 @@
+title,link
+JackDB: Database Development in the Cloud,http://www.jackdb.com/home.html
+how I work with psql,http://www.craigkerstiens.com/2013/02/13/How-I-Work-With-Postgres/
+Postgres 9.3 Feature Highlight: IF EXISTS and IF NOT EXISTS,http://michael.otacoo.com/postgresql-2/postgres-9-3-feature-highlight-new-flavors-of-if-exists-and-if-not-exists/
+Heroku Postgres - Fully managed Postgres on EC2,https://postgres.heroku.com/&utm_campaign=emailbanner
+,https://postgres.heroku.com/&utm_campaign=emailbanner
+Postgres Common Table Expression Super Example,http://blog.jdwyah.com/2013/05/postgres-common-table-expression-super.html
+PostgreSQL 9.3 beta: Federated databases and more,http://lwn.net/SubscriberLink/550418/0e518fa2972b21c5/
+Postgres Fuzzy Search Using Trigrams (+/- Django),http://rogueleaderr.com/post/50576527241/postgres-fuzzy-search-using-trigrams-django
+Call me maybe: Postgres,http://aphyr.com/posts/282-call-me-maybe-postgres
+network partitions,http://aphyr.com/tags/jepsen
+@aphyr,http://www.twitter.com/aphyr
+Finding similar texts in PostgreSQL,http://www.cybertec.at/finding-similar-texts-in-postgresql/
+Craig Kerstiens,http://craigkerstiens.com/
+

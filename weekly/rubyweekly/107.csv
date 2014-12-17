@@ -1,0 +1,34 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Basecamp Next Rails Code Tour with David Heinemeier Hansson [video],http://www.youtube.com/watch?v=FkLVl3gpJP4#t=33m30s
+Frozen Rails 2012; September 20-21 in Helsinki; Finland,http://2012.frozenrails.eu/talks.html
+How New Relic tunes its own app using RUM Data,http://blog.newrelic.com/2012/05/10/how-we-tune-our-own-app-using-rum-data?utm_source=RBWK&utm_medium=email&utm_content=RUM&utm_campaign=RPM&utm_term=7-26-12&mpc=EM-RBWK-RPM-EN-100-RubyWeekly-7-26-12
+,http://blog.newrelic.com/2012/05/10/how-we-tune-our-own-app-using-rum-data?utm_source=RBWK&utm_medium=email&utm_content=RUM&utm_campaign=RPM&utm_term=7-26-12&mpc=EM-RBWK-RPM-EN-100-RubyWeekly-7-26-12
+Rocket Science and the Law of Demeter,http://practicingruby.com/articles/shared/gulrqynwlywm
+Capybara 2.0 Upgrade Guide,http://techblog.fundinggates.com/blog/2012/08/capybara-2-0-upgrade-guide/
+DCI with Ruby Refinements,http://mikepackdev.com/blog_posts/35-dci-with-ruby-refinements
+Even More Syntactically Awesome Stylesheets (with Sass 3.2),http://robots.thoughtbot.com/post/29895997507/even-more-syntactically-awesome-stylesheets
+What's New in Haml 3.2 Beta?,http://blog.haml.info/post/29790595024/whats-new-in-haml-3-2-beta
+Rails Testing with Factory Girl,http://www.hiringthing.com/2012/08/17/rails-testing-factory-girl.html
+Building a Tiny jQuery Mobile App Powered by Sinatra,http://rubysource.com/tiny-jquery-mobile-app-powered-by-sinatra/
+Toward a More Egalitarian ObjectSpace,http://erniemiller.org/2012/08/21/toward-a-more-egalitarian-objectspace/
+The Rails Flash Isn't Just for Messages,http://henrik.nyh.se/octopress/2012/08/the-rails-flash/
+Fresh Mountain Lion Ruby Environment Cheatsheet,http://blog.danielfischer.com/2012/08/16/fresh-mountain-lion-cheatsheet-ruby-environment/
+Using RubyMotion to Build JavaScript Based iOS Apps,http://www.willprater.me/blog/2012/08/21/using-rubymotion-to-build-javaScript-based-ios-apps/
+Testing Best Practices; or The Five Habits of Highly Effective Tests,http://confreaks.com/videos/917-railsconf2012-testing-best-practices-or-the-five-habits-of-highly-effective-tests
+Zero Downtime Deploys for Rails Apps,http://confreaks.com/videos/896-railsconf2012-zero-downtime-deploys-for-rails-apps
+Refactoring; A Live Coding Odyssey,http://bostonrb.org/presentations/refactoring-a-live-coding-odyssey
+The Ruby Rogues Talk to Gary Bernhardt about His Testing Style,http://rubyrogues.com/067-rr-gary-bernhardts-testing-style/
+Image Manipulation - RailsCasts,http://railscasts.com/episodes/374-image-manipulation
+RSpec Notification Center: An RSpec Formatter for OS X 10.8,https://github.com/twe4ked/rspec-nc
+Sinatra 1.3.3 Released (primarily bugfixes),https://groups.google.com/forum/#!topic/sinatrarb/wTwap4_h1O4/discussion
+StackTracy: Investigate and Detect Slow Methods Via Your Stack Traces,https://github.com/archan937/stack_tracy
+Thin 2.0 Alpha Unveiled,https://github.com/macournoyer/thin/blob/v2/README.md
+Latinum: A Library for Resource and Currency Calculations,https://github.com/ioquatix/latinum
+Cane: Ruby Code Quality Thresholds,http://thechangelog.com/post/29335113206/cane-ruby-code-quality-thresholds
+Rails Programmer (Anywhere!),http://litmus.com/careers
+Rails Developer at Goldstar [Pasadena; California],http://jobs.rubyinside.com/a/jbb/job-details/724138
+Rails Developer at Goldstar [Portland; Oregon],http://jobs.rubyinside.com/a/jbb/job-details/724141
+Software engineering the agile way at Pivotal Labs [New York City],http://jobs.rubyinside.com/a/jbb/job-details/724889
+The Rails Hosting Survey 2012 Results Are In!,http://blog.planetargon.com/entries/2012/8/14/rails-hosting-survey-2012-results-are-in
+

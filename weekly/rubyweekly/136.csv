@@ -1,0 +1,34 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+What's New in Sinatra 1.4?,http://rkh.im/sinatra-1.4
+dotRB: The Largest Ruby Conference in France (October 18; Paris),http://www.dotrb.eu/
+RubyGems 2.0.3 Released: More Bug Fixes,http://blog.rubygems.org/2013/03/11/2.0.3-released.html
+2.0.2.,http://blog.rubygems.org/2013/03/06/2.0.2-released.html
+Do you hate editing i18n yaml files?,http://www.localeapp.com/
+,http://www.localeapp.com/
+Tracking Down A Memory Leak in Ruby’s EventMachine,http://blog.nelhage.com/2013/03/tracking-an-eventmachine-leak/
+WebSockets on Rails 4.0 and Ruby 2.0,http://www.pogoapp.com/blog/posts/websockets-on-rails-4-and-ruby-2
+Using Regular Expressions in Ruby: A Three Part Series,http://www.bluebox.net/about/blog/2013/02/using-regular-expressions-in-ruby-part-1-of-3/
+two,http://www.bluebox.net/about/blog/2013/03/using-regular-expressions-in-ruby-part-2-of-3/
+three,http://www.bluebox.net/about/blog/2013/03/using-regular-expressions-in-ruby-part-3-of-3/
+Kernel#backtrace,http://nathaniel.talbott.ws/blog/2013/03/11/backtrace/
+Tuning Phusion Passenger’s Concurrency Settings,http://blog.phusion.nl/2013/03/12/tuning-phusion-passengers-concurrency-settings/
+Ruby Demystified: 'and' vs '&&',http://blog.tinfoilsecurity.com/ruby-demystified-and-vs
+Using chruby and ruby-build to Manage Ruby Installations,http://gistflow.com/posts/750-using-chruby-and-ruby-build-to-manage-ruby-installations
+Using Ruby for iOS Development with RubyMotion,http://vimeo.com/61255647
+Ruby Rogues Discuss 'Topaz' with Alex Gaynor,http://rubyrogues.com/096-rr-topaz-with-alex-gaynor/
+Active Model Serializers [RailsCasts],http://railscasts.com/episodes/409-active-model-serializers
+Functional Programming and Ruby,http://bostonrb.org/presentations/functional-programming-and-ruby
+Web Scale for The Rest of Us,http://vimeo.com/61342269
+Sublime Gem Browser: A Gem Browser for Sublime Text,https://github.com/NaN1488/sublime-gem-browser
+CLI.K: A New Command Line Option Parsing Library,https://github.com/rubyworks/clik
+Gemcanary: Automatically Discover Your App's Vulnerabilities,https://gemcanary.com/
+role_playing: A Ruby Implementation of DCI Using SimpleDelegator,https://github.com/johnae/role_playing
+PostRank URI: URI Normalization; Canonicalization; Escaping; and Extraction,https://github.com/postrank-labs/postrank-uri
+bloombroom: Ruby/JRuby Bloom Filters for Bounded and Unbounded (streaming) Data,https://github.com/colinsurprenant/bloombroom
+Talented Foodie Rails Developer Wanted at America's Test Kitchen [Brookline; Massachusetts],http://jobs.rubyinside.com/a/jbb/job-details/794101
+Applications Developer at Central Intelligence Agency [District of Columbia],http://jobs.rubyinside.com/a/jbb/job-details/797271
+Senior Ruby on Rails Developer at SponsorPay [Berlin; Germany],http://jobs.rubyinside.com/a/jbb/job-details/802287
+Postgres Weekly Issue #1,http://postgresweekly.com/archive/1.html
+,http://postgresweekly.com/archive/1.html
+

@@ -1,0 +1,25 @@
+title,link
+LoopBack: A New Node.js Framework by StrongLoop,http://loopback.io/
+Node.js Frameworks and Stacks to Build Future Enterprise Apps,http://blog.newrelic.com/2014/04/29/node-builds-future-enterprise/
+NodeRT: WinRT Modules Generator for Node.js,https://github.com/NodeRT/NodeRT
+New Relic strengthens Node.js with new features,http://blog.newrelic.com/2014/03/17/browser-monitoring-for-node-js/?mpc=EM-COOP-generic-EN-100-NodeWeekly-BlogNRBrowserNode-js
+New Relic’s blog,http://blog.newrelic.com/2014/03/17/browser-monitoring-for-node-js?utm_source=COOP&utm_medium=email&utm_content=BlogNRBrowserNode-js&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-NodeWeekly-BlogNRBrowserNode-js
+,http://blog.newrelic.com/2014/03/17/browser-monitoring-for-node-js/?mpc=EM-COOP-generic-EN-100-NodeWeekly-BlogNRBrowserNode-js
+Building a RESTful API With Node - Authentication with Passport,http://scottksmith.com/blog/2014/05/29/beer-locker-building-a-restful-api-with-node-passport/
+A New Node.js Company; NodeSource; Opens Its Virtual Doors,http://venturebeat.com/2014/05/27/a-new-node-js-company-nodesource-opens-its-virtual-doors/
+Boilerplate-Free Promises in Node,http://joshmock.github.io/boilerplate-free-promises-in-node/
+Understanding module.exports and exports in Node.js,http://www.choskim.me/understanding-module-exports-and-exports-in-node-js/
+Introducing Socket.IO 1.0: A Leap Forward for the Real-Time Communications Library,http://socket.io/blog/introducing-socket-io-1-0/
+rdb: A Node ORM for PostgreSQL,https://www.npmjs.org/package/rdb
+pggy: A Node-based Terminal UI for Postgres,https://github.com/bulkan/pggy
+blessed,https://github.com/chjj/blessed
+Knex.js,http://knexjs.org/
+express-enforces-ssl: Enforce SSL for ExpressJS Projects,https://github.com/aredo/express-enforces-ssl
+dustmail.js: Email Module Powered by Dust Templates,https://github.com/nodecraft/dustmail.js
+Scribble With: A Collaborative Whiteboard Built on Node; Express; HTML5 and WebSockets,https://github.com/Velkitor/scribble_with
+Feathers: Get REST and Real-time APIs Running on top of Express.js,http://feathersjs.com/
+project-router: Promise Based Routing for Express Apps,https://github.com/moudy/project-router
+factory-girl: A Factory Library for Node.js and The Browser Inspired by Ruby's factory_girl,https://github.com/aexmachina/factory-girl
+Stormpath - User Management in Node,http://docs.stormpath.com/nodejs/api/home?utm_source=node%20weekly&utm_medium=email&utm_campaign=node%20sdk
+Passport integration,https://github.com/stormpath/passport-stormpath
+

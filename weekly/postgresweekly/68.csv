@@ -1,0 +1,17 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Craig Kerstiens,https://twitter.com/craigkerstiens
+The New Heroku Postgres Database Experience,https://blog.heroku.com/archives/2014/8/12/the_new_database_experience_with_heroku_postgres
+Call for Quotes for The 9.4 Release Announcement,http://www.databasesoup.com/2014/08/call-for-quotes-for-94-release.html
+The Two Kinds of Stats in PostgreSQL,http://blog.pgaddict.com/posts/the-two-kinds-of-stats-in-postgresql
+PostgreSQL Page Size for SSD,http://blog.coelho.net/database/2014/08/08/postgresql-page-size-for-SSD/
+JSONB and Horizontal Scaling Strategies,http://www.slideshare.net/jkatz05/webscale-postgresql-jsonb
+Math and SQL; part 2: Functions and First Normal Form,http://ledgersmbdev.blogspot.com/2014/08/math-and-sql-part-2-functions-and-first.html
+Introducing pg:diagnose,https://blog.heroku.com/archives/2014/8/12/pg-diagnose
+open-sourced,https://github.com/heroku/pgdiagnose
+@leinweber,http://www.twitter.com/leinweber
+Heroku,http://www.heroku.com
+CitusDB: cstore_fdw 1.1 release notes,http://citusdata.com/blog/79-cstore-fdw-1-1-release-notes
+Math and SQL part 3: MVCC; Immutability; and Functional Programming,http://ledgersmbdev.blogspot.com/2014/08/math-and-sql-part-3-mvcc-immutability.html
+Craig Kerstiens,http://craigkerstiens.com/
+

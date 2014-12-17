@@ -1,0 +1,29 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 4.0 Release Candidate 2 Released,http://weblog.rubyonrails.org/2013/6/11/Rails-4-0-release-candidate-2/
+Nobody Understands The GIL,http://www.jstorimer.com/blogs/workingwithcode/8085491-nobody-understands-the-gil
+Working With Ruby Threads - An Ebook About Multi-Threading in Ruby,http://www.jstorimer.com/products/working-with-ruby-threads
+Unicorn Rawk: Kick GC Out of the Band,http://blog.newrelic.com/2013/05/28/unicorn-rawk-kick-gc-out-of-the-band/?utm_source=COOP&utm_medium=email&utm_content=garbage%20collection&utm_campaign=petercooper&mpc=EM-COOP-web-en-100-rubyweekly-gccollection
+Beyond The Default Rails Environments,http://37signals.com/svn/posts/3535-beyond-the-default-rails-environments
+Ruby; Python; Java; C and Programmer Happiness,http://rubysource.com/ruby-python-java-c-and-programmer-happiness/
+Phusion Passenger DOES Support Ruby 2.0,http://blog.phusion.nl/2013/06/06/phusion-passenger-does-support-ruby-2-0/
+Matz's Keynote at Ruby Kaigi 2013,http://blog.crowdint.com/2013/06/11/matz-keynote-at-ruby-kaigi-2013.html
+'Plucking' Multiple Columns in Rails 3,http://meltingice.net/2013/06/11/pluck-multiple-columns-rails/
+Parallel Cross Browser Testing Using Saucelabs; Cucumber; and Capybara,https://github.com/verdi327/parallel_test_tutorial
+Chaining Scopes in Rails 4,http://blog.envylabs.com/post/52395695243/chaining-scopes-in-rails-4
+Being Paranoid with Ruby Gems,https://discuss.gemnasium.com/t/being-paranoid-with-ruby-gems/28
+Stubbing and Mocking with RSpec,http://blog.codeship.io/2013/06/11/Testing-Tuesday-9-Stubbing-and-Mocking-with-RSpec.html
+The Ruby Rogues Discuss 'Ruby Trends',http://rubyrogues.com/108-rr-ruby-trends/
+Using Select2 with Ruby on Rails,http://www.youtube.com/watch?v=N9yvKdYYKqQ
+Rails 4.0.0 RC2 and Ruby 2.0 Dictionaries for OS X,http://prii.it/blog/rails4-and-ruby2-dictionaries
+nsa_panel: Easily Add A NSA Backdoor Into Your Rails App,https://github.com/goshakkk/nsa_panel
+Ruboto 0.13.0,http://ruboto.org/2013/06/09/Ruboto-0.13.0-release-doc.html
+Cistern: An API Client Framework Extracted From Fog,https://github.com/lanej/cistern
+rails_email_preview: A Rails Engine to Preview Mails in the Browser,https://github.com/glebm/rails_email_preview
+Introducing Invoker: Manage Processes in the Development Envionment,http://crypt.codemancers.com/posts/2013-06-10-introducing-invoker/
+Planet's Earth #1 Accommodation Website is looking for Software Developers!,http://www.booking.com/jobs.en-us.html?sid=250ab6c830753040467ad3fdcb5ea63d;dcid=1;st=details;job_id=10795
+Ruby Developers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oqRWWfwT&s=Ruby_weekly
+Web Developer - Roadtrippers (Ruby on Rails / Backbone.js),http://roadtrippers.theresumator.com/apply/WVrrkx/Web-Developer-Ruby-On-Rails-Backbonejs.html?source=rubyweekly
+Ruby Software Developer at Openbay [Cambridge; Massachusetts],http://jobs.rubyinside.com/a/jbb/job-details/847083
+Hacker Bundle: A Bundle of Tech Services for Cheap,https://hackerbundle.com/
+

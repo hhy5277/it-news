@@ -1,0 +1,13 @@
+title,link
+Postgres: the transaction system and how it works,https://github.com/postgres/postgres/blob/master/src/backend/access/transam/README
+postgression: A PostgreSQL Database for Every Test Case,http://www.postgression.com/
+Heroku Postgres - Fully managed Postgres on EC2,https://postgres.heroku.com/&utm_campaign=emailbanner
+,https://postgres.heroku.com/&utm_campaign=emailbanner
+Secure deployment of PostgreSQL functions,http://joelonsql.com/2013/04/24/secure-deployment-of-postgresql-functions/
+Introduction to PostgreSQL Arrays; Basic Concepts and Normalization Considerations,http://ledgersmbdev.blogspot.co.uk/2013/04/introduction-to-postgresql-arrays-basic.html
+Securing PostgreSQL using hostssl cert clientcert=1,http://joelonsql.com/2013/04/27/securing-postgresql-using-hostssl-cert-clientcert1/
+Rails 4 UUID primary keys with PostgreSQL,http://labria.github.io/2013/04/27/rails-4-uuid-primary-keys-with-postgresql/
+Heroku Postgres - GIS Support Now Available,https://blog.heroku.com/archives/2013/4/30/heroku_postgres_geospatial_support_now_available
+Async database access with PostgreSQL; Play; Scala and Heroku,http://mauricio.github.io/2013/04/29/async-database-access-with-postgresql-play-scala-and-heroku.html
+Craig Kerstiens,http://craigkerstiens.com/
+

@@ -1,0 +1,31 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+DHH's RailsConf 2011 Keynote: Asset Packaging in Rails 3.1,http://www.rubyinside.com/dhh-keynote-streaming-live-from-railsconf-2011-right-here-right-now-4769.html
+Ruby In Steel 2 Beta 2 Available,http://www.sapphiresteel.com/Blog/article/ruby-in-steel-2-2nd-beta-available
+RSpec 2.6.0 Released,http://blog.davidchelimsky.net/2011/05/12/rspec-260-is-released/
+state_machine 1.0 Released - State Machines for any Ruby Class,http://www.pluginaweek.org/2011/05/12/state_machine-1-0-jump-for-joy/
+New Relic Introduces 'Real User Monitoring' - How It Works,http://blog.newrelic.com/2011/05/17/how-rum-works/
+What Gems To Be Using For What Job in Rails 3 Right Now,http://intridea.com/2011/5/13/rails3-gems
+Faster Rails Tests with Hydra (in Ruby 1.8),http://logicalfriday.com/2011/05/18/faster-rails-tests-with-hydra/
+Life After Objective C? MacRuby!,http://cocoamanifest.net/articles/2011/05/life-after-objective-c.html
+Running Rails 3.1 and Sprockets on Heroku Right Now,http://quickleft.com/blog/rails-31-sprockets-and-heroku
+Rubinius on JRuby? It Exists.,http://yokolet.blogspot.com/2011/05/rubinius-on-jruby.html
+What's New in Edge: Scoped Mass Assignment in Rails 3.1,http://www.enlightsolutions.com/articles/whats-new-in-edge-scoped-mass-assignment-in-rails-3-1/
+Yehuda Katz's Ruby Encoding Cheat Sheet,https://gist.github.com/83c011e40e1970df0ef4
+A Crazy Deep Rails 3 + Mongoid + OmniAuth Tutorial/Walkthrough,https://github.com/fortuity/rails3-mongoid-omniauth/wiki/Tutorial
+A Quick Rails Tip: Logging Which Line Called redirect_to,http://jkfill.com/2011/05/13/log-which-line-called-redirect_to/
+HTTP Streaming by RailsCasts,http://railscasts.com/episodes/266-http-streaming
+O'Reilly's RailsConf 2011 Videos YouTube Channel,http://www.youtube.com/watch?v=OJ8YfstVWKs&feature=list_related&playnext=1&list=SP379EA9290474C86C
+Active Admin: Gorgeous Admin Interfaces for your Rails Apps,http://activeadmin.info/
+Middleman: Static Site Generator on Haml; Sass; etc.,https://github.com/tdreyno/middleman/
+Search Your GMail Messages with ElasticSearch and Ruby,http://ephemera.karmi.cz/post/5510326335/gmail-elasticsearch-ruby
+Catch Outgoing Mail (From Your Webapps) with MailCatcher,http://blog.thefrontiergroup.com.au/2011/05/catch-mail-and-serve-it-through-a-dream-with-mailcatcher/
+html5_validators: HTML5 Client Side Validation for your Rails 3 Models,https://github.com/amatsuda/html5_validators
+bluepill: Simple Process Monitoring Tool,https://github.com/arya/bluepill
+Fashion Quest: A Shoes and YAML-based Interactive Fiction Framework,http://fashionquest.me/
+Polite Agent of Non-Destructive Assimilation (PANDA) [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/495466
+Senior Front End Developer for Proofpoint [Sunnyvale; California],http://jobs.rubyinside.com/a/jbb/job-details/491032
+Senior Developer for Medivo [New York; New York],http://jobs.rubyinside.com/a/jbb/job-details/492697
+Senior Web Application Engineer for [Sacramento; California],http://jobs.rubyinside.com/a/jbb/job-details/495432
+The BEATS Ruby Drum Machine,http://beatsdrummachine.com/
+

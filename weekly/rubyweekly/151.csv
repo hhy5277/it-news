@@ -1,0 +1,37 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 4.0 Released,http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/
+,http://weblog.rubyonrails.org/2013/6/25/Rails-4-0-final/
+The Pragmatic Bookshelf Releases 'Programming Ruby 1.9 & 2.0',http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0
+,http://pragprog.com/book/ruby4/programming-ruby-1-9-2-0
+Hostname Check Bypassing Vulnerability in Ruby's SSL Client,http://www.ruby-lang.org/en/news/2013/06/27/hostname-check-bypassing-vulnerability-in-openssl-client-cve-2013-4073/
+Ruby 2.0.0-p247 Released,http://www.ruby-lang.org/en/news/2013/06/27/ruby-2-0-0-p247-is-released/
+Ruby 1.9.3-p448,http://www.ruby-lang.org/en/news/2013/06/27/ruby-1-9-3-p448-is-released/
+Ruby 1.8.7-p374,http://www.ruby-lang.org/en/news/2013/06/27/ruby-1-8-7-p374-is-released/
+RubyConf Brasil 2013 - August 29-30 in São Paulo,http://www.rubyconf.com.br/
+MetaCasts.tv: Level-up Your Web Development Skills,http://www.metacasts.tv/
+a free episode on Ruby 2.0's TracePoint,http://www.metacasts.tv/rubyweekly
+,http://www.metacasts.tv/
+The Case Against Using RubyGems.org in Production,https://www.honeybadger.io/blog/2013/06/25/stop-using-rubygemsorg-in-production
+The Pesky Problem of Freezing 'Thin' Servers,http://blog.shellycloud.com/2013/06/the-pesky-problem-of-freezing-thin.html
+Up and Running with Espresso: Rapid Web Development in The Browser,http://mherman.org/blog/2013/06/13/up-and-running-with-espresso-rapid-web-development-in-the-browser/
+Ruby Mixins and ActiveSupport::Concern,http://engineering.appfolio.com/2013/06/17/ruby-mixins-activesupportconcern/
+Force Users to Add A Facebook Login with Devise OmniAuth,http://swizec.com/blog/force-users-to-add-a-facebook-login-with-devise-omniauth/swizec/6250
+An Introduction to the New Relic Platform,http://blog.newrelic.com/2013/06/19/an-indepth-look-at-the-new-relic-platform/
+Configuring Pow with NGINX and SSL on OS X,http://matthewhutchinson.net/2013/6/20/configuring-pow-with-nginx-and-ssl-on-osx
+Make Your Rails Application Multi-Threaded on Heroku,http://blog.craz8.com/articles/2013/6/19/make-your-rails-application-multi-threaded
+Are We Abusing 'at_exit'?,http://blog.arkency.com/2013/06/are-we-abusing-at-exit/
+Removing Turbolinks from Rails 4,http://blog.steveklabnik.com/posts/2013-06-25-removing-turbolinks-from-rails-4
+Why Is Curry(ing) Not Popular Among Rubyists?,http://blog.daniellobato.me/2013/06/why-is-curry-not-popular-among-rubyists/
+Building A Tested; Documented and Versioned JSON API Using Rails 4,http://www.emilsoman.com/blog/2013/05/18/building-a-tested/
+Confessions of a Ruby Developer Whose Heart Was Stolen by Scala,http://www.parleys.com/play/51c178ece4b0d38b54f46217/chapter0/about
+RubyTapas Freebie: 'xmpfilter',http://devblog.avdi.org/2013/06/24/rubytapas-freebie-xmpfilter/
+chruby 0.3.6 and ruby-install 0.2.0 Released,http://www.rubyflow.com/items/9462-chruby-0-3-6-and-ruby-install-0-2-0-released
+The Code From Russ Olsen's Book 'Design Patterns in Ruby',https://github.com/russolsen/design_patterns_in_ruby_code
+VerifiedDouble: Verifies Mocks by Checking If There Are Tests Against Them,https://github.com/gsmendoza/verified_double
+tmate: Instant Terminal Sharing (a fork of tmux),http://tmate.io/
+Rails Developer at IZEA,http://bit.ly/145teiI
+Ruby Developers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oqRWWfwT&s=Ruby_weekly
+Ruby Contractors (multiple) at Red 5 Studios [Irvine; California],http://jobs.rubyinside.com/a/jbb/job-details/847234
+Rails Developer at Squaremouth [Fort Wayne; Indiana],http://jobs.rubyinside.com/a/jbb/job-details/848465
+

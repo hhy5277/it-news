@@ -1,0 +1,47 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 4.0.1 Release Candidate 1 Released,http://weblog.rubyonrails.org/2013/10/17/Rails-4-0-1-rc1-has-been-released/
+Introducing Rubinius X: A Ruby of the Future?,http://rubini.us/2013/10/15/introducing-rubinius-x/
+Rubinius X,http://x.rubini.us/
+Rails 3.2.15 Released,http://weblog.rubyonrails.org/2013/10/16/Rails-3-2-15-has-been-released/
+GardenCityRubyConf 2014 Call for Proposals Open (Bangalore; India),http://www.gardencityruby.org/cfp/
+The Once and Future Rubinius,http://rubini.us/2013/10/11/the-once-and-future-rubinius/
+ended its sponsorship of the project.,https://blog.engineyard.com/2013/the-future-of-rubinius
+State of The Stack 2013: Ruby Edition,http://blog.newrelic.com/2013/10/10/infographic-state-stack-ruby-edition/
+Threads in Ruby,http://www.sitepoint.com/threads-ruby/
+Is Ruby A Dying Language?,http://www.reddit.com/r/programming/comments/1oi8wd/ruby_is_a_dying_language/
+Adding Search and Autocomplete to a Rails App with Elasticsearch,https://shellycloud.com/blog/2013/10/adding-search-and-autocomplete-to-a-rails-app-with-elasticsearch
+A Diagram of The Ruby Core Object Model,http://jeromedalbert.com/a-diagram-of-the-ruby-core-object-model/
+Node for Rails Developers: Using Compound.js,https://medium.com/what-i-learned-building/e490fb9c0c73
+accepts_nested_attributes_for with name field in HTML,http://vicfriedman.github.io/blog/2013/10/09/accepted-nested-attributes-for-with-name-field-in-html/
+Configuring Acceptance Tests with Capybara; Webkit and Selenium: Useful Tips,http://shvets.github.io/blog/2013/10/12/acceptance_tricks.html
+Up and Running with AngularJS and Rails,http://staunchrobots.com/blog/blog/2013/10/14/up-and-running-with-angularjs-and-rails/
+Minitest Insights,https://vimeo.com/75833835
+The Ruby Rogues Discuss Remote Pair Programming with Sam Livingston-Gray,http://rubyrogues.com/126-rr-remote-pair-programming-with-sam-livingston-gray/
+19 Videos from WindyCityRails 2013,http://www.windycityrails.org/videos/2013/
+Rails vs Object Oriented Design,http://www.windycityrails.org/videos/2013/#10
+Functional Principles for Ruby Developers,http://www.windycityrails.org/videos/2013/#2
+Data Science,http://www.windycityrails.org/videos/2013/#4
+GitHub Secrets.,http://www.windycityrails.org/videos/2013/#14
+Why Hasn't Ruby Won?,http://www.youtube.com/watch?v=dE4toi7y1MM
+cocoa-rack: Run Rack Apps Within Mac Apps,https://github.com/briangonzalez/cocoa-rack
+Virtus 1.0.0: Attributes on Steroids for Plain Old Ruby Objects,http://solnic.eu/2013/10/16/virtus-1-0-0-released.html
+Be Aware of mime-types 2.0's Impending Release,http://blog.halostatue.ca/mime-types-2-0-impending-release
+ngx_mruby: Web Server Extension Mechanism for nginx Using mruby,http://matsumoto-r.github.io/ngx_mruby/
+The Changelog.,http://thechangelog.com/ngx_mruby-script-nginx-matz-mruby/
+Mago: Magic Number Detector for Ruby Source Code,https://github.com/greyblake/mago
+NSString-Ruby: NSString Category Providing Common Ruby String Methods,https://github.com/zdavison/NSString-Ruby
+Whipped Cream: HTTP Topping for the Raspberry Pi,https://github.com/justincampbell/whipped-cream
+Selecta: A Fuzzy Text Selector for Files and Anything Else You Need to Select,https://github.com/garybernhardt/selecta
+Ruby Developer at Lonely Planet [Nashville; TN],https://lonelyplanet.recruiterbox.com/jobs/24074
+Lonelyplanet.com,http://lonelyplanet.com/
+Lonelyplanet.com,http://lonelyplanet.com/
+Senior Software Engineers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+Join the FreeAgent Engineering team [Edinburgh/Remote],http://www.freeagent.com/company/jobs/software-engineer
+,http://www.freeagent.com/company/jobs/software-engineer
+Honeybadger.io is exception monitoring for Ruby; by devs who give a !@#$,https://www.honeybadger.io/
+learn more.,https://www.honeybadger.io/blog/2013/08/30/alerts-and-integrations-just-leveled-up
+Try us free,https://www.honeybadger.io/pages/plans
+features,https://www.honeybadger.io/documentation/project_setup
+free t-shirt.,http://honeybadger.us5.list-manage2.com/subscribe?u=624aa4162f5834d06e9347c6e&id=9beea9cf63
+

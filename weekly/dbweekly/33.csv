@@ -1,0 +1,33 @@
+title,link
+,http://rackspace.com/
+NoSQL Databases: A (Thorough) Overview,http://www.thoughtworks.com/insights/blog/nosql-databases-overview
+Amazon Expands Its NoSQL Story with JSON Support in DynamoDB,https://gigaom.com/2014/10/08/amazon-web-services-adds-json-support-to-dynamodb/
+libsqlfs: Library That Implements A POSIX Style File System On Top of an SQLite Database,https://github.com/guardianproject/libsqlfs
+Don’t Throw Your Code over the Wall: 5 Ways to Work with Ops Engineers,https://www.rackspace.com/blog/dont-throw-your-code-over-the-wall-5-ways-to-work-with-ops-engineers/?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-throw
+Here are some suggestions,https://www.rackspace.com/blog/dont-throw-your-code-over-the-wall-5-ways-to-work-with-ops-engineers/?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-throw
+,https://www.rackspace.com/blog/dont-throw-your-code-over-the-wall-5-ways-to-work-with-ops-engineers/?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-throw
+PIPESQL: Building SQL Queries in Bottom-up Approach using Pipes and Filters,http://pipesql.com/
+How BMW Uses NoSQL,http://www.odbms.org/blog/2014/09/odbms-industry-watch-interview-jutta-bremm-peter-palm/
+CortexDB,http://www.cortex-ag.com/ws/cms.php
+Apache Spark Breaks Previous Large-Scale Sort Record,http://databricks.com/blog/2014/10/10/spark-breaks-previous-large-scale-sort-record.html
+General Purpose (SSD) Storage for Amazon RDS,https://aws.amazon.com/blogs/aws/rds-with-ssd-storage/
+The Key to Distributed Database Performance: Scalability,http://gomorpheus.com/blog/2014-10-09-the-key-to-distributed-database-performance-scalability
+Conceptual Model vs Graph Model,http://www.markhneedham.com/blog/2014/10/06/conceptual-model-vs-graph-model/
+Senior Database Administrator (Austin; TX),https://uscareers-rackspace.icims.com/jobs/9847/sr.-database-administrator/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-sdbajob
+The Latest SQLite 3.8.7 Alpha Is 50% Faster Than The 16 Month Old 3.7.17,http://permalink.gmane.org/gmane.comp.db.sqlite.general/90549
+Netflix Lost 218 Database Servers During AWS Reboot and Stayed Online,https://gigaom.com/2014/10/03/netflix-lost-218-database-servers-during-aws-reboot-and-stayed-online/
+How Big Data Is Fueling A New Age in Space Exploration,http://venturebeat.com/2014/10/05/how-big-data-is-fueling-a-new-age-in-space-exploration/
+Couchbase Readies Next-Generation NoSQL Storage Engine,http://www.javaworld.com/article/2692403/data-storage/couchbase-readies-next-generation-nosql-storage-engine.html
+IBM Sees Software Defined Storage as Tipping Point in Taming Big Data Deluge,http://www.marketwatch.com/story/ibm-sees-software-defined-storage-as-tipping-point-in-taming-big-data-deluge-2014-10-06
+NoSQL is the Future; and Couchbase Thinks It’ll Come Out on Top,http://www.dataversity.net/nosql-future-couchbase-thinks-itll-come-top/
+Your App is Taking Off; Now What? Understanding MongoDB Deployment Health,http://www.mongodb.com/blog/post/part-1-your-app-taking-now-what-understanding-mongodb-deployment-health
+What Is A Database Index?,http://www.vertabelo.com/blog/technical-articles/what-is-a-database-index
+Exploring Your SQL Server Databases with T-SQL,https://www.simple-talk.com/sql/database-administration/exploring-your-sql-server-databases-with-t-sql/
+SQLite vs MySQL vs PostgreSQL: A Comparison Of Relational Database Management Systems,https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems
+A Year Running a Sharded MongoDB Cluster,https://bugsnag.com/blog/mongo-sharding
+Redis Running Slowly? Here’s What You Can Do About it,https://redislabs.com/blog/redis-running-slowly-heres-what-you-can-do-about-it
+Multiple Aggregations and The SQL Table Function: A Case Study,http://db2guys.wordpress.com/2014/10/09/multiple-aggregations-and-the-sql-table-function-a-case-study/
+Watch Out for Misleading Behaviour From SQL Server,http://michaeljswart.com/2014/10/watch-out-for-misleading-behaviour-from-sql-server/
+A Vectorized Executor to Speed Up PostgreSQL,https://github.com/citusdata/postgres_vectorization_test
+Graphgen: Graph Generator for Neo4j,http://graphgen.neoxygen.io/
+

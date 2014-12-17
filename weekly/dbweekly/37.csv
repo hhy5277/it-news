@@ -1,0 +1,34 @@
+title,link
+,http://rackspace.com/
+Introducing Dynomite: Making Non-Distributed Databases Distributed,http://techblog.netflix.com/2014/11/introducing-dynomite.html
+Seven Surprising Findings About DB2,http://use-the-index-luke.com/blog/2014-11/seven-surprising-findings-about-DB2
+Solving Their Big Data Problem,http://www.rackspace.com/blog/rackspacesolve-ny-sumall-solves-for-big-data-video/?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-solvesumall
+Watch the video.,http://www.rackspace.com/blog/rackspacesolve-ny-sumall-solves-for-big-data-video/?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-solvesumall
+,http://www.rackspace.com/blog/rackspacesolve-ny-sumall-solves-for-big-data-video/?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-solvesumall
+The Relational Database Management System Family Tree,http://www.hpi.uni-potsdam.de/fileadmin/hpi/FG_Naumann/projekte/RDBMSGenealogy/RDBMS_Genealogy_V4_Bild.jpg
+Using MongoDB as a Graph Database,http://engineering.talis.com/articles/using-mongodb-as-graph-db/
+Graph Analytics Poised to Solve Tough Big Data Problems,http://www.datanami.com/2014/11/03/graph-analytics-poised-solve-tough-big-data-problems/
+Average Salaries for Big Data Developers (infographic),http://smartdatacollective.com/node/279896
+Making PostgreSQL Scale Hadoop-style: Benchmark Numbers,http://www.citusdata.com/blog/86-making-postgresql-scale-hadoop-style
+Customer Data Engineer (Austin; TX),https://uscareers-rackspace.icims.com/jobs/10641/customer-data-engineer/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-custdataengjob
+Read more about this opening.,https://uscareers-rackspace.icims.com/jobs/10641/customer-data-engineer/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-custdataengjob
+Oracle/MS SQL DBA (San Antonio; TX),https://uscareers-rackspace.icims.com/jobs/10225/oracle-mssql-dba/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-oracledbajob
+Read more about this position here.,https://uscareers-rackspace.icims.com/jobs/10225/oracle-mssql-dba/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-oracledbajob
+Sweet Treats for DynamoDB Users,http://aws.amazon.com/blogs/aws/sweet-treats-for-dynamodb-users/
+Microsoft Preps Preview of New Version of Its Azure SQL Database-as-a-Service,http://www.zdnet.com/microsoft-preps-preview-of-new-version-of-its-azure-sql-database-as-a-service-7000035469/
+MySQL: Why The Open Source Database Is Better Off Under Oracle,http://www.zdnet.com/mysql-why-the-open-source-database-is-better-off-under-oracle-7000035518/
+Tableau CEO Sizes Up Database Market,http://www.zdnet.com/tableau-ceo-sizes-up-database-market-7000035520/
+SQL Breach Results in ICO Fine in The UK,http://www.scmagazineuk.com/sql-breach-results-in-ico-fine/article/381475/
+Microsoft Improves Azure SQL Server Cloud Service; Simultaneously Makes It Worse,http://www.theregister.co.uk/2014/11/06/microsoft_improves_azure_sql_server_cloud_service_with_one_hand_makes_it_worse_with_the_other/
+Hybrid Analytics Yield Big Data Flexibility for Dell,http://www.datanami.com/2014/11/05/hybrid-analytics-yield-big-data-flexibility/
+Redis Running Slowly? Here’s What You Can Do About it,https://redislabs.com/blog/redis-running-slowly-heres-what-you-can-do-about-it
+How to Find and Kill Slow Running Queries with MongoDB,http://askasya.com/post/findkillslowqueries
+Challenges in Querying a Distributed Relational Database (slide deck),http://www.slideshare.net/ScaleBase/challenges-in-querying-a-distributed-relational-database
+The Cautionary Tale of JournalSpace: Lessons Learned in Database Backups,http://gobitcan.com/blog/2014-10-24-the-cautionary-tale-of-journalspace-lessons-learned-in-database-backups
+q: Run SQL Directly on CSV or TSV Files,https://github.com/harelba/q
+Atlas: A High-Performance; Stable MySQL Proxy,https://github.com/Qihoo360/Atlas
+sql.js: SQLite Compiled to JavaScript Through Emscripten,https://github.com/kripken/sql.js/
+Oj: A Clojure Library for Talking to Your Database,https://github.com/taylorlapeyre/oj
+Alasql.js: Pure JavaScript; Client-side In-Memory SQL Database,https://github.com/agershun/alasql
+LokiJS: Fast; Lightweight JavaScript In-Memory Database,http://lokijs.org/
+

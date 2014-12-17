@@ -1,0 +1,34 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+issue 3 of Status Code,http://statuscode.org/archive/3.html
+Ruby 1.9.3-p125 Released,http://preview.ruby-lang.org/en/news/2012/02/16/ruby-1-9-3-p125-is-released/
+Ruby Enterprise Edition 1.8.7-2012.02 released; End of Life Imminent,http://blog.phusion.nl/2012/02/21/ruby-enterprise-edition-1-8-7-2012-02-released-end-of-life-imminent/
+JRuby 1.6.7 Released: More 1.9 Fixes,http://jruby.org/2012/02/22/jruby-1-6-7
+Aloha Ruby Conference - Oct 8-9; 2012 - Honolulu; Hawaii,http://aloharubyconf.com/
+Scout: Hosted Server Monitoring (Now in Real Time),https://scoutapp.com/r/rn
+real time,http://blog.scoutapp.com/articles/2012/01/09/announcing-scout-real-time
+,https://scoutapp.com/r/rn
+MacRuby and Mountain Lion (and What You Can Do To Help),http://lists.macosforge.org/pipermail/macruby-devel/2012-February/008547.html
+Building A Unix Shell in Ruby,http://jstorimer.com/2012/02/16/a-unix-shell-in-ruby.html
+Is Ruby Interpreted or Compiled?,http://patshaughnessy.net/2012/2/15/is-ruby-interpreted-or-compiled
+SOA for the Little Guys,http://rubysource.com/soa-for-the-little-guys/
+New Tabs and Cucumber,http://theprogrammingbutler.com/blog/archives/2012/02/07/new-tabs-and-cucumber/
+Beginning Outside-In Rails Development with Cucumber and RSpec,http://blog.carbonfive.com/2012/02/14/beginning-outside-in-rails-development-with-cucumber-and-rspec/
+What are Micro Gems? Five Minute RubyGems (an introduction from 2011),http://jeffkreeftmeijer.com/2011/microgems-five-minute-rubygems/
+test/spec/mini — A Testing Library in a Micro Gem,https://gist.github.com/1806986
+Micro Cutter: A Tool to Build Micro Gems,https://github.com/tjh/micro-cutter
+Watch Steve Klabnik Hacking on RubyGems,https://vimeo.com/37201618
+Virtus 0.2.0: Attributes on Steroids for Plain Old Ruby Objects,https://github.com/solnic/virtus
+AlterEgo: Hosted Two Factor Authentication for your Web App,http://rubydoc.info/gems/alterego/0.0.3/frames
+Coffee Taster: A CoffeeScript Dev Environment for Rubyists,http://rakeroutes.com/blog/coffee-taster-an-easy-coffeescript-development-environment-for-ruby-developers/
+make_resourceful (Controller Abstractor for Rails) Released as a Gem,https://github.com/hcatlin/make_resourceful
+forkjoin: JRuby Wrapper Around the Java 7 Fork/Join Framework,https://github.com/headius/forkjoin.rb
+Sinatra; Force.com and Heroku: A Demo Starter App,https://github.com/metadaddy-sfdc/Sinatra-Force.com-Heroku/
+Test Driven Ruby and JavaScript Developer [SF and Santa Monica; CA],http://www.carbonfive.com/jobs
+Rails Developer at New Relic [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/649063
+Flowstone 2: A Ruby-based Graphical Programming Environment,http://www.dsprobotics.com/flowstone.html
+,http://www.dsprobotics.com/flowstone.html
+Ruby and Rails Documentation Apps for the iPhone and iPad,http://apps.pandalab.it/
+,http://apps.pandalab.it/
+Gemfury: A Private Gem Hosting Service in the Cloud,http://www.gemfury.com/post/17652964462/introducing-gemfury
+

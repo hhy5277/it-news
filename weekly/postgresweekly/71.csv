@@ -1,0 +1,18 @@
+title,link
+Archives,http://postgresweekly.com/issues
+PGConf.EU 2014 schedule posted: Matt Asay to deliver keynote,http://www.postgresql.org/about/news/1540/
+a great lineup,http://www.postgresql.eu/events/schedule/pgconfeu2014/
+Postgres multicolumn indexes to save the day,https://jve.linuxwall.info/blog/index.php?post/2014/08/27/Postgres-s-multicolumn-index-to-save-the-day
+Postgres Skills are in Demand - Add to your skill set and get certified,http://www.enterprisedb.com/products-services-training/training&ls=CP
+,http://www.enterprisedb.com/products-services-training/training&ls=CP
+Replicated PostgreSQL with pgpool2,http://michael.stapelberg.de/Artikel/replicated_postgresql_with_pgpool
+WAL-E,https://github.com/wal-e/wal-e
+Barman,http://www.pgbarman.org/
+Waiting for Postgres 9.5: Add min and max aggregates for inet/cidr data types,http://www.depesz.com/2014/09/03/waiting-for-9-5-add-min-and-max-aggregates-for-inetcidr-data-types/
+Streaming directly into Postgres with Hapi.js and pg-copy-stream,http://maori.geek.nz/post/streaming_directly_into_postgres_with_hapi_js_and_pg_copy_stream
+Many to many relationships with Postgresql's hstore in Rails 4,http://pothibo.com/2014/9/many-to-many-relationships-with-postgresql-s-hstore-in-rails-4
+Hstore,http://postgresguide.com/sexy/hstore.html
+frameworks like Django,http://www.craigkerstiens.com/2012/06/11/schemaless-django/
+Rails,http://jes.al/2013/11/using-postgres-hstore-rails4/
+Craig Kerstiens,http://craigkerstiens.com/
+

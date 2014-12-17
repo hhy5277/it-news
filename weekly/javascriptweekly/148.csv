@@ -1,0 +1,52 @@
+title,link
+27 Presentations from JSConf US 2013,http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+JavaScript performance tuning secrets,http://www.youtube.com/watch?v=480JL_WuMt0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&index=31
+making art in the browser,http://www.youtube.com/watch?v=8CSJkKYfRak&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&index=19
+real time recompilation,http://www.youtube.com/watch?v=9HfWmdp9_I0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&index=15
+trying to become an expert,http://www.youtube.com/watch?v=v0TFmdO4ZP0&list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx&index=2
+,http://www.youtube.com/playlist?list=PL37ZVnwpeshF7AHpbZt33aW0brYJyNftx
+Higgs: An Interesting New JavaScript VM and Compiler,https://github.com/maximecb/Higgs
+using Higgs FFI to call C code from JavaScript.,http://teebrz.wordpress.com/2013/09/19/higgs-ffi-calling-c-from-js/
+Your mobile website shouldn't look like an 8th grade HTML5 project.,http://bdconf.com/html5
+,http://bdconf.com/html5
+Fat Arrow Functions in JavaScript,http://robcee.net/2013/fat-arrow-functions-in-javascript/
+An Introduction to Dependency Injection in Node.js,http://tech.i.tv/09-17-2013/dependency-injection-in-nodejs/
+Dependable,https://github.com/idottv/dependable
+Controlling CSS Animations and Transitions with JavaScript,http://css-tricks.com/controlling-css-animations-transitions-javascript/
+Structure and Interpretation of Computer Programs (JavaScript Version),http://www.comp.nus.edu.sg/~cs1101s/sicp/
+Structure and Interpretation of Computer Programs,http://mitpress.mit.edu/sicp/
+JS for Everyone: Materials for Your Next JavaScript Workshop,http://thewebivore.com/js-for-everyone-materials-for-your-next-javascript-workshop/
+Scope Analysis for JavaScript Code,http://ariya.ofilabs.com/2013/09/scope-analysis-for-javascript-code.html
+Escope,https://github.com/Constellation/escope
+Frameworkless JavaScript: Why Angular; Ember or Backbone Don’t Work for Us,https://moot.it/blog/technology/frameworkless-javascript.html
+A Taste of FruitJS,http://flippinawesome.org/2013/09/16/a-taste-of-fruitjs/
+TC39 JavaScript Panel at Bocoup,http://www.youtube.com/watch?v=PJ1hUr7YJ-8
+The Basics of Backbone.js,http://thomashunter.name/blog/the-basics-of-backbone-js-presentation/
+Tomas’ book,http://thomashunter.name/blog/i-wrote-a-book-instant-backbonejs-application-development/
+JavaScript Jabber: Maintainable JavaScript with Nicholas Zakas,http://javascriptjabber.com/075-jsj-maintainable-javascript-with-nicholas-zakas/
+JavaScript and Web Security,http://www.youtube.com/watch?v=6_3pomxyp8M
+SRP,http://srp.stanford.edu
+How to Use Node and Photoshop Generator to Script Adobe Photoshop CC,http://www.leebrimelow.com/introduction-to-photoshop-generator/
+svg.js: JavaScript Library for Manipulating and Animating Scalable Vector Graphics,http://svgjs.com/
+documentation,https://github.com/wout/svg.js
+BladeRunnerJS: Framework for Modular Large-scale HTML5 Apps,http://bladerunnerjs.org/2013/09/16/introducing-bladerunnerjs/
+TogetherJS: Add Real Time Collaboration Features to Your Site,https://togetherjs.com/
+RedScript: A Ruby Flavored JavaScript Experiment,https://github.com/AdamBrodzinski/RedScript
+Introduction to Ember App Kit,http://embersherpa.com/articles/introduction-to-ember-app-kit/
+Another introduction,http://blog.safaribooksonline.com/2013/09/18/ember-app-kit/
+JSModeler: JavaScript Framework to Create and Visualize 3D Models,https://github.com/kovacsv/JSModeler
+Vex: Modern; Flexible On-Page Dialog Library,http://github.hubspot.com/vex/docs/welcome/
+TripleSec: Triple-Paranoid Symmetric Encryption Library,https://keybase.io/triplesec/
+Jor1k: OpenRISC 1000 Emulator Written in JavaScript; Running Linux,http://s-macke.github.io/jor1k/
+Mapael: jQuery Plugin for Interactive Vector Maps,http://www.neveldo.fr/mapael/
+OJ: Framework for Building Websites Via API Calls,http://ojjs.org
+LeapTrainer.js v0.2 Released,http://www.youtube.com/watch?v=LlRsuY2zofw
+completely.js: No-Dependencies Autocompletion Library,http://complete-ly.appspot.com/
+FireShell: Front-End Boilerplate and Workflow Framework,http://getfireshell.com/
+Phaser: HTML5 Game Framework for Mobile and Desktop,http://phaser.io
+DataTables: Table Plugin for jQuery,http://www.datatables.net/
+Senior Web Engineer; Core Engineering (Oakland; CA),https://hire.jobvite.com/j?cj=omGqXfw9&s=JavaScriptWeekly
+Software Engineer at Turn (Silicon Valley),http://www.turn.com/career-opportunities/software-engineer-front-end
+Front-End Developer at The Nerdery,http://nerdery.com/jobs/positions/40
+Automate your release process,http://www.red-gate.com/delivery/deployment-manager/?utm_source=javascriptweekly&utm_medium=displayemail&utm_content=total_deployment_v2_m1&utm_campaign=deploymentmanager&utm_term=email-20679
+

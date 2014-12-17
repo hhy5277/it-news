@@ -1,0 +1,34 @@
+title,link
+First Beta Release of 'Rails 4 Test Prescriptions' by Noel Rappin,http://pragprog.com/book/nrtest2/rails-4-test-prescriptions
+,http://pragprog.com/book/nrtest2/rails-4-test-prescriptions
+RSpec 3.0.0 (and 2.99.0) Released,http://myronmars.to/n/dev-blog/2014/06/rspec-2-99-0-and-3-0-0-have-been-released
+last week's issue,http://rubyweekly.com/issues/198
+The Rails/Merb Merge In Retrospect,http://gilesbowkett.blogspot.com/2014/06/the-railsmerb-merge-in-retrospect.html
+Get real-time data from your real end-users,http://blog.newrelic.com/2014/03/13/javascript-error-reporting-ajax-timing-new-relic/?utm_source=COOP&utm_medium=email&utm_content=BlogNRBrowserAnnounce&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-JavascriptWeekly-BlogNRBrowserAnnounce
+,http://blog.newrelic.com/2014/03/13/javascript-error-reporting-ajax-timing-new-relic/?utm_source=COOP&utm_medium=email&utm_content=BlogNRBrowserAnnounce&utm_campaign=PeterCooperNL&mpc=EM-COOP-generic-EN-100-JavascriptWeekly-BlogNRBrowserAnnounce
+The Many Shades of the Ruby Programming Language,http://www.toptal.com/ruby/the-many-shades-of-the-ruby-programming-language
+Writing a Domain-Specific Language in Ruby,http://robots.thoughtbot.com/writing-a-domain-specific-language-in-ruby
+YAGNI Methods Slow Us Down,http://tenderlovemaking.com/2014/06/04/yagni-methods-slow-us-down.html
+Using Rails 4.1 Secrets for Configuration,http://brandonhilkert.com/blog/using-rails-4-dot-1-secrets-for-configuration/
+5 Reasons Why Rubyists Will Love Swift,http://littlelines.com/blog/2014/06/11/why-rubyist-will-love-swift/
+A Comprehensive Guide To Debugging Rails,http://www.jackkinsella.ie/2014/06/06/a-comprehensive-guide-to-debugging-rails.html
+How Do You Choose The Right Libraries for Your Rails App?,http://www.justinweiss.com/blog/2014/06/10/how-do-you-choose-the-right-libraries-for-your-rails-app/
+An Introduction to 'Mutations',http://engineering.moneybird.com/posts/2014/06/11/mutations/
+Universal Ruby Gems in 20 Lines of Code,http://blog.crossplatformruby.com/universal-ruby-gems-in-20-lines-of-code/
+Shared Terminology Yet Different Concepts Between Ember.js and Rails,http://robots.thoughtbot.com/shared-terminology-yet-different-concepts-between-emberjs-and-rails
+Why Swift Will Never Replace RubyMotion,http://blog.motioninmotion.tv/why-swift-will-never-replace-rubymotion
+Writing Games with Ruby,https://www.youtube.com/watch?v=VawT9BQr3Wk
+Building Complex Domains in Rails,http://quickleft.com/blog/video-tutorial-building-complex-domains-in-rails
+Rails Lead at Elgato Systems (San Francisco or Munich),http://my.eyetv.com/l/railslead
+Junior and Senior Ruby Developers Wanted (UK),https://www.hotelsindex.com/en-gbp/careers
+Ruby on Rails Engineer - Senior and Junior Positions at 3Scale (Barcelona),http://www.jobscore.com/jobs2/3scale/ruby-on-rails-engineer-senior-and-junior-openings/c8S8sQ_tqr4PNhiGakhP3Q?ref=rss&sid=68
+Business: Simple Business Date Calculations in Ruby,https://gocardless.com/blog/business/
+SeedMigrations: Like Schema Migrations; But for Your Data,http://engineering.harrys.com/2014/06/09/seed-migrations.html
+Dawn: Docker-Based PaaS in Ruby,https://github.com/dawn/dawn
+Docker 1.0 was released,http://blog.docker.com/2014/06/its-here-docker-1-0/
+Sidekiq-ActiveRecord: Making Sidekiq and ActiveRecord Play Better Together,http://sidekiq-orm.github.io/
+code is on GitHub.,https://github.com/sidekiq-orm/sidekiq-activerecord
+orats: Opinionated Rails Application Templates and Ansible Playbook,https://github.com/nickjj/orats
+Fix bugs in production before your boss even notices.,https://www.honeybadger.io/
+Try exception; uptime and performance monitoring for free.,https://www.honeybadger.io/pages/plans
+

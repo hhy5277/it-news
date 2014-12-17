@@ -1,0 +1,38 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Rails 4.1 Released,http://weblog.rubyonrails.org/
+,http://weblog.rubyonrails.org/
+Severe OpenSSL Vulnerability in TLS Heartbeat Extension (CVE-2014-0160),https://www.ruby-lang.org/en/news/2014/04/10/severe-openssl-vulnerability/
+Heartbleed vulnerability,http://heartbleed.com/
+but also clients,http://security.stackexchange.com/questions/55119/does-the-heartbleed-vulnerability-affect-clients-as-severely
+Hampton's Ruby Survey 2014,http://www.ruby-survey.com/
+Help Fund Rails Girls' Summer of Code 2014,http://railsgirlssummerofcode.org/campaign/
+Create first-class Ruby training; earn first-rate royalties,http://blog.pluralsight.com/open-source-authors?utm_source=ruby&utm_medium=banner&utm_campaign=authoros
+find out how you can create online courses and start earning royalties today.,http://blog.pluralsight.com/open-source-authors?utm_source=ruby&utm_medium=banner&utm_campaign=authoros
+,http://blog.pluralsight.com/open-source-authors?utm_source=ruby&utm_medium=banner&utm_campaign=authoros
+Using a Ruby Class To Write Functional Code,http://patshaughnessy.net/2014/4/8/using-a-ruby-class-to-write-functional-code
+Ruby 2.1 Garbage Collection: Ready for Production,http://samsaffron.com/archive/2014/04/08/ruby-2-1-garbage-collection-ready-for-production
+wasn’t ready for production,http://www.omniref.com/blog/blog/2014/03/27/ruby-garbage-collection-still-not-ready-for-production/
+3 Features From Rails 4.1 That I’m Excited About,http://blog.plataformatec.com.br/2014/04/3-features-from-rails-4-1-that-im-excited-about/
+18 Months of docopt - A Polyglot CLI Option Parser,http://www.activestate.com/blog/2014/04/18-months-docopt-polyglot-cli-option-parser
+docopt,http://docopt.org/
+How To Build A Ruby Gem With Bundler; Test-Driven Development; Travis CI And Coveralls,http://coding.smashingmagazine.com/2014/04/08/how-to-build-ruby-gem-with-bundler-travis-ci-coveralls/
+Use Bower for Managing Front-End Assets in Rails,http://growingdevs.com/stop-using-rubygems-and-start-using-bower.html
+How To Break Most Rails Apps,http://blog.ericrafaloff.com/how-to-break-most-rails-apps.html
+Why Bother With Cucumber Testing?,http://www.jackkinsella.ie/2011/09/26/why-bother-with-cucumber-testing.html
+A Guide to Choosing The Best Gems for Your Ruby Project,http://www.justinweiss.com/blog/2014/04/07/a-guide-to-choosing-the-best-gems-for-your-ruby-project/
+The Jim Weirich Tribute Episode of the Ruby Rogues,http://rubyrogues.com/151-rr-the-jim-weirich-tribute-episode/
+Senior Ruby Developer at Econify [Washington; DC],http://www.econify.com/careers
+Apply Once: Get 5-15 Job Offers (NYC; SF; LA; Boston),http://www.hired.com/?utm_source=affiliate&utm_campaign=rubyweekly&utm_medium=vlevit&utm_term=jobs-section&utm_content=5-15offers
+Senior Software Engineers at HouseTrip (London; UK or Remote),http://hire.jobvite.com/j/?cj=oquNXfwo&s=Ruby_weekly
+Senior Software Engineer at Fandor,http://fandor.theresumator.com/apply/sWQ6zP/Senior-Software-Developer.html
+5 Starter Apps for Rails 4.1 from Rails Composer,http://blog.railsapps.org/post/79115273530/5-starter-apps-for-rails-4-1-from-rails-composer
+RubyMine 6.3: Support for Rails 4.1; Slim 2.0; AngularJS; and more,http://blog.jetbrains.com/ruby/2014/04/rubymine-6-3-rails-4-1-slim-2-0-angularjs-and-more/
+Whiny Validation: So You Can Figure Out Why Your Rails Specs Failed,http://ilikestuffblog.com/2014/04/09/whiny-validation/
+workers: A Gem for Performing Work in Background Threads,https://github.com/chadrem/workers
+Hound: A Hosted Service that Comments on Ruby Style Guide Violations on GitHub,http://robots.thoughtbot.com/introducing-hound
+memstat: Fast Memory Statistics and Better Out-of-Band GC for Ruby,https://github.com/kenn/memstat
+The Honeybadger Guide to Machine Learning - Free E-Book,https://www.honeybadger.io/blog/offers/machine_learning?utm_source=rw&utm_medium=banner&utm_campaign=machine_learning
+free guide,https://www.honeybadger.io/blog/offers/machine_learning?utm_source=rw&utm_medium=banner&utm_campaign=machine_learning
+Honeybadger.io: Exception; Uptime and Performance Monitoring for Ruby.,https://www.honeybadger.io/?utm_source=rw&utm_medium=banner&utm_campaign=machine_learning
+

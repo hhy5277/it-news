@@ -1,0 +1,33 @@
+title,link
+Archives,http://dbweekly.com/issues
+,http://rackspace.com/
+5 Predictions On The Future of Databases (From A Guy Who Knows Databases),http://gigaom.com/2013/12/14/5-predictions-on-the-future-of-databases-from-a-guy-who-knows-databases/
+Meet the Open Source Trio Primed to Topple Oracle,http://www.wired.com/wiredenterprise/2014/01/dbengines/
+Apache Spark: The Next Big Data Thing?,http://blog.mikiobraun.de/2014/01/apache-spark.html
+A Look At SQL Server 2014's Revolutionary In-Memory OLTP Engine,http://sqlmag.com/sql-server-2014/application-performance-inmemory-oltp-database-engine
+PostgreSQL Conference New York - April 3-4; 2014,http://nyc.pgconf.us/2014/schedule/
+Elasticsearch 1.0.0.RC1 Released,http://www.elasticsearch.org/blog/1-0-0-rc1-released/
+Introducing Riak 2.0: Data Types; Strong Consistency; Full-Text Search; and Much More,http://basho.com/introducing-riak-2-0/
+Hadoop 2.0 Makes Big Data Even More Accessible,http://readwrite.com/2013/10/16/hadoop-2-yarn-mapreduce-2-big-data-more-accessible
+Redis 2.8.4 Released,https://groups.google.com/forum/#!msg/redis-db/f8j0A683wN4/Q2vX_StJpJgJ
+MongoDB and The Fine Art of Data Modelling,http://vladmihalcea.wordpress.com/2014/01/17/mongodb-and-the-fine-art-of-data-modelling/
+Switching Data Stores: A Postmodern Comedy,https://speakerdeck.com/sarahmei/switching-data-stores-a-postmodern-comedy
+MySQL Locking for The Busy Web Developer,http://tech.brightbox.com/posts/2013-10-31-on-mysql-locks/
+Replication without High Availability in MongoDB,http://www.kamsky.org/1/post/2014/01/replication-without-high-availability.html
+PostgreSQL 9.4 Is Now Faster Than MongoDB for Storing JSON Documents?,http://obartunov.livejournal.com/175235.html
+Look I Shrunk The Keys,https://blogs.oracle.com/NoSQL/entry/look_i_shrunk_the_keys
+Facebook Open Sources Its SQL-on-Hadoop Engine; and The Web Rejoices,http://gigaom.com/2013/11/06/facebook-open-sources-its-sql-on-hadoop-engine-and-the-web-rejoices/
+7 Things That Make Google F1 and the FoundationDB SQL Layer Strikingly Similar,https://foundationdb.com/blog/7-things-that-make-google-f1-and-the-foundationdb-sql-layer-so-strikingly-similar
+Realtime Graphs From MongoDB with Aggregations,http://blog.appsignal.com/blog/2014/01/07/realtime-mongodb-with-aggregations.html
+Node.js; MongoDB; and You: An Intro in Parts,http://blog.mongohq.com/node-js-mongodb-and-you-an-intro-in-parts/
+Foundations of Databases: A Database Book from 1995,http://webdam.inria.fr/Alice/
+Using Redis Sorted Sets to Build A Scalable Real-time Web Waiting List,http://blog.carbonfive.com/2014/01/17/using-redis-sorted-sets-to-build-a-scalable-real-time-web-waiting-list/
+InfoWorld's 2014 Technology of the Year Award Winners,http://www.infoworld.com/slideshow/135876/infoworlds-2014-technology-of-the-year-award-winners-234225
+InfluxDB: Open Source; Distributed; Time Series; Events; and Metrics DB,http://influxdb.org/
+Count Von Count: A Real-time Counting Database,http://tech.ftbpro.com/post/73212710968/count-von-count-a-real-time-counting-database
+EJDB: Embedded JSON Database Engine,http://ejdb.org/
+LevelDB: A Fast and Lightweight Key/Value Database Library by Google,https://code.google.com/p/leveldb/
+WhiteDB: Lightweight NoSQL Database Library Written in C,http://whitedb.org/
+BayesDB: Query The Probable Implications of Your Data,http://probcomp.csail.mit.edu/bayesdb/
+Rackspace,http://rackspace.com/
+

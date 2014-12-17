@@ -1,0 +1,33 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Parallel Gem Installation Using Bundler,http://robots.thoughtbot.com/post/59584648154/parallel-gem-installing-using-bundler
+RailsCasts To Remain on Hiatus,http://railscasts.com/announcements/12
+Ruby Tapas,http://www.rubytapas.com/
+ConFoo.ca (Montreal; Feb 24-28; 2014) Call For Papers,https://www.ruby-lang.org/en/news/2013/08/29/confoo-cfp/
+Experimenting with Verbal Expressions,http://spin.atomicobject.com/2013/08/26/verbal-expression/
+Implementing a Ruby Background Queue using POSIX Message Queues,http://sirupsen.com/unix-background-queue/
+Writing A (Ruby) Compiler in Ruby Bottom Up - Step 27,http://www.hokstad.com/compiler/27-the-operators
+Testing Client-Side Views in Rails Apps from CoffeeScript,http://blog.arkency.com/2013/09/testing-client-side-views-in-rails-apps/
+Dependency Injection in RubyMotion with Objection,http://spin.atomicobject.com/2013/09/04/objection-now-in-rubymotion/
+Using Ruby's String#gsub with a Block,http://batsov.com/articles/2013/08/30/using-gsub-with-a-block/
+Everyday Rails Testing… by Aaron Sumner [PDF/iPad/Kindle],https://leanpub.com/everydayrailsrspec
+Concurrency and Ruby,http://www.youtube.com/watch?v=qtrq9tL_yMc
+Fluent Refactoring,http://www.confreaks.com/videos/2613-lonestarruby2013-fluent-refactoring
+Asynchronous Workers to the Resque,http://www.confreaks.com/videos/2615-lonestarruby2013-asynchronous-workers-to-the-resque
+You Gotta Try This,http://steelcityruby.confbots.com/video/73590687
+Rails 4: Patterns,http://www.codeschool.com/courses/rails-4-patterns
+ruby2600: An Experimental Atari™ 2600 Emulator Written in Ruby,https://github.com/chesterbr/ruby2600
+,https://github.com/chesterbr/ruby2600
+Kramdown 1.2.0: The Popular Markdown Library Gets an Update,http://kramdown.rubyforge.org/news.html
+WWTD: A Travis Simulator,https://github.com/grosser/wwtd
+Hexpress: Another Take at A 'Human' Way to Define Regular Expressions,http://krainboltgreene.github.io/hexpress/
+Minidown: Yet Another Markdown Parser,https://github.com/jjyr/minidown
+Representable 1.7: Maps Representation Documents From and to Ruby Objects,http://nicksda.apotomo.de/2013/08/representable-1-7-is-out-with-syncing-support-inline-representers-and-more/
+Terminal Keynote: A Hack for Terminal-Based Talks,https://github.com/fxn/tkn
+Rails Developer at AutoRevo [Texas],http://jobs.rubyinside.com/a/jbb/job-details/895801
+Ruby Developers at HouseTrip (London; UK),http://hire.jobvite.com/j/?cj=oqRWWfwT&s=Ruby_weekly
+Full-time Contract Rails Developer at Vital Media Network [Irvine; California],http://jobs.rubyinside.com/a/jbb/job-details/877903
+Ruby on Rails Engineer at PagerDuty [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/882142
+Scout: Enterprise-grade server monitoring without the bloat,https://scoutapp.com/
+puppies and rainbows,https://scoutapp.com/info/nagios_alternative
+

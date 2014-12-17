@@ -1,0 +1,16 @@
+title,link
+Archives,http://postgresweekly.com/issues
+PostgreSQL Updates 9.3.4; 9.2.8; 9.1.13; 9.0.17; and 8.4.21 Released,http://www.postgresql.org/about/news/1511/
+PostgreSQL 9.4 - Looking Up,http://www.craigkerstiens.com/2014/03/24/Postgres-9.4-Looking-up/
+Jsonb has Been Committed to Postgres,http://obartunov.livejournal.com/177247.html
+the Postgres docs,http://www.postgresql.org/docs/devel/static/datatype-json.html
+Postgresql Range Basics,http://www.davidhampgonsalves.com/Postgres-ranges/
+Heroku Postgres - Fully managed Postgres on EC2,https://postgres.heroku.com/&utm_campaign=emailbanner
+,https://postgres.heroku.com/&utm_campaign=emailbanner
+RECURSIVE Query is Recursive,http://practiceovertheory.com/blog/2013/07/12/recursive-query-is-recursive/
+Biggy Basics; Part 1: Documents,http://www.wekeroad.com/2014/02/26/biggy-basics-part-1/
+awesome solution,https://github.com/robconery/biggy
+CLUSTER table USING index;,http://hans.io/blog/2014/03/25/postgresql_cluster/index.html
+What I Think of jsonb,http://pgeoghegan.blogspot.com/2014/03/what-i-think-of-jsonb.html
+Craig Kerstiens,http://craigkerstiens.com/
+

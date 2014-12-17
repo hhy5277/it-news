@@ -1,0 +1,35 @@
+title,link
+How to Use Ruby’s English 'and'/'or' Operators Without Going Nuts (video),http://devblog.avdi.org/2014/08/26/how-to-use-rubys-english-andor-operators-without-going-nuts/
+the_metal: A Spike for Thoughts About Rack 2.0,https://github.com/tenderlove/the_metal
+Never worry about your application server again,https://www.phusionpassenger.com/ruby_weekly
+,https://www.phusionpassenger.com/ruby_weekly
+Beware the Siren Song of Comments,http://www.leastastonished.com/blog/2014/08/27/beware-the-siren-song-of-comments/
+Sleepy Programs,http://graysoftinc.com/rubies-in-the-rough/sleepy-programs
+Time to Bring Back Fixtures,http://collectiveidea.com/blog/archives/2014/08/06/time-to-bring-back-fixtures/
+Generalist Engineer at Swiftype (San Francisco; CA),https://swiftype.com/jobs
+Rails Developer at Unabridged Software,http://unabridgedsoftware.com/come-work-with-us
+Don't apply to one company. Apply to 1;000+ at once.,http://hired.com/?utm_source=newsletters&utm_medium=rubyweekly&utm_campaign=n-aug1_14-rubyw
+Programming in the Small: Teaching my 5 Year Old Ruby,https://www.youtube.com/watch?v=jAnSsNga5Nk
+Dave Thomas's Elixir Conf 2014 Keynote: Think Different,https://www.youtube.com/watch?v=5hDVftaPQwY
+Biggish Data With Rails and PostgreSQL,https://www.youtube.com/watch?v=rVrsaL_PnYE
+Pry; Ruby; and Fun With the Hash Constructor,http://www.railsonmaui.com/blog/2014/08/17/pry-ruby-and-fun-with-the-hash-constructor/
+Porting SQLite3 Data to PostgreSQL in Rails 4,http://blog.flatironschool.com/post/68064669290/porting-sqlite3-data-to-postgresql-database-in-rails-4
+Setting Up Webpack with Rails,https://medium.com/brigade-engineering/setting-up-webpack-with-rails-c62aea149679
+webpack,http://webpack.github.io/
+Diving in Rails: A Walk Through How Rails Handles A Request,http://blog.siami.fr/diving-in-rails-the-request-handling
+The Lesser-Known Features in Rails 4.2,http://www.justinweiss.com/blog/2014/08/25/the-lesser-known-features-in-rails-4-dot-2/
+What's New in Git 2.1,http://blogs.atlassian.com/2014/08/whats-new-git-2-1/
+Why You Should Tap Into The Power of Ruby From The Comfort of The JVM,http://zeroturnaround.com/rebellabs/why-you-should-tap-into-the-power-of-ruby-from-the-comfort-of-the-jvm/
+Http::Exceptions: An Easy Way to Rescue Exceptions That Get Thrown by Your HTTP Library,https://blog.rainforestqa.com/2014-08-15-introducing-http-exceptions/
+Praxis: A New Framework for Building APIs,http://eng.rightscale.com/2014/08/22/unveiling_praxis.html
+getting started guide,http://praxis-framework.io/getting-started/
+yymmdd: Tiny DSL for Idiomatic Date Parsing and Formatting in Ruby,https://github.com/sshaw/yymmdd
+JSONAPI::Resources: Allows Rails Apps to Easily Support The JSON API Spec,http://www.cerebris.com/blog/2014/08/22/introducing-jsonapi-resources/
+Resource Kit: Tools to Aid in Making API Clients,https://github.com/digitaloceancloud/resource_kit
+Representable 2.0: Maps Ruby Objects to Documents and Back,http://nicksda.apotomo.de/2014/07/representable-2-0-with-better-inheritance-filters-and-automatic-collections/
+ke: Measure/Report Progress of Ruby Code Execution,https://github.com/mkdynamic/ke
+Facy: A Terminal Client for Facebook,http://huydx.com/facy/
+Burn: A Toolkit To Create 8-bit Flavored NES 'Applications',https://github.com/remore/burn
+Preparing DDPYOGA.com for the Shark Tank Effect,http://www.rackspace.com/blog/preparing-ddpyoga-com-for-the-shark-tank-effect/?cm_mmc=managed-_-cloud-_-contentnam-_-ruby-ddpyoga
+Find out how ours did,http://www.rackspace.com/blog/preparing-ddpyoga-com-for-the-shark-tank-effect/?cm_mmc=managed-_-cloud-_-contentnam-_-ruby-ddpyoga
+

@@ -1,0 +1,42 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Let's Write an Interpreter (in Ruby),http://confreaks.com/videos/2343-mwrc2013-trolls-of-2013
+JRuby 1.7.4 Released,http://www.jruby.org/2013/05/16/jruby-1-7-4
+new release of BitNami JRubyStack,http://blog.bitnami.com/2013/05/experimental-200-support-in-jruby-174.html
+Honeybadger.io is error monitoring for Ruby; by devs who give a !@#$,https://www.honeybadger.io/
+Try us free,https://www.honeybadger.io/pages/plans
+features,https://www.honeybadger.io/documentation/project_setup
+free t-shirt.,http://honeybadger.us5.list-manage2.com/subscribe?u=624aa4162f5834d06e9347c6e&id=9beea9cf63
+,https://www.honeybadger.io/
+Engineers4Engineers Conference - June 28 in Waltham; MA,http://engineers4engineers.org/
+Barcelona Ruby Conference - September 14-15 in Barcelona; Spain,http://www.baruco.org/
+Wicked Good Ruby Conf: Oct 12-13; 2013 in Boston; MA,http://wickedgoodruby.com/
+How to Deploy a Rails 4 App With Git and Capistrano,http://robmclarty.com/blog/how-to-deploy-a-rails-4-app-with-git-and-capistrano
+Sandi Metz's Rules for Developers,http://robots.thoughtbot.com/post/50655960596/sandi-metz-rules-for-developers
+A Better Way to Manage The Rails Secret Token,http://daniel.fone.net.nz/blog/2013/05/20/a-better-way-to-manage-the-rails-secret-token/
+Method Modeling: A Refactoring,http://pivotallabs.com/method-modeling-a-refactoring/
+Testing Against Multiple Rails Versions,http://schneems.com/post/50991826838/testing-against-multiple-rails-versions
+Your Tests Are Slow? Put Them in Solitary Confinement,http://felixclack.com/post/50889485729/your-tests-are-slow-put-them-in-solitary-confinement
+Taming Rails Apps with Engines,http://blog.socialcast.com/taming-rails-apps-with-engines/
+Creating Vanity URLs in Rails,http://blog.teamtreehouse.com/creating-vanity-urls-in-rails
+BDD and Acceptance Testing with RSpec & Capybara,http://www.confreaks.com/videos/2433-railsconf2013-bdd-and-acceptance-testing-with-rspec-capybara
+Watch Avdi Grimm and Josh Susser Pairing on 'Discourse',http://www.youtube.com/watch?v=8LUIqm6xy8A&feature=g-user-u
+The Ruby Rogues Discuss 'Discourse' with Jeff Atwood,http://rubyrogues.com/106-rr-discourse-with-jeff-atwood/
+The Ruby Rogues Discuss Regular Expressions with Nell Shamrell,http://rubyrogues.com/105-rr-regular-expressions-with-nell-shamrell/
+Top 5 Cucumber Best Practices,http://blog.codeship.io/2013/05/21/Testing-Tuesday-6-Top-5-Cucumber-best-practices.html
+Coinpunk: Run Your Own Bitcoin Wallet Service,http://coinpunk.org/
+Futuroscope: Yet Another Futures Implementation in Ruby,http://blog.codegram.com/2013/5/new-gem-released-futuroscope
+haml-i18n-extractor: Extract Strings From Haml Into A Locale File,https://github.com/shaiguitar/haml-i18n-extractor
+ActiveRecord::Futures: Specify Queries to Be Sent All At Once to The Database,https://github.com/leoasis/activerecord-futures
+Introducing ProMotion; a Full-Featured RubyMotion Application Framework,http://blog.rubymotion.com/post/50523137515/introducing-promotion-a-full-featured-rubymotion
+Datamappify: Manage Domain Logic and Data Persistence Separately,https://github.com/fredwu/datamappify
+Test::Page: For Writing Easy to Maintain Integration Tests,https://github.com/jarmo/test-page
+Searchlight: Helps You Build Search Mechanisms for ORMs with Chainable Methods,https://github.com/nathanl/searchlight
+Formless: Transparent; Unobtrusive Form Populator for Web Apps,https://github.com/Wardrop/Formless
+Sleek: A Real-time Analytics Engine for Online Stores,http://goshakkk.name/introducing-sleek/
+UKBuses: Get Real-Time Bus Data for All Buses in the United Kingdom,https://github.com/maxehmookau/UkBuses
+Senior Ruby on Rails Developer,http://salted.theresumator.com/apply/SZPCNo/Ruby-On-Rails-Developer-anywhere.html?source=RW
+Software Engineer at Goodreads [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/831595
+Software Engineer at Samasource [San Francisco; California],http://jobs.rubyinside.com/a/jbb/job-details/831800
+Coveralls.io - Code Coverage History and Statistics,https://coveralls.io/?utm_source=Ruby+Weekly&utm_medium=email&utm_campaign=coveralls
+

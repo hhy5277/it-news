@@ -1,0 +1,29 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+The Prags Release 'The dRuby Book',http://pragprog.com/book/sidruby/the-druby-book
+,http://pragprog.com/book/sidruby/the-druby-book
+RSpec 2.9 Released,http://blog.davidchelimsky.net/2012/03/17/rspec-290-is-released/
+ArrrrCamp 2012: October 4-5th; Belgium,http://arrrrcamp.be/
+The Pragmatic Studio Releases Ruby Training Video Course,http://pragmaticstudio.com/ruby
+GitHub's Ruby Style Guide,https://github.com/styleguide/ruby
+,https://github.com/styleguide/ruby
+Learning More About JRuby from Charles Nutter,http://rubysource.com/learning-more-about-jruby-from-charles-nutter/
+A Use of Enumerable#chunk,http://blog.segment7.net/2012/03/16/a-use-of-enumerable-chunk
+How to Use Bundler Instead of RVM Gemsets,http://rakeroutes.com/blog/how-to-use-bundler-instead-of-rvm-gemsets/
+Rails Is Just An API,http://blog.alexmaccaw.com/rails-is-just-and-api-and-that-s-ok
+Tailin' Ruby: 'Faking' Tail Call Optimization,http://timelessrepo.com/tailin-ruby
+How to Test External APIs,http://blog.carbonfive.com/2012/03/18/how-to-test-external-apis/
+How to Write (and Test) a Gem to Serve Static Files on the Rails Asset Pipeline,http://rakeroutes.com/blog/write-a-gem-for-the-rails-asset-pipeline/
+The Ruby Tap Method,http://www.youtube.com/watch?v=QAJMxBkYaUQ
+Ruby Rogues on Objects in Rails (Part 2),http://rubyrogues.com/046-rr-objects-in-rails-part-2/
+Inside Ruby: Concurrency and Garbage Collection Explained,https://vimeo.com/38531248
+14 Presentation Videos from ArrrrCamp 2011,http://arrrrcamp.be/videos/2011/
+RubyConf Argentina 2011 - Day 1,https://vimeo.com/album/1870460
+minitest-metadata: Metadata for your MiniTest Test Cases,https://github.com/wojtekmach/minitest-metadata
+Non-Rails Rackup with Sprockets; Compass; and Twitter Bootstrap,https://gist.github.com/2143990
+RSpec is Not The Reason Your Rails Test Suite is Slow,https://gist.github.com/2050539
+Oj: Optimized JSON Parser and Marshaller,https://github.com/ohler55/oj
+Ruby Agent Engineer at New Relic [Portland; Oregon],http://jobs.rubyinside.com/a/jbb/job-details/662521
+Ruby on Rails Developer at ManageIQ [Mahwah; New Jersey],http://jobs.rubyinside.com/a/jbb/job-details/661932
+Rails and MVC: A Free Event in London on March 28,http://www.eventbrite.com/event/3149774059
+

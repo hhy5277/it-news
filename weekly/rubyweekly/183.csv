@@ -1,0 +1,32 @@
+title,link
+Previous issues,http://rubyweekly.com/issues
+Jim Weirich has died.,https://twitter.com/evanphx/status/436408348968120320
+Rake,http://rake.rubyforge.org/
+his final GitHub commit.,https://github.com/jimweirich/wyriki/commit/d28fac7f18aeacb00d8ad3460a0a5a901617c2d4
+AdequateRecord Pro: Like ActiveRecord; But More Adequate,http://tenderlovemaking.com/2014/02/19/adequaterecord-pro-like-activerecord.html
+Rails 4.1.0 Release Candidate 1 Released,http://weblog.rubyonrails.org/2014/2/18/Rails-4-1-rc1/
+Rails 3.2.17 and 4.0.3 Released,http://weblog.rubyonrails.org/2014/2/18/Rails_3_2_17_4_0_3_and_4_1_0_beta2_have_been_released/
+Frozen Rails 2014 Call for Proposals (Sep 11-12 - Helsinki; Finland),http://2014.frozenrails.eu/cfp/
+The Honeybadger Guide to Machine Learning - Free E-Book,https://www.honeybadger.io/blog/offers/machine_learning?utm_source=rw&utm_medium=banner&utm_campaign=machine_learning
+free guide,https://www.honeybadger.io/blog/offers/machine_learning?utm_source=rw&utm_medium=banner&utm_campaign=machine_learning
+Honeybadger.io: Exception; Uptime and Performance Monitoring for Ruby.,https://www.honeybadger.io/?utm_source=rw&utm_medium=banner&utm_campaign=machine_learning
+,https://www.honeybadger.io/blog/offers/machine_learning?utm_source=rw&utm_medium=banner&utm_campaign=machine_learning
+Search and Filter Rails Models Without Bloating Your Controller,http://www.justinweiss.com/blog/2014/02/17/search-and-filter-rails-models-without-bloating-your-controller/
+The Elements of Style in Ruby: length vs size vs count,http://batsov.com/articles/2014/02/17/the-elements-of-style-in-ruby-number-13-length-vs-size-vs-count/
+Testing Sinatra Helpers with RSpec,http://netzfisch.github.io/ruby/2014/02/14/testing-sinatra-helpers-with-rspec.html
+The Interceptor Injection Pattern with Ruby 2.1 Refinements,http://tagomoris.tumblr.com/post/77138425456/interceptor-injection-pattern-with-ruby-2-1-refinements
+How Much Time Does Rendering A Partial Really Take?,http://www.justinweiss.com/blog/2014/02/13/how-much-time-does-rendering-a-partial-really-take/
+Y Not - Adventures in Functional Programming,http://www.confreaks.com/videos/1287-rubyconf2012-y-not-adventures-in-functional-programming
+Jim Weirich and The Searchers - Has Anybody Seen My Code?,http://www.youtube.com/watch?v=vKrr7aXUc1E
+Rails Per Action Flash Partials,http://www.youtube.com/watch?v=rSlDEvtk6lA
+How to Install Refinery CMS & Deploy To Heroku,http://www.brownwebdesign.com/blog/install-refinerycms-and-deploy-to-heroku
+DevOps Engineer at LayerVault (Remote or NYC),https://gist.github.com/kellysutton/534a5d4f7c1406733ff7
+Ruby Developer at TeamSnap (Anywhere USA),http://teamsnap.theresumator.com/apply/sD2mau/Rails-Developer.html?source=rubyweekly
+Ruby Developer at AlphaSights (London and New York time zones),http://alphasights.com/ruby#?
+wyriki: Experimental App to Explore Decoupling App Logic From Rails,https://github.com/jimweirich/wyriki
+ruby-install 0.4.0 Released,https://github.com/postmodern/ruby-install/blob/master/ChangeLog.md#040--2014-02-13
+finite_machine: A Minimal Finite State Machine with A Straightforward Syntax,https://github.com/peter-murach/finite_machine
+Mina: A Fast Deployer and Server Automation Tool,http://nadarei.co/mina/
+ruby-requirejs: Support for RequireJS in Ruby,https://github.com/spilin/ruby-requirejs
+Just like Heroku but on your own servers,https://www.cloud66.com/&utm_campaign=c1
+

@@ -1,0 +1,17 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Craig Kerstiens,https://twitter.com/craigkerstiens
+PostgreSQL and the OpenSSL Heartbleed vulnerability,http://blog.hagander.net/archives/219-PostgreSQL-and-the-OpenSSL-Heartbleed-vulnerability.html
+Heartbleed vulnerability,http://heartbleed.com/
+"Postgres For Developers" - Notes From PGConf NYC 2014,http://www.garysieling.com/blog/postgres-developers-notes-pgconf-nyc-2014
+DataFiller 2.0.0: Data Generation from a Postgres Schema,http://blog.coelho.net/database/2014/03/23/datafiller-2-0-0/
+Job: Postgres Database Administrator (San Antonio; TX),https://uscareers-rackspace.icims.com/jobs/9338/postgres-database-administrator/job?cm_mmc=ContentMKTG-_-DBWeekly-_-MDB-_-Postgresjob
+Postgres 9.4 Feature Highlight: Indexing JSON Data with the jsonb Data Type,http://michael.otacoo.com/postgresql-2/postgres-9-4-feature-highlight-indexing-jsonb/
+The History of PostgreSQL + PGConf NYC,https://www.youtube.com/watch?v=2RSkI9dxdbo
+JSONB: "Wildcard" Query,http://obartunov.livejournal.com/177977.html
+mongo-sql (for Node),https://github.com/goodybag/mongo-sql
+PostgreSQL Columnar Store for Analytic Workloads,http://citusdata.com/blog/76-postgresql-columnar-store-for-analytics
+Citus Data,http://www.citusdata.com
+Postgresql Range Basics,http://www.davidhampgonsalves.com/Postgres-ranges
+Craig Kerstiens,http://craigkerstiens.com/
+
