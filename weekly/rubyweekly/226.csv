@@ -1,0 +1,33 @@
+title,link
+Matz Answering Audience Questions at RubyConf 2014,https://www.youtube.com/watch?v=_zoG2i7pMxg
+,https://www.youtube.com/watch?v=_zoG2i7pMxg
+Benchmarking Ruby Compiled with GCC (4.4 thru 4.9) and Clang (3.2 thru 3.5),https://p8952.info/ruby/2014/12/12/benchmarking-ruby-with-gcc-and-clang.html
+compiled with Clang is much faster,http://cirandas.net/brauliobo/blog/ruby-compiled-with-clang-is-8-faster-than-with-gcc-4.9-and-44-faster-than-with-gcc-4.7.2
+Codeship – Hosted Continuous Delivery Made Simple,https://codeship.com/?utm_source=RubyWeekly&utm_medium=newsletter&utm_campaign=CooperPress
+,https://codeship.com/?utm_source=RubyWeekly&utm_medium=newsletter&utm_campaign=CooperPress
+Announcing RubyMotion 3.0: Android Platform; WatchKit Apps; and More,http://www.rubymotion.com/news/2014/12/11/announcing-rubymotion-3.html
+Hashie Considered Harmful - An Ode to Hash and OpenStruct,http://www.schneems.com/2014/12/15/hashie-considered-harmful.html
+Now Released: Rails 4 Test Prescriptions by Noel Rappin,http://pragprog.com/book/nrtest2/rails-4-test-prescriptions
+,http://pragprog.com/book/nrtest2/rails-4-test-prescriptions
+Meet 1;500+ Companies Hiring Web Devs & Designers,http://hired.com/?utm_source=newsletters&utm_medium=rubyweekly&utm_campaign=n-dec18_14-rubyweekly_jobs&utm_content=1500
+Blendle zoekt rubyisten om de journalistiek te redden (Utrecht),http://blendle.homerun.hr/backend-developer
+Rails 4.2.0 Release Candidate 3 Released,http://weblog.rubyonrails.org/2014/12/13/Rails-4-2-0-rc3-has-been-released/
+CSRF Vulnerability in Doorkeeper; A Popular OAuth2 Gem: Upgrade Now,http://homakov.blogspot.co.uk/2014/12/blatant-csrf-in-doorkeeper-most-popular.html
+RubyCaribe Price Reduced for December (a Ruby Conference in the Caribbean),http://rubycaribe.tumblr.com/post/105244095958/price-reduced-for-december
+Pusher migrating from Ruby to Haskell,http://www.reddit.com/r/haskell/comments/2ple1j/looking_for_haskell_developers_in_london_to_work/
+Preferring Value Objects or Setters and Arguments,http://www.saturnflyer.com/blog/jim/2014/12/16/preferring-value-objects-or-setters-and-arguments/
+Elegant Permalinks in Rails with friendly_id,http://www.developingandstuff.com/2014/12/elegant-permalinks-in-rails.html
+Where Does Your Non-Rails Code Go in a Rails App?,http://www.justinweiss.com/blog/2014/12/16/where-do-you-put-your-code/
+Avoiding Errors When Forwarding to Missing Objects,http://www.saturnflyer.com/blog/jim/2014/11/21/avoiding-errors-when-forwarding-to-missing-objects/
+Setting Up a Production Rails Deployment with Nginx and Unicorn,http://www.gotealeaf.com/blog/setting-up-your-production-server-with-nginx-and-unicorn
+Ruby After Rails; by Ernie Miller,https://www.youtube.com/watch?v=EgjJYkuV0Sc
+A Ruby Refactor: Exploring Dependency Injection Options,http://brandonhilkert.com/blog/a-ruby-refactor-exploring-dependency-injection-options/
+Weird Ruby: Rescue; Else and Ensure,http://blog.newrelic.com/2014/12/10/weird-ruby-2-rescue-interrupt-ensure/
+What Service Objects Are Not,https://medium.com/@KamilLelonek/what-service-objects-are-not-7abef8aa2f99
+Threads in Ruby: The Basics,https://ninefold.com/blog/2014/11/25/threads/
+JSON VAT: Access Up-to-Date VAT Rates for Any EU Country,https://github.com/adamcooke/json-vat
+ActiveEmoji: A Collection of Emoji Aliases for Core Ruby Methods,https://github.com/sferik/active_emoji
+sprockets-traceur: A Gem for Integrating Rails and Sprockets with Google Traceur,http://gunpowderlabs.com/blog/introducing-sprockets-traceur/
+Papercrop: An Extension for Paperclip to Crop Your Image Uploads using jCrop,https://github.com/rsantamaria/papercrop
+An easier way to deploy & host your Rails app – for free.,https://ninefold.com/
+
