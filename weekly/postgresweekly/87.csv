@@ -1,0 +1,13 @@
+title,link
+Archives,http://postgresweekly.com/issues
+pgcli - An Enhanced Postgres CLI,http://pgcli.com/
+PostgREST: A REST API for Any Postgres Database,https://github.com/begriffs/postgrest
+this demo.,https://postgrest.herokuapp.com/
+An Update on Parallelism in Postgres,http://rhaas.blogspot.com/2014/12/parallelism-update.html
+Building a College Basketball Database — Part 1: Scraping ESPN,http://patrick-howell.com/2015/01/05/building-a-college-basketball-database-part-1-scraping-espn/
+PostgreSQL: Documentation: 9.4: JSON Types,http://www.postgresql.org/docs/9.4/static/datatype-json.html
+SQL Is Your Friend; Part 1,http://cookingco.de/2014/12/17/sql-is-your-friend-part-1/
+SQL Is Your Friend; Part 2,http://cookingco.de/2014/12/18/sql-is-your-friend-part-2/
+Announcing que-go: a Go port of the Ruby Que job queue for Postgres,https://bgentry.io/blog/2014/12/31/announcing-que-go
+Craig Kerstiens,http://craigkerstiens.com/
+
