@@ -1,0 +1,34 @@
+title,link
+A Ruby 2.2.0 Time#parse Timezone-Related Regression,https://byparker.com/blog/2014/ruby-2-2-0-time-parse-localtime-regression/
+CGI: Ruby's Bare Metal,http://www.mikeperham.com/2015/01/05/cgi-rubys-bare-metal/
+Build stable applications faster with Semaphore CI,https://semaphoreapp.com/
+,https://semaphoreapp.com/
+Autoloaded: Automatically Defined Autoloading,http://njonsson.github.io/autoloaded/
+Databound: An API Exposing Rails CRUD in JavaScript,http://databound.me/
+Rails 4.1.9 and 4.0.13 Released,http://weblog.rubyonrails.org/2015/1/6/Rails-4-1-9-and-4-0-13-have-been-released/
+Sprockets 4.x Will Have First Class Support for ECMAScript 6 using 6to5,https://github.com/sstephenson/sprockets/pull/682
+6to5,https://6to5.org/
+Senior Ruby on Rails Engineers at Jibe (NYC or DC),http://www.jibe.com/company/careers/sr-software-engineer-ruby-node-js/
+Senior Ruby Developer at Econify [New York; NY],http://www.econify.com/careers
+Ruby Instrumentation Engineer at New Relic (Portland; OR),http://rubyinside.simply-partner.com/job-post/36691.31776
+MountainWest RubyConf 2015 (March 9-10 in Salt Lake City),http://mtnwestrubyconf.org/
+Speed Up Rails By Starting on the Front,http://viget.com/extend/rails-front-end-performance
+Dealing with Rails 4 Forms and Params,http://6ftdan.com/allyourdev/2015/01/05/dealing-with-rails-4-forms-and-params/
+When to Use an Ampersand and/or Colon with Proc; Map; and Inject,http://6ftdan.com/allyourdev/2015/01/01/when-to-use-ampersand-andor-colon-with-proc-map-and-inject/
+Forwarding Class Methods in Ruby,http://www.timbabwe.com/2014/12/forwarding-class-methods-in-ruby/
+How to Set Up CloudFlare's Free SSL on Heroku,http://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku
+5 Early Lessons from Rapid; High Availability Scaling with Rails,http://mikepackdev.com/blog_posts/40-5-early-lessons-from-rapid-high-availability-scaling-with-rails
+Querying Ruby Objects Using FP,http://cabaltherapy.com/posts/06-01-2015-querying-rails-objects-using-functional-programming.html
+File Uploads with Refile,https://gorails.com/episodes/file-uploads-with-refile
+Practicing Troubleshooting Performance Problems with Katas,http://blog.newrelic.com/2015/01/06/troubleshooting-performance-problems-2/
+Mastering Ruby Blocks & Iterators: A New Paid Course,http://pragmaticstudio.com/ruby-blocks
+10 minute sample,http://pragmaticstudio.com/blog/2014/12/3/mastering-ruby-blocks-step-1
+Interview with Charles Nutter; Co-Lead of the JRuby Project,http://www.ugtastic.com/interview-charles-nutter-co-lead-jruby-project/
+Tokaido: Getting a Quick Start with Rails on OS X,http://www.sitepoint.com/tokaido-quick-start-rails/
+Useful Sublime Text 3 Packages for a Rubyist,http://thirtysixthspan.com/posts/useful-sublime-text-3-packages-for-a-rubyist
+Ginatra: Web-based Git Repository Browser Built On Sinatra,https://github.com/narkoz/ginatra
+Roar 1.0 Released With JSON-API Support,http://nicksda.apotomo.de/2015/01/roar-1-0-released-with-json-api-support/
+RpgTools: A Toolbox for Tabletop Games and RPGs,https://github.com/Yinfei/rpg_tools
+ansible-rails: A Collection of Playbooks to Bootstrap A Full Rails Stack,https://github.com/j-mcnally/ansible-rails
+to_factory: Auto Generate Factories From Data,https://github.com/markburns/to_factory
+
