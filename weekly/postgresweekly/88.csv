@@ -1,0 +1,11 @@
+title,link
+Archives,http://postgresweekly.com/issues
+PostgreSQL 9.4 Now Available on Heroku,https://blog.heroku.com/archives/2015/1/8/postgres-9-4-on-heroku
+SQL; Scaling; and What's Unique About Postgres,http://citusdata.com/blog/90-sql-scaling-and-whats-unique-about-postgres
+Postgres 9.5 Feature Highlight: New WAL Format,http://michael.otacoo.com/postgresql-2/postgres-9-5-feature-highlight-new-wal-format/
+SQL Is Your Friend; Part 3,http://cookingco.de/2014/12/19/sql-is-your-friend-part-3/
+Actually Using the Database: Writing a Haskell API Server,https://bendyworks.com/actually-using-the-database/
+Publish/Subscribe (Pub/Sub) with Postgres and Node.js,http://voxpelli.com/2015/01/pubsub-with-postgres-and-node-js/
+django-pgcrypto-fields: Encrypted fields dealing with pgcrypto postgres extension.,https://github.com/incuna/django-pgcrypto-fields
+Craig Kerstiens,http://craigkerstiens.com/
+
