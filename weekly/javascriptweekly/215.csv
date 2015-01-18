@@ -1,0 +1,44 @@
+title,link
+One JavaScript: Avoiding Versioning in ECMAScript 6,http://www.2ality.com/2014/12/one-javascript.html
+Eric Elliott's Essential JavaScript Links,https://gist.github.com/ericelliott/d576f72441fc1b27dace
+The React Quick Start Guide,http://www.jackcallister.com/2015/01/05/the-react-quick-start-guide.html
+Find and fix slow .NET code with new ANTS Performance Profiler 9 – out now,http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/?utm_source=javascriptweekly&utm_medium=displayemail&utm_content=findandfix_app9&utm_campaign=antsperformanceprofiler&utm_term=email-23336
+,http://www.red-gate.com/products/dotnet-development/ants-performance-profiler/?utm_source=javascriptweekly&utm_medium=displayemail&utm_content=findandfix_app9&utm_campaign=antsperformanceprofiler&utm_term=email-23336
+An io.js Overview Now 1.0 is Released,http://blog.risingstack.com/iojs-overview/
+io.js,http://iojs.org/
+ES6 support,https://iojs.org/es6.html
+The Problem with Angular,http://www.quirksmode.org/blog/archives/2015/01/the_problem_wit.html
+The Art of Promise-Based Architecture (video),http://rangle.io/blog/the-art-of-promise-based-architecture/
+2015: The End of the Monolithic JavaScript Framework,https://andywalpole.me/#!/blog/142134/2015-the-end-the-monolithic-javascript-framework?
+Creating a Polymer Chat App with Material Design,http://www.pubnub.com/blog/creating-a-polymer-chat-app-with-material-design/
+blessed-contrib: Build Unicode/ANSI Graphics-based Terminal Apps with JavaScript,https://github.com/yaronn/blessed-contrib
+Inside Ember.js' FastBoot: Faking the DOM in Node,http://emberjs.com/blog/2015/01/08/inside-fastboot-faking-the-dom-in-node.html
+Front-End Engineer @ Expensify (San Francisco; CA),http://we.are.expensify.com/why-work-here/
+Senior Javascript Engineers at Jibe (NYC or DC),http://www.jibe.com/company/careers/software-engineer-front-end/
+Senior JavaScript Developer at Dezrez,http://www.dezrez.com/software-for-estate-agents/careers/dezrez-careers.aspx#.VK5WGDtFCUk
+JavaScript; Java Lead The Way in RedMonk Language Rankings,http://www.infoworld.com/article/2870801/application-development/javascript-java-lead-the-way-in-redmonk-language-rankings.html
+O'Reilly Fluent 2015: The Web Platform Conf - Best Price Ends Next Week,http://fluentconf.com/javascript-html-2015/
+Working with Component-Based Directives in AngularJS,https://www.airpair.com/angularjs/posts/component-based-angularjs-directives
+How to Use Yeoman to Scaffold Your Next Web App,http://wes.is/2015/01/13/how-to-use-yeoman-to-scaffold-your-next-web-app/
+HTML Templating with ES6 Template Strings,http://www.2ality.com/2015/01/template-strings-html.html
+Building a Multi-Step Registration Form with React,http://viget.com/extend/building-a-multi-step-registration-form-with-react
+Tidying Up a JavaScript Application with Higher-Order Functions,http://blog.carbonfive.com/2015/01/05/tidying-up-a-javascript-application-with-higher-order-functions/
+ECMAScript 6 Sets: Union; Intersection; and Difference,http://www.2ality.com/2015/01/es6-set-operations.html
+Destructuring Old vs New ES6 Way,https://frontendmasters.com/courses/jsnext-es6/destructuring-old-vs-new-way/
+Why Panda Strike Wrote the Fastest JSON Schema Validator for Node.js,http://gilesbowkett.blogspot.co.uk/2015/01/why-panda-strike-wrote-fastest-json.html
+Writing a CSS Parser in JavaScript,https://medium.com/jotform-form-builder/writing-a-css-parser-in-javascript-3ecaa1719a43
+Node.js Tools RC2 for Visual Studio: Improved Stability; TypeScript Support,https://nodejstools.codeplex.com/releases/view/579420
+NativeScript for Cross-Platform Native App Development with JavaScript,http://www.telerik.com/nativescript
+JScrambler 3.7: A JavaScript 'Protection' Tool,https://blog.jscrambler.com/new-version-3-7/
+Live Feed JavaScript Charts for Dashboards and Applications,http://www.zingchart.com/features/real-time-data-charts/?utm_source=cooperPress&utm_medium=text&utm_campaign=js-weekly-secondary-011615
+Here’s how.,http://www.zingchart.com/features/real-time-data-charts/?utm_source=cooperPress&utm_medium=text&utm_campaign=js-weekly-secondary-011615
+Personify.js: A Library That Integrates IBM Watson and the Twitter API,http://personifyjs.github.io/
+Stream.js: An Object Streaming Pipeline for JavaScript - inspired by Java 8,https://github.com/winterbe/streamjs
+Lambdaws: Deploy; Run and Get Results From AWS Lambda in Node.js,https://github.com/mentum/lambdaws
+AngularCSS: CSS On-Demand for AngularJS,http://door3.com/insights/introducing-angularcss-css-demand-angularjs
+react-tagsinput.js: A Simple React.js Component for Inputting Tags,https://github.com/voronianski/react-tagsinput
+Plottable.js: Flexible; Interactive Charts for The Web on top of D3,http://plottablejs.org/
+react-grid-layout: A Draggable and Resizable Grid Layout System for React,https://github.com/STRML/react-grid-layout
+Insignia: A Customizable Tag Input Widget/Editor,https://github.com/bevacqua/insignia
+Demo,http://bevacqua.github.io/insignia/
+

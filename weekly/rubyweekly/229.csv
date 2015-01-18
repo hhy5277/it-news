@@ -1,0 +1,33 @@
+title,link
+Five Ruby Methods You Should Be Using,https://blog.engineyard.com/2015/five-ruby-methods-you-should-be-using
+RubyBench: A Long Running Ruby Benchmark,https://rubybench.org/
+explains more,http://samsaffron.com/archive/2015/01/08/announcing-rubybench-org
+Debugging Super Methods with Ruby 2.2,http://engineering.heroku.com/blogs/2014-01-14-debugging-super-methods-ruby22
+Method#super_method,https://bugs.ruby-lang.org/issues/9781
+Codeship – Hosted Continuous Delivery Made Simple,https://codeship.com/?utm_source=RubyWeekly&utm_medium=newsletter&utm_campaign=CooperPress
+,https://codeship.com/?utm_source=RubyWeekly&utm_medium=newsletter&utm_campaign=CooperPress
+railsbox: Fast and Easy Configurations for Ruby and Rails VMs,https://railsbox.io/
+An Interview with Hongli Lai on Phusion Passenger (audio),http://thechangelog.com/136/
+With Bare Metal: Benchmarking Ruby Compiled with GCC 4 and Clang 3,http://www.guoxiang.me/posts/33-with-bare-metal-benchmarking-ruby-with-gcc-4-6-4-7-4-8-4-9-and-clang-3-3-3-4-3-5
+When 1.day is not an Object,http://www.bnjs.co/2015/01/14/rails-date-class-durations-and-ruby-basicobject/
+Senior Backend Engineer at Drivy (Paris; France),https://en.drivy.com/jobs?utm_source=ruby_weekly&utm_campaign=ruby_weekly_job#2015-backend
+Senior Ruby Developer at Econify [New York; NY],http://www.econify.com/careers
+Software Engineer at View The Space; AngularJS/Rails (New York City),https://angel.co/view-the-space/jobs
+Shelly Cloud is now available in North America,https://shellycloud.com/blog/2015/01/shelly-cloud-is-now-available-in-north-america
+Phone Verification using SMS Via Twilio,http://blog.bigbinary.com/2015/01/12/phone-verification-using-twilio.html
+Ruby on Medicine: Converting DICOM to JPG,http://www.sitepoint.com/ruby-on-medicine-converting-dicom-to-jpg/
+Having Fun with Functional Programming in Ruby,http://aurelien-herve.com/blog/2014/02/27/some-cool-functional-programming-with-ruby/
+Understanding Some Enumerable Methods by (Re)-Implementing Them in Ruby,http://mauricio.github.io/2015/01/12/implementing-enumerable-in-ruby.html
+Create a Sitemap with Rails and Ping it to Google with Rake,https://exceptiontrap.com/blog/12-create-rails-and-ping-google-sitemap-rake
+Debugger Driven Developement with Pry,https://www.youtube.com/watch?v=4hfMUP5iTq8
+Isomorphic App Development with Ruby and Volt,https://www.youtube.com/watch?v=7i6AL7Walc4
+6 Ways to Respond with JSON in Rails,http://www.leighhalliday.com/posts/responding-with-json-in-rails
+Using Go to Improve Your Ruby Application's Performance,https://antoine.finkelstein.fr/go-in-ruby/
+When Edge Cases Poke Holes in Your Perfect Solution,http://www.justinweiss.com/blog/2015/01/13/when-edge-cases-poke-holes-in-your-perfect-solution/
+ActiveRecord 4.2's Type Casting,http://technology.customink.com/blog/2015/01/06/activerecord-42s-type-casting/
+email_prefixer: Automatically Prefix Email Subject Lines with the Rails Env,http://codecrate.com/2015/01/email-prefixer-release.html
+formatador: STDOUT Text Formatting,https://github.com/geemus/formatador
+Octodown: Github Markdown Previewing Straight From Your Shell,https://github.com/ianks/octodown
+Chroma: Color Manipulation and Palette Generation Library,https://github.com/jfairbank/chroma
+Spyke: Interact with REST Services in An ActiveRecord-like Manner,https://github.com/balvig/spyke
+
