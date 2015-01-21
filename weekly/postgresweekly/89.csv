@@ -1,0 +1,14 @@
+title,link
+Archives,http://postgresweekly.com/issues
+High Availability for PostgreSQL; Batteries Not Included,https://blog.compose.io/high-availability-for-postgresql-batteries-not-included/
+Smarter Synchronization of your PostgreSQL Development and Production DBs,http://www.csinaction.com/2015/01/17/smarter-synchronization-of-your-postgresql-development-and-production-dbs/
+A Simple Implementation of a 'History' Table using the Hstore Extension,http://okbob.blogspot.com/2015/01/most-simply-implementation-of-history.html
+New Release: Pgloader 3.2,http://tapoueh.org/blog/2015/01/16-pgloader-3-2.html
+Database .NET 14.0 Released,http://www.postgresql.org/about/news/1558/
+Postgres ODBC Driver: libpq to Govern Them All,http://michael.otacoo.com/postgresql-2/postgres-odbc-driver-libpq-govern-all/
+PostgreSQL Transactions and SQLAlchemy,http://oddbird.net/2014/06/14/sqlalchemy-postgres-autocommit/
+Postgres 9.5 Feature Highlight: New WAL Format,http://michael.otacoo.com/postgresql-2/postgres-9-5-feature-highlight-new-wal-format/
+SRE Position at DuckDuckGo (Remote OK),https://duck.co/help/company/hiring
+,https://duck.co/help/company/hiring
+Craig Kerstiens,http://craigkerstiens.com/
+
