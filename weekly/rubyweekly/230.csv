@@ -1,0 +1,32 @@
+title,link
+JRuby 9.0.0.0-pre1 Released,http://www.jruby.org/2015/01/20/jruby-9-0-0-0-pre1
+this talk from RubyConf,https://www.youtube.com/watch?v=CJGVH1XTtSw
+Tuning Ruby's Global Method Cache,http://www.shopify.com/technology/16777156-tuning-rubys-global-method-cache
+Rubyists: Just Use Double-Quoted Strings,http://viget.com/extend/just-use-double-quoted-ruby-strings
+Forget net/smtp; try sending email with the Mailgun API,http://www.mailgun.com/&utm_campaign=forgetsmtp
+Try Mailgun now.,http://www.mailgun.com/#rubysample
+,http://www.mailgun.com/&utm_campaign=forgetsmtp
+Hampton's Ruby Survey 2015,http://www.ruby-survey.com/
+the results.,http://www.ruby-survey.com/stats
+Symbol GC in Ruby 2.2,http://www.sitepoint.com/symbol-gc-ruby-2-2/
+Ruby Forwardable Deep Dive,http://www.saturnflyer.com/blog/jim/2015/01/20/ruby-forwardable-deep-dive/
+How Patrick McKenzie Builds Twilio Apps,https://www.twilio.com/blog/2015/01/how-patrick-mckenzie-builds-twilio-apps.html
+Senior Backend Engineer at Drivy (Paris; France),https://en.drivy.com/jobs?utm_source=ruby_weekly&utm_campaign=ruby_weekly_job#2015-backend
+Senior Rails Developer at Goldstar (Portland; OR or Pasadena; CA),http://www.goldstar.com/company/developer-jobs
+Rails Developer at Unabridged Software,http://unabridgedsoftware.com/come-work-with-us
+Rails to Allow '1' or true for validates_acceptance_of Validation,https://github.com/rails/rails/pull/18439
+Encryption on Rails – A Primer,http://product.reverb.com/2015/01/20/encryption-on-rails-a-primer/
+Forcing Recalculation of Counter Cache Columns in Rails,https://www.krautcomputing.com/blog/2015/01/13/recalculate-counter-cache-columns-in-rails/
+Writing Rails Extensions (or Adding Date-based group_by Methods to ActiveRecord),http://willschenk.com/dateslice-writing-rails-extensions/
+3 Ways to Monkey-Patch Without Making A Mess,http://www.justinweiss.com/blog/2015/01/20/3-ways-to-monkey-patch-without-making-a-mess/
+Why Does Ruby Have Blocks? (One for the beginners.),http://devblog.avdi.org/2015/01/16/why-does-ruby-have-blocks/
+Rbkit: A Memory Profiler for Ruby,http://rbkit.codemancers.com/
+Are you using protection? Make sure your code is 100% covered.,https://coveralls.io/&utm_term=ruby&utm_campaign=2015
+Hasten: Hasten The Import of Large Tables Into MySQL,http://thirtysixthspan.com/posts/hasten-the-import-of-large-tables-into-mysql
+Testing and Deploying your apps with Codeship,https://codeship.com
+6 Reasons Jubilee Could be a Rubyist's New Best Friend,https://www.youtube.com/watch?v=FFR0G89WXI8
+Why Is Your Rails Application Still Coupled to ActiveRecord?,https://medium.com/@KamilLelonek/why-is-your-rails-application-still-coupled-to-activerecord-efe34d657c91
+Neo4j.rb v4.1 Released: Library for the Leading Graph Database,http://neo4jrb.io/blog/2015/01/09/neo4j-rb_v4-1_released.html
+MailInterceptor: Intercepts and Forwards Emails in Non Production Environments,https://github.com/bigbinary/mail_interceptor
+Gauguin: Extract The Main Colors from an Image,https://github.com/LunarLogic/gauguin
+
