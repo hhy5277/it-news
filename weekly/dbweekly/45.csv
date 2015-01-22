@@ -1,0 +1,33 @@
+title,link
+,http://rackspace.com/
+Architecture of a Database System,http://blog.acolyer.org/2015/01/20/architecture-of-a-database-system/
+an academic paper,http://db.cs.berkeley.edu/papers/fntdb07-architecture.pdf
+Introducing Espresso - LinkedIn's Hot New Distributed Document Store,http://engineering.linkedin.com/espresso/introducing-espresso-linkedins-hot-new-distributed-document-store
+Part 2 - New To Hadoop? Here’s A Handy Guide to Get You Started,http://www.rackspace.com/blog/new-to-hadoop-heres-a-handy-guide-to-get-you-started-part-2/?cm_mmc=data-_-bigdata-_-hadoop-_-dbweekly-infographic
+,http://www.rackspace.com/blog/new-to-hadoop-heres-a-handy-guide-to-get-you-started-part-2/?cm_mmc=data-_-bigdata-_-hadoop-_-dbweekly-infographic
+3 Things You Should Know About SQL Indexes,http://blog.celerity.com/how-to-design-sql-indexes
+MongoDB.app: The Easiest Way to Get Started with MongoDB on the Mac,https://github.com/gcollazo/mongodbapp
+Neo4j Graph Gists,http://graphgist.neo4j.com/
+SheetKit: A Google Sheets-based Database for S3-based Sites,http://sheetkit.io/
+Native SQL Analytics for MongoDB with SlamData,http://www.mongodb.com/blog/post/native-sql-analytics-mongodb-slamdata
+SlamData,http://slamdata.com/
+MongoDB Administrator (Austin; TX),https://uscareers-rackspace.icims.com/jobs/9847/mongodb-administrator/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-Mongojob
+Apply here.,https://uscareers-rackspace.icims.com/jobs/9847/mongodb-administrator/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-Mongojob
+OrientDB 2.0 is now Production Ready,http://www.orientechnologies.com/orientdb-2-0-production-ready/
+Apache HBase High Availability at the Next Level,http://hortonworks.com/blog/apache-hbase-high-availability-next-level/
+Oracle Rejiggers Exadata for Emerging In-Memory Workloads,http://www.datanami.com/2015/01/22/oracle-rejiggers-exadata-emerging-memory-workloads/
+The Humanist's Emerging Role in Big Data,http://www.datanami.com/2015/01/21/humanists-emerging-role-big-data/
+MC-SQLR Amplification: MS SQL Server Resolution Service Enables Reflected DDoS with 440x Amplification,http://kurtaubuchon.blogspot.co.uk/2015/01/mc-sqlr-amplification-ms-sql-server.html
+GPGPU Accelerates PostgreSQL [slidedeck],http://www.slideshare.net/kaigai/gpgpu-accelerates-postgresql
+Categorical PageRank Using Neo4j and Apache Spark,http://www.kennybastani.com/2015/01/categorical-pagerank-neo4j-spark.html
+Licensing SQL Server in AWS? It’s Up to Twice As Expensive As Azure or Rackspace Cloud,https://medium.com/@JamesCrowley/licensing-sql-server-in-aws-its-up-to-twice-as-expensive-as-azure-or-rackspace-cloud-a97d1e63b168
+A RESTful Highway to SQL,http://blog.foundationdb.com/a-restful-approach-to-sql
+Sqawk: Like Awk but using SQL and Table Join Metaphors,https://github.com/dbohdan/sqawk
+SQL Runner: Run Playbooks of SQL Scripts in Series and Parallel,https://github.com/snowplow/sql-runner
+Hasten: Hasten The Import of Large Tables Into MySQL,http://thirtysixthspan.com/posts/hasten-the-import-of-large-tables-into-mysql
+Lightning: A Data Visualization Server,http://lightning-viz.org/
+Redis RDB-RS: Fast and Efficient RDB Parsing Utility,http://rdb.fnordig.de/
+Neo4j.rb v4.1 Released: Ruby Library for the Leading Graph Database,http://neo4jrb.io/blog/2015/01/09/neo4j-rb_v4-1_released.html
+drive-db: A Google Drive Spreadsheet Simple Database (Node module),https://github.com/FranciscoP/drive-db
+SQL-MVC: Write Web Applications in SQL,https://github.com/quale-quest/sql-mvc
+
