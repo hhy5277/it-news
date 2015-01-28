@@ -1,0 +1,16 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Better Monitoring with pg_stat_archiver in PostgreSQL 9.4,http://linkis.com/blog.2ndquadrant.com/qhxHk
+Abbreviated Keys: Exploiting Locality to Improve PostgreSQL's Text Sort Performance,http://pgeoghegan.blogspot.co.uk/2015/01/abbreviated-keys-exploiting-locality-to.html
+SQL Runner: Run Playbooks of SQL Scripts in Series and Parallel,https://github.com/snowplow/sql-runner
+How to Bulk-Import JSON to Postgres,http://www.prolificprogrammer.com/2015/01/the-script-above-imports-json-into.html
+Regular Expression Stop Words for Postgresql,http://no0p.github.io/postgresql/2015/01/24/postgresql-regexp-stopwords.html
+Read Scalability in PostgreSQL 9.5,http://amitkapila16.blogspot.jp/2015/01/read-scalability-in-postgresql-95.html
+Incremental Backup with Barman 1.4.0,http://blog.2ndquadrant.com/incremental-backup-barman-1-4-0/
+Wal-e,https://github.com/wal-e/wal-e
+Learning Bitmap Index Scan; Recheck Cond; and Bitmap Heap Scan,http://pglearner.blogspot.com/2015/01/learning-bitmap-index-scan-recheck-cond.html
+CTEs and Window Functions: Unleashing the Power of Redshift,http://engineeringblog.yelp.com/2015/01/title-ctes-and-window-functions-unleashing-the-power-of-redshift.html
+Job: SRE Position at DuckDuckGo (Remote OK),https://duck.co/help/company/hiring
+,https://duck.co/help/company/hiring
+Craig Kerstiens,http://craigkerstiens.com/
+
