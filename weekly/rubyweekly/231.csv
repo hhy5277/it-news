@@ -1,0 +1,33 @@
+title,link
+Tenderlove's Experience with Minitest and RSpec,http://tenderlovemaking.com/2015/01/23/my-experience-with-minitest-and-rspec.html
+RubyFlow; the Ruby Community Linklog; Relaunches,http://www.rubyflow.com/
+finally rebuilt it.,http://www.rubyflow.com/p/8hqxpd-the-all-new-rubyflow-for-2015
+Passenger-docker: Easily Make Docker Containers for Your Ruby Web Apps,https://github.com/phusion/passenger-docker
+Test and Deploy your apps continuously with Codeship,https://codeship.com/
+,https://codeship.com/
+1 Week Left to Submit Talk Proposals to RailsConf 2015,http://rubycentral-cfp.herokuapp.com/events/railsconf-2015
+still available.,http://railsconf.com/registration
+Our Experience with (Porting a JRuby App to) Golang,http://www.scriptrock.com/blog/our-experience-with-golang
+a Go newsletter,http://golangweekly.com/
+Advanced Web Scraping with Mechanize,https://www.chrismytton.uk/2015/01/22/advanced-web-scraping-with-mechanize/
+Non-Message Flash in Rails,http://www.collectiveidea.com/blog/archives/2015/01/28/non-message-flash-in-rails/
+Senior Ruby on Rails Engineer at Localytics (Boston; MA),https://hire.jobvite.com/j?cj=o9wi0fwH&s=Ruby_Weekly
+Senior Backend Engineer at Drivy (Paris; France),https://en.drivy.com/jobs?utm_source=ruby_weekly&utm_campaign=ruby_weekly_job#2015-backend
+Senior/Junior Ruby Developer at AppLift (Berlin; Germany),http://www.applift.com/openpositions/senior-ruby-developer-mf-applift-berlin
+veronica@applift.com,mailto:veronica@applift.com
+Puma is Now the Recommended Ruby Webserver on Heroku,https://devcenter.heroku.com/changelog-items/594
+new docs explaining it all.,https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server
+Google Summer of Code Wrap up: SciRuby,http://google-opensource.blogspot.co.uk/2015/01/google-summer-of-code-wrap-up-sciruby.html
+Sorting An ActiveRecord Relation by a Postgres HStore Value with Arel,http://szeliga.me/sorting-active-record-relation-by-postgresql-hstore-value/
+Rapid Rails Setup with Docker and Fig,http://dev.chaione.com/rapid-rails-setup-with-docker-and-fig/
+How to Use ActiveModel::Errors#details,https://cowbell-labs.com/2015-01-22-active-model-errors-details.html
+Using Interactors to Organise Business Logic,http://daphsta.github.io/ruby%20rails%20learn/2015/01/25/interactors-to-organise-business-logic.html
+Build with the best Redis support and analytics from RedisGreen,http://www.redisgreen.net/
+pronto: Quick Automated Code Review of Your Changes,https://github.com/mmozuras/pronto
+Most of your customers are from the USA? Consider moving your cloud to the NA region on Shelly Cloud,https://shellycloud.com/
+Stop Writing Rails Controllers,http://spin.atomicobject.com/2015/01/26/data-driven-rails-controllers/
+How to Upgrade to Rails 4.2,http://www.justinweiss.com/blog/2015/01/27/how-to-upgrade-to-rails-4-dot-2/
+Closure Design Patterns; Ruby Edition,http://arturoherrero.com/closure-design-patterns-ruby-edition/
+FastImage: Finds The Size or Type of An Image Given Its URL,https://github.com/sdsykes/fastimage
+ActiveRecord SQLServer v4.2.0,http://metaskills.net/2015/01/25/activerecord-sqlserver-v4.2.0---code-name-kantishna/
+
