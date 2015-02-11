@@ -1,0 +1,32 @@
+title,link
+PrettyBacktrace: Improved Ruby Exception Backtraces,https://github.com/ko1/pretty_backtrace
+Traveling Ruby 20150210: Smaller; Supports Ruby 2.2 and Windows,http://blog.phusion.nl/2015/02/09/traveling-ruby-20150210-smaller-supports-ruby-2-2-windows/
+Ruby Hero Awards Nominations Open,http://rubyheroes.com/
+Semaphore CI is free for open source and private projects,https://semaphoreapp.com/
+,https://semaphoreapp.com/
+String Method Use and Misuse,http://thomasleecopeland.com/2015/02/10/string-use-and-misuse.html
+Running Rails on IIS8 (or Anything Else; Really) with The New HttpPlatformHandler,http://www.hanselman.com/blog/AnnouncingRunningRubyOnRailsOnIIS8OrAnythingElseReallyWithTheNewHttpPlatformHandler.aspx
+Weird Stuff with Hashes,http://tenderlovemaking.com/2015/02/11/weird-stuff-with-hashes.html
+Phusion Passenger 5 Beta 3: More Stable; Turbocaching Updates,http://blog.phusion.nl/2015/02/09/phusion-passenger-5-beta-3-stable-turbocaching-updates/
+Technical Lead - Ruby at Lonely Planet (Franklin; TN),http://www.lonelyplanet.com/careers/?#op-37508-technical-lead-ruby
+Ruby/Rails Software Engineer at DadeSystems (Miami; FL),http://dadesystems.com/careers/
+Senior Backend Engineer at Drivy (Paris; France),https://en.drivy.com/jobs?utm_source=ruby_weekly&utm_campaign=ruby_weekly_job#2015-backend
+Amazon Upgrades Ruby SDK to Help Developers Write Less Code,http://www.techworld.com/news/apps/amazon-upgrades-ruby-sdk-help-developers-write-less-code-3597240/
+Tropical Ruby 2015 — March 5th to 8th at Porto de Galinhas; Brazil,http://tropicalrb.com/
+A Kickstarter for a new Visual 'Learn Web Development with Rails' Project,https://www.kickstarter.com/projects/arikrak/ruby-on-rails-tutorial
+3 days left to take Hampton Catlin's Ruby Survey if you haven't yet,http://www.ruby-survey.com/
+An easier way to deploy & host your Rails app – for free.,https://ninefold.com/
+Testing Elasticsearch In Your Rails 4 Application,http://www.binarywebpark.com/testing-elasticsearch-in-your-rails-4-application/
+Setting up Ember.js (ember-cli) with Rails,http://nandovieira.com/setting-up-emberjs-with-rails-ember-cli-edition
+Customizing Rake Tasks In Rails 4.1 And Higher,http://technology.customink.com/blog/2015/02/08/customizing-rake-tasks-in-rails-41-and-higher/
+The Beginner's Guide to Rails Helpers,http://mixandgo.com/blog/the-beginner-s-guide-to-rails-helpers
+Implementing a Priority Queue in Ruby,http://www.brianstorti.com/implementing-a-priority-queue-in-ruby/
+Swift for Rubyists - Arrays,http://adamdelong.com/swift-rubyists-arrays/
+Running Shell Commands from Ruby,http://shiroyasha.github.io/running-shell-commands-from-ruby.html
+Authorization with Ruby on Rails 4.2,http://www.amooma.de/screencasts/2015-02-09-authorization-rails-4.2/
+Require Only What You Require,http://twin.github.io/2015/01/require-only-what-you-require/
+Which IDEs do Rubyists Use?,http://www.sitepoint.com/ides-rubyists-use/
+Que: A Ruby Job Queue That Uses PostgreSQL's Advisory Locks for Speed and Reliability,https://github.com/chanks/que
+PolyBelongsTo: A Standard Way to Check belongs_to Relations on any belongs_to Object,https://github.com/danielpclark/PolyBelongsTo
+Web Operations Weekly: Our New Weekly for Web Engineers,http://webopsweekly.com/issues/1?euid=*%7CUNIQID%7C*
+
