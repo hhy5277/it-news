@@ -1,0 +1,20 @@
+title,link
+Read this on the Web,http://postgresweekly.com/issues/92
+Postgres Weekly,http://postgresweekly.com
+PostgreSQL 9.4.1; 9.3.6; 9.2.10; 9.1.15 & 9.0.19 Released,http://www.postgresql.org/about/news/1569/
+Modern SQL in PostgreSQL,http://www.slideshare.net/MarkusWinand/modern-sql
+Realtime Updates From PostgreSQL to Elasticsearch,https://developer.atlassian.com/blog/2015/02/realtime-requests-psql-elasticsearch/
+Performance Tuning – A Methodical Approach for the Multi-Tasker,http://www.enterprisedb.com/store/products/dba-training/01t50000001uafUAAQ
+,http://www.enterprisedb.com/store/products/dba-training/01t50000001uafUAAQ
+Some Notes on The Update Releases,http://www.databasesoup.com/2015/02/some-notes-on-todays-update-release.html
+The Awesome PostgreSQL 9.4 / SQL:2003 FILTER Clause for Aggregate Functions,http://blog.jooq.org/2014/12/30/the-awesome-postgresql-9-4-sql2003-filter-clause-for-aggregate-functions/
+Counting Comma-Delimited Values in Postgres; MySQL; Amazon Redshift and MS SQL Server,https://www.periscope.io/blog/counting-comma-delimited-values-in-postgres-mysql-amazon-redshift-and-ms-sql-server.html
+Query JSON with Postgres 9.4 and Rails 4.2,http://robertbeene.com/rails-4-2-and-postgresql-9-4/
+Basic PostgreSQL Backup and Restore,http://www.rubytreesoftware.com/resources/basic-postgresql-backup-and-restore
+django-watson: Full-text Multi-table Search App for Django,https://github.com/etianen/django-watson
+A Writable Foreign Data Wrapper for Redis,https://github.com/nahanni/rw_redis_fdw
+Redis from inside Postgres,http://www.craigkerstiens.com/2012/10/18/connecting_to_redis_from_postgres/
+pgopher: A Static Binary to Run Postgres Commands,https://github.com/longnguyen11288/pgopher
+Craig Kerstiens,https://twitter.com/craigkerstiens
+See our archives,http://postgresweekly.com/issues
+
