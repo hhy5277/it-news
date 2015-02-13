@@ -1,0 +1,30 @@
+title,link
+,http://rackspace.com/
+How The MongoDB Database Learned To Scale,http://readwrite.com/2015/02/09/mongodb-scale-document-database-nosql
+10 SQL Articles Everyone Must Read,http://blog.jooq.org/2015/02/13/10-sql-articles-everyone-must-read/
+RedisConf 2015 Developer Conference,http://redisconference.com/
+Learn More.,http://redisconference.com/
+,http://redisconference.com/
+Modern SQL in PostgreSQL,http://www.slideshare.net/MarkusWinand/modern-sql
+Announcing MongoDB 3.0; with General Availability in March,https://www.mongodb.com/blog/post/announcing-mongodb-30
+5 Big Data Trends Moving into the Spotlight in 2015,http://www.dbta.com/Editorial/Trends-and-Applications/5-Big-Data-Trends-Moving-into-the-Spotlight-in-2015-101633.aspx
+Major Security Alert As 40;000 MongoDB Databases Left Unsecured On The Internet,http://www.information-age.com/technology/security/123459001/major-security-alert-40000-mongodb-databases-left-unsecured-internet
+MongoDB Administrator (Austin; TX),https://uscareers-rackspace.icims.com/jobs/9847/mongodb-administrator/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-Mongojob
+Apply here.,https://uscareers-rackspace.icims.com/jobs/9847/mongodb-administrator/job?cm_mmc=managed-_-cloud-_-contentnam-_-dbweekly-Mongojob
+Database Administrator (Blacksburg; VA),https://uscareers-rackspace.icims.com/jobs/11568/database-administrator/job
+Learn More.,https://uscareers-rackspace.icims.com/jobs/11568/database-administrator/job
+PostgreSQL 9.4.1; 9.3.6; 9.2.10; 9.1.15 & 9.0.19 Released,http://www.postgresql.org/about/news/1569/
+Microsoft Readies Major Push Into Big Data,http://www.datanami.com/2015/02/02/microsoft-readies-major-push-big-data/
+ArangoDB Secures 1.85M€ to Build The Multi-Model DB for The Cloud,https://www.arangodb.com/press/arangodb-seed-investment
+Real-Time Data Analysis with Kubernetes; Redis; and BigQuery On Google Cloud Platform,https://cloud.google.com/solutions/real-time/kubernetes-redis-bigquery
+Using SQL Server's GROUP BY Clause to Summarize Your Data,http://www.databasejournal.com/features/mssql/using-sql-servers-group-by-clause-to-summarize-your-data.html
+The Awesome PostgreSQL 9.4 / SQL:2003 FILTER Clause for Aggregate Functions,http://blog.jooq.org/2014/12/30/the-awesome-postgresql-9-4-sql2003-filter-clause-for-aggregate-functions/
+A Simple Priority Queue With Redis in Ruby,http://product.reverb.com/2015/01/31/a-simple-priority-queue-with-redis-in-ruby/
+Managing Azure SQL Database Authorization,http://www.databasejournal.com/features/mssql/managing-azure-sql-database-authorization.html
+Understanding JOINs in MySQL and Other Relational Databases,http://www.sitepoint.com/understanding-sql-joins-mysql-database/
+Oracle: MERGE 'Monkey-Business',http://www.databasejournal.com/features/oracle/oracle-merge-monkey-business.html
+Firebird Development: Where We Stand and Where We Go,https://www.youtube.com/watch?v=ibZKgmHz9_4
+84% of A Single-threaded 1KB Write in Redis Is Spent in the Kernel,http://blog.nullspace.io/kernel-latency.html
+Redis in The Browser Demo (The Redis key-value store running via Emscripten),http://narma.github.io/2015/redis-in-browser/
+redis_trace: Redis Protocol Decoding and Analysis,https://github.com/mranney/redis_trace
+
