@@ -1,0 +1,29 @@
+title,link
+Predicting Test Failures,http://tenderlovemaking.com/2015/02/13/predicting-test-failues.html
+Getting Started With Ruby Processing,https://blog.engineyard.com/2015/getting-started-with-ruby-processing
+Mark Methods Private When You Don’t Test Them,http://patshaughnessy.net/2015/2/16/mark-methods-private-when-you-dont-test-them
+Announcing Cloud 66 for Docker,http://www.cloud66.com/&utm_campaign=docker
+,http://www.cloud66.com/&utm_campaign=docker
+A Guide to Extracting Your First Ruby Gem,http://www.justinweiss.com/blog/2015/02/17/a-guide-to-extracting-your-first-ruby-gem/
+Life Beyond Rails: A Brief Look at Alternate Web Frameworks for Ruby,https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby
+Rails Scaffold's Dangerous Defaults,http://rubyjunky.com/rails-scaffold-dangerous-defaults.html
+Rails on Docker,http://robots.thoughtbot.com/rails-on-docker
+Maintainers Needed for RVM 1,https://rvm.io/blog/2015/02/maintainers-needed-for-rvm1
+making some changes while continuing work on RVM 2,http://niczsoft.com/2015/02/changes-in-my-open-source-life/
+Ruby and JavaScript Engineer at simplabs (Munich; Germany or remote),http://simplabs.com/jobs
+Software Engineers at Skyscanner (remote – with 20% of time in Edinburgh; Scotland),http://www.skyscanner.net/jobs/all
+Hired gives top Ruby developers more power in their job search.,http://hired.com/?utm_source=newsletters&utm_medium=rubyweekly&utm_campaign=n-feb19_15-rubyweeklyspons&utm_content=power
+ParallelCI by Codeship – Run your tests in parallel,https://codeship.com/features/parallelci
+Using Events to Decouple Rails Applications,https://redbooth.com/engineering/patterns/using-events-decouple-rails-applications
+The Life of an HTTP Request in Rails,https://www.omniref.com/ruby/gems/railties/4.2.0/symbols/Rails::Application?#annotation=4084035&line=161
+Using PostgreSQL and jsonb with Rails,http://nandovieira.com/using-postgresql-and-jsonb-with-ruby-on-rails
+Passing Optional Locals to Rails Partials,http://nithinbekal.com/posts/rails-optional-locals/
+Set Intersection in Ruby,http://tosbourn.com/set-intersection-in-ruby/
+Using Ruby instead of sed and awk,http://nithinbekal.com/posts/ruby-sed-awk/
+Gulp on Rails: Replacing the Asset Pipeline,http://viget.com/extend/gulp-rails-asset-pipeline
+Arcane Knowledge Needed to Write A Test (for a Rails App),http://blog.testdouble.com/posts/2015-02-16-arcane-knowledge.html
+Mobile App Performance: Comparing RubyMotion to J2ObjC; Xamarin and RoboVM,https://medium.com/@harrycheung/cross-platform-mobile-performance-testing-d0454f5cd4e9
+youtube-dl.rb: A Ruby Wrapper for youtube-dl,https://github.com/layer8x/youtube-dl.rb
+RuberTooth: A Complete Ruby Port of the Ubertooth Libraries and Utilities,http://www.evilsocket.net/2015/02/12/rubertooth-a-complete-ruby-porting-of-the-ubertooth-libraries-and-utilities/#sthash.sNhWFzor.dpbs
+rails-safe-tasks: Automatically Disables Dangerous Rake Tasks in Production,https://github.com/adamcooke/rails-safe-tasks
+
