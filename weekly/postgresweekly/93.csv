@@ -1,0 +1,15 @@
+title,link
+Archives,http://postgresweekly.com/issues
+Inserting And Using A New Record In Postgres,http://rob.conery.io/2015/02/09/inserting-using-new-record-postgres/
+Postgres LATERAL JOIN,http://illuminatedcomputing.com/posts/2015/02/postgres_lateral_join/
+Introducing PostgreSQL Dashboard,http://blog.taadeem.net/english/2015/02/16/Introducing_PostgreSQL_Dashboard/
+The First Rule in Securing Postgres: Don’t Be Dumb,http://blogs.enterprisedb.com/2015/02/12/first-rule-in-securing-postgres-dont-be-dumb/
+pgEdit 2.2 released,http://pgedit.com/pgedit-textmate-2-2
+Boot 2 Docker: How to set up Postgres; Elasticsearch and Redis on Mac OS X,http://www.maori.geek.nz/post/boot_2_docker_how_to_set_up_postgres_elasticsearch_and_redis_on_mac_os_x
+Using Case-Insensitive Columns in PostgreSQL with citext,http://nandovieira.com/using-insensitive-case-columns-in-postgresql-with-citext
+Distance Constraints with PostgreSQL and PostGIS,http://davidcel.is/blog/2015/01/29/distance-constraints-with-postgresql-and-postgis/
+PostgreSQL; Aggregates and Histograms,http://tapoueh.org/blog/2014/02/21-PostgreSQL-histogram
+Artisanal Stop Words,http://no0p.github.io/postgresql/2015/02/15/artisanal-stopwords.html
+Partitioning and constraints part 1 - UNIQUE,http://blog.ioguix.net/postgresql/2015/02/05/Partitionning-and-constraints-part-1.html
+Craig Kerstiens,http://craigkerstiens.com/
+
