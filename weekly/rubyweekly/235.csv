@@ -1,0 +1,40 @@
+title,link
+Support for MRI Ruby 1.9.3 Has Ended,https://www.ruby-lang.org/en/news/2015/02/23/support-for-ruby-1-9-3-has-ended/
+announced last year.,https://www.ruby-lang.org/en/news/2014/01/10/ruby-1-9-3-will-end-on-2015/
+6 years ago,http://www.rubyinside.com/ruby-191-released-first-production-release-of-the-fastest-ruby-ever-1480.html
+Managing Development Environment Variables Across Multiple Ruby Applications,https://www.twilio.com/blog/2015/02/managing-development-environment-variables-across-multiple-ruby-applications.html
+Binary and Bitwise Operations in Ruby (video),https://www.youtube.com/watch?v=Nm4u3kCEKo8
+Rich social and company data from an email - one simple API,https://clearbit.com/
+,https://clearbit.com/
+How to Upload Files Using the AWS SDK Gem,https://www.codefellows.org/blog/tutorial-how-to-upload-files-using-the-aws-sdk-gem
+CarrierWave,https://github.com/carrierwaveuploader/carrierwave
+Ruby 2.0.0-p643 Released,https://www.ruby-lang.org/en/news/2015/02/25/ruby-2-0-0-p643-is-released/
+Optimizing Rails for Memory Usage: A Series,http://collectiveidea.com/blog/archives/2015/02/19/optimizing-rails-for-memory-usage-part-1-before-you-optimize/
+There's More to Ruby Debugging Than puts(),http://www.shopify.com/technology/17370004-theres-more-to-ruby-debugging-than-puts
+Senior Engineer - Ruby on Rails,http://godaddy.ongig.com/jobs/view/Senior-Engineer-Ruby-on-Rails-Sunnyvale-CA-United-States?jvs=Ruby_Weekly
+Looking for a lifestyle upgrade? Quick Left is hiring skilled software engineers.,http://quickleft.com/careers
+Freelance with Companies like Airbnb; IDEO & JPMorgan,http://www.toptal.com/developers?utm_source=ruby_weekly&utm_medium=cpm-newsletter&utm_campaign=ruby_weekly_job
+Brighton (UK) Ruby Conference 2015 - July 20; 2015,http://brightonruby.com/
+EuRuKo 2015: The European Ruby Conference; in Austria over Oct 17-18,http://www.euruko2015.org/
+Rails 4.2.1.rc2 and 4.1.10.rc2 Released,http://weblog.rubyonrails.org/2015/2/25/Rails-4-2-1-rc2-and-4-1-10-rc2-have-been-released/
+ParallelCI by Codeship – Run your tests in parallel,https://codeship.com/features/parallelci
+Different Methods for Merging Ruby Hashes,http://dev.paperlesspost.com/blog/2015/02/19/different-methods-of-merging-ruby-hashes/
+Building an Activity Feed in Rails,http://www.sitepoint.com/activity-feeds-rails/
+Writing Methods for Both Class and Instance Levels,http://6ftdan.com/allyourdev/2015/02/24/writing-methods-for-both-class-and-instance-levels/
+Using ECMAScript 6 with Rails 4.2 Projects,http://blog.kwanso.com/using-ecmascript-6-with-rails-4-2-projects/
+Sharing Code Between ActiveAdmin Resources,http://tmichel.github.io/2015/02/22/sharing-code-between-activeadmin-resources/
+Replacing The Rails Asset Pipeline with Gulp,https://bugsnag.com/blog/replacing-the-rails-asset-pipeline-with-gulp
+The Beginners Guide to jQuery.Deferred and Promises for Ruby Programmers,http://blog.arkency.com/2015/02/the-beginners-guide-to-jquery-deferred-and-promises-for-ruby-programmers/
+How to Configure Your Rails App to Ship,http://www.justinweiss.com/blog/2015/02/24/how-to-configure-your-rails-app-to-ship/
+A 14 Minute Introduction to Ansible,http://www.rubytreesoftware.com/resources/ansible-introduction
+Fragment Caching with Ruby on Rails 4.2,http://www.amooma.de/screencasts/2015-02-24-fragment-caching-rails-4.2/
+Phusion Passenger 5 Release Candidate 2: Lots of Bug Fixes,https://blog.phusion.nl/2015/02/23/phusion-passenger-5-release-candidate-2/
+Tokaido 2.1 Released: A Ruby and Rails Stack for OS X,https://github.com/tokaido/tokaidoapp/releases/tag/v2.1
+Build with the best Redis support and analytics from RedisGreen,http://www.redisgreen.net/
+biz: Time Calculations using Business Hours,https://github.com/zendesk/biz
+Gorack: A Go Frontend Webserver for Ruby's Rack Applications,https://github.com/gmarik/gorack
+Melt: A Way to Unfreeze Ruby Objects,https://github.com/zizkovrb/melt
+react.rb: An Opal Ruby Wrapper of React.js,https://github.com/zetachang/react.rb
+Authie: Improve Session Security in Rails Apps,https://adamcooke.io/improve-session-security-in-rails-apps/
+haikunator: Heroku-like Random Name Generator,https://github.com/usmanbashir/haikunator
+
