@@ -1,0 +1,33 @@
+title,link
+Phusion Passenger 5.0.1 Released; Now Production Ready,https://blog.phusion.nl/2015/03/04/phusion-passenger-5-0-1-released/
+Ruby 2.2.1 Released,https://www.ruby-lang.org/en/news/2015/03/03/ruby-2-2-1-released/
+memory leak issue,https://bugs.ruby-lang.org/issues/10686
+Understanding The Enigma Machine with 30 Lines of Ruby,http://red-badger.com/blog/2015/02/23/understanding-the-enigma-machine-with-30-lines-of-ruby-star-of-the-2014-film-the-imitation-game/
+Forget net/smtp; try sending email with the Mailgun API,http://www.mailgun.com/&utm_campaign=forgetsmtp
+Try Mailgun now,http://www.mailgun.com/#rubysample
+,http://www.mailgun.com/&utm_campaign=forgetsmtp
+Why Blocks Make Ruby Methods 439% Slower,https://www.omniref.com/ruby/2.2.0/symbols/Proc/yield?#annotation=4087638&line=711&hn=1
+MRI Garbage Collection: Tuning Approaches for Rails Apps,https://bearmetal.eu/theden/rails-garbage-collection-tuning-approaches/
+Loading Code with Ruby,http://www.sitepoint.com/loading-code-ruby/
+Use Your Gettext Translations in Your React Components,https://blog.arkency.com/2015/03/use-your-gettext-translations-in-your-react-components/
+What's New in Passenger 5: Perf and HTTP JSON API,https://blog.phusion.nl/2015/03/04/whats-new-in-passenger-5-part-1-performance-and-http-json-api/
+Sr. TechOps Engineer at Swiftype (San Francisco; CA),https://swiftype.com/jobs/senior-techops-engineer
+Software Engineer at Collaborative Drug Discovery (Burlingame; CA),https://www.collaborativedrug.com/pages/employment?#h-1
+Whether you're looking for a new job or just testing the water; Hired is there for you.,http://hired.com/?utm_source=newsletters&utm_medium=rubyweekly&utm_campaign=n-mar5_15-rubyweeklyspons&utm_content=looking
+Rails 4.2.1.rc3 and 4.1.10.rc3 Released,http://weblog.rubyonrails.org/2015/3/2/Rails-4-2-1-rc3-and-4-1-10-rc3-have-been-released/
+Register for Free Online Rails Security Training on March 18!,https://attendee.gotowebinar.com/rt/205783861472794113&utm_term=0_2833bbfcb7-61070c0563-170390821
+GORUCO 2015 (Jun 20; NYC) Call for Proposals,https://goruco.wufoo.com/forms/goruco-2015-call-for-proposals/
+Running the Ruby Middleman Static Site Generator on Microsoft Azure,http://www.hanselman.com/blog/RunningTheRubyMiddlemanStaticSiteGeneratorOnMicrosoftAzure.aspx
+How to Write Command-Line Applications in Ruby with GLI,http://blog.lunarlogic.io/2015/how-to-write-command-line-applications-in-ruby-with-gli/
+The Case for 'case',http://6ftdan.com/allyourdev/2015/03/03/ruby-the-case-for-case/
+A Faster Way to Cache Complicated Data Models (in Rails),https://www.justinweiss.com/blog/2015/03/03/a-faster-way-to-cache-complicated-data-models/
+Keep Your Rails Routes Clean and Organized,https://medium.com/@KamilLelonek/keep-your-rails-routes-clean-and-organized-83e78f2c11f2
+The UK Ruby Contract Drought is Real,https://medium.com/@louisror/the-uk-ruby-contract-drought-is-real-27-feb-2015-fbac443b81da
+a discussion on Hacker News,https://news.ycombinator.com/item?id=9123683
+Using open-uri? Check Your Code - You're Playing with Fire,http://sakurity.com/blog/2015/02/28/openuri.html
+8 Things I Learned During 8 Years of Ruby and Rails,http://solnic.eu/2015/03/04/8-things-i-learned-during-8-years-of-ruby-and-rails.html
+From A Ruby Monolith to Microservices in Go; Lessons Learned,https://sourcegraph.com/blog/live/gopherconindia/112656568167
+Advanced Ruby on Rails Error Tracking - A Few Lines of Code is All it Takes,https://raygun.io/ruby-on-rails&utm_content=sponsored-link&utm_campaign=march5
+Hoboken: A Sinatra Project Generator,http://bobnadler.com/articles/2014/09/09/hoboken-a-sinatra-project-generator.html
+regexp-examples: Generate Strings That Match A Given Regular Expression,https://github.com/tom-lord/regexp-examples
+
