@@ -1,0 +1,39 @@
+title,link
+Creating a Plugin for RubyGems,http://www.brianstorti.com/creating-a-rubygems-plugin/
+Ruby is Part of Google Summer of Code 2015,https://www.ruby-lang.org/en/news/2015/03/06/google-summer-of-code-2015/
+10+ Years of Rails with DHH: The Interview,http://thechangelog.com/145/
+Email API Service: Ruby Code Builder,https://sendgrid.com/docs/Utilities/code_workshop.html?utm_source=cooper-press&utm_medium=content-advertising&mc=Content-Advertising&mcd=cooper-press&cvosrc=content-advertising.cooper-press.ruby-news&cvo_adid=ruby-news&cvo_cid=newsletter
+,https://sendgrid.com/docs/Utilities/code_workshop.html?utm_source=cooper-press&utm_medium=content-advertising&mc=Content-Advertising&mcd=cooper-press&cvosrc=content-advertising.cooper-press.ruby-news&cvo_adid=ruby-news&cvo_cid=newsletter
+Meet Volt; A Promising Ruby Framework For Dynamic Apps,http://www.toptal.com/ruby/meet-volt-a-promising-ruby-framework-for-dynamic-applications
+My Weird Ruby,http://awardwinningfjords.com/2015/03/03/my-weird-ruby.html
+a discussion on Hacker News,https://news.ycombinator.com/item?id=9158454
+TuneMyGC: MRI Ruby 2.1+ Garbage Collection Tuning,https://tunemygc.com/
+example,https://tunemygc.com/configs/e129791f94159a8c75bef3a636c05798
+A Couple of Callback Gotchas (and A Rails 5 Fix),http://www.justinweiss.com/blog/2015/03/10/a-couple-callback-gotchas-and-a-rails-5-fix/
+Refactoring Away A Conditional,http://designisrefactoring.com/2015/03/09/refactoring-away-a-conditional/
+Adding Functionality to Ruby Classes with Decorators,http://brandonhilkert.com/blog/adding-functionality-to-ruby-classes-with-decorators/
+Sr. TechOps Engineer at Swiftype (San Francisco; CA),https://swiftype.com/jobs/senior-techops-engineer
+Senior Rails Developer (f/m) at Drooms GmbH,https://recruitingapp-5120.de.umantis.com/Vacancies/163/Application/New/1?customer=5120
+Freelance with Companies like Airbnb; IDEO & JPMorgan,http://www.toptal.com/developers?utm_source=ruby_weekly&utm_medium=cpm-newsletter&utm_campaign=ruby_weekly_job
+Running pg  news Stack Overflow,http://stackoverflow.com/questions/28891447/weird-bytes-added-to-attribute-after-save-in-rails
+TDD in Ruby Course for Beginners - 40% off Buy Now,https://www.udemy.com/learn-test-driven-development-in-ruby/?couponCode=cooper40
+RedDotRubyConf 2015: June 4-5 in Singapore,http://www.reddotrubyconf.com/
+Thoughtbot Now Offering Rails Coaching,https://robots.thoughtbot.com/rails-coaching
+Rails Google Summer of Code 2015,http://weblog.rubyonrails.org/2015/3/4/google-summer-of-code-2015/
+Vim Config for Rails Ninjas,http://mixandgo.com/blog/vim-config-for-rails-ninjas
+Leaderboards on Rails,http://www.sitepoint.com/leaderboards-rails/
+Configuration With a Singleton Instance,http://6ftdan.com/allyourdev/2015/03/07/configuration-with-a-singleton-instance/
+3 Ways to Integrate Rails + React + Flux,http://www.openmindedinnovations.com/blogs/3-ways-to-integrate-ruby-on-rails-react-flux
+Optimizing Rails for Memory Usage Part 3: Pluck and Database Laziness,http://collectiveidea.com/blog/archives/2015/03/05/optimizing-rails-for-memory-usage-part-3-pluck-and-database-laziness/
+Option Types and Ruby,http://www.jimmycuadra.com/posts/option-types-and-ruby
+pkgr - Packaging Ruby Applications with No Sweat,https://skillsmatter.com/skillscasts/6283-pkgr-packaging-ruby-applications-with-no-sweat
+Exporting Records To CSV,https://gorails.com/episodes/export-to-csv
+RuboCop: A Ruby Static Code Analyzer; Based On The Community Ruby Style Guide,http://batsov.com/rubocop/
+ParallelCI by Codeship – Run your tests in parallel,https://codeship.com/features/parallelci
+Ruby + Elixir: Polyglottin' FTW,http://www.neo.com/2014/08/11/ruby-elixir-polyglottin-ftw
+7 Must Have Development Gems to Install On Every Project,http://www.rubyonrails365.com/7-must-have-gems-to-install-on-any-project/
+Gallerist: A Sinatra App to Browse Apple Photos Libraries,https://github.com/koraktor/gallerist
+react-rails: Automatically Transform JSX and Use React in Rails,https://github.com/reactjs/react-rails
+ColorPoundSpecReporter: Modified Minitest SpecReporter Output with Colors,https://github.com/danielpclark/color_pound_spec_reporter
+MetaInspector: Give It An URL; It Returns Title; Links; Images; etc.,https://github.com/jaimeiniesta/metainspector
+
