@@ -1,0 +1,25 @@
+title,link
+,http://rackspace.com/
+Defusing Database Time Bombs: Avoiding the Need to Refactor Databases,https://www.simple-talk.com/sql/t-sql-programming/defusing-database-time-bombs-avoiding-the-need-to-refactor-databases/
+Why SQLite's Temporary File Prefix is 'etilqs_'; not 'sqlite_',https://github.com/mackyle/sqlite/blob/3cf493d4018042c70a4db733dd38f96896cd825f/src/os.h#L52
+The Battle against Patent Trolls Starts Again,http://www.rackspace.com/blog/the-battle-against-patent-trolls-starts-again/
+,http://www.rackspace.com/blog/the-battle-against-patent-trolls-starts-again/
+GraphpostgresQL: GraphQL for Postgres,https://github.com/solidsnack/GraphpostgresQL
+Pinterest Open Sources 'Pinball'; a Data Workflow Manager,http://engineering.pinterest.com/post/113376157699/open-sourcing-pinball
+Why Presto is the Best SQL-On-Hadoop You Haven’t Heard Of,http://blog.treasuredata.com/blog/2015/03/12/presto-sql-on-hadoop/
+Introducing Apache Spark 1.3,https://databricks.com/blog/2015/03/13/announcing-spark-1-3.html
+Why We Built ActorDB,http://blog.biokoda.com/post/112206754025/why-we-built-actordb
+Goodbye MongoDB; Hello PostgreSQL,http://developer.olery.com/blog/goodbye-mongodb-hello-postgresql/
+Customer Data Engineer,https://uscareers-rackspace.icims.com/jobs/10641/customer-data-engineer/job
+Apply here.,https://uscareers-rackspace.icims.com/jobs/10641/customer-data-engineer/job
+Database Administrator (Blacksburg; VA),https://uscareers-rackspace.icims.com/jobs/11568/database-administrator/job
+Learn More.,https://uscareers-rackspace.icims.com/jobs/11568/database-administrator/job
+Microsoft Azure Delivers NoSQL Storage via DocumentDB,http://www.techrepublic.com/article/microsoft-azure-delivers-nosql-storage-via-documentdb/
+MySQL 5.7 Includes CJK Full Text Parsing,https://dev.mysql.com/doc/refman/5.7/en/fulltext-search-ngram.html
+SQL-like Query Language for Real-time Streaming Analytics,http://www.kdnuggets.com/2015/03/sql-query-language-realtime-streaming-analytics.html
+Why I Don’t (Yet) Recommend In-Memory OLTP to My Customers,http://www.sqlpassion.at/archive/2015/03/11/dont-yet-recommend-memory-oltp-customers/
+A Report on Redis Conference 2015,http://antirez.com/news/87
+SQLAlchemy 1.0.0 Beta 1 Released,http://www.sqlalchemy.org/blog/2015/03/13/sqlalchemy-1.0.0b1-released/
+db.py 0.4: Handlebars Meets SQL (in Python),http://blog.yhathq.com/posts/dbpy-0.4-handlebars-meets-sql.html
+goqu: An Expressive SQL Builder and Query Library for Go,https://github.com/doug-martin/goqu
+
