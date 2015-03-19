@@ -1,0 +1,36 @@
+title,link
+How Do You Know If Your Rails App Is Thread-Safe or Not?,https://bearmetal.eu/theden/how-do-i-know-whether-my-rails-app-is-thread-safe-or-not/
+Ruby Together: An Association for Improving Ruby Tools,https://rubytogether.org/news/2015-03-17-announcing-ruby-together
+Your Rails app fast in dev; slow in production? Fix it with Profileit.io.,https://profileit.io/
+profileit.io,http://profileit.io/
+,https://profileit.io/
+Voice Based Phone Verification using Twilio,http://blog.bigbinary.com/2015/03/18/voice-based-phone-verification-using-twilio.html
+A Very Short Ruby-based Markov Model Explained,https://www.omniref.com/github/omniref/hn_title_generator/0.1.0/symbols/HNTitleGenerator::MarkovModel?#line=11
+How Rails Sessions Work,http://www.justinweiss.com/blog/2015/03/17/how-rails-sessions-work/
+How To Add jQuery and Ajax To Your Rails App,https://pragmaticstudio.com/blog/2015/3/18/rails-jquery-ajax
+How Does Symbol#to_proc Work?,http://benjamintan.io/blog/2015/03/16/how-does-symbol-to_proc-work/
+Time Travel in Rails,http://www.monkeyandcrow.com/blog/reading_rails_time_travel/
+Drop Millions of Allocations by Using A Linked List,https://github.com/rubygems/rubygems/pull/1188
+Wanted: Software Engineers for long-term relationship. FreeAgent; Edinburgh,http://www.freeagent.com/company/jobs
+StatusPage.io Hiring A Senior Rails Developer (SF; Denver),https://jobs.lever.co/statuspageio/0a8a9e28-79e9-40f0-ab0a-69c6afa8a2d5
+Ruby skills are in demand.,https://hired.com/?utm_source=newsletters&utm_medium=rubyweekly&utm_campaign=n-mar19_15-rubyweeklyspons&utm_content=indemand
+RubyMotion #inspect 2015 - Two Days; One Track; 100% RubyMotion,http://conference.rubymotion.com/
+ParallelCI by Codeship – Run your tests in parallel,https://codeship.com/features/parallelci
+Generating Complex PDF Documents in Rails with Prawn,http://www.yoniweisbrod.com/generating-complex-pdf-documents-in-rails-with-prawn/
+Docker; Rails; & Docker Compose Together in Your Development Workflow,http://blog.carbonfive.com/2015/03/17/docker-rails-docker-compose-together-in-your-development-workflow/
+Ruby Random: Random Strings and Numbers,http://www.blackbytes.info/2015/03/ruby-random/
+Optimizing Rails for Memory Usage Part 4: Lazy JSON Generation and Final Thoughts,http://collectiveidea.com/blog/archives/2015/03/13/optimizing-rails-for-memory-usage-part-4-lazy-json-generation-and-final-thoughts/
+Running a Rails app on Docker using the Passenger Image,https://rossfairbanks.com/2015/03/06/rails-app-on-docker-using-passenger-image.html
+Sinatra Testing 101: RSpec,http://binarylies.ghost.io/sinatra-tests-101/
+No Date.today? It's DateTime,http://www.bignerdranch.com/blog/no-date-today-its-datetime/
+Fun with Rails' 'has_one through' Association,http://dev.mikamai.com/post/113951227084/fun-with-rails-has-one-through-association
+How BJ Clark Went From No Ruby Knowledge to Hiring Devs in 4 Years,https://rubysteps.com/podcast/001-bj-clark-zero-ruby-knowledge-hires-rails-devs-four-years-later
+Advanced Ruby on Rails Error Tracking - A Few Lines of Code is All it Takes,https://raygun.io/ruby-on-rails&utm_content=mar19&utm_campaign=rubyweekly
+Sidekiq (Redis) vs Shoryuken (AWS SQS),http://www.pablocantero.com/blog/2015/03/14/sidekiq-(redis)-vs-shoryuken-(aws-sqs)/
+Tired of Conditionals? The State Pattern Could Help,http://bits.citrusbyte.com/state-design-pattern-with-ruby/
+rubygems_plugin_generator: A RubyGems Plugin to Generate RubyGems Plugins,https://github.com/brianstorti/rubygems_plugin_generator
+Introducing the tco_method Gem to Enable Tail Code Optimization,http://blog.tdg5.com/introducing-the-tco_method-gem/
+tco_method,https://github.com/tdg5/tco_method
+Canada: Add Support for Canadian Programming Conventions to Ruby,https://github.com/vanruby/canada
+to_range: Converts Parseable Strings into Ruby Range Objects,https://github.com/metaware/to_range
+
