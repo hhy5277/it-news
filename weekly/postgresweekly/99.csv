@@ -1,0 +1,18 @@
+title,link
+Read this on the Web,http://postgresweekly.com/issues/99
+Postgres Weekly,http://postgresweekly.com
+Governor: A Toolkit to Orchestrate High Availablity Postgres,https://blog.compose.io/open-sourcing-compose-governor-toolkit-for-running-ha-postgres/
+Dirty PostgreSQL Database? Clean it up with a VACUUM,http://www.vertabelo.com/blog/technical-articles/dirty-postgresql-database-clean-it-up-with-a-vacuum
+Browser-based query tool and PostgreSQL client,https://www.jackdb.com/
+,https://www.jackdb.com/
+JSONB Type Performance in PostgreSQL 9.4,http://blog.2ndquadrant.com/jsonb-type-performance-postgresql-9-4/
+Postgres 9.5 Feature Highlight: Scale-out with Foreign Tables Now Part of Inheritance Trees,http://michael.otacoo.com/postgresql-2/postgres-9-5-feature-foreign-table-inheritance/
+PostgreSQL Data Sync 15.3 Released,http://www.postgresql.org/about/news/1579/
+Sorting by Popularity (Reddit-style) with Ruby; PostgreSQL and Elasticsearch,http://inaka.net/blog/2015/03/25/hot-score-with-ruby-postgresql-and-elastic-part-1/
+Vector Tiles,http://javisantana.com/2015/03/22/vector-tiles.html
+An Awesome Way To Migrate to PostgreSQL from MySQL,http://blog.zanclus.com/2015/03/an-awesome-way-to-migrate-to-postgresql.html
+cstore_fdw 1.2: Fast columnar store for analytics with PostgreSQL.,https://github.com/citusdata/cstore_fdw
+Why Not Postgres? #1: Multi-Consumer FIFO Push Queue,http://distdepot.com/blog/2015/why-not-postgres-1-multi-consumer-fifo-push-queue/
+Craig Kerstiens,https://twitter.com/craigkerstiens
+See our archives,http://postgresweekly.com/issues
+
