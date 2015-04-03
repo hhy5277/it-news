@@ -1,0 +1,32 @@
+title,link
+Debugging Memory Leaks in Ruby,http://samsaffron.com/archive/2015/03/31/debugging-memory-leaks-in-ruby
+Hampton Catlin's 2015 Ruby Survey Results,http://www.askr.me/ruby
+Forget net/smtp; try sending email with the Mailgun API,http://www.mailgun.com/&utm_campaign=forgetsmtp
+Try Mailgun now,http://www.mailgun.com/#rubysample
+,http://www.mailgun.com/&utm_campaign=forgetsmtp
+Dashing: A Sinatra-based Dashboard Framework,http://dashing.io/
+The Ruby Way 3rd Edition Released,http://www.informit.com/store/ruby-way-solutions-and-techniques-in-ruby-programming-9780321714633
+How to Create; Preview; and Send Email From Your Rails App [video],https://pragmaticstudio.com/blog/2015/3/31/send-email-from-rails
+Announcing MongoDB's Ruby Driver 2.0; a Rewrite,https://www.mongodb.com/blog/post/announcing-ruby-driver-20-rewrite
+Rails Developer at Decisiv (Remote Development Team),https://weworkremotely.com/jobs/1471
+Software Engineer @ Blue Apron (New York; NY),https://www.blueapron.com/pages/jobs?gh_jid=11091
+Bundler 1.9 Released,http://bundler.io/blog/2015/03/21/hello-bundler-19.html
+RubyConf Kenya 2015 in Nairobi; May 8-9,http://ruby-conf-ke.nairuby.org/2015
+CFP,https://rubyconf-kenya-cfp.herokuapp.com/events/ruby-conference-kenya
+Delegating All of the Things With Ruby Forwardable,http://vaidehijoshi.github.io/blog/2015/03/31/delegating-all-of-the-things-with-ruby-forwardable/
+Functional Programming in Ruby with Contracts,http://viget.com/extend/functional-programming-in-ruby-with-contracts
+Setting Up a BDD Stack on a New Rails 4 Application,https://semaphoreci.com/community/tutorials/setting-up-the-bdd-stack-on-a-new-rails-4-application
+Step Aside ActiveSupport::Concern. SuperModule Is The New Sheriff in Town,https://www.airpair.com/ruby/posts/step-aside-activesupportconcern-supermodule-is-the-new-sheriff-in-town
+Sorting by Popularity (Reddit-style) with Ruby; PostgreSQL and Elasticsearch,http://inaka.net/blog/2015/03/25/hot-score-with-ruby-postgresql-and-elastic-part-1/
+Print And Mail Custom Postcards Using HTML; CSS; and Rails,https://lob.com/blog/print-mail-custom-postcards-using-html-css-ruby-on-rails
+Getting Started with Netzke,https://www.airpair.com/javascript/posts/getting-started-with-netzke
+Seven Unusual Ruby Datastores,https://blog.engineyard.com/2015/seven-unusual-ruby-datastores
+irbtools 2.0 Released: Improvements for Ruby's IRB,https://github.com/janlelis/irbtools
+Codeship - A hosted Continuous Delivery Platform,https://codeship.com
+conventional-changelog-ruby: Ruby Tool to Generate a CHANGELOG,https://github.com/dcrec1/conventional-changelog-ruby
+Production-ready Redis for Ruby apps with top-tier support; analytics; and Resque integration,http://www.redisgreen.net/docs.html&utm_campaign=perf1
+How Not to Fail At Timezones in Rails,http://product.reverb.com/2015/03/27/how-not-to-fail-at-timezones-in-rails/
+crono: A Time-Based Background Job Scheduler Daemon for Rails,https://github.com/plashchynski/crono
+ruby-push-notifications: iOS and Android Push Notifications Made Easy,https://github.com/calonso/ruby-push-notifications
+Interrobang: Convert predicate_methods? into bang_methods! without method_missing,https://github.com/fny/interrobang
+
