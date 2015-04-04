@@ -1,0 +1,41 @@
+title,link
+The Rise of TypeScript?,http://developer.telerik.com/featured/the-rise-of-typescript/
+ECMAScript 6 Feature Overview and Comparison,http://es6-features.org/
+Babel (previously 6to5) 5.0.0 Released,http://babeljs.io/blog/2015/03/31/5.0.0/
+Online/In-Person Workshop: Async JS with Jafar Husain (Netflix and TC39),https://frontendmasters.com/workshops/async-javascript/
+join Jafar Husain,https://frontendmasters.com/workshops/famo-us/
+,https://frontendmasters.com/workshops/async-javascript/
+Airbnb's ES6 Style Guide,https://github.com/airbnb/javascript/tree/es6
+ES5 version,https://github.com/airbnb/javascript/blob/master/README.md
+Angular 2 Rendering Architecture,https://docs.google.com/document/d/1M9FmT05Q6qpsjgvH1XvCm840yn2eWEg0PMskSQz7k4E/mobilebasic?viewopt=127#
+Amok: Live Editing for JavaScript,http://amokjs.com/
+Learn AngularJS: An Interactive Course,http://www.codecademy.com/learn/learn-angularjs
+Senior Front End Engineer at New Relic (Barcelona; Spain),http://newrelic.com/about/careers?jvi=oQLq0fwL,Job
+Senior Frontend Developer at moviepilot.com (Berlin),https://moviepilot.workable.com/j/DE0BEC7753
+A Preview of WinJS 4.0,http://blogs.windows.com/buildingapps/2015/03/27/a-preview-of-winjs-4-0/
+Polymer 0.8 Available: For Early Adopters Only,https://www.polymer-project.org/0.8/
+Announcing TypeScript 1.5 Alpha,http://blogs.msdn.com/b/typescript/archive/2015/03/27/announcing-typescript-1-5-alpha.aspx
+Meteor 1.1 Released: Now Supports Windows and MongoDB 3.0,https://www.meteor.com/blog/2015/03/31/meteor-11-microsoft-windows-mongodb-30
+WebStorm 10 Released: Improved JavaScript Support; TypeScript 1.4; V8 Profiling; and More,http://blog.jetbrains.com/webstorm/2015/03/webstorm-10-released/
+Unit Testing Ajax Requests with Mocha,https://www.airpair.com/javascript/posts/unit-testing-ajax-requests-with-mocha
+Writing Client-Side ES6 with Webpack,http://www.2ality.com/2015/04/webpack-es6.html
+Understanding Two-Way Data Binding in AngularJS,http://www.sitepoint.com/two-way-data-binding-angularjs/
+Building Custom React Native Components From Scratch,http://moduscreate.com/react_native_custom_components_ios/
+Strategies for Dealing with Multiple Ajax Calls,http://www.raymondcamden.com/2015/04/03/strategies-for-dealing-with-multiple-ajax-calls
+Simple Inheritance with JavaScript,http://www.sitepoint.com/simple-inheritance-javascript/
+JavaScript's 'bind' Explained in 5 Minutes,https://www.youtube.com/watch?v=tMhJ4dXbmCM
+Handlebars Subexpressions,http://www.emberscreencasts.com/posts/24-handlebars-subexpressions
+Get Your Node.js Application Running in Minutes,http://hubs.ly/y0zSM-0
+Introducing the npm Semantic Version Calculator,http://blog.npmjs.org/post/115305091285/introducing-the-npm-semantic-version-calculator
+SQL Source Control: track each change to your SQL Server database,http://www.red-gate.com/products/sql-development/sql-source-control/?utm_source=javascriptweekly&utm_medium=displayemail&utm_content=track_every_change_v2&utm_campaign=sqlsourcecontrol&utm_term=email-23722
+See how.,http://www.red-gate.com/products/sql-development/sql-source-control/?utm_source=javascriptweekly&utm_medium=displayemail&utm_content=track_every_change_v2&utm_campaign=sqlsourcecontrol&utm_term=email-23722
+React.parts: A Catalog of React Native Components,http://react.parts/
+Vectorious: A Generalized n-dimensional Matrix and Vector Library,http://mateogianolio.github.io/vectorious/
+Halogen: A Collection of Loading Spinners with React.js,http://madscript.com/halogen/
+An AngularJS App Backed by Go to Show and Rate Puppies,https://github.com/mseshachalam/go-angular
+Github.js: Embed User; Repo or Org Profile/Activity Info on a Page,http://akshaykumar6.github.io/github-js/
+get-next: Simple HTTP GET Wrapper with Chainable Calls,https://github.com/bucaran/get-next
+Space.js: HTML-Driven Narrative 3D-scrolling,http://www.slashie.org/space.js/
+an article,http://www.slashie.org/articles/space.js/
+Osmosis: HTML/XML Parser and Web Scraper for Node,https://github.com/rc0x03/node-osmosis
+
