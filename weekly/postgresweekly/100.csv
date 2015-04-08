@@ -1,0 +1,16 @@
+title,link
+Read this on the Web,http://postgresweekly.com/issues/100
+Postgres Weekly,http://postgresweekly.com
+A 5 Minute Video Introduction to pgcli,https://vimeo.com/124125257
+awesome on its own,http://www.craigkerstiens.com/2013/02/13/How-I-Work-With-Postgres/
+dump_fdw: A Foreign Data Wrapper for Postgres Dump Files,https://github.com/MeetMe/dump_fdw
+Postgres's Publish-Subscribe Features Made Better with JSON,http://blog.andyet.com/2015/04/06/postgres-pubsub-with-json
+HOWTO Use JSON Functionality in PostgreSQL,http://stormatics.com/howto-use-json-functionality-in-postgresql/
+pg_rewind in PostgreSQL 9.5,http://hlinnaka.iki.fi/2015/03/23/pg_rewind-in-postgresql-9-5/
+Waiting for 9.5 – Add Support for Index-Only Scans in GiST,http://www.depesz.com/2015/04/05/waiting-for-9-5-add-support-for-index-only-scans-in-gist/
+Django 1.7 Database Migrations Done Right,https://markusholtermann.eu/2014/09/django-17-database-migrations-done-right/
+Reactive Postgres with Play Framework & ScalikeJDBC,http://www.jamesward.com/2015/04/07/reactive-postgres-with-play-framework-scalikejdbc
+Full Stack Developer at AlphaSights (New York; NY),http://engineering.alphasights.com/
+Craig Kerstiens,https://twitter.com/craigkerstiens
+See our archives,http://postgresweekly.com/issues
+
