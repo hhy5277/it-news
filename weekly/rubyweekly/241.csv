@@ -1,0 +1,36 @@
+title,link
+Awesome Ruby: A Giant; Categorized Curated List of Gems,http://awesome-ruby.com/
+How to Wire Up Rails and AngularJS as a Single-Page App,http://www.angularonrails.com/how-to-wire-up-ruby-on-rails-and-angularjs-as-a-single-page-application-gulp-version/
+5 Lesser Used Ruby Enumerators,http://codingwithaxe.com/5-less-used-enumerators-of-ruby/
+Enumerable module,http://ruby-doc.org/core-2.1.5/Enumerable.html
+Deploy; Scale & Manage Your Ruby App with Engine Yard – 500-hour free trial!,https://www.engineyard.com/trial/rails-hosting
+,https://www.engineyard.com/trial/rails-hosting
+Use Minitest for Your Next Rails Project,https://mattbrictson.com/minitest-and-rails
+Ruby Global Method Cache Invalidation Impact on Single and Multithreaded Applications,http://dev.mensfeld.pl/2015/04/ruby-global-method-cache-invalidation-impact-on-a-single-and-multithreaded-applications/
+Rubype: A Clean; Gradual Type Checking Mechanism for Ruby,https://github.com/gogotanaka/Rubype
+contracts.ruby,https://github.com/egonSchiele/contracts.ruby
+Senior Ruby Developer at Econify [New York; NY],http://www.econify.com/job/E100431
+Software Engineer / Entwickler (m/w) eShop – Scala; Scrum; TDD,http://kaufhof-jobs.dvinci.de/cgi-bin/appl/selfservice.pl?action=jobdetail;job_pub_nr=32731CDF-442A-46F0-9C93-75A6C4101B76;p=homepage;preview=1
+gundula.pabst@kaufhof.de,mailto:gundula.pabst@kaufhof.de
+Ruboto (JRuby on Android) 1.3.0 Released,http://ruboto.org/news/2015/04/05/Ruboto-1.3.0-release-doc.html
+Ruby Together Now Paying David Radcliffe to Work on RubyGems,https://rubytogether.org/news/2015-04-06-david-radcliffe-joins-the-team
+(Edge) Rails Now Trying Sprockets 3 for Asset Packaging,https://github.com/rails/rails/pull/19587
+RubyConf Portugal — CFPs for RubyConf PT 2015 Are Now Open,http://blog.rubyconf.pt/post/115301969753/cfps-for-rubyconf-pt-2015-are-now-open
+Ruby Metaprogramming with Method Missing,http://www.leighhalliday.com/ruby-metaprogramming-method-missing
+Using the Template Method Pattern in Ruby,http://rubylogs.com/template-method-pattern-in-ruby/
+Token Authentication with Tiddle,http://adamniedzielski.github.io/blog/2015/04/04/token-authentication-with-tiddle/
+7 Steps to Better Cucumber Tests,http://mixandgo.com/blog/7-steps-to-better-cucumber-tests
+WebSockets in Rails 4,http://blog.codeship.com/websockets-in-rails-4/
+How to Debug Ruby Performance Problems in Production,http://www.justinweiss.com/blog/2015/04/06/how-to-debug-ruby-performance-problems-in-production/
+E-mail in Rails with MailChimp and Mandrill; A Comprehensive Guide,http://aspiringwebdev.com/e-mail-in-rails-with-mailchimp-and-mandrill-a-comprehensive-guide/
+Querying at Warp Drive: Using ActiveRecord 'Includes',http://vaidehijoshi.github.io/blog/2015/04/07/querying-at-warp-drive-using-activerecord-includes/
+Gemnasium - Keep your dependencies up-to-date,https://gemnasium.com/&utm_campaign=RUBYWEEKLYAP15
+A Primer on Logrotate; the Log Rotator,http://www.rubytreesoftware.com/resources/logrotate
+A Hacker's Guide to Hiring a Rails Developer,https://gun.io/blog/hackers-guide-to-hiring-a-ruby-on-rails-developer/
+Testing with MiniTest,https://ariejan.net/2015/04/07/testing-with-minitest/
+Find Bugs Before Your Users Do - A Few Lines of Code is All it Takes,https://raygun.io/ruby-on-rails/rails-error-reporting&utm_content=sponsored-link&utm_campaign=april9
+Chronicles: Logs Invocations of Object Methods,https://github.com/nepalez/chronicles
+rgb: Simple Library to do Sass-like Color Manipulation in Ruby,https://github.com/plashchynski/rgb
+A Wrapper Around av_capture on OS X (e.g. grab your webcam),https://github.com/tenderlove/av_capture
+Variables: 'Variable Objects' for Class and Instance Variables,https://github.com/shuber/variables#-variables
+
