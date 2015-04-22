@@ -1,0 +1,15 @@
+title,link
+Read this on the Web,http://postgresweekly.com/issues/102
+Postgres Weekly,http://postgresweekly.com
+Managing Big Enough Data in Postgres,http://blog.tarkalabs.com/2015/04/16/managing-big-enough-data-in-postgres/
+PostgreSQL Dockerfile,https://registry.hub.docker.com/u/bettervoice/postgresql-container/
+How to Handle Key-Value Data in Postgres,http://stormatics.com/howto-handle-key-value-data-in-postgresql-the-hstore-contrib/
+meteor-pg: Reactive PostgreSQL for Meteor,https://github.com/numtel/meteor-pg
+DDL.js — Get JSON Schema Describing Your PostgreSQL Tables,https://github.com/moll/js-ddl
+Storing URIs in PostgreSQL,http://peter.eisentraut.org/blog/2015/04/16/storing-uris-in-postgresql/
+Mongolike: A Proof of Concept MongoDB Clone Built On Postgres,https://github.com/JerrySievert/mongolike
+Massive 2.0: A Postgres-Centric Data Access Tool for Node.js,https://github.com/robconery/massive-js
+Senior PostgreSQL Expert,https://www.adjust.com/careers/#senior-postgresql-expert
+Craig Kerstiens,https://twitter.com/craigkerstiens
+See our archives,http://postgresweekly.com/issues
+
