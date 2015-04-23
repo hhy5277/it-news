@@ -1,0 +1,33 @@
+title,link
+Solving npm’s Hard Problem: Naming Packages,http://blog.npmjs.org/post/116936804365/solving-npms-hard-problem-naming-packages
+Massive 2.0: Postgres-based Data Access Tool for Node,https://github.com/robconery/massive-js
+Nexe: Create A Single Executable Out of Your Node App,https://github.com/crcn/nexe
+Semaphore CI is free for open source and private projects,https://semaphoreapp.com/
+,https://semaphoreapp.com/
+Get Notified When Your Get Linked on Hacker News,https://www.twilio.com/blog/2015/04/get-notified-when-someone-posts-an-article-from-your-domain-on-hacker-news-using-node-js-firebase-and-twilio.html
+Juice Box: A VM for Node/io and Python Development Ready to Go,http://jpadilla.com/post/117089859507/juice-box
+On Problems with Threads in Node.js,http://www.future-processing.pl/blog/on-problems-with-threads-in-node-js/
+RSMQ: A Lightweight Redis  Message Queue for Node,http://smrchy.github.io/rsmq/
+Front-End Engineer at SRC:CLR (SF),https://angel.co/src-clr/jobs/39407-front-end-engineer
+DevOps Engineer at TES (San Francisco; CA),http://wikispaces.workable.com/jobs/6239
+Atom Shell (the Cross Platform Desktop App Shell) is now Electron,http://blog.atom.io/2015/04/23/electron.html
+What Is Node.js Used For: The 2015 Node.js Overview Report,http://blog.risingstack.com/what-is-nodejs-used-for-the-2015-nodejs-overview-report/
+Using npm Private Modules with Heroku,http://blog.getpiggybank.com/npm-private-modules-with-heroku/
+Shared Memory with Node.js,http://blog.varunajayasiri.com/shared-memory-with-nodejs
+Node.js Server-Side JavaScript Injection Detection & Exploitation,https://medium.com/@indepthtechio/node-js-server-side-javascript-injection-detection-exploitation-5ec2491f9535
+Building Better Node Apps with RethinkDB,https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb
+Building Your First Application with MongoDB: Creating A REST API using The MEAN Stack,https://www.mongodb.com/blog/post/building-your-first-application-mongodb-creating-rest-api-using-mean-stack-part-1
+When do errors happen? [Data study],https://opbeat.com/blog/posts/error-data-study/?utm_source=nodeweekly&utm_medium=ad&utm_campaign=nodeweeklydatastudy
+This & other facts.,https://opbeat.com/blog/posts/error-data-study/?utm_source=nodeweekly&utm_medium=ad&utm_campaign=nodeweeklydatastudy
+The Kraken Effect at PayPal,https://www.youtube.com/watch?v=k2wkNMr9idE
+Chnode: Change Between Installed Node Versions in Your Shell,https://github.com/moll/sh-chnode
+Stop Worrying About Deploying Your Node.js App,http://hubs.ly/y0zSNx0
+Node Needs an Abstraction Layer for JavaScript Engines,http://jxcore.com/node-needs-an-abstraction-layer-for-javascript-engines/
+Node's Require Statement Is Slow. Why?,https://kev.inburke.com/kevin/node-require-is-dog-slow/
+fetchival: Makes Writing JSON Requests with Fetch Easier,https://github.com/typicode/fetchival
+ioredis: A Performance-focused Redis Client for Node,https://github.com/luin/ioredis
+clif: Cross-Platform CLI GIF Maker of your Command Line Session,https://github.com/rauchg/clif
+SpeakingURL: Pretty URL/Slug Generator,http://pid.github.io/speakingurl/
+Buckets: Open Source CMS built on Node.js and MongoDB,https://github.com/asm-products/buckets
+Joyent; Inc.,http://www.joyent.com/
+
