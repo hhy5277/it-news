@@ -1,0 +1,16 @@
+title,link
+Read this on the Web,http://postgresweekly.com/issues/103
+Postgres Weekly,http://postgresweekly.com
+How to Fix What You Can't Kill: Undead PostgreSQL Queries,http://tech.zalando.com/posts/hack-to-terminate-tcp-conn-postgres.html
+HOWTO Use JSONB; The Binary Formatted JSONs in PostgreSQL,http://stormatics.com/howto-use-jsonb-the-binary-formatted-jsons-in-postgresql/
+When do errors happen? [Data study],https://opbeat.com/blog/posts/error-data-study/?utm_source=postgresweekly&utm_medium=ad&utm_campaign=postgresweeklydatastudy
+This & other facts.,https://opbeat.com/blog/posts/error-data-study/?utm_source=postgresweekly&utm_medium=ad&utm_campaign=postgresweeklydatastudy
+,https://opbeat.com/blog/posts/error-data-study/?utm_source=postgresweekly&utm_medium=ad&utm_campaign=postgresweeklydatastudy
+Postgres: The Nice Bits,http://russ.garrett.co.uk/talks/postgres-gds/
+Postgres: The Bits You Haven't Found,https://vimeo.com/61044807
+Scaling out PostgreSQL for CloudFlare Analytics using CitusDB,https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/
+Postgres at the Center of Everyone’s Data World,http://www.enterprisedb.com/postgres-plus-edb-blog/jason-davis/postgres-center-everyone-s-data-world
+Space Elephant - Meteor Postgres,http://www.meteorpostgres.com/
+Craig Kerstiens,https://twitter.com/craigkerstiens
+See our archives,http://postgresweekly.com/issues
+
