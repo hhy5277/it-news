@@ -1,0 +1,30 @@
+title,link
+Vorlon.JS: A Remote Debugging and Testing Tool,http://vorlonjs.com/
+why MS created it,http://blogs.msdn.com/b/eternalcoding/archive/2015/04/30/why-we-made-vorlon-js-and-how-to-use-it-to-debug-your-javascript-remotely.aspx
+io.js 2.0.0 Release Proposal,https://github.com/iojs/io.js/pull/1532
+Building a Modular Security Camera with Embedded JS on the Tessel,http://www.maori.geek.nz/post/embeeded_node_js_on_the_tessel_building_a_modular_security_camera
+Email API Service: Node.js Code Builder,https://sendgrid.com/docs/Utilities/code_workshop.html?utm_source=cooper-press&utm_medium=content-advertising&mc=Content-Advertising&mcd=cooper-press&cvosrc=content-advertising.cooper-press.node-news&cvo_adid=node-news&cvo_cid=newsletter
+,https://sendgrid.com/docs/Utilities/code_workshop.html?utm_source=cooper-press&utm_medium=content-advertising&mc=Content-Advertising&mcd=cooper-press&cvosrc=content-advertising.cooper-press.node-news&cvo_adid=node-news&cvo_cid=newsletter
+Node and ARM,https://medium.com/@nodesource/node-and-arm-b5e3eebf449
+Visual Studio Code: A New Cross Platform Code Editor from MS,https://code.visualstudio.com/
+Developing Node Applications,https://code.visualstudio.com/Docs/nodejs
+Node.js Tools 1.0 on GitHub and VMs Available,http://blogs.msdn.com/b/visualstudio/archive/2015/04/24/node-js-tools-1-0-on-github-and-vms-available.aspx
+Node.js Developer at ReignDesign (Barcelona; Spain or Shanghai; China),http://www.reigndesign.com/jobs/
+Apache Cordova Moves Core Plugins to npm,http://cordova.apache.org/announcements/2015/04/21/plugins-release-and-move-to-npm.html
+Johnny-Five (a JS Robotics Programming Framework) Has A Shiny New Homepage,http://johnny-five.io/
+How to Write Middleware for Express.js Apps,https://stormpath.com/blog/how-to-write-middleware-for-express-apps/
+Compiling Your ES6 Command Line Apps to Work with Node,https://gist.github.com/maximilianschmitt/d7bcb67fade39db7e6c8
+Creating a PostgreSQL Backend Service on Node.js with Express and Bookshelf.js,http://dnyy.sg/a-postgresql-backend-service-on-node-js-with-express-and-bookshelf-js/
+Write Templates Like A Node.js Pro: Handlebars Tutorial,http://webapplog.com/handlebars/
+Connecting to the Jawbone UP API with Node.js,http://www.sitepoint.com/connecting-jawbone-up-api-node-js/
+Getting Started with Docker for the Node.js Developer,https://www.airpair.com/docker/posts/getting-started-with-docker-for-the-nodejs-dev
+Destructuring Old vs New ES6 Way,https://frontendmasters.com/courses/jsnext-es6/destructuring-old-vs-new-way/
+Moving from Node.js to Dart,https://www.youtube.com/watch?v=NHsmiY0rFS8
+Working with Koa.js,http://bramanti.me/working-with-koa-js/
+Codeship - The fastest Continuous Delivery Platform,http://codeship.com/?utm_campaign=customers&utm_medium=email&utm_source=rubyweekly
+disque.js: A Simple Disque Client; Inspired by Redic,https://www.npmjs.com/package/disque.js
+Disque,https://github.com/antirez/disque
+chromecasts: Query Your Local Network for Chromecasts and Have Them Play Media,https://github.com/mafintosh/chromecasts
+lets-chat: Self-Hosted Chat App for Small Teams,https://github.com/sdelements/lets-chat
+Joyent; Inc.,http://www.joyent.com/
+
