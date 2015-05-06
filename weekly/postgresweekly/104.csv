@@ -1,0 +1,13 @@
+title,link
+Read this on the Web,http://postgresweekly.com/issues/104
+Postgres Weekly,http://postgresweekly.com
+Materialized View Strategies Using PostgreSQL,http://hashrocket.com/blog/posts/materialized-view-strategies-using-postgresql
+Compressing PostgreSQL JSONB data 12x using cstore_fdw,https://www.citusdata.com/blog/14-marco/156-compressing-jsonb-using-cstore-fdw
+Barman 1.4.1 Released,http://www.postgresql.org/about/news/1583/
+Bottled Water: Real-time Integration of PostgreSQL and Kafka,http://blog.confluent.io/2015/04/23/bottled-water-real-time-integration-of-postgresql-and-kafka/
+Simplify: Move Code Into Database Functions,https://sivers.org/pg
+Postgres Never Ceases to Amaze Me,https://shawtyds.wordpress.com/2015/04/08/postgres-never-ceases-to-amaze-me/
+Postgres JSON Column Type in Rails 4,http://blog.chadwilken.com/json-with-postgres-in-rails/
+Craig Kerstiens,https://twitter.com/craigkerstiens
+See our archives,http://postgresweekly.com/issues
+
