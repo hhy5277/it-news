@@ -1,0 +1,32 @@
+title,link
+How to Speed Up ActiveRecord with A Little Tweaking,http://blog.codeship.com/speed-up-activerecord/
+Creating Custom Minitest Reporters,http://nandovieira.com/creating-custom-minitest-reporters
+RubyGems Passes 5 Billion Downloads; 101;000 Gems Total,https://rubygems.org/stats
+Ruby5 Podcast,http://ruby5.envylabs.com/
+Semaphore CI is free for open source and private projects,https://semaphoreapp.com/
+,https://semaphoreapp.com/
+The Ruby Way's Author Looks Back at Eight Years of Ruby,http://www.informit.com/articles/article.aspx?p=2350703
+3rd edition,http://www.informit.com/store/ruby-way-solutions-and-techniques-in-ruby-programming-9780321714633
+Numerous String#unpack and Array#pack Examples,http://idiosyncratic-ruby.com/4-what-the-pack.html
+How to Use Rubocop in Your Workflow to Enforce a Ruby Style Guide,https://intercityup.com/blog/integrate-rubocop-in-your-workflow.html
+Rails and Ruby Google Summer of Code 2015 Projects,http://weblog.rubyonrails.org/2015/5/2/welcome-to-gsoc-15/
+RubyBench.org,http://rubybench.org/
+Senior Ruby Engineers at Bugcrowd (San Francisco; CA),https://angel.co/bugcrowd/jobs/33735-ruby-on-rails-developers
+Full Stack Developer at AlphaSights (New York; NY),http://engineering.alphasights.com/
+Freelance with Companies like Airbnb; IDEO & JPMorgan,http://www.toptal.com/developers?utm_source=ruby_weekly&utm_medium=cpm-newsletter&utm_campaign=ruby_weekly_job
+Want to share your Ruby knowledge with a global audience? Apply today.,http://www.pluralsight.com/teach
+Testing Async Emails; The Rails 4.2+ Way,https://blog.engineyard.com/2015/testing-async-emails-rails-42
+Setting up Atom for Rails Development,http://www.developingandrails.com/2015/04/setting-up-atom-for-rails-development.html
+How to Store Emoji in A Rails App with A MySQL Database,https://blog.arkency.com/2015/05/how-to-store-emoji-in-a-rails-app-with-a-mysql-database/
+Metaprogramming Dynamic Methods: Using public_send,http://vaidehijoshi.github.io/blog/2015/05/05/metaprogramming-dynamic-methods-using-public-send/
+Weird Ruby Part 4: Code Pods (Blocks; Procs; and Lambdas),https://blog.newrelic.com/2015/04/30/weird-ruby-part-4-code-pods/
+Building An Event Sourced Application using rails_event_store,http://blog.arkency.com/2015/05/building-an-event-sourced-application-using-rails-event-store/
+Speed up Rails with Nginx’s Reverse Proxy Cache,https://mattbrictson.com/nginx-reverse-proxy-cache
+Mocking With RSpec: Doubles and Expectations,https://semaphoreci.com/community/tutorials/mocking-with-rspec-doubles-and-expectations
+Working with the Postgres JSON Column Type in Rails 4,http://blog.chadwilken.com/json-with-postgres-in-rails/
+Opbeat = Ops for developers,https://opbeat.com/?utm_source=rubyweekly&utm_medium=ad&utm_campaign=rubyweekly100&campaign=rubyweekly
+Ruby Weekly readers get $100 credit.,https://opbeat.com/?utm_source=rubyweekly&utm_medium=ad&utm_campaign=rubyweekly100&campaign=rubyweekly
+How Much Testing Is Too Much?,http://www.justinweiss.com/blog/2015/05/04/how-much-testing-is-too-much/
+RSpec Matcher for Checking Whether A Class Inherits From Another,https://github.com/fny/rspec-inherit_from_matcher
+pluck_to_hash: Extend ActiveRecord's #pluck to Return a Hash,https://github.com/girishso/pluck_to_hash
+
