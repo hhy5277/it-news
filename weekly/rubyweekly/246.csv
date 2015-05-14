@@ -1,0 +1,31 @@
+title,link
+A New Way to Understand Your Rails App’s Performance,http://www.justinweiss.com/blog/2015/05/11/a-new-way-to-understand-your-rails-apps-performance/
+Timeout: Ruby's Most Dangerous API,http://www.mikeperham.com/2015/05/08/timeout-rubys-most-dangerous-api/
+How Ruby Uses Memory,http://www.sitepoint.com/ruby-uses-memory/
+Run Docker in production from A to Z,http://www.cloud66.com/&utm_campaign=docker
+,http://www.cloud66.com/&utm_campaign=docker
+Nobody Told Me Minitest Was This Fun,http://blog.plataformatec.com.br/2015/05/nobody-told-me-minitest-was-this-fun/
+In Which Avdi Makes Us Hate Ruby in 7 Minutes (video),http://devblog.avdi.org/2015/05/11/in-which-i-make-you-hate-ruby-in-7-minutes/
+Using a Ruby Class To Write Functional Code,http://blog.codeship.com/ruby-class-to-write-functional-code/
+Senior Rails Developer,https://jobs.nytco.com/job/New-York-Sr_-Rails-Developer%2C-NYT-Cooking-Job-NY-10001/260517300/
+NYT Cooking,http://nytcooking.com
+Senior Developer at Your Golf Travel,https://jobs.github.com/positions/703f3fca-bdd4-11e4-913c-cdd537bba955
+yourgolftravel.com,http://yourgolftravel.com/
+spabreaks.com,http://spabreaks.com/
+Brandon Hilkert's 'Build a Ruby Gem' Book Offer,http://brandonhilkert.com/books/build-a-ruby-gem/?c=rubyweekly
+10 Lesser Known Ruby Regular Expression Features,http://idiosyncratic-ruby.com/11-regular-extremism.html
+Encrypting Secrets with Rails,http://cookieshq.co.uk/posts/encrypting-secrets-with-rails/
+Tips on Upgrading an App from Rails 3.2 to 4.2,http://nithinbekal.com/posts/rails-upgrade-guide/
+IRB's 'Math Mode' and Using Custom Inspectors,http://idiosyncratic-ruby.com/12-more-inspections.html
+How To Deploy a Rails App with Unicorn and Nginx on Ubuntu 14.04,https://www.digitalocean.com/community/tutorials/how-to-deploy-a-rails-app-with-unicorn-and-nginx-on-ubuntu-14-04
+Codeship - The fastest Continuous Delivery Platform,http://codeship.com/?utm_campaign=customers&utm_medium=email&utm_source=rubyweekly
+Bending the Curve: How Rust Helped Us Write Better Ruby,https://www.youtube.com/watch?v=LazvK39Oc4U
+Decorating Ruby Classes to Extend Behavior,https://www.rubycasts.io/episodes/decorating-ruby-classes-to-extend-behavior
+In Rails; Don't 'pluck' Unnecessarily,http://6ftdan.com/allyourdev/2015/05/13/rails-dont-pluck-unnecessarily/
+Production-ready Redis with top-tier support; analytics; and Resque integration,http://www.redisgreen.net/docs.html&utm_campaign=perf1
+acl9: A Role-Based Authorization System for Rails with a Concise DSL,https://github.com/be9/acl9
+capistrano-foreman: Capistrano Tasks for Foreman and Upstart,https://github.com/hyperoslo/capistrano-foreman
+sassc-rails: Integrate SassC-Ruby with Rails,https://github.com/bolandrm/sassc-rails
+SassC-Ruby,https://github.com/bolandrm/sassc-ruby
+Rails Database Info: Rails Engine to See DB Schema and Contents Quickly,https://github.com/vlado/rails_db_info
+
