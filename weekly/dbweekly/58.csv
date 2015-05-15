@@ -1,0 +1,29 @@
+title,link
+,http://rackspace.com/
+Please Stop Calling Databases CP or AP,https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html
+Google Launches Cloud Bigtable; A Scalable And Performant NoSQL Database,http://techcrunch.com/2015/05/06/google-launches-cloud-bigtable-a-highly-scalable-and-performant-nosql-database/
+Learn SQL Interactively on Khan Academy,http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html
+10 Quick Tips for Redis,http://objectrocket.com/blog/how-to/10-quick-tips-about-redis/?cm_mmc=data_nosql_Redis-tips_dbweekly-newsletter
+Check out,http://objectrocket.com/blog/how-to/10-quick-tips-about-redis/?cm_mmc=data_nosql_Redis-tips_dbweekly-newsletter
+,http://objectrocket.com/blog/how-to/10-quick-tips-about-redis/?cm_mmc=data_nosql_Redis-tips_dbweekly-newsletter
+Why The SQL Standard Does Not Need Another Way to Do GROUP BY,http://glennpaulley.ca/conestoga/2015/05/why-the-sql-standard-does-not-need-another-way-to-do-group-by/
+How SQL GROUP BY Should Have Been Designed,http://www.javacodegeeks.com/2015/05/how-sql-group-by-should-have-been-designed-like-neo4js-implicit-group-by.html
+Recovering Redis Data with GDB,http://bigeng.io/post/118963807718/recovering-redis-data-with-gdb
+PostgreSQL vs. MS SQL Server,http://www.pg-versus-ms.com/
+Simplify: Move Code Into Database Functions,https://sivers.org/pg
+Heroku Redis Now Available in Public Beta,https://blog.heroku.com/archives/2015/5/12/heroku-redis-now-available-in-public-beta
+DevOps Engineer (Austin; TX),https://uscareers-rackspace.icims.com/jobs/13168/devops-engineer--objectrocket/job
+Apply Today.,https://uscareers-rackspace.icims.com/jobs/13168/devops-engineer--objectrocket/job
+Database Administrator (Blacksburg; VA),https://uscareers-rackspace.icims.com/jobs/11568/database-administrator/job
+Learn More.,https://uscareers-rackspace.icims.com/jobs/11568/database-administrator/job
+Gartner: Hadoop Adoption 'Fairly Anemic',http://www.datanami.com/2015/05/14/gartner-hadoop-adoption-fairly-anemic/
+Java; SQL Top Google's 'Most Searched' List,http://insights.dice.com/2015/05/15/java-sql-top-google-most-searched-list/
+5 Tips to Optimize Your SQL Queries,http://www.vertabelo.com/blog/technical-articles/5-tips-to-optimize-your-sql-queries
+HyperLogLog in Pure SQL,https://www.periscope.io/blog/hyperloglog-in-pure-sql.html
+Azure SQL Database Point in Time Restore with Second Resolution,http://axilis.com/blogs/vmarsic/Azure-SQL-Database-Point-in-Time-Testore-with-Second-Resolution
+How to Find Objects that Contain a Certain String in SQL Server,http://www.madeirasql.com/find-objects-that-contain-a-certain-string/
+Compressing PostgreSQL JSONB data 12x using cstore_fdw,https://www.citusdata.com/blog/14-marco/156-compressing-jsonb-using-cstore-fdw
+Announcing VividCortex's Free Network Analyzer Tools for MySQL and PostgreSQL,https://vividcortex.com/blog/2015/05/13/announcing-vividcortex-network-analyzer-mysql-postgresql/
+A Graph Database Use Case: Insurance Fraud Detection,http://sparsity-technologies.com/blog/graph-database-use-case-insurance-fraud-detection/
+Effective Micro-Caching in Relational Database,http://www.briskat.com/blog/Effective-Caching/
+
