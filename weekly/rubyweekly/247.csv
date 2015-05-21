@@ -1,0 +1,35 @@
+title,link
+React.js: A Guide for Rails Developers,https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
+How To Write Ruby Faster at the Source Code Level,http://thenewstack.io/how-to-write-ruby-faster-at-the-source-code-level/
+Oga 1.0 Released: An XML/HTML Parser Written in Ruby,http://yorickpeterse.com/articles/oga-1-0-released/
+Forget net/smtp; try sending email with the Mailgun API,http://www.mailgun.com/&utm_campaign=forgetsmtp
+Try Mailgun now.,http://www.mailgun.com/&utm_campaign=forgetsmtp#rubysample
+,http://www.mailgun.com/&utm_campaign=forgetsmtp
+Strong Parameters Are A Weak Schema,http://gilesbowkett.blogspot.co.uk/2015/05/strong-parameters-are-weak-schema.html
+Angular and Rails: Marriage or Divorce? [video],https://www.youtube.com/watch?v=H6LdRSYJjGw
+A Dynamic Site As Fast As A Static One with Passenger 5,http://www.akitaonrails.com/2015/05/20/dynamic-site-as-fast-as-a-static-generated-one-with-raptor
+How Rails 5 is Getting Much Faster Collection Rendering,https://dev.firmafon.dk/blog/rails-5-much-faster-collection-rendering/
+Senior Engineers at FreeAgent. Edinburgh or remote (UK-only),https://freeagent.workable.com/jobs/61163
+Ruby Engineer at Welltok (Denver; CO & Seattle; WA),mailto:derek.worley@welltok.com
+our site,http://www.welltok.com
+derek.worley@welltok.com,mailto:derek.worley@welltok.com
+Freelance with Companies like Airbnb; IDEO & JPMorgan,http://www.toptal.com/developers?utm_source=ruby_weekly&utm_medium=cpm-newsletter&utm_campaign=ruby_weekly_job
+Passenger 5.0.8: New Debian Packages; Red Hat Packages; Bug Fixes,https://blog.phusion.nl/2015/05/20/phusion-passenger-5-0-8-new-debian-packages-red-hat-packages-bug-fixes/
+Announcing AWS Relational Database Service on Engine Yard,https://www.engineyard.com/rds
+Rails Adds Integer#positive? and Integer#negative?,https://github.com/rails/rails/commit/e54277a45da3c86fecdfa930663d7692fd083daa
+Rails Camp USA West Coast (Sep 11-14),http://west.railscamp.us/
+Using MySQL's Experimental HTTP API with Ruby,http://ilyabylich.svbtle.com/experimental-mysql-http-api-and-ruby
+Pragmatic Clean Code Architecture: The Use Case Layer,https://medium.com/the-engineering-team/pragmatic-clean-code-architecture-d0d34f38849a
+How to Dispel Ruby Magic and Understand Your Gems,http://www.justinweiss.com/blog/2015/05/18/how-to-dispel-ruby-magic-and-understand-your-gems/
+9 Examples of Alternatives to Struct,http://idiosyncratic-ruby.com/18-con-struct-attributes.html
+The Ruby Community: The Next Version,http://hawkins.io/2015/05/the-ruby-community-the-next-version/
+A Quick List of Ruby's Standard Library and Available Alternatives,http://idiosyncratic-ruby.com/20-better-standards.html
+Gemnasium - Security alerts go free,http://blog.gemnasium.com/post/118186520636/security-alerts-go-free&utm_campaign=RUBYWEEKLYMA15
+Rsense: A Static Analyzer for Ruby Code,https://github.com/rsense/rsense
+Gush: Distributed Workflow Runner using Only Sidekiq and Redis,https://github.com/pokonski/gush
+Ruby Object Mapper 0.7.0 Released,http://rom-rb.org/blog/2015/05/18/rom-0-7-0-released/
+cloudwatch-sender: Send Metrics to InfluxDB/Graphite From Cloudwatch,https://github.com/BBC-News/cloudwatch-sender
+Tamzen: A Programmatic Fork of The Tamsyn Monospace Font,https://github.com/sunaku/tamzen-font
+whois: A Pure Ruby WHOIS Client and Parser,https://github.com/weppos/whois
+Cassandro: Ruby ORM for Apache Cassandra,https://github.com/tarolandia/cassandro
+
