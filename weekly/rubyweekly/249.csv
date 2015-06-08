@@ -1,0 +1,31 @@
+title,link
+Rails Application Templates in the Real World,http://www.sitepoint.com/rails-application-templates-real-world/
+Benchmarking Ruby Dispatch Strategies,http://devblog.avdi.org/2015/06/03/benchmarking-ruby-dispatch-strategies/
+Ruby on Rails 4.2 for Autodidacts (Kindle Book),http://www.amazon.com/gp/product/B00YPU5MGS
+Hash and default_proc,http://thingsinabucket.com/2015/05/27/hash_default_proc/
+Gregory Brown's 'Practicing Ruby' Contributors Kickstarter,https://www.kickstarter.com/projects/828998531/practicing-ruby-contributors-fund
+these previously published works.,https://practicingruby.com/
+InfraRuby 3.7: A Statically Typed Ruby for the JVM,http://infraruby.com/blog/infraruby-3-7-released
+Usage instructions here.,http://infraruby.com/installation
+RubyFlow: Submit Items to Us via Our Community Linklog,http://www.rubyflow.com/
+Apply to the best NYC & SF startups in 60 seconds with Underdog.io,https://underdog.io/?utm_source=rubyweekly&utm_medium=6_4_2015_rubyweeklysponsor&utm_campaign=handpickforyou
+Senior Backend Engineer at Drivy (Paris; France),https://jobs.lever.co/drivy/08071b26-a86d-4e04-8a9d-1163da98bb3d
+Freelance with Companies like Airbnb; IDEO & JPMorgan,http://www.toptal.com/developers?utm_source=ruby_weekly&utm_medium=cpm-newsletter&utm_campaign=ruby_weekly_job
+Mongo BSON Injection: Ruby Regexps Strike Again,http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html
+How to Simplify Active Record Scopes That Reference Other Models,http://aokolish.me/blog/2015/05/26/how-to-simplify-active-record-scopes-that-reference-other-tables/
+Mark Methods Private When You Don’t Test Them,http://blog.codeship.com/mark-methods-private-when-you-dont-test-them/
+Make Your Own Rack Server,http://www.blrice.net/blog/2015/05/31/make-your-own-rack-server/
+Build Custom User Analytics with Parse,http://www.sitepoint.com/build-custom-user-analytics-parse/
+A Week with A Rails Security Strategy: More Security; New Habits,https://www.airpair.com/ruby-on-rails/posts/a-week-with-a-rails-security-strategy
+Capturing stdout & stderr from Shell Commands in Ruby,http://blog.honeybadger.io/capturing-stdout-stderr-from-shell-commands-via-ruby/
+Removing N+ SQL Queries for Speed,https://www.rubycasts.io/episodes/removing-n-sql-queries-for-speed
+Find Bugs Before Your Users Do - A Few Lines of Code is All it Takes,https://raygun.io/ruby-on-rails&utm_content=sponsored-link&utm_campaign=jun4
+Why I’m Betting On Elixir,https://medium.com/@kenmazaika/why-im-betting-on-elixir-7c8f847b58
+Don't Use before_action to Load Data,http://craftingruby.com/posts/2015/05/31/dont-use-before-action-to-load-data.html
+The Tumblr Client Wrapper: Embed Multiple Tumblr Posts into Rails Views,https://github.com/richardsondx/tumblr_client_wrapper
+matchete: A DSL for Method Overloading Based On Pattern Matching,https://github.com/alehander42/matchete
+Emailhunter: A Ruby Wrapper Around the Email Hunter API,https://github.com/davidesantangelo/emailhunter
+Webinspector: Scrape and 'Inspect' a Web Page,https://github.com/davidesantangelo/webinspector
+Lapine: A Gem for Speaking to RabbitMQ,https://github.com/wanelo/lapine
+Production-ready Redis with top-tier support; analytics; and Resque integration,http://www.redisgreen.net/docs.html&utm_campaign=perf1
+
