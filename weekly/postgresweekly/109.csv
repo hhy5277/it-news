@@ -1,0 +1,17 @@
+title,link
+Read this on the Web,http://postgresweekly.com/issues/109
+Postgres Weekly,http://postgresweekly.com
+PostgreSQL 9.4.3; 9.3.8; 9.2.12; 9.1.17 & 9.0.21 Released,http://www.postgresql.org/about/news/1590/
+Porting ActiveRecord's 'Soft Delete' Behavior to Postgres,http://shuber.io/porting-activerecord-soft-delete-behavior-to-postgres/
+SQLPro for Postgres: A Mac OS X Postgres Manager,http://www.hankinsoft.com/SQLProPostgres/
+Opbeat = Ops for developers,https://opbeat.com/blog/posts/auto-assignments/
+Read the full article.,https://opbeat.com/blog/posts/auto-assignments/?utm_source=postgresweekly&utm_medium=ad&utm_content=&utm_campaign=autoassign
+,https://opbeat.com/blog/posts/auto-assignments/
+Moving past averages in Postgres with Percentiles,http://www.craigkerstiens.com/2015/06/07/Moving-past-averages-in-sql/
+Postgres UPSERT ON DUPLICATE and How Other Databases Implement UPSERT,http://michaelroders.tumblr.com/post/119356965581/postgres-upsert-on-duplicate-and-how-other
+Porting ActiveRecord Validations to Postgres,http://shuber.io/porting-activerecord-validations-to-postgres/
+Goodbye jsonb_replace; Hello jsonb_set,http://adpgtech.blogspot.co.uk/2015/05/goodbye-jsonbreplace-hello-jsonbset.html?m=1&utm_source=postgresweekly&utm_medium=email
+CFP for PGConf Silicon Valley Closes June 15th,http://www.postgresql.org/about/news/1591/
+Craig Kerstiens,https://twitter.com/craigkerstiens
+See our archives,http://postgresweekly.com/issues
+
