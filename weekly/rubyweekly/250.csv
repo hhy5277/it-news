@@ -1,0 +1,31 @@
+title,link
+RedDotRuby 2015 Keynote: Off the Rails,https://www.youtube.com/watch?v=aP5NNkzb4og
+How Good Are Your Ruby Tests? Testing Your Tests with Mutant,http://blog.arkency.com/2015/06/how-good-are-your-ruby-tests-testing-your-tests-with-mutant/
+How a Bug in My Ruby Code Cost Code School $13;000,https://www.codeschool.com/blog/2015/06/04/how-a-bug-in-my-ruby-code-cost-code-school-13000/
+Semaphore CI is free for open source & private projects,https://semaphoreapp.com/
+,https://semaphoreapp.com/
+How We Moved Our API From Ruby to Go,http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/
+The Rubyist's Guide to Environment Variables,http://blog.honeybadger.io/ruby-guide-environment-variables/
+How to Deal With and Eliminate Flaky Tests,https://semaphoreci.com/community/tutorials/how-to-deal-with-and-eliminate-flaky-tests
+Cutting Corners or Why Rails May Kill Ruby,http://solnic.eu/2015/06/06/cutting-corners-or-why-rails-may-kill-ruby.html
+Senior Backend Engineer at Drivy (Paris; France),https://jobs.lever.co/drivy/08071b26-a86d-4e04-8a9d-1163da98bb3d
+Expert Ruby Instructors at Pluralsight (Freelance-Part-time),http://www.pluralsight.com/teach
+Volt 0.9.3 Released,http://blog.voltframework.com/post/121128931859/volt-0-9-3-released-with-support-for-clustering
+A Mega Collection of Ruby Events in One Place,https://github.com/planetruby/awesome-events
+RubyConf Taiwan 2015 Is Calling for Speakers,http://rubytaiwan.tumblr.com/post/120692846086/rubyconf-taiwan-2015-is-calling-for
+RubyDay 2015 - Turin; November 13th,http://www.rubyday.it/
+Apipie: How to Use This Tool for Documenting Your Rails API,http://ilyabylich.svbtle.com/apipie-amazing-tool-for-documenting-your-rails-api
+How Arel Converts Ruby Queries Into SQL Statements,http://blog.codeship.com/how-arel-converts-ruby-queries-into-sql-statements/
+Working Effectively with Data Factories Using FactoryGirl,https://semaphoreci.com/community/tutorials/working-effectively-with-data-factories-using-factorygirl
+Switching From Unicorn to Puma on Heroku is Easy,http://6ftdan.com/allyourdev/2015/05/16/switching-from-unicorn-to-puma-on-heroku-is-easy/
+When Should You Use DateTime and When Should You Use Time?,https://gist.github.com/pixeltrix/e2298822dd89d854444b
+How To Create A Gem For JavaScript And CSS Libraries in Rails Apps,https://gorails.com/episodes/creating-gems-for-frontend-javascript-libraries
+Opbeat = Ops for developers,https://opbeat.com/blog/posts/auto-assignments//?utm_source=rubyweekly&utm_medium=ad&utm_content=&utm_campaign=autoassign
+microrb.com: A Catalogue of Small Ruby Libraries,http://microrb.com/
+xkcdize: XKCD-like Picture Distortion in Ruby with RMagick,https://github.com/zverok/xkcdize
+method_hooks: Rails-style Method Hooks for Plain Ruby Objects,https://github.com/fbonetti/method_hooks
+Spina: An Open Source Rails CMS,http://www.spinacms.com/
+Glasses: A Micro Search Framework for Use with ActiveRecord,https://github.com/otamm/Glasses
+sith: A Macro Preprocessor for Ruby with Ruby-like Template Notation,https://github.com/alehander42/sith
+Production-ready Redis with top-tier support; analytics; and Resque integration,http://www.redisgreen.net/docs.html&utm_campaign=perf1
+
