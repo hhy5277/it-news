@@ -1,0 +1,14 @@
+title,link
+Read this on the Web,http://postgresweekly.com/issues/110
+Postgres Weekly,http://postgresweekly.com
+Following a SELECT Statement Through Postgres Internals,http://blog.codeship.com/following-a-select-statement-through-postgres-internals/
+PostgreSQL 9.4.4; 9.3.9; 9.2.13; 9.1.18 & 9.0.22 Released,http://www.postgresql.org/about/news/1592/
+How to Stop Worrying and Love Your Postgres Indexes,http://engineering-blog.alphasights.com/how-to-stop-worrying-and-love-the-index/
+A Review of H.J. Schönig’s 'Troubleshooting PostgreSQL' Book,http://www.vertabelo.com/blog/notes-from-the-lab/a-handy-guide-to-solving-postgresql-problems
+faitout: Give Access to Volatile PostgreSQL Databases for Testing,https://github.com/fedora-infra/faitout
+ActiveRecord + PostgreSQL Materialized Views,https://medium.com/@WoloxEngineering/activerecord-postgresql-materialized-views-9a9ef56b5a8d
+PgCon 2015 Developer Meeting,https://wiki.postgresql.org/wiki/PgCon_2015_Developer_Meeting
+JSON Support in PostgreSQL; MySQL; MongoDB; and SQL Server,https://vividcortex.com/blog/2015/06/02/json-support-postgres-mysql-mongodb-sql-server/
+Craig Kerstiens,https://twitter.com/craigkerstiens
+See our archives,http://postgresweekly.com/issues
+

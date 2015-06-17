@@ -1,0 +1,27 @@
+title,link
+Rails 3.2.22; 4.1.11 and 4.2.2 Released,http://weblog.rubyonrails.org/2015/6/16/Rails-3-2-22-4-1-11-and-4-2-2-have-been-released-and-more/
+Ruby Error Handling; Beyond the Basics,http://www.sitepoint.com/ruby-error-handling-beyond-basics/
+Building Street Fighter II in Ruby (video),http://nikolay.rocks/2015-06-16-building-streetfighter
+Matz's RedDotRuby 2015 Keynote: Super Dry Ruby,https://www.youtube.com/watch?v=bqWBB8-iEac
+Using Lambdas in Ruby,http://blog.honeybadger.io/using-lambdas-in-ruby/
+How to Build A Rails 5 API Only and Backbone Application,http://wyeworks.com/blog/2015/6/11/how-to-build-a-rails-5-api-only-and-backbone-application
+What's New in Rails 5,http://www.sitepoint.com/whats-new-rails-5/
+Senior Engineers at FreeAgent. Edinburgh or remote (UK-only),https://freeagent.workable.com/jobs/61163
+Senior Backend Engineer at Drivy (Paris; France),https://jobs.lever.co/drivy/08071b26-a86d-4e04-8a9d-1163da98bb3d
+Ruby for Good: A Community Hackathon Conference (July 31; Northern Virginia),http://rubyforgood.com/
+Avoid Race Conditions in Rails with Postgres Locks,http://www.leighhalliday.com/avoid-race-conditions-with-postgres-locks
+Understanding the rails-jquery CSRF Vulnerability (CVE-2015-1840),http://blog.honeybadger.io/understanding-the-rails-jquery-csrf-vulnerability-cve-2015-1840/
+Rack: First Principles,http://rubylogs.com/rack-first-principles/
+Splat Goes Ruby,https://dev.firmafon.dk/blog/splat-goes-ruby/
+3 Steps to Share A Session Between Rails 3 and Rails 4 Apps,https://medium.com/@egor_vorobiev/3-steps-to-share-a-session-between-rails-3-and-rails-4-applications-9618766e6c2a
+Julia for Rubyists: Crunch Those Numbers,http://www.sitepoint.com/julia-rubyists-crunch-numbers/
+How to Setup Vagrant for Rails Development,http://learn.onemonth.com/how-to-setup-vagrant-for-rails
+RubyMotion: Cross-Platform Mobile Development the Right Way,https://www.youtube.com/watch?v=ZV5zCXHIqNY
+Rails application.rb Recommendations,http://erniemiller.org/2015/06/16/rails-application-rb-recommendations/
+Production-ready Redis with top-tier support; analytics; and Resque integration,http://www.redisgreen.net/docs.html&utm_campaign=perf1
+Material Theme: A Google Material Design-esque Sublime Text 3 Theme,https://github.com/equinusocio/material-theme
+http-dos-detector: Detect Huge Number of HTTP Requests on Apache and Nginx using mruby,https://github.com/matsumoto-r/http-dos-detector
+csv-importer: CSV Import for Humans,https://github.com/BrewhouseTeam/csv-importer
+gem-compare: A RubyGems Plugin That Compares Versions of The Given Gem,https://github.com/fedora-ruby/gem-compare
+Codeship: The fast and customizable Continuous Delivery platform,https://codeship.com
+
