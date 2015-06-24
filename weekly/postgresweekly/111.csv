@@ -1,0 +1,19 @@
+title,link
+Read this on the Web,http://postgresweekly.com/issues/111
+Postgres Weekly,http://postgresweekly.com
+Discovering the Computer Science Behind Postgres Indexes,http://blog.codeship.com/discovering-computer-science-behind-postgres-indexes/
+Fashion Is Hard. PostgreSQL Is Easy,https://tech.zalando.com/blog/watch-fashion-is-hard-postgresql-is-easy/
+Oracle's Biggest Database Foe: Could It Be Postgres?,http://www.techrepublic.com/article/oracles-biggest-database-foe-could-it-be-postgres/
+Unleash Real-Time Big Data on PostgreSQL with CitusDB,https://www.citusdata.com/citus-products/citusdb-software
+real-time end user insights,https://www.citusdata.com/applications/real-time-analytics
+elastically scales.,https://www.citusdata.com/applications/scaling-out-postgresql
+,https://www.citusdata.com/citus-products/citusdb-software
+Heroku PostgreSQL vs. Amazon RDS for PostgreSQL,http://blog.codeship.com/heroku-postgresql-versus-amazon-rds-postgresql/
+How to Debug Postgres using LLDB on a Mac,https://gist.github.com/patshaughnessy/70519495343412504686
+Aggregate Queries Across PostgreSQL Schemas,http://clarkdave.net/2015/06/aggregate-queries-across-postgresql-schemas/
+Connecting Neo4j to Any SQL Tool with the Power of Postgresql,http://www.bsimard.com/Connecting-Neo4j-to-any-SQL-tool-with-the-power-of-Postgresql
+Getting Postgres Version With Golang,http://datachomp.com/archives/getting-postgres-version-with-golang/
+pg_idx_advisor: Index Advice for PostgreSQL,http://pgxn.org/dist/pg_idx_advisor/
+Craig Kerstiens,https://twitter.com/craigkerstiens
+See our archives,http://postgresweekly.com/issues
+
