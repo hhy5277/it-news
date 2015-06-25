@@ -1,0 +1,32 @@
+title,link
+Drat - Ruby has a Double Splat,https://dev.firmafon.dk/blog/drat-ruby-has-a-double-splat/
+How to Preload Rails Scopes,http://www.justinweiss.com/blog/2015/06/23/how-to-preload-rails-scopes/
+Don’t Let Your Data Out of the Database,http://patshaughnessy.net/2015/6/18/dont-let-your-data-out-of-the-database
+Unleash your code with the leading Docker PaaS,https://deis.com/learn
+Docker,http://docker.io/
+CoreOS,https://coreos.com/
+,https://deis.com/learn
+Announcing Lotus v0.4.0,http://lotusrb.org/blog/2015/06/23/announcing-lotus-040.html
+Holycorn: PostgreSQL Multi-Purpose Ruby Data Wrapper,https://github.com/franckverrot/holycorn
+Bitwise Hacks in Ruby,http://blog.honeybadger.io/bitwise-hacks-in-ruby/
+ten minute video,https://www.youtube.com/watch?v=Nm4u3kCEKo8
+Rails Multi-Database Best Practices Roundup,http://technology.customink.com/blog/2015/06/22/rails-multi-database-best-practices-roundup/
+How to Use Form Objects with Rails,http://readysteadycode.com/howto-use-form-objects-with-rails
+Senior Backend Engineer at Drivy (Paris; France),https://jobs.lever.co/drivy/08071b26-a86d-4e04-8a9d-1163da98bb3d
+Expert Ruby Instructors at Pluralsight (Freelance-Part-time),http://www.pluralsight.com/teach
+Code Climate Launches a new Open Source Platform for Static Analysis,http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/
+bringing static analysis to RubyMotion.,http://www.rubymotion.com/news/2015/06/19/rubymotion-codeclimate.html
+Using the Rails 5 Attributes API Today; in Rails 4.2,https://blog.nvisium.com/2015/06/using-rails-5-attributes-api-today-in.html
+Optimizing Full Text Search with Postgres tsvector Columns and Triggers,https://robots.thoughtbot.com/optimizing-full-text-search-with-postgres-tsvector-columns-and-triggers
+Integrating Braintree Payments with Rails,https://shellycloud.com/blog/2015/06/integrating-braintree-payments-with-rails
+Refactoring Rails Applications with the RubyMine IDE,http://blog.jetbrains.com/ruby/2015/06/webinar-recording-refactoring-rails-applications-with-rubymine/
+Python; Ruby; and Go: A Command-Line Application Comparison,https://realpython.com/blog/python/python-ruby-and-golang-a-command-line-application-comparison/
+Lotus - One Year Later,http://dev.mikamai.com/post/122331210664/lotus-one-year-later
+Ruby Refinements – Not Quite Ready for Production,http://6ftdan.com/allyourdev/2015/06/21/ruby-refinements-not-quite-ready-for-production/
+Codeship: The fast and customizable Continuous Delivery platform,https://codeship.com
+mruby-r: Use (m)Ruby for Returning Data to R,https://github.com/franckverrot/mruby-r
+Coach: An Alternative to Rails Controllers,https://gocardless.com/blog/coach
+HashIdentable: Adds A #uuid Method to Your Model Classes,https://github.com/octaviuslabs/hash_identable
+Filterrific: A Rails Engine for Filtering; Searching; and Sorting of ActiveRecord Lists,https://github.com/jhund/filterrific
+live demo,http://filterrific-demo.herokuapp.com/students
+
